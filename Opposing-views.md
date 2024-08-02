@@ -356,6 +356,16 @@ It's ironic also that when he announced his desertion, on ****07/24/2023****, I 
 
 During those 3 years, for the most part, Chenliang didn't directly fund me. At first I worked at the Medical Center. Then, he put me on a Mechanical Engineering lab, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the 3 committee members who the deciding Judge, and CS department Chair Michael Scott, attributed to my termination in my 6th year, addressed or acknowledged that I was working for and receiving funding for my work from the Mechanical Engineering department at the time, not from CS (meaning, the people who'll later terminate me, weren't the people giving me my paid work, technically at nearly any point; even prior to Chenliang was Med Center and an NSF grant that I applied for).
 
+> ### $"$
+> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [...]</br>
+> &ensp;&ensp; *And art made tongue-tied by authority,*</br>
+> &ensp;&ensp; *And folly, doctor-like, controlling skill,*</br>
+> &ensp;&ensp; *And simple truth miscall'd simplicity,*</br>
+> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [...]
+> ### $``$
+>
+> &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
+
 Meanwhile, under Niaz, in the Mechanical Engineering department, specifically Materials Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all really high quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
 Last-minute, and with almost no notice, and without Niaz's approval, Chenliang wanted to allocate that Mechanical Engineering-work funding to someone else, due to me not providing enough publications in his Computer Vision group. Yes that funding that I helped earn — literally — through the programming and experiment-running and attention-to-detail and grant ideas and grant writing (and diagrams), definitively leading and exceptionally implementing the AI side of the work on which all of the experiments were run, and with support and appreciation from the rest of the group.
