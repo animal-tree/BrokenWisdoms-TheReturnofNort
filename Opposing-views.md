@@ -397,7 +397,7 @@ Well, I suppose there was the thanksgiving with Lily, which I also appreciated a
 >
 > I do not recommend such a prison methodology.
 > 
-> These experiences showed me the importance for the emergence of a new field of medicine, and I think that's my message (I mean, after all this, I had to have a message, right?.
+> These experiences showed me the importance for the emergence of a new field of medicine, and I think that's my message (I mean, after all this, I had to have a message, right?).
 >
 > Lily, Mobi, and I were all connected by chance. He braided her hair. Mine with him was a different hospitalization than the one with Lily, but she had her own independent one with Mobi. All of this seems arranged. And the message is:
 > 
