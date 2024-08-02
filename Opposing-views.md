@@ -254,6 +254,8 @@ The steak-diet saved my ass.
 
 My facial structure changed. My face is wrinklier, and older. I look(ed) extremely bad ("you look terrible," I remember even my PhD advisor saying to me empathetically).
 
+Noteworthy: the benzos also gave me severe tinnitus.
+
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the year of benzo neurochemical torture.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
