@@ -439,9 +439,9 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 </a>
 </p>
 
-I was assigned to also work in the Mechanical Engineering group that Niaz (who was a great PI) led. It was while working half-part there, with Niaz, Chenliang, and team, that Chenliang (who symbolically led the deep learning side of the work, with me leading the deep learning side of the work) called me into his office to inform me I didn't have enough papers, while in the middle of a paper-review for a paper with really positive reviews, and he would be deserting as my advisor.
+I was assigned to also work in the Mechanical Engineering group that Niaz (who was a great PI) led. It was while working half-part there, with Niaz, Chenliang, and team, that Chenliang (who symbolically led the deep learning side of the work, with me leading the deep learning side of the work) called me into his office in the CS building where his lab meetings, including me, were held, to inform me I didn't have enough papers, while in the middle of a paper-review for a paper with highly positive reviews, and he would be deserting as my advisor.
 
-The paper ended up getting accepted, after my termination and on the day before my last day as an employed student.
+The paper got accepted, after my termination notice and on the day before my last day as an employed student.
 
 Chenliang put me on the Mechanical Engineering lab as the source of my funding, on a project which I led, which was funded by two pretty-major grants that I helped write, which included my ideas, which somehow, by Chenliang's and very-much-not-Niaz's decision, wouldn't fund me any longer.
 
