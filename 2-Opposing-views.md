@@ -457,7 +457,7 @@ The paper got accepted, after my termination notice and on the day before my las
 
 Chenliang put me on the Mechanical Engineering lab as the source of my funding, on a project which I led, which was funded by two pretty-major grants that I helped write, which included my ideas, which somehow, by Chenliang's and very-much-not-Niaz's decision, wouldn't fund me any longer.
 
-Niaz, not an "opposing view," but/and someone I really like, was my other Principle Investigator next to Chenliang. Oh but to be clear, I was still in Chenliang's lab and reporting to that lab as well every week. I was doing extreme amounts of work for both, the latter of which I haven't really started describing yet. 
+Niaz, not an "opposing view," and someone I really like, was my other Principle Investigator next to Chenliang. Oh but to be clear, I was still in Chenliang's lab and reporting to that lab as well every week. I was doing extreme amounts of work for both, the latter of which I haven't really started describing yet. 
 
 For Niaz's group, I did a lot of programming, data generation and pipeline-optimizing; much of the systems; idea invention and schematic designing; grant-idea-providing-and-writing-and-diagram-designing; and all of the model building and experiment running and plotting.
 
