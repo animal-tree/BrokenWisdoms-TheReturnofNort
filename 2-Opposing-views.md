@@ -331,7 +331,7 @@ My advisor, Henry, didn't think deep learning was a fad, and had a sense of intu
 
 I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take a high dose of benzos that day. That was the plan. I even rehearsed one day in front of them at a smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo withdrawal that I had to take a dose of benzos again to do something required of me, the other being the poster presentation for the Medical Center. 
 
-My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. My best friend was texting me at the time and was proud. He knew about the benzo trauma, though even he didn't know about those preceding details.
+My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. My best friend was texting me at the time and was proud. He knew about the benzo trauma, though even he didn't know about those preceding details that led to the hospitalization at RGH.
 
 Henry got an offer to lead the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted and I had to find a new advisor. He directed me to switch to Chenliang Xu, who gave me an ultimatum about joining.
 
