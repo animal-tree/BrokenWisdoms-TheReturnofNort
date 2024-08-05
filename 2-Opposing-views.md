@@ -364,16 +364,6 @@ Meanwhile, under Niaz, in the Mechanical Engineering department, specifically Ma
 
 Last-minute, and with almost no notice, and without Niaz's approval, Chenliang wanted to allocate that Mechanical Engineering-work funding to someone else, due to me not providing enough publications in his Computer Vision group. Yes that funding that I helped earn — literally — through the programming and grant ideas and grant writing and grant diagrams, definitively leading and exceptionally implementing the AI side of the work on which all of the models were built and experiments were run, and with support and appreciation from the rest of the group as I taught them deep learning in each of our meetings every week, which included Chenliang. He'd given me no prior warning or indication of dissatisfaction. Quite the opposite actually.
 
-#
-
-There were further terrors at the University of Rochester Medical Center that I don't want to get into during a hospitalization at the time of Chenliang's advisorship. One of the easier ones to point out, that happened just before the geriatric unit transfer (referenced below) while I was in the open area filled with patients where I had to sleep in a chair with highly processed foods that cause eczema, drugs including benzos, and periodic clinical visits from clinicians who could've been mistaken for military interrogators, with other patients sleeping on mattresses or also in chairs, prior also to when they transferred me to the geriatric unit on a different floor, my big toe getting running over by the wheelchair I was in after they first brought me to the hospital in the lobby, me screaming out, hoping the nurse would care, and with the nurse rolling me off and other nurses all ignoring my screaming in pain and betrayal, as the one behind me kept wheeling me off, in what really hurt my toe (and surprisingly, didn't break it). TO DO: Describe this short vignette more believably (also stress: and their *only* reason for that hospitalization was that I wasn't eating enough)
-
-To do: Make a diagram specifically for geriatric hospitalization, with lobby wheelchair toe, open-area chair sleeping with processed eczema-causing food, more coerced benzos, interrogative military clinicians, and the fact that the only reason they had for that hospitalization was not eating enough (and perhaps that is databased in their records)
-
-I had to sleep in a chair for several nights in a shared open area filled with other patients while they neglected to transfer me to a room for days — or actually, like a week — with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and with food only that I was allergic to, while again in a psychotic state.
-
-That was the geriatric unit hospitalization, psychiatric wards were full, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair in those conditions they transferred me to a geriatric unit, with almost nobody my age and I thought I was in Hell. 
-
 ### Comedic Aside: Sexier moments during Chenliang tenure:
 
 Got to message someone named Tayler a week after my Taylor-CAM paper who reached out to me on Facebook who turned out to be a cam-girl ([“Taylor-CAM”](https://arxiv.org/abs/2006.08601))… and wasn’t as reproducible as I would’ve liked (she was barren), she also rejected me a few times like the conferences that rejected me (including the first time after all positive reviews)! I never met her.
@@ -404,9 +394,21 @@ The next summer I got another miraculous house situation where this really attra
 
 Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) “rQdia” (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
 
-Well, I suppose there was the thanksgiving with Lily, which I also appreciated and appreciate and give thanks to.
+Well, I suppose there was the thanksgiving with Lily (see next chapter), which I also appreciated and appreciate and give thanks to.
+
+That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang. Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
+
+### More seriously
 
 > [!WARNING]
+>
+> There were further terrors at the University of Rochester Medical Center that I don't want to get into during a hospitalization at the time of Chenliang's advisorship. One of the easier ones to point out, that happened just before the geriatric unit transfer (referenced below) while I was in the open area filled with patients where I had to sleep in a chair with highly processed foods that cause eczema, drugs including benzos, and periodic clinical visits from clinicians who could've been mistaken for military interrogators, with other patients sleeping on mattresses or also in chairs, prior also to when they transferred me to the geriatric unit on a different floor, my big toe getting running over by the wheelchair I was in after they first brought me to the hospital in the lobby, me screaming out, hoping the nurse would care, and with the nurse rolling me off and other nurses all ignoring my screaming in pain and betrayal, as the one behind me kept wheeling me off, in what really hurt my toe (and surprisingly, didn't break it). TO DO: Describe this short vignette more believably (also stress: and their *only* reason for that hospitalization was that I wasn't eating enough)
+>
+> To do: Make a diagram specifically for geriatric hospitalization, with lobby wheelchair toe, open-area chair sleeping with processed eczema-causing food, more coerced benzos, interrogative military clinicians, and the fact that the only reason they had for that hospitalization was not eating enough (and perhaps that is databased in their records)
+>
+> I had to sleep in a chair for several nights in a shared open area filled with other patients while they neglected to transfer me to a room for days — or actually, like a week — with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and with food only that I was allergic to, while again in a psychotic state.
+>
+> That was the geriatric unit hospitalization, psychiatric wards were full, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair in those conditions they transferred me to a geriatric unit, with almost nobody my age and I thought I was in Hell. 
 >
 > Of all the hospitalizations, the most traumatic was the geriatric unit one. And not because of the open-room area where they made me sleep in a chair for a week, eat stuff I was allergic too, take benzos temporarily again (before I got to spit them out into a Covid mask), and endure tons of people, but because of the geriatric unit they subsequently transferred me to, their psychiatric units being full. No one my age. Old people. People I thought were sketchy. One person, a good guy, who I could talk to and share pudding crackers with. Other than that, coldness, Hell, and I was under the delusion that I'd died and was literally in Hell, the beam of red light shining into my window from the neighboring hospital roof, being stuck in a boxfloor with no nature, only plastic and children's colors and an artificial picture painting across from my door. And I had a whole bed and bathroom to myself. But still, that wasn't enough. That was Hell, in my deluded psychosis. The geriatric unit stay was so scary for whatever reason that I actually believed it was Hell that I’d be trapped to for eternity. It "scared me straight," tongue-in-cheek phrasing, but I didn't allow myself to be allowed (however it works) to get hospitalized again. That was it. I was cured. No more mania! Okay there was one fun stint where I got away with it.
 >
@@ -421,12 +423,6 @@ Well, I suppose there was the thanksgiving with Lily, which I also appreciated a
 > In the hospital-provided housing that Lily had when I came to visit, later, after all of the hospitalizations, her neighbor made food, a huge meal, pork chops and mashed potatoes and surprisingly all really good food. We then ate a Thanksgiving dinner with her neighbor. I brought yams I'd made previously before the invitation, not knowing I was going to be visiting/staying there for Thanksgiving. 
 >
 > She told me at that hangout she had sex with the 50-something year old psychiatric ward janitor while hospitalized. I think she said he was her most recent boyfriend, that they got into a relationship afterwards that lasted some time, and she'd broken up with him. They probably have text conversations to confirm.
-
-That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang. Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
-
-### More seriously
-
-> [!WARNING]
 >
 > Had she had an intimacy healing option, she  maybe wouldn’t have resorted to the janitor. And since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer, if the goal is health. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to compare or help. 
 >
