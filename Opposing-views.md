@@ -346,7 +346,7 @@ Henry got an offer to lead the AI division at the National Science Foundation in
 </a>
 </p>
 
-For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure, not just 3 years of a student's tenure.
+For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. I’d be Chenliang’s student for the next 3 years. 
 
 Chenliang gave me an ultimatum. Submit a top-venue paper by end of summer, without pay, or he won't accept me into his group.
 
