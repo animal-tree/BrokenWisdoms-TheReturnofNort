@@ -477,7 +477,7 @@ So you see, because my family was poor, my student debt (for the University of R
 
 Makes me want to go #NotEnoughPapers.
 
-However, that lab is the least of the work I did ([here](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)/[here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md)/[here](https://github.com/AGI-init/UnifiedML-legacy)/[here](https://github.com/AGI-init/XRDs)/[here](https://github.com/slerman12/Builder)/[here](https://github.com/AGI-init/Tributaries)/[here](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing)), at sometimes slave wage by force, with PhD requirements that were usually uniquely put on me, while the same institution blamed me for their atrocities, mutilated the hair and youth from my body and face, and neurochemically gassed my brain, for 6 years.
+However, that lab is the least of the work I did ([here](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)/[here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md)/[here](https://github.com/AGI-init/UnifiedML-legacy)/[here](https://github.com/AGI-init/XRDs)/[here](https://github.com/slerman12/Builder)/[here](https://github.com/AGI-init/Tributaries)/[here](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing)), at sometimes slave wage by force, with PhD requirements that were usually uniquely put on me, while the same institution blamed me for their negligences and atrocities, mutilated the hair and youth from my body and face, and neurochemically gassed my brain, for 6 years.
 
 ### Chris Kanan
 
