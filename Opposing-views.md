@@ -436,7 +436,7 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 
 > [!WARNING]
 >
-> Had she had an intimacy healing option, she  maybe wouldn’t have resorted to the janitor. And since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer, if the goal is health. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to help. 
+> Had she had an intimacy healing option, she  maybe wouldn’t have resorted to the janitor. And since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer, if the goal is health. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to compare or help. 
 >
 > I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
 > - And note, via humans.
