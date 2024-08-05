@@ -46,7 +46,7 @@ Henry’s favorite show was Buffy the Vampire Slayer, a show with metaphorical t
 
 I lent him a book actually that my friend gave me that I’d like back, on Philosophy of Buffy, but otherwise I appreciate Henry. 
 
-Oh and he (one of the world's top AI researchers) also accepted a 3.4-GPA student into his PhD lab on faith and hard work alone, so there’s that, too.
+Oh and, also, he (one of the world's top AI researchers) accepted a 3.4-GPA student into his PhD lab on faith and hard work alone, so there’s that, too.
 
 ### Chris Kanan (Deus ex memory)
 
