@@ -402,6 +402,8 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 
 > [!WARNING]
 >
+> #### Geriatric unit hospitalization
+>
 > There were further terrors at the University of Rochester Medical Center that I don't want to get into during a hospitalization at the time of Chenliang's advisorship. One of the easier ones to point out, that happened just before the geriatric unit transfer (referenced below) while I was in the open area filled with patients where I had to sleep in a chair with highly processed foods that cause eczema, drugs including benzos, and periodic clinical visits from clinicians who could've been mistaken for military interrogators, with other patients sleeping on mattresses or also in chairs, prior also to when they transferred me to the geriatric unit on a different floor, my big toe getting running over by the wheelchair I was in after they first brought me to the hospital in the lobby, me screaming out, hoping the nurse would care, and with the nurse rolling me off and other nurses all ignoring my screaming in pain and betrayal, as the one behind me kept wheeling me off, in what really hurt my toe (and surprisingly, didn't break it). TO DO: Describe this short vignette more believably (also stress: and their *only* reason for that hospitalization was that I wasn't eating enough)
 >
 > To do: Make a diagram specifically for geriatric hospitalization, with lobby wheelchair toe, open-area chair sleeping with processed eczema-causing food, more coerced benzos, interrogative military clinicians, and the fact that the only reason they had for that hospitalization was not eating enough (and perhaps that is databased in their records)
@@ -413,6 +415,8 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 > Of all the hospitalizations, the most traumatic was the geriatric unit one. And not because of the open-room area where they made me sleep in a chair for a week, eat stuff I was allergic too, take benzos temporarily again (before I got to spit them out into a Covid mask), and endure tons of people, but because of the geriatric unit they subsequently transferred me to, their psychiatric units being full. No one my age. Old people. People I thought were sketchy. One person, a good guy, who I could talk to and share pudding crackers with. Other than that, coldness, Hell, and I was under the delusion that I'd died and was literally in Hell, the beam of red light shining into my window from the neighboring hospital roof, being stuck in a boxfloor with no nature, only plastic and children's colors and an artificial picture painting across from my door. And I had a whole bed and bathroom to myself. But still, that wasn't enough. That was Hell, in my deluded psychosis. The geriatric unit stay was so scary for whatever reason that I actually believed it was Hell that I’d be trapped to for eternity. It "scared me straight," tongue-in-cheek phrasing, but I didn't allow myself to be allowed (however it works) to get hospitalized again. That was it. I was cured. No more mania! Okay there was one fun stint where I got away with it.
 >
 > I do not recommend such a prison methodology.
+>
+> #### Intimacy healing
 > 
 > These experiences showed me the importance for the emergence of a new field of medicine, and I think that's my message (I mean, after all this, I had to have a message, right?).
 >
