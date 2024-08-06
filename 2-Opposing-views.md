@@ -444,8 +444,7 @@ I do not recommend such a prison methodology.
 > And in that geriatric unit hospitalization, the black ally (he told me “You’d make a good ally” and we shared pudding crackers) remarked that he couldn’t tell regarding  any baldness though I was still self consciousness about the patch at the top, which was really small. But it was mainly there that chunks of hair had started falling out.
 >
 > My pubes later grew back temporarily during a steak/salmon-only type diet. A few eyelashes grew back for the first time temporarily also during a combined sexually charged period with a steak/salmon-only type diet.
-
-> [!WARNING]
+>
 > I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
 > - And note, via humans.
 >
