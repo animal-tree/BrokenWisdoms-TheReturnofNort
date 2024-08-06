@@ -400,22 +400,21 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 
 ### More seriously
 
-> [!WARNING]
->
-> #### Geriatric unit hospitalization
->
-> There were further terrors at the University of Rochester Medical Center that I don't want to get into during a hospitalization at the time of Chenliang's advisorship. One of the easier ones to point out, that happened just before the geriatric unit transfer (referenced below) while I was in the open area filled with patients where I had to sleep in a chair with highly processed foods that cause eczema, drugs including benzos, and periodic clinical visits from clinicians who could've been mistaken for military interrogators, with other patients sleeping on mattresses or also in chairs, prior also to when they transferred me to the geriatric unit on a different floor, my big toe getting running over by the wheelchair I was in after they first brought me to the hospital in the lobby, me screaming out, hoping the nurse would care, and with the nurse rolling me off and other nurses all ignoring my screaming in pain and betrayal, as the one behind me kept wheeling me off, in what really hurt my toe (and surprisingly, didn't break it). TO DO: Describe this short vignette more believably (also stress: and their *only* reason for that hospitalization was that I wasn't eating enough)
->
+#### Geriatric unit hospitalization
+
+There were further terrors at the University of Rochester Medical Center that I don't want to get into during a hospitalization at the time of Chenliang's advisorship. One of the easier ones to point out, that happened just before the geriatric unit transfer (referenced below) while I was in the open area filled with patients where I had to sleep in a chair with highly processed foods that cause eczema, drugs including benzos, and periodic clinical visits from clinicians who could've been mistaken for military interrogators, with other patients sleeping on mattresses or also in chairs, prior also to when they transferred me to the geriatric unit on a different floor, my big toe getting running over by the wheelchair I was in after they first brought me to the hospital in the lobby, me screaming out, hoping the nurse would care, and with the nurse rolling me off and other nurses all ignoring my screaming in pain and betrayal, as the one behind me kept wheeling me off, in what really hurt my toe (and surprisingly, didn't break it). TO DO: Describe this short vignette more believably (also stress: and their *only* reason for that hospitalization was that I wasn't eating enough)
+
 > To do: Make a diagram specifically for geriatric hospitalization, with lobby wheelchair toe, open-area chair sleeping with processed eczema-causing food, more coerced benzos, interrogative military clinicians, and the fact that the only reason they had for that hospitalization was not eating enough (and perhaps that is databased in their records)
->
-> I had to sleep in a chair for several nights in a shared open area filled with other patients while they neglected to transfer me to a room for days — or actually, like a week — with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and with food only that I was allergic to, while again in a psychotic state.
->
-> That was the geriatric unit hospitalization, psychiatric wards were full, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair in those conditions they transferred me to a geriatric unit, with almost nobody my age and I thought I was in Hell. 
->
-> Of all the hospitalizations, the most traumatic was the geriatric unit one. And not because of the open-room area where they made me sleep in a chair for a week, eat stuff I was allergic too, take benzos temporarily again (before I got to spit them out into a Covid mask), and endure tons of people, but because of the geriatric unit they subsequently transferred me to, their psychiatric units being full. No one my age. Old people. People I thought were sketchy. One person, a good guy, who I could talk to and share pudding crackers with. Other than that, coldness, Hell, and I was under the delusion that I'd died and was literally in Hell, the beam of red light shining into my window from the neighboring hospital roof, being stuck in a boxfloor with no nature, only plastic and children's colors and an artificial picture painting across from my door. And I had a whole bed and bathroom to myself. But still, that wasn't enough. That was Hell, in my deluded psychosis. The geriatric unit stay was so scary for whatever reason that I actually believed it was Hell that I’d be trapped to for eternity. It "scared me straight," tongue-in-cheek phrasing, but I didn't allow myself to be allowed (however it works) to get hospitalized again. That was it. I was cured. No more mania! Okay there was one fun stint where I got away with it.
->
-> I do not recommend such a prison methodology.
->
+
+I had to sleep in a chair for several nights in a shared open area filled with other patients while they neglected to transfer me to a room for days — or actually, like a week — with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and with food only that I was allergic to, while again in a psychotic state.
+
+That was the geriatric unit hospitalization, psychiatric wards were full, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair in those conditions they transferred me to a geriatric unit, with almost nobody my age and I thought I was in Hell. 
+
+Of all the hospitalizations, the most traumatic was the geriatric unit one. And not because of the open-room area where they made me sleep in a chair for a week, eat stuff I was allergic too, take benzos temporarily again (before I got to spit them out into a Covid mask), and endure tons of people, but because of the geriatric unit they subsequently transferred me to, their psychiatric units being full. No one my age. Old people. People I thought were sketchy. One person, a good guy, who I could talk to and share pudding crackers with. Other than that, coldness, Hell, and I was under the delusion that I'd died and was literally in Hell, the beam of red light shining into my window from the neighboring hospital roof, being stuck in a boxfloor with no nature, only plastic and children's colors and an artificial picture painting across from my door. And I had a whole bed and bathroom to myself. But still, that wasn't enough. That was Hell, in my deluded psychosis. The geriatric unit stay was so scary for whatever reason that I actually believed it was Hell that I’d be trapped to for eternity. It "scared me straight," tongue-in-cheek phrasing, but I didn't allow myself to be allowed (however it works) to get hospitalized again. That was it. I was cured. No more mania! Okay there was one fun stint where I got away with it.
+
+I do not recommend such a prison methodology.
+
+> [!WARNING]
 > #### Intimacy healing
 > 
 > These experiences showed me the importance for the emergence of a new field of medicine, and I think that's my message (I mean, after all this, I had to have a message, right?).
@@ -430,6 +429,9 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 >
 > Had she had an intimacy healing option, she  maybe wouldn’t have resorted to the janitor. And since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer, if the goal is health. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to compare or help. 
 >
+> Meanwhile, for me, of all the hospitalizations I had, the most traumatic was the geriatric unit one.
+
+> [!WARNING]
 > I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
 > - And note, via humans.
 >
@@ -437,8 +439,8 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 >
 > I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point 3, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
 > - Note: I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses, e.g., porn, fleshlights, dildos), and not just because of drug-like fixes that a person pays for, but like *imagine all the people, living life in peace.*
->   
-> And so that the next transition is less awkward, let me get to business: AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
+  
+And so that the next transition is less awkward, let me get to business: AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
 ### Niaz Abdolrahim (okay, some more not-tragedy)
 
