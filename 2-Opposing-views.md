@@ -440,10 +440,10 @@ And in that geriatric unit hospitalization, the black ally (he told me “You’
 
 My pubes later grew back temporarily during a steak/salmon-only type diet. A few eyelashes grew back for the first time temporarily also during a combined sexually charged period with a steak/salmon-only type diet.
 
+#### Organic-type foods and nature (vs. AI, the artifcial, and synthetic)
+
 I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
 - And note, via humans.
-
-#### Organic-type foods and nature (vs. AI, the artifcial, and synthetic)
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point 3, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
 - Note: I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses, e.g., porn, fleshlights, dildos), and not just because of drug-like fixes that a person pays for, but like *imagine all the people, living life in peace.*
