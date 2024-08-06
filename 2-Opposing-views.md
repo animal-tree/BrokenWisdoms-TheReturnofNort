@@ -433,7 +433,7 @@ I do not recommend such a prison methodology.
 >
 > At the Tayler hospitalization they gave me lots of junk food and I loved it, there was no recurrence of eczema, or brain fog. Maybe the nurses and sexually charged vibe is what prevented recurrences. 
 >
-> Then my hair technically started to fall out just before the geriatric unit hospitalization, as I was in a state of severe deprivation of joy due to strong disciplines.
+> Then my hair technically started to fall out just before the geriatric unit hospitalization, after the November-point when Tayler had left me completely, as I was in a state of severe deprivation of joy due to strong disciplines, and still heartbreak, both conscious and repressed.
 >
 > And the eczema returned due to anxiety I think in the geriatric unit, as I thought I was literally condemned in Hell. 
 >
