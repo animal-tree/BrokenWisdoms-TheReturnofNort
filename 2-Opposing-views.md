@@ -430,6 +430,18 @@ I do not recommend such a prison methodology.
 > Had she had an intimacy healing option, she  maybe wouldn’t have resorted to the janitor. And since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer, if the goal is health. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to compare or help. 
 >
 > Meanwhile, for me, of all the hospitalizations I had, the most traumatic was the geriatric unit one.
+>
+> At the Tayler hospitalization they gave me lots of junk food and I loved it, there was no recurrence of eczema, or brain fog. Maybe the nurses and sexually charged vibe is what prevented recurrences. 
+>
+> Then my hair technically started to fall out just before the geriatric unit hospitalization, as I was in a state of severe deprivation of joy due to strong disciplines.
+>
+> And the eczema returned due to anxiety I think in the geriatric unit, as I thought I was literally condemned in Hell. 
+>
+> I should also add detail about how my hair was growing back in that sexually charged Tayler hospitalization… it still wasn’t grown in yet because I needed a cap, like the kind the older Lily woman copied, Mobi remarked on it (“oh that’s why” when we saw a Duplumab commercial and I remarked on it), and I was walking around bravely from my room to the phone without hat. 
+>
+> And in the second hospitalization, the black ally (he told me “You’d make a good ally” and we shared pudding crackers) remarked that he couldn’t tell regarding  any baldness though I was still self consciousness about the patch at the top, which was really small.
+>
+> The other times my hair grew back (in particular the first eyelashes, temporarily) were also during combined sexually charged periods with steak/salmon-only type diet.
 
 > [!WARNING]
 > I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
