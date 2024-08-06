@@ -418,27 +418,35 @@ I do not recommend such a prison methodology.
 > 
 > In the hospital-provided housing that Lily had when I came to visit, later, after all of the hospitalizations, her neighbor made food, a huge meal, pork chops and mashed potatoes and surprisingly all really good food. We then ate a Thanksgiving dinner with her neighbor. I brought yams I'd made previously before the invitation, not knowing I was going to be visiting/staying there for Thanksgiving. 
 >
-> She told me at that hangout she had sex with the 50-something year old psychiatric ward janitor while hospitalized. I think she said he was her most recent boyfriend, that they got into a relationship afterwards that lasted some time, and she'd broken up with him. They probably have text conversations to confirm.
+> She told me at that hangout she had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit, I'm guessing in a janitor's closet or bathroom. I think she said he was her most recent boyfriend, that they got into a relationship afterwards that lasted some time, and she'd broken up with him. They probably have text conversations to confirm.
 >
-> Had she had an intimacy healing option, she  maybe wouldn’t have resorted to the janitor. And since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to compare or help.
+> Since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to compare or help.
 >
 > Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy, surprise! The ontology is as follows: communications is a subset of intimacy healing, and intimacy healing is a subset of medicine. At the same time, sex work is legalized and is a subset of fine art, and *can* intersect with intimacy healing (medicine). Radical idea, but that's the direction. And not subduing patients further to further obstruct their paths to spiritual integrations. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, drugs, or... janitors.
+>
+> Had Lily had an intimacy healing option, she  maybe wouldn’t have needed to resort to the janitor. And by the way, a 50-something year old janitor, and Lily is an actually-good-looking woman in her 20s. Even being more skinny at the time than I'd remembered from the psychiatric unit due to crack addiction, it's somewhat unfortunate when relationships develop solely out of desperation. I don't know what my point is, but I love Lily. Thanks for Thanksgiving.
 
 #### Intimacy healing & old people
 
-Meanwhile, for me, of all the hospitalizations I had, the most traumatic was the geriatric unit one, more so than being held in an open-room with pther patients, many who were my age, and made to sleep in chairs for a week.
+Meanwhile, for me, of all the hospitalizations I had, the most traumatic was the geriatric unit one, more so than being held in an open-room with other patients, many who were my age, and made to sleep in chairs for a week, then getting run over by a wheelchair and a nearly broken big toe.
 
 At the Tayler hospitalization they gave me lots of junk food and I loved it, there was no recurrence of eczema, or brain fog. Maybe the nurses and sexually charged vibe is what prevented recurrences.
 
 I should also add detail about how my hair was growing back in that sexually charged Tayler hospitalization. it still wasn’t grown in yet because I needed a hat, like the kind the older Lily woman copied (she also started wearing a hat when I did); Mobi remarked on my hair (“oh that’s why” when we saw a Duplumab commercial and I remarked on how the drug made me lose my hair), and I was walking around bravely from my room to the phone without hat. 
 
-Then my hair started to fall out just before the geriatric unit hospitalization, after the November-point when Tayler had left me completely, as I was in a state of severe deprivation of joy due to strong disciplines, and still heartbreak, both conscious and repressed. Hair was actovely falling out in my hands at the geriatric unit hospitalization. 
+Then my hair started to fall out just before the geriatric unit hospitalization (like a couple days before, interestingly, but only a small amount, like hairs on a paper towel while I was hanging over the bathtub), in December, after the November-point when Tayler had left me completely, as I was in a state of severe deprivation of joy due to strong disciplines, and still heartbreak, both conscious and repressed. Hair was actively falling out in my hands at the geriatric unit hospitalization. 
 
 And the eczema returned due to anxiety in the geriatric unit, as I thought I was literally condemned in Hell. 
 
-And in that geriatric unit hospitalization, the black ally (he told me “You’d make a good ally” and we shared pudding crackers) remarked that he couldn’t tell regarding  any baldness though I was still self consciousness about the patch at the top, which was really small. But it was mainly there that chunks of hair had started falling out.
+And in that geriatric unit hospitalization, the black ally (he told me “You’d make a good ally” and we shared pudding crackers) remarked that he couldn’t tell regarding  any baldness though I was still self conscious about the patch at the top, which was really small. It was mainly in the geriatric unit that chunks of hair had started falling out, not prior.
 
-My pubes later grew back temporarily during a steak/salmon-only type diet. A few eyelashes grew back for the first time temporarily also during a combined more optimistic sexually charged period with a steak/salmon-only type diet.
+Maybe a year after that hospitalization (at around the Thanksgiving time), my pubes grew back temporarily during a steak/salmon-only type diet. Maybe a year and half after that, a few eyelashes grew back for the first time temporarily also during a combined more optimistic sexually charged period with a steak/salmon-only type diet.
+
+And during the whole Tayler time, except for the hospitalization, I was on a steak/salmon-only diet, including up to and when my hair started growing back. That and Tayler were the radical shifts in my life that could've contributed to that miraculous healing, wherein all my head's hair grew back, or almost all, up to an unnoticable patch at the top.
+
+I genuinely believe the next time I have a sexually charged period in which I'm eating a steak/salmon-only diet, my hair will grow back. That's a prediction.
+
+It's funny, Tayler's favorite Disney movie was The Princess and the Frog (which is a terrible favorite, like seriously? Aladdin? Lilo & Stitch? Emporer's New Groove? Enchanted? Pixar technically? You choose "The Princess and the Frog"???).
 
 #### Organic-type foods and nature (vs. AI, the artifcial, and synthetic)
 
