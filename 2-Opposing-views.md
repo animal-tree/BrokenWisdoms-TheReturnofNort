@@ -428,30 +428,30 @@ I do not recommend such a prison methodology.
 > She told me at that hangout she had sex with the 50-something year old psychiatric ward janitor while hospitalized. I think she said he was her most recent boyfriend, that they got into a relationship afterwards that lasted some time, and she'd broken up with him. They probably have text conversations to confirm.
 >
 > Had she had an intimacy healing option, she  maybe wouldn’t have resorted to the janitor. And since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to compare or help.
-> 
-> #### Intimacy healing & old people
-> 
-> Meanwhile, for me, of all the hospitalizations I had, the most traumatic was the geriatric unit one, more so than being held in an open-room with pther patients, many who were my age, and made to sleep in chairs for a week.
->
-> At the Tayler hospitalization they gave me lots of junk food and I loved it, there was no recurrence of eczema, or brain fog. Maybe the nurses and sexually charged vibe is what prevented recurrences.
->
-> I should also add detail about how my hair was growing back in that sexually charged Tayler hospitalization. it still wasn’t grown in yet because I needed a hat, like the kind the older Lily woman copied (she also started wearing a hat when I did); Mobi remarked on my hair (“oh that’s why” when we saw a Duplumab commercial and I remarked on how the drug made me lose my hair), and I was walking around bravely from my room to the phone without hat. 
->
-> Then my hair started to fall out just before the geriatric unit hospitalization, after the November-point when Tayler had left me completely, as I was in a state of severe deprivation of joy due to strong disciplines, and still heartbreak, both conscious and repressed. Hair was actovely falling out in my hands at the geriatric unit hospitalization. 
->
-> And the eczema returned due to anxiety in the geriatric unit, as I thought I was literally condemned in Hell. 
->
-> And in that geriatric unit hospitalization, the black ally (he told me “You’d make a good ally” and we shared pudding crackers) remarked that he couldn’t tell regarding  any baldness though I was still self consciousness about the patch at the top, which was really small. But it was mainly there that chunks of hair had started falling out.
->
-> My pubes later grew back temporarily during a steak/salmon-only type diet. A few eyelashes grew back for the first time temporarily also during a combined sexually charged period with a steak/salmon-only type diet.
->
-> I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
-> - And note, via humans.
->
-> #### Organic-type foods and nature 
->
-> I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point 3, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
-> - Note: I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses, e.g., porn, fleshlights, dildos), and not just because of drug-like fixes that a person pays for, but like *imagine all the people, living life in peace.*
+
+#### Intimacy healing & old people
+
+Meanwhile, for me, of all the hospitalizations I had, the most traumatic was the geriatric unit one, more so than being held in an open-room with pther patients, many who were my age, and made to sleep in chairs for a week.
+
+At the Tayler hospitalization they gave me lots of junk food and I loved it, there was no recurrence of eczema, or brain fog. Maybe the nurses and sexually charged vibe is what prevented recurrences.
+
+I should also add detail about how my hair was growing back in that sexually charged Tayler hospitalization. it still wasn’t grown in yet because I needed a hat, like the kind the older Lily woman copied (she also started wearing a hat when I did); Mobi remarked on my hair (“oh that’s why” when we saw a Duplumab commercial and I remarked on how the drug made me lose my hair), and I was walking around bravely from my room to the phone without hat. 
+
+Then my hair started to fall out just before the geriatric unit hospitalization, after the November-point when Tayler had left me completely, as I was in a state of severe deprivation of joy due to strong disciplines, and still heartbreak, both conscious and repressed. Hair was actovely falling out in my hands at the geriatric unit hospitalization. 
+
+And the eczema returned due to anxiety in the geriatric unit, as I thought I was literally condemned in Hell. 
+
+And in that geriatric unit hospitalization, the black ally (he told me “You’d make a good ally” and we shared pudding crackers) remarked that he couldn’t tell regarding  any baldness though I was still self consciousness about the patch at the top, which was really small. But it was mainly there that chunks of hair had started falling out.
+
+My pubes later grew back temporarily during a steak/salmon-only type diet. A few eyelashes grew back for the first time temporarily also during a combined sexually charged period with a steak/salmon-only type diet.
+
+I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
+- And note, via humans.
+
+#### Organic-type foods and nature (vs. AI, the artifcial, and synthetic)
+
+I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point 3, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
+- Note: I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses, e.g., porn, fleshlights, dildos), and not just because of drug-like fixes that a person pays for, but like *imagine all the people, living life in peace.*
   
 And so that the next transition is less awkward, let me get to business: AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
