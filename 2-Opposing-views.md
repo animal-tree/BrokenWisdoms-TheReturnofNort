@@ -398,6 +398,16 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 
 ### More seriously
 
+Rituals
+
+Warmth, nature, and organic-type foods
+
+Intimacy healing
+
+The artificial and synthetic
+
+AI
+
 #### Geriatric unit hospitalization
 
 > To do: Make a diagram specifically for geriatric hospitalization, with lobby wheelchair toe, open-area chair sleeping with processed eczema-causing food, more coerced benzos, interrogative military clinicians, and the fact that the only reason they had for that hospitalization was not eating enough (and perhaps that is databased in their records)
