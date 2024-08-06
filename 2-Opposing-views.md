@@ -424,7 +424,7 @@ I do not recommend such a prison methodology.
 >
 > Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy, surprise! The ontology is as follows: communications is a subset of intimacy healing, and intimacy healing is a subset of medicine. At the same time, sex work is legalized and is a subset of fine art, and is distinct from intimacy healing, though *can* intersect. Radical idea, but that's the direction. And not subduing patients further to further obstruct their paths to spiritual integrations. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, drugs, or... janitors.
 >
-> Had Lily had an intimacy healing option, she  maybe wouldn’t have needed to resort to the janitor. And by the way, a 50-something year old janitor, and Lily is an actually-good-looking woman in her 20s. Even being more skinny at the time than I'd remembered from the psychiatric unit due to crack addiction, it's somewhat unfortunate when situations almost develop solely out of desperation. I don't know what my point is, but I love Lily. Thanks for Thanksgiving and possibly being the spiritual regrowth reason for my pubes. (We didn't do anything).
+> Had Lily had an intimacy healing option, she  maybe wouldn’t have needed to resort to the janitor. And by the way, a 50-something year old janitor, and Lily is an actually-good-looking woman in her 20s. Even being more skinny at the time than I'd remembered from the psychiatric unit due to crack addiction, it's somewhat unfortunate when situations almost develop solely out of desperation. I don't know what my point is, but I love Lily. Thanks for Thanksgiving and possibly being the spiritual regrowth or fall-out reason for my pubes. (We didn't do anything).
 
 #### Intimacy healing & old people
 
@@ -432,9 +432,9 @@ Meanwhile, for me, of all the hospitalizations I had, the most traumatic was the
 
 At the Tayler hospitalization they gave me lots of junk food and I loved it, there was no recurrence of eczema, or brain fog. Maybe the nurses and sexually charged vibe is what prevented recurrences.
 
-I should also add detail about how my hair was growing back in that sexually charged Tayler hospitalization. it still wasn’t grown in yet because I needed a hat, like the kind the older Lily woman copied (she also started wearing a hat when I did); Mobi remarked on my hair (“oh that’s why” when we saw a Duplumab commercial and I remarked on how the drug made me lose my hair), and I was walking around bravely from my room to the phone without hat. 
+I should also add detail about how my hair was growing back in that sexually charged Tayler hospitalization. It still wasn’t grown in yet because I needed a hat, like the kind the older Lily woman copied (she also started wearing a hat when I did); Mobi remarked on my hair (“oh that’s why” when we saw a Duplumab commercial and I remarked on how the drug made me lose my hair), and I was walking around bravely from my room to the phone without hat. 
 
-Then my hair started to fall out just before the geriatric unit hospitalization (like a couple days before, interestingly, but only a small amount, like hairs on a paper towel while I was hanging over the bathtub), in December, after the November-point when Tayler had left me completely, as I was in a state of severe deprivation of joy due to strong disciplines, and still heartbreak, both conscious and repressed. Hair was actively falling out in my hands at the geriatric unit hospitalization. 
+Then my hair started to fall out just before the geriatric unit hospitalization (like a couple days before, interestingly, but only a small amount, like hairs on a paper towel while I was hanging over the bathtub), in December, after the November-point when Tayler had left me completely, as I was in a state of severe deprivation of joy due to strong disciplines. Hair was actively falling out in my hands at the geriatric unit hospitalization. 
 
 And the eczema returned due to anxiety in the geriatric unit, as I thought I was literally condemned in Hell. 
 
@@ -444,19 +444,19 @@ Maybe a year after that hospitalization (at around the Thanksgiving time), my pu
 
 And during the whole Tayler time, except for the hospitalization, I was on a steak/salmon-only diet, including up to and when my hair started growing back. That and Tayler were the radical shifts in my life that could've contributed to that miraculous healing, wherein all my head's hair grew back, or almost all, up to an unnoticable patch at the top.
 
-I genuinely believe the next time I have a sexually charged period in which I'm eating a steak/salmon-only diet, my hair will grow back. That's a prediction.
+I genuinely believe the next time I have a sexually charged period in which I'm eating a steak/salmon-only diet, my hair will grow back. That'd be a prediction if such a thing could ever actually happen to me, stably and not by text.
 
 It's funny, Tayler's favorite Disney movie was The Princess and the Frog (which is a terrible favorite, like seriously? Aladdin? Lilo & Stitch? Emporer's New Groove? Enchanted? Pixar technically? You choose "The Princess and the Frog"???).
 
 But yeah, like that I guess.
 
-#### Organic-type foods and nature (vs. AI, the artifcial, and synthetic)
+#### Organic-type foods and nature (vs. AI, the artificial, and synthetic)
 
 I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
 - And note, via humans.
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point 3, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
-- Note: I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses, e.g., porn, fleshlights, dildos), and not just because of drug-like fixes that a person pays for, but like *imagine all the people, living life in peace.*
+- Note: I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses well ahead of the sexbot game, e.g., porn, fleshlights, dildos), and not just because of drug-like fixes that a person pays for, but like *imagine all the people, living life in peace.*
   
 And so that the next transition is less awkward, let me get to business: AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
@@ -473,7 +473,7 @@ And so that the next transition is less awkward, let me get to business: AI is a
 
 In my fourth year, I was assigned to also work in the Mechanical Engineering group that Niaz (who was a great PI) led. It was while working half-part there, with Niaz, Chenliang, and team, that Chenliang (who symbolically led the deep learning side of the work, with me leading the deep learning side of the work) called me into his office in the CS building where his lab meetings, including me (both my office and attendance to those meetings, as well), were held, to inform me I didn't have enough papers (this was while he knew we were in the middle of a paper-review, a paper on which I had second-author, on which Chenliang, and he said Niaz, had previously offered me first-author — and I rejected — twice — out of fairness to the other PhD student — for a paper with highly positive reviews), and he would be deserting due to that. 
 
-The paper got accepted, after my termination notice and on the day before my last day as an employed student, in fact, synchronistically, a minute after I referenced it in the email in the next "Disproof" chapter.
+The paper got accepted, after my termination notice and on the day before my last day as an employed student, in fact, synchronistically, a minute after I referenced it in the email [in the next "Disproof" chapter](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
 
 Chenliang put me on the Mechanical Engineering lab as the source of my funding, on a project which I led, which was funded by two pretty-major grants that I helped write, which included my ideas, which somehow, by Chenliang's and very-much-not-Niaz's decision, wouldn't fund me any longer.
 
