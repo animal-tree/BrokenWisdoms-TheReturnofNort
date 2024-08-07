@@ -441,7 +441,7 @@ And tech companies find value in their mass proliferation re: porn, fleshlights,
 
 I'm anti-prohibition, and don't endorse any of these things. My message is only this: the best experiences of a person's life shouldn't be synthetic.
 
-### AI
+#### AI
   
 And so that the next transition is less awkward, let me get to business: AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
