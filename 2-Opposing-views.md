@@ -432,13 +432,13 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, committed a date-rape. 
 
-Perhaps my alternative would've served better, and not required further oppressions put on her.
-
 The onotology for the branch of medicine I propose is as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
 Independently, sex work should be legalized, regarded as a subset of fine art, formally and academically, but distinct from intimacy healing, and the branches of medicine and fine art can overlap.
 
 Radical idea, but that's the direction. Not subduing patients further to further obstruct their paths to spiritual integrations. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
+
+Perhaps my alternative would've served better, and not required further oppressions put on her.
 
 #### The artificial and synthetic
 
