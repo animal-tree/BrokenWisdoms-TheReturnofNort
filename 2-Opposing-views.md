@@ -400,7 +400,7 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 
 #### Rituals
 
-This one will be primarily centered on my friend. He and I can sort of write this together. He's my best friend, the one who's been in this through every part thus far, and whose victory over my demons needs to be described, including some of the rituals, about him, he wasn't witness to... one of which he independently referened later, synchronisitically, by coincidence, by chance, without prompt. I can describe one or both of them.
+> This one will be primarily centered on my friend. He and I can sort of write this together. He's my best friend, the one who's been in this through every part thus far, and whose victory over my demons needs to be described, including some of the rituals, about him, he wasn't witness to... one of which he independently referened later, synchronisitically, by coincidence, by chance, without prompt. I can describe one or both of them.
 
 #### Warmth, nature, and organic-type foods
 
