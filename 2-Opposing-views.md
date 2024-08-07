@@ -418,15 +418,15 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 #### Intimacy healing
 
+Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. The ontology I propose is: communications as a subset of intimacy healing, intimacy healing as a subset of medicine. Sex work is legalized as legalized, a subset of fine art, and distinct from intimacy healing, though the fields overlap and intersect. Radical idea, but that's the direction. And not subduing patients further to further obstruct their paths to spiritual integrations. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, drugs, or janitors.
+
 > [!WARNING]
 > 
-> In the hospital-provided housing that Lily had when I came to visit, later, after all of the hospitalizations, her neighbor made food, a huge meal, pork chops and mashed potatoes and surprisingly all really good food. We then ate a Thanksgiving dinner with her neighbor. I brought yams I'd made previously before the invitation, not knowing I was going to be visiting/staying there for Thanksgiving. 
+> In the hospital-provided housing that Lily had when I came to visit, later, after all of the hospitalizations, her neighbor made food, a huge meal, pork chops and mashed potatoes and more. We then ate a Thanksgiving dinner with her neighbor. I brought yams I'd made previously before the invitation, not knowing I was going to be visiting there for Thanksgiving. 
 >
-> She told me at that hangout she had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit, I'm guessing in a janitor's closet or bathroom. I think she said he was her most recent boyfriend, that they got into a relationship afterwards that lasted some time, and she'd broken up with him. They probably have text conversations to confirm.
+> She told me at that hangout she had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. I think she said he was her most recent boyfriend, that they got into a relationship afterwards that lasted some time, and she'd broken up with him. 
 >
-> Since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to measure the same efficacy on.
-
-Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. The ontology I propose is: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, sex work is legalized as legalized and a subset of fine art and distinct from intimacy healing though the fields *can* overlap. Radical idea, but that's the direction. And not subduing patients further to further obstruct their paths to spiritual integrations. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, drugs, or janitors.
+> Since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer. Meanwhile, intimacy healing, in the realities of touch starvation and human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to measure the same efficacy on.
 
 #### The artificial and synthetic
 
