@@ -350,7 +350,7 @@ I presented Semantic Segmentation with MHDPA applied to image features. That, ap
 
 I had to work at the Med Center concurrently for funding, since Chenliang wasn't paying me, and had to spend at least a month giving my nights and weekends to achieving his ultimatum by the summer, 2020 NeurIPS deadline.
 
-He also said I'd have to come in every day to do that work in his lab, which I eend up not having to due to lockdowns.
+He also said I'd have to come in every day to do that work in his lab, which I ended up not having to do due to lockdowns.
 
 He accepted me into his lab when I succesfully delivered that [paper](https://arxiv.org/abs/2006.08601), my first published paper, "Taylor-CAM," ended up getting positive reviews, rejected, and then later accepted at ICCV, a top-venue conference (in AI, conferences are bigger than journals, and that was quite a feat for a few months, in a brand new research area, switching fields from "medical prognostication" to "state of the art computer vision").
 
