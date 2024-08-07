@@ -248,7 +248,7 @@ The nightmare I mentioned earlier was a waking one for a year.
 
 You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak/salmon-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos.
 
-The steak-diet saved my ass.
+The steak/salmon-diet saved my ass.
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the year of benzo neurochemical torture.
 
