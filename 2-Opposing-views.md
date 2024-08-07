@@ -342,13 +342,15 @@ Henry got an offer to lead the AI division at the National Science Foundation in
 </a>
 </p>
 
-For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began lockdowns), I had no publications.
+For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
 Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, without pay, or no acceptance.
 
 I presented Semantic Segmentation with MHDPA applied to image features. That, applied to a Computer Vision domain specifically, would've been the first Vision Transformer, but there wasn't enough time to build and benchmark that.
 
 I had to work at the Med Center concurrently for funding, since Chenliang wasn't paying me, and had to spend at least a month giving my nights and weekends to achieving his ultimatum by the summer, 2020 NeurIPS deadline.
+
+He also said I'd have to come in every day to do that work in his lab, which I eend up not having to due to lockdowns.
 
 He accepted me into his lab when I succesfully delivered that [paper](https://arxiv.org/abs/2006.08601), my first published paper, "Taylor-CAM," ended up getting positive reviews, rejected, and then later accepted at ICCV, a top-venue conference (in AI, conferences are bigger than journals, and that was quite a feat for a few months, in a brand new research area, switching fields from "medical prognostication" to "state of the art computer vision").
 
