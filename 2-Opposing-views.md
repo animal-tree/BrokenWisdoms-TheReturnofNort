@@ -441,7 +441,7 @@ Big pharma companies find value in their mass proliferation re: drugs.
 
 And tech companies find value in their mass proliferation re: porn, fleshlights, dildos.
 
-I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, safely, through our relationships as people in society, where the experiences poeple need and want are available foremost in the real world (not as technologies, not as virtual realities), for people of all social classes.
+I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, safely, through our relationships as people in society, where the experiences poeple need and want are available foremost in the real world (not as simulation or virtual technologies, but as realities), for people of all social classes.
 
 Intimacy healing is a step towards that, starting with medical institutions.
 
