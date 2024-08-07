@@ -424,11 +424,11 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 
 > [!WARNING]
 > 
-> In the hospital-provided housing that Lily had when I came to visit, later, after all of the hospitalizations, her neighbor made food, a huge meal, pork chops, mashed potatoes, and more. We then ate a Thanksgiving dinner with her neighbor. I brought yams I'd made previously before the invitation, not knowing I was going to be visiting/staying there for Thanksgiving. 
+> In the hospital-provided housing that Lily was living in, later, after all of the hospitalizations,I visited for Thanksgiving. Her neighbor made food, including pork chops, mashed potatoes, and more, that we ate in her neighbor's unit. I went home and got yams I'd made previously before the invitation, not knowing I was going to be spending Thanksgiving there. 
 >
-> She told me at that hangout she had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. I think she said he was her most recent boyfriend, that they got into a relationship afterwards that lasted some time, and she'd broken up with him. 
+> During that hangout, she told me she had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. More than that, that they got into a relationship afterwards, and she'd broken up with him. 
 >
-> Since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. 
+> Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, committed a date-rape. 
 
 #### The artificial and synthetic
 
