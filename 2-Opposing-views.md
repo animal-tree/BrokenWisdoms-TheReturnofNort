@@ -428,8 +428,6 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. 
 
-Subduing patients further isn’t an answer. Meanwhile, intimacy healing, in the realities of touch starvation and human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to measure the same efficacy on.
-
 #### The artificial and synthetic
 
 I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
