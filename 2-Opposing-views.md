@@ -362,7 +362,7 @@ Meanwhile, under Niaz, in the Mechanical Engineering department, specifically Ma
 
 Last-minute, and with almost no notice, and without Niaz's approval, Chenliang wanted to allocate that Mechanical Engineering-work funding to someone else, due to me not providing enough publications in his Computer Vision group. Yes that funding that I helped earn — literally — through the programming and grant ideas and grant writing and grant diagrams, definitively leading and exceptionally implementing the AI side of the work on which all of the models were built and experiments were run and plotted, and with support and appreciation from the rest of the group as I taught them deep learning in each of our meetings every week, which included Chenliang. He'd given me no prior warning or indication of dissatisfaction. Quite the opposite actually.
 
-Speaking of dissatisfaction, to add some much-needed levity to an intense time period...
+Speaking of dissatisfaction, to add some much-needed levity to an intense time period... Bear with me.
 
 ### Comedic Aside: Sexier moments during Chenliang tenure:
 
