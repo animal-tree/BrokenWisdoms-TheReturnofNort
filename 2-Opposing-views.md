@@ -436,7 +436,7 @@ The onotology for the branch of medicine I propose is as follows: communications
 
 Independently, sex work should be legalized, regarded as a subset of fine art, formally and academically, but distinct from intimacy healing, and the branches of medicine and fine art can overlap.
 
-Radical idea, but that's the direction. Not subduing patients further to further obstruct their paths to spiritual integrations. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
+Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
 
 Perhaps my alternative would've served better, and not required further oppressions put on her.
 
