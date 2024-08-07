@@ -466,10 +466,10 @@ AI is a field with a lot of ethics questions, and the [militaristic](https://www
 ### Niaz Abdolrahim (okay, some more not-tragedy)
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
+<a href="https://github.com/user-attachments/assets/595582b2-9db9-4f78-84d4-4fd5484995f9">
  <picture>
-   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/18d7f4f7-cce6-406b-8de3-85f5b5c05227">
-   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
+   <source width="58%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6a541be3-7170-4837-9ac1-35437060986d">
+   <img width="58%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/595582b2-9db9-4f78-84d4-4fd5484995f9">
 </picture>
 </a>
 </p>
