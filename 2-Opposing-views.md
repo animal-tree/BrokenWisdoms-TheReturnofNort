@@ -414,6 +414,8 @@ Of all the hospitalizations (excluding aftermath, e.g., benzos trauma), the most
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point 3, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
 
+Many of the problems that exist in hospitals also exist in public and private education systems. Kids are being put through concentration camps. These environments should be more like summer camps, monasteries, or Hogwarts, or something in between.
+
 #### Intimacy healing
 
 > [!WARNING]
@@ -431,15 +433,17 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
 - And note, via humans.
 
-I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're available in the real world to people of all social and economic classes. 
+The use of drugs, porn, movies, TV shows, and technologies shouldn't be judged or shamed. 
 
-Many people are happy relying on those things, others appreciate the art, yet others find value in their entertainment use.
+Many people are happy relying on those things, others appreciate the art.
 
 Big pharma companies find value in their mass proliferation re: drugs.
 
-And tech companies find value in their mass proliferation re: porn, fleshlights, dildos, all of which are precursors to sexbots.
+And tech companies find value in their mass proliferation re: porn, fleshlights, dildos.
 
-I'm anti-prohibition, and don't endorse any of these things. My message is only this: the best experiences of a person's life shouldn't be synthetic.
+I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, safely, through our relationships as people in society, where the experiences poeple need and want are available foremost in the real world (not as technologies, not as virtual realities), for people of all social classes.
+
+Intimacy healing is a step towards that, starting with medical institutions.
 
 #### AI
   
