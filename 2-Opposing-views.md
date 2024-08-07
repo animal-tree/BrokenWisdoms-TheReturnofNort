@@ -438,7 +438,7 @@ Independently, sex work should be legalized, regarded as a subset of fine art, f
 
 Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
 
-Perhaps my alternative would've served better, and not required further oppressions put on her.
+Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
 
 #### The artificial and synthetic
 
