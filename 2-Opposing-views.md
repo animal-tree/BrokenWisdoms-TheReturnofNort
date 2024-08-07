@@ -453,7 +453,7 @@ And tech companies find value in their mass proliferation re: porn, fleshlights,
 
 I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, where the experiences people need and want are available foremost in the real world, via people, sincerely, intimately, and via touch, no matter one's "social class." [Imagine all the people, living life in peace.](https://youtu.be/YkgkThdzX-8?si=YNzRr6gnKtG4jywG)
 
-And that must be understood as distinct from capitalistic drug-like fixes.
+And that must be understood as distinct from capitalistic drug-like fixes that people pay for.
 
 Intimacy healing is a step towards that, starting with medical institutions.
 
