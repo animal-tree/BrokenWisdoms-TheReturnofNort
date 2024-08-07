@@ -40,14 +40,6 @@ Screenshots
 
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
 
-### Henry Kautz
-
-Henry’s favorite show was Buffy the Vampire Slayer, a show with metaphorical themes that became very relevant. But this is a synchronicity I only have to mention because Buffy the Vampire Slayer was my favorite show in high school (and is, in PhD-flunkee-school), and I never met anyone in my high school who liked Buffy the Vampire Slayer. I was obsessed. This was pre-Avengers Joss Whedon. I was Buffy, Dr. Horrible fanatic. I didn’t know this about Henry when I was in his group in undergrad. I didn’t know this about anyone outside of a couple people I met at a different high school, and even in college I didn't know more than a few other people who liked Buffy. Maybe it was just my not socializing enough as I’d liked, but it seemed rare to find big Buffy fans to me. Turned out, as I found out the Spring of the first year during my PhD, apparently Henry was as big a fan as me. “I’m like a really big fan. It’s kind of weird,” he said. I really appreciate Henry. 
-
-I lent him a book actually that my friend gave me that I’d like back, on Philosophy of Buffy, but otherwise I appreciate Henry. 
-
-Oh and, also, he (one of the world's top AI researchers) accepted a 3.4-GPA student into his PhD lab on faith and hard work alone, so there’s that, too.
-
 ### Chris Kanan (Deus ex memory)
 
 - Indeed, my faith regarding sending my sincere description of the traumas, despite the difficulty of doing so, was somewhat rewarded, though probably not by their conscious intent, rather by a lucky [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md), wherein one of the 3 committee members (accidentally) recorded to official record that he really-extraordinarily didn’t remember the details of the meeting on which their termination was based.
