@@ -410,7 +410,7 @@ The theme of my best friend returned in the next hospitalization, in the geriatr
 
 It's the delusion that doctors and hospitals are trying to heal. However, in that example, it was the doctors and hospital who were creating a Hell, and the delusion was the only healing part of it. In that delusion, he was quite snarky.
 
-Later, my best friend returned, literally. We were texting and he remarked, without prompt, syaing if he were a Devil, he'd be a "snarky Devil." He texted me that of his own accord, knowing nothing about the hospitalization, no context, no prompt.
+Later, my best friend returned, literally. We were texting and he remarked, without prompt, saying if he were a Devil, he'd be a "snarky Devil." He texted me that of his own accord, knowing nothing about the hospitalization, no context, no prompt.
 
 #### Warmth, nature, and organic-type foods
 
