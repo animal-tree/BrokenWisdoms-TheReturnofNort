@@ -431,7 +431,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
 - And note, via humans.
 
-I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses not unlike sexbots, e.g., porn, fleshlights, dildos).
+I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses, e.g., porn, fleshlights, dildos).
 
 ### AI
   
