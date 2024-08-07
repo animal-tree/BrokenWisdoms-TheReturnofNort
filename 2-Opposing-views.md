@@ -398,17 +398,9 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 
 ### More seriously
 
-Rituals
+#### Rituals
 
-Warmth, nature, and organic-type foods
-
-Intimacy healing
-
-The artificial and synthetic
-
-AI
-
-#### Geriatric unit hospitalization
+#### Warmth, nature, and organic-type foods
 
 > To do: Make a diagram specifically for geriatric hospitalization, with lobby wheelchair toe, open-area chair sleeping with processed eczema-causing food, more coerced benzos, interrogative military clinicians, and the fact that the only reason they had for that hospitalization was not eating enough (and perhaps that is databased in their records)
 
@@ -418,11 +410,11 @@ I had to sleep in a chair for several nights in a shared open area filled with o
 
 That was the geriatric unit hospitalization, psychiatric wards were full, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair in those conditions they transferred me to a geriatric unit, with almost nobody my age and I thought I was in Hell. 
 
-Of all the hospitalizations (excluding aftermath, e.g., benzos trauma), the most traumatic was the geriatric unit one. And not because of the open-room area where they made me sleep in a chair for a week, eat stuff I was allergic too, take benzos temporarily again (before I got to spit them out into a Covid mask), and endure tons of people, but because of the geriatric unit they subsequently transferred me to, their psychiatric units being full. No one my age. Old people. People I thought were sketchy. One friend, black guy I shared pudding crackers with. Other than that, coldness, Hell, and, while I was still confined to my bed due to the intensity of the earlier open-room area situation where they kept saying they'd transfer me to a room later that day and didn't for another week, I was under the delusion in that geriatric unit environment that I was literally in Hell, the beam of red light shining into my window from the neighboring hospital roof, being stuck in a floor with no nature, old lady in the room next door screaming "Oh Christia! Oh Christia!" every day, only plastic and children's colors and an artificial picture painting across from my door. And I had a whole bed and bathroom to myself. But still: That was Hell. The geriatric unit stay was so scary for whatever reason that I actually believed it was Hell that I’d be trapped to for eternity. 
+Of all the hospitalizations (excluding aftermath, e.g., benzos trauma), the most traumatic was the geriatric unit one. And not because of the open-room area where they made me sleep in a chair for a week, eat stuff I was allergic too, take benzos temporarily again (before I got to spit them out into a Covid mask), and endure tons of people, but because of the geriatric unit they subsequently transferred me to, their psychiatric units being full. No one my age. Old people. People I thought were sketchy. One friend, black guy I shared pudding crackers with. Other than that, coldness, Hell, and, while I was still confined to my bed due to the intensity of the earlier open-room area situation where they kept saying they'd transfer me to a room later that day and didn't for another week, I was under the delusion in that geriatric unit environment that I was literally in Hell, the beam of red light shining into my window from the neighboring hospital roof, being stuck in a floor with no nature, old lady in the room next door screaming "Oh Christia! Oh Christia!" every day, only plastic and children's colors and an artificial picture painting across from my door. And I had a whole bed and bathroom to myself. But still: That was Hell. 
 
-I do not recommend such a prison methodology.
+I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point 3, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
 
-#### Intimacy healing & janitors
+#### Intimacy healing
 
 > [!WARNING]
 > 
@@ -432,41 +424,16 @@ I do not recommend such a prison methodology.
 >
 > Since she was being drugged with personality-disinhibiting benzos in that setting as well, the institution, through the captivity and drugging of her — not necessarily the janitor — committed a date-rape. And as I wrote before, subduing patients further isn’t an answer. Meanwhile, intimacy healing, in the reality of touch starvation of human experience, is the most plausible treatment for so many psychological malaises that pharmaceutical drugs couldn’t hope to compare or help.
 >
-> Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy, surprise! The ontology is as follows: communications is a subset of intimacy healing, and intimacy healing is a subset of medicine. At the same time, sex work is legalized and is a subset of fine art, and is distinct from intimacy healing, though *can* intersect. Radical idea, but that's the direction. And not subduing patients further to further obstruct their paths to spiritual integrations. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, drugs, or... janitors.
->
-> Had Lily had an intimacy healing option, she  maybe wouldn’t have needed to resort to the janitor.
+> Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy, surprise! The ontology I propose is: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, sex work is legalized as legalized and a subset of fine art and distinct from intimacy healing though the fields *can* overlap. Radical idea, but that's the direction. And not subduing patients further to further obstruct their paths to spiritual integrations. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, drugs, or janitors.
 
-#### Intimacy healing & old people
-
-Meanwhile, for me, of all the hospitalizations I had, the most traumatic was the geriatric unit one, more so than being held in an open-room with other patients, and made to sleep in chairs for a week, then getting run over by a wheelchair and a nearly broken big toe.
-
-At the Tayler hospitalization they gave me lots of junk food and I loved it, there was no recurrence of eczema, or brain fog. Maybe the nurses and sexually charged vibe is what prevented recurrences.
-
-I should also add detail about how my hair was growing back in that sexually charged Tayler hospitalization. It still wasn’t grown in yet because I needed a hat, like the kind the older Lily woman copied (she also started wearing a hat when I did); Mobi remarked on my hair (“oh that’s why” when we saw a Duplumab commercial and I remarked on how the drug made me lose my hair), and I was walking around bravely from my room to the phone without hat. 
-
-Then my hair started to fall out just before the geriatric unit hospitalization (like a couple days before, interestingly, but only a small amount, like hairs on a paper towel while I was hanging over the bathtub), in December, after the November-point when Tayler had left me completely, as I was in a state of severe deprivation of joy due to strong disciplines. 
-
-And the eczema returned due to anxiety in the geriatric unit, as I thought I was literally condemned in Hell. 
-
-And in that geriatric unit hospitalization, the black ally (he told me “You’d make a good ally” and we shared pudding crackers) remarked that he couldn’t tell regarding  any baldness though I was still self conscious about the patch at the top, which was really small. It was mainly in the geriatric unit that chunks of hair had started falling out, not prior. Hair was actively falling out in my hands at the geriatric unit hospitalization. 
-
-Maybe a year after that hospitalization (at around the Thanksgiving time), my pubes grew back temporarily during a steak/salmon-only type diet. Maybe a year and half after that, a few eyelashes grew back for the first time temporarily also during a combined more optimistic sexually charged period with a steak/salmon-only type diet.
-
-And during the whole Tayler time, except for the hospitalization, I was on a steak/salmon-only diet, including up to and when most of my hair had started growing back. That regrowth, to be clear, started before the hospitalization. The miraculous thing is the onset of regrowth. In the hospital, it was already regrown in parts and regrowing in others. That steak/salmon-only diet and Tayler were the radical shifts in my life that could've contributed to that miraculous healing, wherein eventually all my head's hair would grow back, or almost all, up to an unnoticable patch at the top.
-
-I genuinely believe the next time I have a sexually charged period in which I'm eating a steak/salmon-only diet, my hair will grow back. That'd be a prediction if such a thing could ever actually happen to me, stably and not by text.
-
-It's funny, Tayler's favorite Disney movie was The Princess and the Frog (which is a terrible favorite, like seriously? Aladdin? Lilo & Stitch? Emporer's New Groove? Enchanted? Pixar technically? You choose "The Princess and the Frog"???).
-
-But yeah, like that I guess.
-
-#### Organic-type foods and nature (vs. AI, the artificial, and synthetic)
+#### The artificial and synthetic
 
 I'm all for [#Sexycareforall](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not all I have to say.
 - And note, via humans.
 
-I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point 3, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
-- Note: I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses well ahead of the sexbot game, e.g., porn, fleshlights, dildos), and not just because of drug-like fixes that a person pays for, but like *imagine all the people, living life in peace.*
+I'm anti-prohibition, but the best experiences of a person's life shouldn't be synthetic, not drugs, not AI bots, not porn, not even movies, TV shows. We need to bring those experiences into the real world, for people who want or need them, safely, not where those things are judged or shamed — those things are art — but where they're not wanted or needed so much anymore, relatively speaking (since some people plausibly are happy relying on those things, and others appreciate the art, and yet others find value in their entertainment use, and some maybe in medical use, and big pharma companies in their mass proliferation re: drugs, and tech companies and others already in the synthetic simulated uses not unlike sexbots, e.g., porn, fleshlights, dildos).
+
+### AI
   
 And so that the next transition is less awkward, let me get to business: AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
