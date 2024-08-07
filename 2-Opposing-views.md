@@ -440,7 +440,7 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
 
-#### The artificial and synthetic
+#### Not the artificial and synthetic
 
 I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
 - And note, via humans.
@@ -459,7 +459,7 @@ And that must be understood as distinct from capitalistic drug-like fixes that p
 
 Intimacy healing is a step towards that, starting with medical institutions.
 
-#### AI
+#### Not AI
   
 AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
