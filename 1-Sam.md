@@ -40,13 +40,17 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Chenliang Xu
       - Comedic Aside: Sexier moments during Chenliang tenure:
       - More Seriously
+        - Rituals, Religion, & Hell
+        - Warmth, nature, and organic-type foods
+        - Intimacy healing
+        - Not the artificial and synthetic
+        - Not AI
       - Niaz Abdolrahim (okay, some more not-tragedy)
       - Chris Kanan
       - Tom Howard
       - Charles Venuto
       - Michael L. Scott
       - Recap
-      - The University of Rochester
     - Additional details for part 1
     - Additional details for part 2
     - Additional details for part 3
