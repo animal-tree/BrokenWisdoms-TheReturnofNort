@@ -342,7 +342,7 @@ Henry got an offer to lead the AI division at the National Science Foundation in
 </a>
 </p>
 
-For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (end of Spring, 2020), I had no publications.
+For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020), I had no publications.
 
 Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, without pay, or no acceptance.
 
