@@ -436,6 +436,8 @@ Could you imagine if hospitals served grassfed, grass-finished organic steak? I 
 
 Many of the problems that exist in hospitals also exist in public and private education systems. Kids are being put through concentration camps. These environments should be more like summer camps, monasteries, or Hogwarts, not Nazi prisons.
 
+Since Winter, 2020/2021, I have not had another serious hospitalization. There was one hospitalization half a year later, in which I was there for a half a day, but they neither held me there nor believed there was any psychiatric issue. The geriatric unit hospitalization was traumatizing, but that's not the reason why I successfully avoided future imprisonment. My ability to live with those schizophrenic states, consciously and drug-free, increased to the point that they aren't schizophrenic states, but unambiguous connections to a deeper wisdom. [Humans and other cultures have been integrating that wisdom long before hospitals existed](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-). I'm pretty good at it.
+
 #### Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
