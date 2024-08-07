@@ -364,6 +364,8 @@ Meanwhile, under Niaz, in the Mechanical Engineering department, specifically Ma
 
 Last-minute, and with almost no notice, and without Niaz's approval, Chenliang wanted to allocate that Mechanical Engineering-work funding to someone else, due to me not providing enough publications in his Computer Vision group. Yes that funding that I helped earn — literally — through the programming and grant ideas and grant writing and grant diagrams, definitively leading and exceptionally implementing the AI side of the work on which all of the models were built and experiments were run, and with support and appreciation from the rest of the group as I taught them deep learning in each of our meetings every week, which included Chenliang. He'd given me no prior warning or indication of dissatisfaction. Quite the opposite actually.
 
+Speaking of dissatisfaction...
+
 ### Comedic Aside: Sexier moments during Chenliang tenure:
 
 Got to message someone named Tayler a week after my Taylor-CAM paper who reached out to me on Facebook who turned out to be a cam-girl ([“Taylor-CAM”](https://arxiv.org/abs/2006.08601))… and wasn’t as reproducible as I would’ve liked (she was barren), she also rejected me a few times like the conferences that rejected me (including the first time after all positive reviews)! I never met her.
