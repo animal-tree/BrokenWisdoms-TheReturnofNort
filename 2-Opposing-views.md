@@ -348,7 +348,7 @@ Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, witho
 
 I presented Semantic Segmentation with MHDPA applied to image features. That would've been the first Vision Transformer, but there wasn't enough time to build and benchmark that.
 
-I had to work at the Med Center concurrently for funding, since Chenliang wasn't paying me, and had to spend months giving my nights and weekends to achieving his ultimatum by the summer 2020 NeurIPS deadline.
+I had to work at the Med Center concurrently for funding, since Chenliang wasn't paying me, and had to spend at least a month giving my nights and weekends to achieving his ultimatum by the summer 2020 NeurIPS deadline.
 
 He accepted me into his lab when I succesfully delivered that [paper](https://arxiv.org/abs/2006.08601), my first published paper, "Taylor-CAM," ended up getting positive reviews, rejected, and then later accepted at ICCV, a top-venue conference (in AI, conferences are bigger than journals, and that was quite a feat for a few months, in a brand new research area, switching fields from "medical prognostication" to "state of the art computer vision").
 
