@@ -309,10 +309,10 @@ Perhaps Charles or some of his colleagues may find the above diagram (["5 Comput
 ### Henry Kautz
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/49c4a7a0-86d0-4808-b695-bb544790c829">
+<a href="https://github.com/user-attachments/assets/b828d43e-ba12-4f4f-b130-fa3acbac8009">
  <picture>
-   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f62c915e-5152-439d-8a72-cad0866bffb8">
-   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/49c4a7a0-86d0-4808-b695-bb544790c829">
+   <source width="57%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/92cbcc44-680b-46d9-813e-789c7bb3de74">
+   <img width="57%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/b828d43e-ba12-4f4f-b130-fa3acbac8009">
 </picture>
 </a>
 </p>
@@ -466,10 +466,10 @@ AI is a field with a lot of ethics questions, and the [militaristic](https://www
 ### Niaz Abdolrahim (okay, some more not-tragedy)
 
 <p align="center">
-<a href="https://github.com/user-attachments/assets/595582b2-9db9-4f78-84d4-4fd5484995f9">
+<a href="https://github.com/user-attachments/assets/e4288579-4f0b-4ac3-a8f2-ddbbf728128d">
  <picture>
-   <source width="58%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6a541be3-7170-4837-9ac1-35437060986d">
-   <img width="58%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/595582b2-9db9-4f78-84d4-4fd5484995f9">
+   <source width="58%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9e2cf8f1-f20f-4506-9e53-c172dab68539">
+   <img width="58%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/e4288579-4f0b-4ac3-a8f2-ddbbf728128d">
 </picture>
 </a>
 </p>
