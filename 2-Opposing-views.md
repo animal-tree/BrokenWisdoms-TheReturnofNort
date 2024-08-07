@@ -400,7 +400,17 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 
 #### Rituals, Religion, & Hell
 
-> This one will be primarily centered on my friend. He and I can sort of write this together. He's my best friend, the one who's been in this intermittently through every part thus far, and whose victory over my demons needs to be described, including some of the rituals, about him, he wasn't witness to... one of which he independently referenced later, synchronistically, by coincidence, by chance, without prompt. I can describe one or both of them.
+One of the most powerful rituals was during the Tayler hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally sat on the floor when I told him to and followed my every instruction. I was playful and had unambiguous humor and self awareness in my voice, because I understood he wasn't literally my best friend and wasn't directly conscious to what I was conscious of, but his willing participation in that ritual meant something to me.
+
+Later, as I walked along that hallway — I don't know if it was a psychiatric unit or what — I was the only patient and there were many nurses — I kind of led the female nurses, who were also my age, in a ritual, too. Each one I saw, I looked into her eyes and said the name of the family member or friend who I saw in them, as if literally my family was appearing in them in spirit. I was seeing beyond them individually, and they sensed it. At one point, I even put my hand slowly to one female nurse's rib, intimately and non-sexually. She stood still. All of the nurses stood still. There was even a big male nurse. 
+
+A ritual was happening that couldn't be desecrated or remarked upon. No clinical logic could destroy it.
+
+The theme of my best friend returned in the next hospitalization, in the geriatric unit (elderly facility one), where I imagined him as the Devil, but that schizophrenic-like delusion was the least Hellish thing about that hospitalization (described next), and I thought I was literally condemned in Hell, literally in Hell and I would never see humanity or good again. Having somebody I can trust — despite being imagined — play the role of the most fearful part of that trauma, made the actual Hellishness of that hospitalization less Hellish. The delusion, in spite of the environment, was good.
+
+It's the delusion that doctors and hospitals are trying to heal. However, in that example, it was the doctors and hospitals who were creating a Hell, and the delusion was the only healing part of it. In that delusion, he was quite snarky.
+
+Later, my best friend returned, literally. We were texting and he remarked, without prompt, syaing if he were a Devil, he'd be a "snarky Devil." He texted that of his own accord, knowing nothing about that hospitalization, no context, no prompt.
 
 #### Warmth, nature, and organic-type foods
 
