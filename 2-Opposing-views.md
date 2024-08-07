@@ -420,9 +420,9 @@ There were further terrors at the University of Rochester Medical Center that ar
 
 I had to sleep in a chair for several nights in a shared open area filled with other patients while they neglected to transfer me to a room for a week with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and with food only that I was allergic to, while again in a psychotic state.
 
-That was the geriatric unit hospitalization, psychiatric wards were full, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair in those conditions they transferred me to a geriatric unit, with almost nobody my age and I thought I was in Hell. 
+That was the geriatric unit hospitalization, psychiatric wards were full, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair in those conditions they transferred me to a geriatric unit, with almost nobody my age and I thought I was in Hell. They had no knowledge of this, nor was that my state of thinking coming into the hospitalization.
 
-Clinicians should stop using the expression "I'm gonna take your vitals" because "vitals" means that which is vital to somebody, e.g., their soul or loved ones, and that is a terrifying thing to hear during a schizophrenic episode when you have no choice but to let them strap you or inject you or whatever, and your mind possibly is tuned to a ritual level where symbolism has extreme sacred meaning.
+Clinicians should stop using the expression "I'm gonna take your vitals" because "vitals" means "that which is vital to somebody," e.g., their soul or loved ones, and that is a terrifying thing to hear during a schizophrenic episode when you have no choice but to let them strap you or inject you or whatever, and your mind possibly is tuned to a ritual level where symbolism has extreme sacred meaning.
 
 My hair was falling out in my hands.
 
