@@ -467,7 +467,7 @@ My grandpa was a self-reliant man, but the stress of moving from the Jewish home
 
 My grandpa's heart failed, at least sooner than it would've, due to the trial of getting him to the bus from the Jewish home that took him to his heart doctor. His official death date is the night (morning) after that appointment, January 22, 2016.
 
-In Uzbekistan, primary physicians visited patients, even to their homes. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
+In Uzbekistan, primary physicians visited patients, even to their homes, as part of their standard healthcare system. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
 
 #### How my grandma got dementia
 
