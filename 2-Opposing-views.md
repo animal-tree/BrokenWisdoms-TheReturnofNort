@@ -427,9 +427,9 @@ In the next hospitalization (described below), there was another guy my age in t
 
 But, in case the detail was missed ("since chunks of it were falling out again in that geriatric unit"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
 
-My grandma had long grey hair, down to her waist, that she curled up behind her head.
-
 #### How my grandma got dementia
+
+My grandma had long grey hair, down to her waist, that she curled up behind her head. I had her fingernails, she told me, which I also lost at one point when my hair initially fell out in 2018. They regrew, healthy enough.
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
 
