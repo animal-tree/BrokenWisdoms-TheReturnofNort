@@ -467,9 +467,11 @@ She was prescribed Lyrica.
 
 #### How my grandpa died
 
-His doctor was in another building, and they had to move my grandpa to bring my grandpa to the doctor.
+His heart doctor was in another building, and they had to carry up my grandpa to that doctor, causing him to have a heart attack later that day.
 
-In Uzbekistan, by the way — I know, can you imagine how backwards this is going to be — the doctors visited the patients.
+My grandpa was a self-reliant man, but the stress of moving from his hospital to the other one to see that heart doctor was extreme. My mom was there, and it was a big ordeal just to bring him.
+
+In Uzbekistan, by the way — I know, can you imagine how backwards this is going to be — doctors visited patients.
 
 #### Intimacy healing
 
