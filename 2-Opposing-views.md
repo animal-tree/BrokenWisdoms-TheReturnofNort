@@ -427,7 +427,29 @@ In the next hospitalization (described below), there was another guy my age in t
 
 But, in case the detail was missed ("since chunks of it were falling out again in that geriatric unit"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
 
+#### How my grandpa died
+
+My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. He was having trouble breathing and my mom had to take him to the hospital. According to the blood analysis, apparently he had a third heart attack about a week earlier. His heart doctor came to the hospital and recommended a stent be put in his heart's main artery. The surgeon wasn't able to do it for the main artery, because it was completely blocked, and so he put in stents into the little arteries that were narrow but weren't the cause of the congestive heart failure. After that surgery, his kidneys got worse and he couldn't walk at all anymore. He couldn't stand up on his feet. For some reason, not knowing what to do with him, they discharged him and sent him to the Jewish home for rehabilitation, for physical therapy to help with his kidneys.
+
+They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office in a different location.
+
+My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that grueling trial to get to his heart doctor's office (they used an elevating machine that lifted him up from his bed). That doctor had even asked, "Why was he discharged from the hospital? In this condition, he should be in the hospital." 
+
+My grandpa's heart failed, at least sooner than it would've, due to the trial of getting him to the bus from the Jewish home that took him to his heart doctor. His official death date is the night (morning) after that appointment, January 22, 2016.
+
+In Uzbekistan, primary physicians visited patients, even to their homes, as a part of the standard healthcare system. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
+
+Perhaps it's worth making that point since his death preceded just before another Bernie Sanders type figure propped up into the zeitgeist of my attention.
+
+#### How my grandma got dementia
+
+My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
+
+She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13, 2016.
+
 #### Geriatric unit hospitalization
+
+Speaking of the elderly...
 
 > [!WARNING]
 > In December, 2020, about a month after Tayler blocked me, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
@@ -456,27 +478,9 @@ I didn’t eat steak, because of course they couldn’t afford it. Could you ima
 
 #### Schools
 
+Let's now regress back to childhood.
+
 Many of the problems that exist in hospitals also exist in public and private education systems. Kids are being put through concentration camps. These environments should be more like summer camps, monasteries, or Hogwarts, not Nazi prisons. Literally concentration camps is what our society puts kids through, pretty much by force, as if it's some law of nature that kids must endure a coercive system by the time they're 6, and give the best hours of the day to that system until they're dead, in order to facilitate their development of wisdom and utility to other people (as opposed to stress, bullying, and hurting other people through more such endless cycles of coercive systemic brainwashings and zombie-ism).
-
-#### How my grandpa died
-
-My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. He was having trouble breathing and my mom had to take him to the hospital. According to the blood analysis, apparently he had a third heart attack about a week earlier. His heart doctor came to the hospital and recommended a stent be put in his heart's main artery. The surgeon wasn't able to do it for the main artery, because it was completely blocked, and so he put in stents into the little arteries that were narrow but weren't the cause of the congestive heart failure. After that surgery, his kidneys got worse and he couldn't walk at all anymore. He couldn't stand up on his feet. For some reason, not knowing what to do with him, they discharged him and sent him to the Jewish home for rehabilitation, for physical therapy to help with his kidneys.
-
-They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office in a different location.
-
-My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that grueling trial to get to his heart doctor's office (they used an elevating machine that lifted him up from his bed). That doctor had even asked, "Why was he discharged from the hospital? In this condition, he should be in the hospital." 
-
-My grandpa's heart failed, at least sooner than it would've, due to the trial of getting him to the bus from the Jewish home that took him to his heart doctor. His official death date is the night (morning) after that appointment, January 22, 2016.
-
-In Uzbekistan, primary physicians visited patients, even to their homes, as a part of the standard healthcare system. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
-
-Perhaps it's worth making that point since his death preceded just before another Bernie Sanders type figure propped up into the zeitgeist of my attention.
-
-#### How my grandma got dementia
-
-My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
-
-She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13, 2016.
 
 #### Intimacy healing
 
