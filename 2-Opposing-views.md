@@ -467,7 +467,7 @@ My grandpa was a self-reliant man, but the stress of moving from the Jewish home
 
 His heart failed, at least sooner than it would have, due to visiting his heart doctor.
 
-In Uzbekistan, primary physciians visited patients, even to their homes. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
+In Uzbekistan, primary physicians visited patients, even to their homes. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
 
 #### How my grandma got dementia
 
