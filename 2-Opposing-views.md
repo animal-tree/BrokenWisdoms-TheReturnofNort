@@ -459,7 +459,7 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 #### How my grandpa died
 
-His heart doctor was in another building, and they had to carry up my grandpa to that doctor.  He died that night of heart attack.
+His heart doctor was in another building, and they had to carry up my grandpa to that doctor.  He died that night of congestive heart failure.
 
 My grandpa was a self-reliant man, but the stress of moving from his hospital to the other one to see that heart doctor was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems he entered the hospital for. He survived two heart attacks previously, one in Uzbekistan and one in America. He was in there, in RGH, for kidney issues, and died from a heart attack after a gruelling trial to get to his heart doctor's office in the other hospital building. 
 
