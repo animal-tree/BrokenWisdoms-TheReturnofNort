@@ -494,7 +494,7 @@ Let's now regress back to childhood.
 
 Many of the problems that exist in hospitals also exist in public and private education systems. Kids are being put through concentration camps. These environments should be more like summer camps, monasteries, or Hogwarts, not Nazi prisons. Literally concentration camps is what our society puts kids through, pretty much by force, as if it's some law of nature that kids must endure a coercive system by the time they're 6, and give the best hours of the day to that system until they're dead, in order to facilitate their development of wisdom and utility to other people (as opposed to stress, bullying, and hurting other people through more such endless cycles of coercive systemic brainwashings and zombie-ism).
 
-Those environments are where we learn that people are cooties, where all touch and intimacy is equivalent to breaking the rules.
+Those environments are where we learn that some people are inferior to others, namely, students, to teachers and adults. And those structures disseminate to the relationships between kids. And the hierarchy — the kingdoms — that are built within minds reflect that system long into adulthood.
 
 #### Intimacy healing
 
