@@ -459,9 +459,11 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 #### How my grandpa died
 
-His heart doctor was in another building, and they had to carry up my grandpa to that doctor.  He died that night of heart failure.
+My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. He was having trouble breathing and my mom had to take him to the hospital. According to the blood analysis, apparently he had a heart attack about a week earlier. His heart doctor came to the hospital and recommended a stent be put in his heart's main artery. The surgeon wasn't able to do it for the main artery, because it was completely blocked, and so he put in stents into the little arteries that were narrow but weren't the cause of the congestive heart failure. For some reason, not knowing what to do with him, they discharged him and sent him to the Jewish home for rehabilitation, for physical therapy to help with his kidneys.
 
-My grandpa was a self-reliant man, but the stress of moving from his hospital to the heart doctor's office to see that heart doctor was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems he entered the hospital for. They had to use a machine. He survived three heart attacks previously, one in Uzbekistan and two in America. He was in there, in RGH, for kidney issues due to congestive heart failure, and his heart (not kidneys) failed the night of that gruelling trial to get to his heart doctor's office in a different building. That doctor had even asked, "Why is he discharged? He should be in the hospital for rehabilitation. In this condition, he shouldn't be here. He should be in the hospital." 
+They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office in a different location.
+
+My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that gruelling trial to get to his heart doctor's office in a different building. That doctor had even asked, "Why was he discharged from the hospital? In this condition, he shouldn't be in rehabilitation. He should be in the hospital." 
 
 <!-- **You people are murderers.** -->
 
