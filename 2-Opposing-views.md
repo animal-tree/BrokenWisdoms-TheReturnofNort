@@ -435,7 +435,7 @@ My grandma was about 24 when she and my grandpa arrived to Samarkand.  She was a
 
 My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.
 
-She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at JCC, that I had her fingernails, perhaps unusual. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Also an unusual remark, at an important juncture involving my grandma. 
+She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at JCC, that I had her fingernails, perhaps unusual. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Also an unusual remark, at an important juncture involving my grandma, that I remember. 
 
 Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
