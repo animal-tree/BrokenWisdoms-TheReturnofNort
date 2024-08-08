@@ -429,7 +429,7 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 #### I didn't mention fingernails (fingernails regrowth)
 
-My grandma had long grey hair, down to her waist, that she curled up behind her head. I had her fingernails, she told me, which I also lost at one point when my hair initially fell out in 2018. They regrew, healthy enough, but were purple for a really long time.
+My grandma had long grey hair, down to her waist, that she curled up behind her head. I had her fingernails, she told me, which I also lost due to the Dupilumab cessation in 2018. They regrew, healthy enough, but were purple for a really long time.
 
 #### How my grandma got dementia
 
