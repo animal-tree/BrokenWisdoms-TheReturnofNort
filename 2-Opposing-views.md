@@ -462,7 +462,7 @@ She was prescribed Lyrica.
 
 His doctor was in another building, and they had to move my grandpa to bring my grandpa to the doctor.
 
-In Uzbekistan, by the way — I know, can you imagien how backwards this is going to be — the doctors visited the patients.
+In Uzbekistan, by the way — I know, can you imagine how backwards this is going to be — the doctors visited the patients.
 
 #### Intimacy healing
 
