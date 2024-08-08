@@ -43,8 +43,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Rituals, Religion, & Hell
         - Warmth, nature, and organic-type foods
         - Intimacy healing
-        - Not the artificial and synthetic
-        - Not AI
+        - The artificial and synthetic
+        - AI
       - Niaz Abdolrahim (okay, some more not-tragedy)
       - Chris Kanan
       - Tom Howard
