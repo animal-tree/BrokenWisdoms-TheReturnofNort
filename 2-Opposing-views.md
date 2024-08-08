@@ -427,7 +427,9 @@ In the next hospitalization (described below), there was another guy my age in t
 
 But, in case the detail was missed ("since chunks of it were falling out again in that geriatric unit"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
 
-My grandma had long grey hair, down to her waist, that she curled up behind her head. I had her fingernails, she told me, which I also lost at one point when my hair initially fell out in 2018. They regrew, healthy enough.
+#### I didn't mention fingernails (fingernails regrowth)
+
+My grandma had long grey hair, down to her waist, that she curled up behind her head. I had her fingernails, she told me, which I also lost at one point when my hair initially fell out in 2018. They regrew, healthy enough, but were purple for a really long time.
 
 #### How my grandma got dementia
 
