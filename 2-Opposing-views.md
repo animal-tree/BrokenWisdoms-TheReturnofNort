@@ -410,7 +410,7 @@ A ritual was happening that couldn't be desecrated or remarked upon. No clinical
 
 Tayler stopped messaging with me on our coinciding November birthdays — yes really I’m serious. Well, coinciding week-wise. She was a couple years younger than me. In case the Taylor-CAM cam-girl synchronicity and Christmas, 2018 trauma together with a bald Jewish guy wasn't enough coincidence, our birthdays week-wise were days apart. And coincided also, less amazingly, with when she blocked me.
 
-In December, I had another hospitalization, the geriatric unit (elderly facility) one.
+In December, maybe a month later, I had another hospitalization, the geriatric unit (elderly facility) one.
 
 The theme of my best friend returned in the next hospitalization, in the geriatric unit (elderly facility) one, where I imagined him as the Devil, but that schizophrenic-like delusion was the least Hellish thing about that hospitalization (described next), and I thought I was literally condemned in Hell, literally in Hell and I would never see humanity or good again. Having somebody I can trust — despite being imagined — play the role of the most fearful part of that trauma, made the actual Hellishness of that hospitalization less Hellish. The delusion, in spite of the environment, was good.
 
