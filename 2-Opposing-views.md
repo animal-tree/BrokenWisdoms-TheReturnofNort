@@ -465,6 +465,8 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 She was prescribed Lyrica.
 
+The Lyrica caused the dementia.
+
 #### How my grandpa died
 
 His heart doctor was in another building, and they had to carry up my grandpa to that doctor, causing him to have a heart attack later that day.
