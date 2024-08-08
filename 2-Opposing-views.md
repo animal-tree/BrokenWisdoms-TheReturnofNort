@@ -520,8 +520,6 @@ Intimacy healing is a step towards that, starting with medical institutions.
   
 AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
-We have now concluded 2020. Let us begin 2021.
-
 ### Niaz Abdolrahim (okay, some more not-tragedy)
 
 <p align="center">
