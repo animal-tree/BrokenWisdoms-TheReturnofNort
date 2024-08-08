@@ -469,9 +469,9 @@ In Uzbekistan, by the way — I know, can you imagine how backwards this is goin
 
 #### How my grandma got dementia
 
-She was prescribed Lyrica first, then Neurontin, amid a cocktail of drugs. For some reason I recall believing all my life that the Lyrica caused the dementia. Somehow we'd reached that conclusion a long time ago.
+She was prescribed a cocktail of neuroactive drugs before she had dementia.
 
-She shortly outlived my grandpa, and died the same year as him a week before his April 16 birthday.
+She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13.
 
 #### Intimacy healing
 
