@@ -469,7 +469,7 @@ In Uzbekistan, by the way — I know, can you imagine how backwards this is goin
 
 #### How my grandma got dementia
 
-She was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquil, Lyrica, and the list goes on. She didn't have any of the conditions those medications are supposed to treat, and every time she developed a new symptom from one, they prescribed yet another.
+She was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquil, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquil is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another.
 
 She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13.
 
