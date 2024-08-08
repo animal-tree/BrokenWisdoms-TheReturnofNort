@@ -498,6 +498,8 @@ Those environments are where we learn that some people are inferior to others, n
 
 We overcome those fears of cooties, but [we don't overcome those kingdoms.](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/My-Spirituality.md)
 
+The wisdoms of these doctors and professors is built from those systems. It's on those systems that those people hold reverance, even as we hold them up on pedestals as representatives for wisdom. Those wisdoms are broken.
+
 #### Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
