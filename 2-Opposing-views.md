@@ -473,8 +473,6 @@ She was prescribed Lyrica.
 
 The Lyrica caused the dementia.
 
-She was on a cocktail of drugs, and that was the most likely cause. 
-
 She shortly outlived my grandpa, and died the same year as him a week before his April 16 birthday.
 
 #### Intimacy healing
