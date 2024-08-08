@@ -459,7 +459,7 @@ In Uzbekistan, primary physicians visited patients, even to their homes, as a st
 
 #### Geriatric unit hospitalization
 
-Perhaps it's worth making that point since his death preceded just before another Bernie Sanders type figure propped up into the zeitgeist of my attention, none other than Bernie Sanders himself, promoting [Medicare For All](https://berniesanders.com/issues/medicare-for-all/), who my mom at first thought was a spammer because my description was too good to be true for a politician, and rightfully, since he's more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) than politics. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews.
+My grandpa's death preceded just before another old Jewish Bernie Sanders type role model propped up into the zeitgeist of my attention, none other than Bernie Sanders himself, promoting [Medicare For All](https://berniesanders.com/issues/medicare-for-all/), who my mom at first thought was a spammer because my description was too good to be true for a politician, and rightfully, since he's more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) than politics. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews.
 
 Speaking of the elderly...
 
