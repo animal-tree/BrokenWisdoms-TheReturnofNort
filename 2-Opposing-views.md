@@ -471,7 +471,7 @@ The Lyrica caused the dementia.
 
 His heart doctor was in another building, and they had to carry up my grandpa to that doctor, causing him to have a heart attack later that day.
 
-My grandpa was a self-reliant man, but the stress of moving from his hospital to the other one to see that heart doctor was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems he entered the hospital for. He survived two heart attacks previous in Uzbekistan, and was in the hospital for kidney issues. That's why my sister even specialized in kidney issues as a nurse or nurse practioner now. He was in there for kidney issues, and died from a heart attack after a gruelling trial to get to his heart doctor.
+My grandpa was a self-reliant man, but the stress of moving from his hospital to the other one to see that heart doctor was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems he entered the hospital for. He survived two heart attacks previous in Uzbekistan, and was in the hospital for kidney issues. That's why my sister even specialized in kidney issues as a nurse practioner now. He was in there for kidney issues, and died from a heart attack after a gruelling trial to get to his heart doctor.
 
 You people are murderers. 
 
