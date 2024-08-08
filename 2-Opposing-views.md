@@ -463,11 +463,7 @@ My grandpa survived two heart attacks previously, one in Uzbekistan and one in A
 
 They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office in a different location.
 
-My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that gruelling trial to get to his heart doctor's office in a different building. That doctor had even asked, "Why was he discharged from the hospital? In this condition, he shouldn't be in rehabilitation. He should be in the hospital." 
-
-<!-- **You people are murderers.** -->
-
-In Uzbekistan, by the way — I know, can you imagine how backwards this is going to be — doctors visited patients.
+My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that gruelling trial to get to his heart doctor's office. That doctor had even asked, "Why was he discharged from the hospital? In this condition, he should be in the hospital." 
 
 #### How my grandma got dementia
 
