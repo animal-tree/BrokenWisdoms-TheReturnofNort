@@ -494,12 +494,6 @@ Let's now regress back to childhood.
 
 Many of the problems that exist in hospitals also exist in public and private education systems. Kids are being put through concentration camps. These environments should be more like summer camps, monasteries, or Hogwarts — filled with nature and healthy food — not Nazi prisons. Literally concentration camps is what our society puts kids through, pretty much by force, as if it's some law of nature that kids must endure a coercive system by the time they're 6, and give the best hours of the day to that system until they're dead, in order to facilitate their development of wisdom and utility to other people (as opposed to stress, bullying, and hurting other people through more such endless cycles of coercive systemic brainwashings and zombie-ism).
 
-Those environments are where we learn that some people are inferior to others, namely, students, to teachers and adults, with potentially permanent life-threatening consequences. And those structures disseminate to the relationships between kids. And the hierarchy — the kingdoms — that are built within minds reflect that system long into adulthood.
-
-Some of us overcome those fears of cooties, but [none of us overcome those kingdoms.](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/My-Spirituality.md)
-
-The wisdoms of these doctors and professors is built from those systems. It's to those systems that those people, and all or most of us, hold reverance. No matter what degrees of education are held up as representative of the acquision of wisdom, the kingdom that is worshipped is the one that begins in the concentration camps of our childhoods.
-
 #### Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
