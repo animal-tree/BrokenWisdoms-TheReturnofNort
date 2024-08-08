@@ -614,12 +614,12 @@ The chapter-list was the only requirement they wanted to make in that meeting. W
 
 But afterwards, I got an email — I think from Chenliang and perhaps from the graduate coordinator — specifying two altogether different requirements, with only an auxiliary mention of the chapter-list. Here they were, as apparently decided by the committee (post-hoc) after their chapter-list decision in the actual six-month review:
 
-> ### $\Huge &#8221;$
+> ### $\Huge &#8220;$
 > As remediation, the committee asks the student to
 >
 > 1.   before June 5, 2023, provide a 1-page write up that addresses the problem statement, hypothesis, and approaches of the thesis and give an outline of thesis chapters,
 > 2.    before August 30, 2023, re-do and pass a six-month review.
-> ### $\Huge &#8220;$
+> ### $\Huge &#8221;$
 
 It's ironic that I'm being asked for remediation.
 
@@ -700,9 +700,9 @@ I call this the Termination Slam.
 
 His previous email read:
 
-> ### $\Huge &#8221;$
-> If I do not hear from you by 6 Oct., with a plan for successful completion, the department will terminate your stipend and discontinue your enrollment as of 31 Oct. 2023.
 > ### $\Huge &#8220;$
+> If I do not hear from you by 6 Oct., with a plan for successful completion, the department will terminate your stipend and discontinue your enrollment as of 31 Oct. 2023.
+> ### $\Huge &#8221;$
 > &ensp;&ensp;- **09/25/2023**
 
 In other words, 'Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by **10/06/2023**, now an added independent requirement to the previously delivered materials to the independent six-month review committee.'
@@ -711,7 +711,7 @@ Then I delivered another research plan, with precision and accuracy, by the spec
 
 This was the only reply I got, of **10/12/2023**:
 
-> ### $\Huge &#8221;$
+> ### $\Huge &#8220;$
 > Dear Sam:
 >
 > Thank you for your note of 6 Oct.  I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October.
@@ -722,7 +722,7 @@ This was the only reply I got, of **10/12/2023**:
 > Arthur Gould Yates Professor and Chair</br>
 > Computer Science Department, University of Rochester</br>
 > \<provided contact info redacted\>
-> ### $\Huge &#8220;$
+> ### $\Huge &#8221;$
 > &ensp;&ensp;- **10/12/2023**
 
 I delivered what was requested and he put his boot down on my sincerity and effort. That boot despite what was threatened and said is why it was a Termination Slam, not just a termination. On personal and highly elaborate work that was sent to him (and CC'd Chenliang) in confidence about all of my research, and the plan to defend after I write my thesis.
@@ -747,7 +747,7 @@ See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/bl
 
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work the university has ever seen thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own, having to work in the Medical Center and Mechanical Engineering department for funding, and a quarter to a half a year as I worked for Chenliang for free.
 
-> ### $\Huge &#8221;$
+> ### $\Huge &#8220;$
 > Hi Sam -
 >
 > I've received multiple emails from you over the past few days, which I wanted to acknowledge. I will not try to address each claim separately, but I disagree with many things you have said about the process of dismissing you from your academic program, including your characterization of your academic progress and of communications with you on that topic. 
@@ -755,7 +755,7 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 > Yours,
 >
 > Michael
-> ### $\Huge &#8220;$
+> ### $\Huge &#8221;$
 > &ensp;&ensp;- **10/18/2023**
 
 These are just words. He didn't acknowledge anything I said, separately or together. He occasionally wrote that he disagreed with the characterization, and made no argument as to why.
@@ -770,7 +770,7 @@ That’s the whole story, and where in there is even the slightest administrativ
 
 #
 
-> ### $\Huge &#8221;$
-> [...] I have conferred with members of your committee. They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree. With regret, we will be terminating [...]
 > ### $\Huge &#8220;$
+> [...] I have conferred with members of your committee. They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree. With regret, we will be terminating [...]
+> ### $\Huge &#8221;$
 > &ensp;&ensp;- Michael L. Scott
