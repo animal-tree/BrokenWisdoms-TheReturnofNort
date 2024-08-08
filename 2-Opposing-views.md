@@ -420,7 +420,7 @@ Later, my best friend returned, literally. We were texting and he remarked, with
 
 I was on a steak/salmon-only diet since at least April, 2020. That regrowth started during Tayler, and before the Tayler hospitalization. In the Tayler hospitalization, it was already regrown in parts and regrowing in others. When my self consciousness returned and I started periodically wearing a hat, the older Lily woman copied the look and started also wearing a hat when I did. Mobi remarked on my hair  when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair (“oh that’s why”). And I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. But the point is, my hair was already growing back, and was already in patches everywhere (on my head), when I was on the steak/salmon-only diet and before the Tayler hospitalization.
 
-And by the way, that sudden hair regrowth was 2 years after the summer when the Dupilumab cessation induced alopecia universalis. Full head hair regrowth is a a nearly unprecedented medical outcome for alopecia universalis. Actually, even more rare/unprecedented. Regrowth in alopecia universalis is even rarer for somebody with comorbid eczema.
+And by the way, that sudden hair regrowth was 2 years after the summer when the Dupilumab cessation induced alopecia universalis. Full head hair regrowth in alopecia universalis is nearly unprecedented. Actually, even more rare/unprecedented. Regrowth in alopecia universalis is even rarer for somebody with comorbid eczema.
 
 #### Geriatric Unit Hospitalization
 
