@@ -463,7 +463,7 @@ My grandpa survived two heart attacks previously, one in Uzbekistan and one in A
 
 They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office in a different location.
 
-My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that gruelling trial to get to his heart doctor's office. That doctor had even asked, "Why was he discharged from the hospital? In this condition, he should be in the hospital." 
+My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that grueling trial to get to his heart doctor's office. That doctor had even asked, "Why was he discharged from the hospital? In this condition, he should be in the hospital." 
 
 My grandpa's heart failed, at least sooner than it would've, due to the trial of getting him to the bus from the Jewish home that took him to his heart doctor. His official death date is the night (morning) after that appointment, January 22, 2016.
 
@@ -471,7 +471,7 @@ In Uzbekistan, primary physicians visited patients, even to their homes. That wa
 
 #### How my grandma got dementia
 
-My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquil, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquil is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
+My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
 
 She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13, 2016.
 
