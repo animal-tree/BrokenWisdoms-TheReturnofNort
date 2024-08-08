@@ -433,6 +433,8 @@ My grandma had long grey hair, down to her waist, that she curled up behind her 
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
 
+She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13, 2016.
+
 #### How my grandpa died
 
 My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. He was having trouble breathing and my mom had to take him to the hospital. According to the blood analysis, apparently he had a third heart attack about a week earlier. His heart doctor came to the hospital and recommended a stent be put in his heart's main artery. The surgeon wasn't able to do it for the main artery, because it was completely blocked, and so he put in stents into the little arteries that were narrow but weren't the cause of the congestive heart failure. After that surgery, his kidneys got worse and he couldn't walk at all anymore. He couldn't stand up on his feet. For some reason, not knowing what to do with him, they discharged him and sent him to the Jewish home for rehabilitation, for physical therapy to help with his kidneys.
@@ -446,10 +448,6 @@ My grandpa's heart failed, at least sooner than it would've, due to the trial of
 In Uzbekistan, primary physicians visited patients, even to their homes, as a part of the standard healthcare system. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
 
 Perhaps it's worth making that point since his death preceded just before another Bernie Sanders type figure propped up into the zeitgeist of my attention.
-
-#### How my grandma died
-
-She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13, 2016.
 
 #### Geriatric unit hospitalization
 
