@@ -346,7 +346,7 @@ For context, Henry's average paper count was 1 - 3 across the PhD student's full
 
 Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, without pay, or no acceptance. Had I failed to do that, I wouldn't have an advisor or pay, and that would've meant dropping out most likely (and more specifically, termination).
 
-I presented Semantic Segmentation with MHDPA applied to image features. That, applied to a Computer Vision domain specifically, would've been the first Vision Transformer, but there wasn't enough time to build and benchmark that with the pressure and deadline from Chenliang.
+I presented Semantic Segmentation with MHDPA applied to image features. MHDPA, applied to and benchmarked on a Computer Vision domain directly, would've been the first Vision Transformer, but there wasn't enough time to build and benchmark that with the pressure and deadline from Chenliang.
 
 I had to work at the Med Center concurrently for funding, since Chenliang wasn't paying me, and had to spend at least a month giving my nights and weekends to achieving his ultimatum by the summer, 2020 NeurIPS deadline.
 
