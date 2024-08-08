@@ -459,9 +459,9 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 #### How my grandpa died
 
-His heart doctor was in another building, and they had to carry up my grandpa to that doctor.  He died that night of congestive heart failure.
+His heart doctor was in another building, and they had to carry up my grandpa to that doctor.  He died that night of heart failure.
 
-My grandpa was a self-reliant man, but the stress of moving from his hospital to the other one to see that heart doctor was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems he entered the hospital for. He survived two heart attacks previously, one in Uzbekistan and one in America. He was in there, in RGH, for kidney issues, and died from a heart attack after a gruelling trial to get to his heart doctor's office in the other hospital building. 
+My grandpa was a self-reliant man, but the stress of moving from his hospital to the heart doctor's office to see that heart doctor was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems he entered the hospital for. They had to use a machine. He survived three heart attacks previously, one in Uzbekistan and two in America. He was in there, in RGH, for kidney issues due to congestive heart failure, and his heart (not kidneys) failed the night of that gruelling trial to get to his heart doctor's office in a different building. That doctor had even asked, "Why is he discharged? He should be in the hospital for rehabilitation. In this condition, he shouldn't be here. He should be in the hospital." 
 
 <!-- **You people are murderers.** -->
 
