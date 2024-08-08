@@ -496,7 +496,7 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 Those environments are where we learn that some people are inferior to others, namely, students, to teachers and adults. And those structures disseminate to the relationships between kids. And the hierarchy — the kingdoms — that are built within minds reflect that system long into adulthood.
 
-We overcome those fears of cooties, but we don't overcome those kingdoms.
+We overcome those fears of cooties, but [we don't overcome those kingdoms.](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/My-Spirituality.md)
 
 #### Intimacy healing
 
