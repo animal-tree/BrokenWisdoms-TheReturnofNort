@@ -457,14 +457,6 @@ I didn’t eat steak, because of course they couldn’t afford it. Could you ima
 
 Many of the problems that exist in hospitals also exist in public and private education systems. Kids are being put through concentration camps. These environments should be more like summer camps, monasteries, or Hogwarts, not Nazi prisons. Literally concentration camps is what our society puts kids through, pretty much by force, as if it's some law of nature that kids must endure a coercive system by the time they're 6, and give the best hours of the day to that system until they're dead, in order to facilitate their development of wisdom and utility to other people (as opposed to stress, bullying, and hurting other people through more such endless cycles of coercive systemic brainwashings and zombie-ism).
 
-#### How my grandma got dementia
-
-She was prescribed Lyrica.
-
-The Lyrica caused the dementia.
-
-She was on a cocktail of drugs, and that was the most likely cause. 
-
 #### How my grandpa died
 
 His heart doctor was in another building, and they had to carry up my grandpa to that doctor.  He died that night of heart attack.
@@ -474,6 +466,16 @@ My grandpa was a self-reliant man, but the stress of moving from his hospital to
 <!-- **You people are murderers.** -->
 
 In Uzbekistan, by the way — I know, can you imagine how backwards this is going to be — doctors visited patients.
+
+#### How my grandma got dementia
+
+She was prescribed Lyrica.
+
+The Lyrica caused the dementia.
+
+She was on a cocktail of drugs, and that was the most likely cause. 
+
+She shortly outlived my grandpa, and died the same year as him a week before his April 16 birthday.
 
 #### Intimacy healing
 
