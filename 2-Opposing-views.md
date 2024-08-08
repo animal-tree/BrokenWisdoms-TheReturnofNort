@@ -447,7 +447,7 @@ My grandpa's heart failed, at least sooner than it would've, due to the trial of
 
 In Uzbekistan, primary physicians visited patients, even to their homes, as a part of the standard healthcare system. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
 
-Perhaps it's worth making that point since his death preceded just before another Bernie Sanders type figure propped up into the zeitgeist of my attention (none other than Bernie Sanders himself, who my mom at first thought was a spammer because my description was too good to be true for a politician, and rightfully, since he's more about governance than politics).
+Perhaps it's worth making that point since his death preceded just before another Bernie Sanders type figure propped up into the zeitgeist of my attention (none other than Bernie Sanders himself, who my mom at first thought was a spammer because my description was too good to be true for a politician, and rightfully, since he's more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) than politics).
 
 Speaking of the elderly...
 
