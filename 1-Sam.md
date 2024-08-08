@@ -41,7 +41,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Comedic Aside: Sexier moments during Chenliang tenure:
       - More Seriously
         - Rituals, Religion, & Hell
-        - Geriatric Unit Hospitalization
+        - Geriatric unit hospitalization
         - Warmth, nature, and organic-type foods
         - Schools
         - How my grandpa died
