@@ -364,7 +364,7 @@ Last-minute, and with almost no notice, and without Niaz's approval, Chenliang w
 
 As Niaz said, "I don't know what he was thinking."
 
-Now some much-needed levity to an intense time period (how do I do this transition naturally?):
+Now some much-needed levity to an intense time period (how do I do this transition naturally?)...
 
 ### Comedic Aside: Sexier moments during Chenliang tenure:
 
