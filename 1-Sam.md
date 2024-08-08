@@ -41,11 +41,11 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Comedic Aside: Sexier moments during Chenliang tenure:
       - More Seriously
         - Rituals, Religion, & Hell
+        - How my grandma got dementia
+        - How my grandpa died
         - Geriatric unit hospitalization
         - Warmth, nature, and organic-type foods
         - Schools
-        - How my grandpa died
-        - How my grandma got dementia
         - Intimacy healing
         - The artificial and synthetic
         - AI
