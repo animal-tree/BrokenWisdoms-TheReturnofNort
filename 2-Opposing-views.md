@@ -429,9 +429,13 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 #### I didn't mention fingernails (fingernails regrowth)
 
-My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier. She survived the Nazi attack on Moscow. Together with her older sister, they threw fire bombs off the roofs that were being dropped to burn the houses. First she was a German language teacher, from an early age. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separately. Later, she was an academic principle of the school and continued teaching.
+My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier. In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls, threw fire bombs off the roof, that the Nazi helicopters were dropping fire bombs on, meant to burn the houses. 
 
-She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at JCC, that I had her fingernails. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Anyway, I also lost my fingernails in functionality due to the Dupilumab cessation in 2018. They regrew, healthy enough, but were purple and bendy like putty for a really long time, maybe into 2019. That girlfriend and I actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews.
+She was about 24 when she and my grandpa arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principle of a school and continued teaching.
+
+She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at JCC, that I had her fingernails, perhaps unusual. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Also an unusual remark, at an important juncture involving my grandma. 
+
+Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthy enough, but were purple and bendy like putty for a really long time, maybe into 2019. That girlfriend and I actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews.
 
 #### How my grandma got dementia
 
