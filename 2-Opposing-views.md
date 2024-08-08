@@ -463,6 +463,8 @@ She was prescribed Lyrica.
 
 The Lyrica caused the dementia.
 
+We knew.
+
 #### How my grandpa died
 
 His heart doctor was in another building, and they had to carry up my grandpa to that doctor.
