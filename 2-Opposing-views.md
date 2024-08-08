@@ -469,9 +469,7 @@ In Uzbekistan, by the way — I know, can you imagine how backwards this is goin
 
 #### How my grandma got dementia
 
-She was prescribed Lyrica.
-
-The Lyrica caused the dementia.
+She was prescribed Lyrica and Neurontin. We suspect one of those caused the dementia.
 
 She shortly outlived my grandpa, and died the same year as him a week before his April 16 birthday.
 
