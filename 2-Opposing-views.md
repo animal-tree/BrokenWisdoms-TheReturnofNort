@@ -424,7 +424,7 @@ And by the way, that sudden hair regrowth was 2 years after the summer when the 
 
 In the next hospitalization (described below), there was another guy my age in the geriatric unit. I sat with him every day towards my last days there at the window. He and I talked. I described Tayler to him in vague terms. We were talking about deep things, really deep things. I told him about my self consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me.
 
-But, in case the detail was missed ("since chunks of it were falling out again in that geriatric unit"), it was there that it turned out to be falling out again, and proceeded to partially for months after.
+But, in case the detail was missed ("since chunks of it were falling out again in that geriatric unit"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
 
 #### Geriatric Unit Hospitalization
 
