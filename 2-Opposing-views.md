@@ -447,11 +447,11 @@ My grandpa's heart failed, at least sooner than it would've, due to the trial of
 
 In Uzbekistan, primary physicians visited patients, even to their homes, as a part of the standard healthcare system. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
 
-Perhaps it's worth making that point since his death preceded just before another Bernie Sanders type figure propped up into the zeitgeist of my attention.
-
-#### Geriatric unit hospitalization
+Perhaps it's worth making that point since his death preceded just before another Bernie Sanders type figure propped up into the zeitgeist of my attention (none other than Bernie Sanders himself, who my mom at first thought was a spammer because my description was too good to be true for a politician, and rightfully, since he's more about governance than politics).
 
 Speaking of the elderly...
+
+#### Geriatric unit hospitalization
 
 > [!WARNING]
 > In December, 2020, about a month after Tayler blocked me, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
