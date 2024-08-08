@@ -496,7 +496,7 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 Those environments are where we learn that some people are inferior to others, namely, students, to teachers and adults, with potentially permanent life-threatening consequences. And those structures disseminate to the relationships between kids. And the hierarchy — the kingdoms — that are built within minds reflect that system long into adulthood.
 
-We overcome those fears of cooties, but [we don't overcome those kingdoms.](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/My-Spirituality.md)
+Some of us overcome those fears of cooties, but [none of us overcome those kingdoms.](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/My-Spirituality.md)
 
 The wisdoms of these doctors and professors is built from those systems. It's to those systems that those people, and all or most of us, hold reverance. No matter what degrees of education are held up as representative of the acquision of wisdom, the kingdom that is worshipped is the one that begins in the concentration camps of our childhoods.
 
