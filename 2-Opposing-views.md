@@ -424,7 +424,7 @@ I had to sleep in a chair for several nights in a shared open area filled with o
 
 That was the geriatric unit hospitalization, psychiatric wards were full, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair in those conditions they transferred me to a geriatric unit, with almost nobody my age and I thought I was in Hell. They had no knowledge of this, nor was that my state of thinking coming into the hospitalization.
 
-Clinicians should stop using the expression "I'm gonna take your vitals" because "vitals" means "that which is vital to somebody," e.g., their soul or loved ones, and that is a terrifying thing to hear during a schizophrenic episode when you have no choice but to let them strap you or inject you or whatever, and your mind possibly is tuned to a ritual level where symbolism has extreme sacred meaning.
+Clinicians should stop using the expression "I'm gonna take your vitals" because that is a terrifying thing to hear during a schizophrenic episode when you have no choice but to let them strap you or inject you or whatever, and your mind possibly is tuned to a ritual level where symbolism has extreme sacred meaning. The symbolism of "vitals" being taken, in the context of vampyrism or losing a loved one, isn't good.
 
 My hair was falling out in my hands.
 
