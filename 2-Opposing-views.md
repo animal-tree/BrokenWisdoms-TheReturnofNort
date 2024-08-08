@@ -461,7 +461,7 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 His heart doctor was in another building, and they had to carry up my grandpa to that doctor.  He died that night of heart attack.
 
-My grandpa was a self-reliant man, but the stress of moving from his hospital to the other one to see that heart doctor in his office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems he entered the hospital for. He survived two heart attacks previously, one in Uzbekistan and one in America, and was in the hospital for kidney issues. They had an opening in that department later and my sister was offered a position by coincidence specializing in kidney issues as a nurse practitioner, where she works now, working with patients, writing prescriptions, including kidney dialysis, however entirely by coincidence, since that's where they had the opening and she was applying to different places after she got her master's degree and that's where they accepted her. He was in there for kidney issues, and died from a heart attack after a gruelling trial to get to his heart doctor. 
+My grandpa was a self-reliant man, but the stress of moving from his hospital to the other one to see that heart doctor was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems he entered the hospital for. He survived two heart attacks previously, one in Uzbekistan and one in America. He was in there, in RGH, for kidney issues, and died from a heart attack after a gruelling trial to get to his heart doctor's office in the other hospital building. 
 
 <!-- **You people are murderers.** -->
 
