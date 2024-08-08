@@ -344,7 +344,7 @@ Henry got an offer to lead the AI division at the National Science Foundation in
 
 For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
-Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, without pay, or no acceptance. Had I failed to do that, I wouldn't have an advisor or pay, and most likely, that would've meant termination.
+Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, without pay, or no acceptance. Had I failed to do that, I wouldn't have an advisor or pay, and that would've meant dropping out most likely (and more specifically, termination).
 
 I presented Semantic Segmentation with MHDPA applied to image features. That, applied to a Computer Vision domain specifically, would've been the first Vision Transformer, but there wasn't enough time to build and benchmark that with the pressure and deadline from Chenliang.
 
