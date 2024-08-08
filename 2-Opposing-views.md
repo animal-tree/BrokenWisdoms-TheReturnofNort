@@ -459,13 +459,13 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 #### How my grandpa died
 
-My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. He was having trouble breathing and my mom had to take him to the hospital. According to the blood analysis, apparently he had a heart attack about a week earlier. His heart doctor came to the hospital and recommended a stent be put in his heart's main artery. The surgeon wasn't able to do it for the main artery, because it was completely blocked, and so he put in stents into the little arteries that were narrow but weren't the cause of the congestive heart failure. For some reason, not knowing what to do with him, they discharged him and sent him to the Jewish home for rehabilitation, for physical therapy to help with his kidneys.
+My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. He was having trouble breathing and my mom had to take him to the hospital. According to the blood analysis, apparently he had a heart attack about a week earlier. His heart doctor came to the hospital and recommended a stent be put in his heart's main artery. The surgeon wasn't able to do it for the main artery, because it was completely blocked, and so he put in stents into the little arteries that were narrow but weren't the cause of the congestive heart failure. After that surgery, his kidneys got worse and he couldn't walk at all anymore. He couldn't stand up on his feet. For some reason, not knowing what to do with him, they discharged him and sent him to the Jewish home for rehabilitation, for physical therapy to help with his kidneys.
 
 They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office in a different location.
 
 My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that gruelling trial to get to his heart doctor's office. That doctor had even asked, "Why was he discharged from the hospital? In this condition, he should be in the hospital." 
 
-His heart failed, at least sooner than it would've, due to the trial of getting him to the bus from the Jewish home that took him to his heart doctor.
+His heart failed, at least sooner than it would've, due to the trial of getting him to the bus from the Jewish home that took him to his heart doctor. 
 
 In Uzbekistan, primary physicians visited patients, even to their homes. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
 
