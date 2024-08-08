@@ -41,6 +41,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Comedic Aside: Sexier moments during Chenliang tenure:
       - More Seriously
         - Rituals, Religion, & Hell
+        - I didn't mention fingernails (fingernails regrowth)
         - How my grandma got dementia
         - How my grandpa died
         - Geriatric unit hospitalization
