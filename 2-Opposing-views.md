@@ -460,7 +460,7 @@ She was prescribed Lyrica.
 
 #### How my grandpa died
 
-His doctor was in anotehr building, and they had to move my grandpa to bring my grandpa to the doctor.
+His doctor was in another building, and they had to move my grandpa to bring my grandpa to the doctor.
 
 In Uzbekistan, by the way — I know, can you imagien how backwards this is going to be — the doctors visited the patients.
 
