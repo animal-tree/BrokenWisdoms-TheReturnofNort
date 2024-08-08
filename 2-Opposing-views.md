@@ -429,7 +429,7 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 #### I didn't mention fingernails (fingernails regrowth)
 
-My grandma had long grey hair, down to almost her hips, that she curled up behind her head. I had her fingernails, she told me once in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at the JCC, which I also lost in functionality due to the Dupilumab cessation in 2018. They regrew, healthy enough, but were purple and bendy like putty for a really long time.
+My grandma had long grey hair, down to almost her hips, that she curled up behind her head. She was proud of her vanities, but she was far from vain. She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at the JCC, that I had her fingernails. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Anyway, I also lost my fingernails in functionality due to the Dupilumab cessation in 2018. They regrew, healthy enough, but were purple and bendy like putty for a really long time, maybe into 2019. That girlfriend and I actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews.
 
 #### How my grandma got dementia
 
