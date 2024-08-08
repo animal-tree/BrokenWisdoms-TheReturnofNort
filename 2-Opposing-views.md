@@ -429,9 +429,11 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 #### I didn't mention fingernails (fingernails regrowth)
 
-My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier. In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi helicopters were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease, while their step mother was sick with tuberculosis; and a little younger step-brother Yura who was too young to help throw the fire bombs.
+In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi helicopters were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease, while their step mother was sick with tuberculosis; and a little younger step-brother Yura who was too young to help throw the fire bombs.
 
 She was about 24 when she and my grandpa arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principle of a school and continued teaching.
+
+My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.
 
 She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at JCC, that I had her fingernails, perhaps unusual. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Also an unusual remark, at an important juncture involving my grandma. 
 
