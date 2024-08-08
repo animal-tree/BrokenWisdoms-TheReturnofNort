@@ -408,7 +408,7 @@ Later, as I walked along that hallway — I don't know if it was a psychiatric u
 
 A ritual was happening that couldn't be desecrated or remarked upon. No clinical logic could destroy it.
 
-Tayler stopped messaging with me on our coinciding November birthdays — yes really I’m serious. Well, coinciding week-wise. She was a couple years younger than me. In case the Taylor-CAM cam-girl synchronicity and Christmas, 2018 trauma together with a bald Jewish guy wasn't enough coincidence, our birthdays week-wise were days apart. And coincided also, less amazingly, with when she blocked me, November, 2020.
+Tayler stopped messaging with me on our coinciding November birthdays — yes really I’m serious. Well, coinciding week-wise. She was a couple years younger than me. In case the one-week-after Taylor-CAM cam-girl synchronicity and Christmas, 2018 trauma together with a bald Jewish guy wasn't enough coincidence, our birthdays week-wise were days apart. And coincided also, less amazingly, with when she blocked me, November, 2020.
 
 In December, 2020, I had another hospitalization, the last hospitalization, the geriatric unit (elderly facility) one.
 
