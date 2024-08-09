@@ -83,7 +83,7 @@ After that house, I moved in with my mom to our apartment, where I came up with 
 
 ### Psychosis, and Rochester General Hospital (RGH)
 
-About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my "opinion," by an ordinary psychiatric definition, was "psychotic" or "schizophrenic," since the two days of it prior to the hospitalization involved: 
+About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my "opinion," by an ordinary psychiatric definition, was "psychotic" — actually, "schizophrenic" — since the two days of it prior to the hospitalization involved: 
 
 - God telling me “He” was going to kill my mom if I didn’t circumcise myself;
 - circumcising myself;
