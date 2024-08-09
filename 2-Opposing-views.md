@@ -110,7 +110,7 @@ About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychoti
 - my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
 - a nurse, and I think no one else, saw and remarked on the slice/gash on my foreskin;
 - the foreskin eventually healed, and that is a miracle;
-- [add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of the details of the psychosis, including circumcision marks]).
+- [add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of the details of the psychosis, including circumcision]).
 
 There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
 
