@@ -329,7 +329,7 @@ I rehearsed that area exam in front of my mom and uncle for a week every day bef
 
 My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. My best friend was texting me at the time and was proud. He knew about the benzo trauma, though even he didn't know about those preceding details that led to the hospitalization at RGH. Nobody even in my family did. Definitely Henry didn't.
 
-Henry got an offer to lead the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted and I had to find a new advisor. He directed me to switch to Chenliang Xu, who gave me an ultimatum about joining. I worked under him for 3 years, at which time he deserted.
+Henry got an offer to lead the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted and I had to find a new advisor. He directed me to switch to Chenliang Xu, who gave me an ultimatum about joining. I worked under Henry for 3 years, at which time he deserted. I worked under Chenliang for 3 years, at which time he deserted.
 
 ### Chenliang Xu
 
