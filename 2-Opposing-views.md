@@ -436,7 +436,9 @@ In Moscow, during the Nazi attack, my grandma and her older sister, while they w
 > ### $\Huge &#8221;$
 > &ensp;&ensp; - Translated by my mom from an interview with my grandma in a draft of an essay my mom wrote for MCC, in October, 2000. Brackets denote additions by my mom.
 >
-> TO DO: Add the whole interview. 
+> TO DO: Add the whole interview.
+>
+> Also, the voice interview with my grandpa.
 
 My grandma was about 24 when she and my grandpa arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principle of a school and continued teaching.
 
