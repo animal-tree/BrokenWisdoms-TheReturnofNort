@@ -229,6 +229,7 @@ Note also: the University of Rochester's CS department doesn't have PhD "reinsta
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
 From: **CS department chair**
+CC: **Wendi Heinzelman, Nick Vamivakas, Chenliang Xu, Robin Clark**
 
 Dear Sam,
 
