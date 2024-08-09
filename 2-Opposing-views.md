@@ -83,7 +83,7 @@ After that house, I moved in with my mom to our apartment, where I came up with 
 
 ### Psychosis, and Rochester General Hospital (RGH)
 
-About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my "opinion," by an ordinary psychiatric definition, was "psychotic" — actually, "schizophrenic" — since the two days of it prior to the hospitalization involved: 
+About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my "opinion," by an ordinary psychiatric definition, was "psychotic" since the two days of it prior to the hospitalization involved: 
 
 - God telling me “He” was going to kill my mom if I didn’t circumcise myself;
 - circumcising myself;
@@ -92,7 +92,7 @@ About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychoti
   - a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by;
   - I think “God” figured “good enough” after that, seeing as all my strength was used, and blood was over the kitchen floor;
   - I cleaned up the blood with paper towels;
-- then God telling me “He” was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, the earlier one "schizophrenic" was probably good — state I was in;
+- then God telling me “He” was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, "schizophrenic" — state I was in;
 - staying in the woods in the freezing snow all day and night;
 - "God" telling me I had to stay there for a week;
 - “God” telling me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom, and I chose down and kept choosing down;
