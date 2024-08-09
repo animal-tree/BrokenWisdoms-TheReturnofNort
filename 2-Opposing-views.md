@@ -411,7 +411,7 @@ Later, as I walked along that hallway — I don't know if it was a psychiatric u
 
 A ritual was happening that couldn't be desecrated or remarked upon. No clinical logic could destroy it.
 
-The theme of my best friend returned in the next hospitalization, in the geriatric unit (elderly facility) one, where I imagined him as the Devil, but that schizophrenic-like delusion was the least Hellish thing about that hospitalization (described next), and I thought I was literally condemned in Hell, literally in Hell and I would never see humanity or good again. Having somebody I can trust — despite being imagined — play the role of the most fearful part of that trauma, made the actual Hellishness of that hospitalization less Hellish. The delusion, in spite of the environment, was good.
+The theme of my best friend returned in the next hospitalization, in the geriatric unit (elderly facility) one, where I imagined him as the Devil, but that schizophrenic-like delusion was the least Hellish thing about that hospitalization (described later [below](#geriatric-unit-hospitalization), after four short detours), and I thought I was literally condemned in Hell, literally in Hell and I would never see humanity or good again. Having somebody I can trust — despite being imagined — play the role of the most fearful part of that trauma, made the actual Hellishness of that hospitalization less Hellish. The delusion, in spite of the environment, was good.
 
 It's the delusion that doctors and hospitals are trying to heal. However, in that example, it was the doctors and hospital who were creating a Hell, and the delusion was the only healing part of it. In that delusion, he was quite snarky.
 
