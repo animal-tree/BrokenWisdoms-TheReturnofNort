@@ -468,7 +468,7 @@ In Uzbekistan, primary physicians visited patients, even to their homes, as a st
 
 #### Geriatric unit hospitalization
 
-My grandpa's death preceded when another old Jewish Bernie Sanders-type role model propped up into the zeitgeist of my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. Previously, I argued for Obama in my high school, and made an election video for the school since I was working as a media specialist there, but wasn't old enough to vote. 
+My grandpa's death in 2016 preceded another old Jewish Bernie Sanders-type role model rising to my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. Previously, I argued for Obama in my high school, and made an election video for the school since I was working as a media specialist there, but wasn't old enough to vote. 
 
 Since the reference returns later, I'll mention: one of Bernie's cornerstone policies is [Medicare For All](https://berniesanders.com/issues/medicare-for-all/).
 
