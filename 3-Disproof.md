@@ -24,7 +24,7 @@ Computer Science Department, University of Rochester</br>
 ### Email: 10/30/2023
 
 Subject line: **Re: [Grads] Supporting students**</br>
-To: **CS grad department students, Wendi Heinzelman, Nick Vamivakas**</br>
+To: **CS grad department students**</br>
 From: **Sam Lerman**</br>
 
 Michael, can you clarify where in the PhD handbook it says that a student with two publications (one pending) may be dismissed, last-minute and without prior warning, for “not enough papers” in their 6th year? In the middle of a paper-review response, by the way. Pending, with positive reviews. And having had no begrudging or otherwise “tacit” negative relationship with their advisor. Purely on that reason: “not enough papers”.
@@ -227,8 +227,9 @@ Any appearance of the below email as indicating a reinstatement-condition is gas
 Note also: the University of Rochester's CS department doesn't have PhD reinstatement applications.
 
 Subject line: **Re: Supporting students**</br>
-To: **Sam Lerman, Wendi Heinzelman, Nick Vamivakas, Chenliang Xu, Robin Clark**</br>
+To: **Sam Lerman**</br>
 From: **CS department chair**</br>
+CC: **Wendi Heinzelman, Nick Vamivakas, Chenliang Xu, Robin Clark**
 
 Dear Sam,
 
