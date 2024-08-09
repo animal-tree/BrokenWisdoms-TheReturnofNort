@@ -523,7 +523,7 @@ Speaking of the elderly...
 >
 > While drugged with benzos in the enclosed-dungeon area, my brain went from that strange pseudo-schizotypal paranoia I began in to a full blown "I'm literally condemned here forever and this is literally another dimension or Hell" state.
 >
-> Since Winter, 2020/2021, I have not had another serious or psychiatric hospitalization. There was one hospitalization half a year later, in which I was there for half a day, but they neither held me there nor believed there was any psychiatric issue. The geriatric unit hospitalization was traumatizing, but that's not the reason why I successfully avoided future imprisonments. My ability to live with those schizophrenic states, consciously and drug-free, increased to the point that they aren't schizophrenic states, but unambiguous connections to a deeper wisdom. Humans and other cultures have been integrating that wisdom long before hospitals existed. I'm pretty good at it.
+> Since Winter, 2020/2021, I have not had another serious or psychiatric hospitalization. There was one hospitalization half a year later, in which I was there for half a day, but they neither held me there nor believed there was any psychiatric issue. The geriatric unit hospitalization was traumatizing, but that's not the reason why I successfully avoided future imprisonments. My ability to live with those schizophrenic states (trances, including less trustworthy ones), consciously and drug-free, increased to the point that they aren't schizophrenic states, but unambiguous connections to a deeper wisdom. Humans and other cultures have been integrating that wisdom long before hospitals existed. I'm pretty good at it.
 
 To do: Make a diagram specifically for geriatric unit hospitalization.
 
