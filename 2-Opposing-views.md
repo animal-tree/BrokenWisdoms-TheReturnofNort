@@ -521,7 +521,7 @@ Speaking of the elderly...
 >
 > Some crazy-person advice: Clinicians should stop using the expression, "I'm gonna take your vitals,” because when a patient thinks they’re in Hell, that is a terrifying thing to hear. Their mind possibly is tuned to a ritual level of thinking where symbolism has extreme sacred meaning. The symbolism of "vitals" being “taken,” in the context of vampyrism or losing a loved one, isn't good. Just a suggestion, especially when they have no choice but to let those clinicians strap them or inject them or drug them. 
 >
-> While drugged with benzos in the enclosed-dungeon area, my brain went from that strange pseudo-schizotypal paranoia I began in to a full blown schizophrenic state.
+> While drugged with benzos in the enclosed-dungeon area, my brain went from that strange pseudo-schizotypal paranoia I began in to a full blown "I'm literally condemned here forver and this is literally another dimension or Hell" state.
 >
 > Since Winter, 2020/2021, I have not had another serious or psychiatric hospitalization. There was one hospitalization half a year later, in which I was there for half a day, but they neither held me there nor believed there was any psychiatric issue. The geriatric unit hospitalization was traumatizing, but that's not the reason why I successfully avoided future imprisonments. My ability to live with those schizophrenic states, consciously and drug-free, increased to the point that they aren't schizophrenic states, but unambiguous connections to a deeper wisdom. Humans and other cultures have been integrating that wisdom long before hospitals existed. I'm pretty good at it.
 
