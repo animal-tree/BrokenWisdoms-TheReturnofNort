@@ -224,7 +224,7 @@ Support, as distinct from pay, was withdrawn long before Michael or any faculty 
 
 Any appearance of the below email as indicating a reinstatement-condition is gaslighting. The referent of what is mentioned is reinstatement, not a reinstatement-condition. Even if that weren't the case, "in writing" cannot be relegated as "in person" (and thereby “off the record”) unless the indicated reinstatement-condition can redefine the clause from which it's necessitated, but the PhD student handbook isn't a rewritable Turing tape (at least not ad lib), making that absurd to such a point that asserting it becomes gaslighting.
 
-Note also: the University of Rochester's CS department doesn't have PhD "reinstatement applications." 
+Note also: the University of Rochester's CS department doesn't have PhD reinstatement applications.
 
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
