@@ -466,7 +466,7 @@ My grandpa's heart failed, at least sooner than it would've, due to the trial of
 
 In Uzbekistan, primary physicians visited patients, even to their homes, as a standard part of their healthcare system. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
 
-#### Another old Jew helps transition the times
+#### Old Jew transition
 
 My grandpa's death in 2016 preceded another old Jewish Bernie Sanders-type role model rising to my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. Previously, I argued for Obama in my high school, and made an election video for the school since I was working as a media specialist there, but wasn't old enough to vote. 
 
