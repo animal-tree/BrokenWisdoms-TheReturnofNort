@@ -519,7 +519,7 @@ Speaking of the elderly...
 > - I was transferred to a geriatric unit, with almost nobody my age, and an environment that lacked any nature, with only synthetic plastics, no genuine warmth, and an abundance of chocolate Ensures.
 > - My hair was falling out into my hands and my eczema returned.
 >
-> Some crazy-person advice: Clinicians should stop using the expression "I'm gonna take your vitals,” because when a patient thinks they’re in Hell, that is a terrifying thing to hear. Then that patient has no choice but to let those clinicians strap the patient or inject the patient or whatever, and the patient’s mind is possibly tuned to a ritual level of thinking where symbolism has extreme sacred meaning. The symbolism of "vitals" being “taken,” in the context of vampyrism or losing a loved one, isn't good. Just a suggestion. 
+> Some crazy-person advice: Clinicians should stop using the expression "I'm gonna take your vitals,” because when a patient thinks they’re in Hell, that is a terrifying thing to hear. Their mind possibly is tuned to a ritual level of thinking where symbolism has extreme sacred meaning. The symbolism of "vitals" being “taken,” in the context of vampyrism or losing a loved one, isn't good. Just a suggestion, especially when they have no choice but to let those clinicians strap them or inject them or drug them. 
 >
 > While drugged with benzos in the enclosed-dungeon area, my brain went from that strange pseudo-schizotypal paranoia I began in to a full blown schizophrenic state.
 >
