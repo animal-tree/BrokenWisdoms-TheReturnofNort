@@ -472,7 +472,7 @@ My grandpa's death in 2016 preceded another old Jewish Bernie Sanders-type role 
 
 Since the reference returns later, I'll mention: one of Bernie's cornerstone policies is [Medicare For All](https://berniesanders.com/issues/medicare-for-all/).
 
-I wanted to denote to Bernie early in his campaign, before he was a household name. My mom was worried his emails might've been spam because my description sounded too good to be true for a politician. And I suppose it was, since he's not exactly a politician and more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) and specific policies. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews. 
+I wanted to donate to Bernie early in his campaign, before he was a household name. My mom was worried his emails might've been spam because my description sounded too good to be true for a politician. And I suppose it was, since he's not exactly a politician and more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) and specific policies. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews. 
 
 But I bring him up now because the following chapters are going to point to some serious problems more specifically, and address some specific reforms. How do I transition into this... Well...
 
