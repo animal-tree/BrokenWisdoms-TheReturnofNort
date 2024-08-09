@@ -509,7 +509,7 @@ Speaking of the elderly...
 >
 > That was the geriatric unit hospitalization, psychiatric wards were full, ran over my toe, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair, they transferred me to a geriatric unit, with me unable to leave my bed through New Year’s because I thought I was in Hell, once they situated me in that geriatric unit room. They had no knowledge of that thinking, nor was that my state of thinking coming into the hospitalization. 
 >
-> I wasn’t risking the tongue trick from before to spit out the benzos. I wasn’t in that kind of flow state. But perhaps all of this was my fault because, later, when they gave me a Covid mask, in the geriatric unit, which they didn’t while in the open area with other patients, I got to spit the benzos out into that.
+> I wasn’t risking the tongue trick from before to spit out the benzos. I wasn’t in that kind of flow state. But perhaps all of this was my fault because, later, when they gave me a Covid mask, in the geriatric unit, which I don't recall if they did while in the open area with other patients, I got to spit the benzos out into that.
 >
 > I think they did a Covid test before transferring me, though I don't recall one. I'm just inferring, since it was a geriatric unit (a unit for the elderly).
 >
