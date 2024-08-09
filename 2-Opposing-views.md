@@ -207,11 +207,11 @@ The next part of the story conveys some of my trauma, and it's goun be hard to w
 
 ### My trauma
 
-They didn't ask about what happened to me. They just wanted to treat the "catatonia," which, ironically, wasn't what it was, didn't involve immobolization (delusional-adherence to threats from "God" aren't the same as catatonia), and I was conscious. The previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write.
+They didn't ask about what happened to me. They just wanted to treat the "catatonia," which, ironically, wasn't what it was, didn't involve immobolization (delusional-adherence to threats from "God" aren't the same as catatonia), and I was conscious. The previous trauma was too recent for me to explain it to them. All of this took the last 5 years to process into a form that I could write.
 
 The first psychiatrist was scheduling to wean me off from the benzos before my discharge. I quickly told him I was worried about the benzos, and he seemed prompted to withdraw me as fast as safely possible. He assured me it'd be before the discharge.
 
-The second psychiatrist changed the schedule some time after that. She came in to replace him, and he wanted to wean me off still, and knew how much I wanted to be weaned off, and she was utterly insistent that the outpatient doctor would wean me off. That means the psychiatrist after the hospitalization.
+The second psychiatrist changed the schedule some time after that. She came in to replace him, and he wanted to wean me off still, and knew how concerned I was, and she was utterly insistent that the outpatient doctor would wean me off. That means the psychiatrist after the hospitalization.
 
 He didn't. I don't remember his name either, but not because of being high — at that point, I was in severe cognitive decline, and the euphoria was turning into grey cloud and fog, excruciating anxiety and fear, and terror. 
 
