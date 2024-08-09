@@ -466,7 +466,7 @@ My grandpa's heart failed, at least sooner than it would've, due to the trial of
 
 In Uzbekistan, primary physicians visited patients, even to their homes, as a standard part of their healthcare system. That wasn't the case with cardiologists, but American healthcare should try to go a step up from Uzbek healthcare, not a step down.
 
-#### Geriatric unit hospitalization
+#### Another old Jew helps transition the times
 
 My grandpa's death in 2016 preceded another old Jewish Bernie Sanders-type role model rising to my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. Previously, I argued for Obama in my high school, and made an election video for the school since I was working as a media specialist there, but wasn't old enough to vote. 
 
@@ -477,6 +477,8 @@ I wanted to donate to Bernie early in his campaign, before he was a household na
 But I bring him up now because the following chapters are going to point to some serious problems more specifically, and address some specific reforms, ones that aren't redundant to the ones Bernie Sanders has already done a damn good job of popularizing into a skeptical mainstream audience, especially in the purported views of Democratic politicians since his surgency. How do I transition into this... Well...
 
 Speaking of the elderly...
+
+#### Geriatric unit hospitalization
 
 > [!WARNING]
 > In December, 2020, about a month after Tayler blocked me, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
