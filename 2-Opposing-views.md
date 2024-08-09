@@ -29,9 +29,9 @@ The I Ching "answered" it didn’t matter which of the two paths I chose ("The t
 
 Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
 
-Another time I did the steak/salmon-only diet, my pubic hair fully grew back — temporarily.
+Another time I did the steak-only diet, my pubic hair fully grew back — temporarily.
 
-Another time I did the steak/salmon-only diet, a few eyelashes grew back for the first time. 
+Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
 
 That can’t be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
@@ -246,9 +246,9 @@ Starting some months (maybe 4th month) into taking the benzos, before I began we
 
 The nightmare I mentioned earlier was a waking one for a year.
 
-You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak/salmon-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos.
+You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos.
 
-The steak/salmon-diet saved my ass.
+The steak-diet saved my ass.
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the year of benzo neurochemical torture.
 
@@ -419,7 +419,7 @@ Later, my best friend returned, literally. We were texting and he remarked, with
 
 #### Hair regrowth
 
-I was on a steak/salmon-only diet since at least April, 2020. That regrowth started during Tayler, and before the Tayler hospitalization. In the Tayler hospitalization, it was already regrown in parts and regrowing in others. When my self consciousness returned and I started periodically wearing a hat, the older Lily woman copied the look and started also wearing a hat when I did. Mobi remarked on my hair  when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair (“oh that’s why”). And I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. But the point is, my hair was already growing back, and was already in patches everywhere (on my head), when I was on the steak/salmon-only diet and before the Tayler hospitalization.
+I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmons as well). That regrowth started during Tayler, and before the Tayler hospitalization. In the Tayler hospitalization, it was already regrown in parts and regrowing in others. When my self consciousness returned and I started periodically wearing a hat, the older Lily woman copied the look and started also wearing a hat when I did. Mobi remarked on my hair  when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair (“oh that’s why”). And I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. But the point is, my hair was already growing back, and was already in patches everywhere (on my head), when I was on the steak/salmon-only diet and before the Tayler hospitalization.
 
 And by the way, that sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Full head hair regrowth in alopecia universalis is nearly unprecedented. Actually, even more medically rare/unprecedented: full head hair regrowth in alopecia universalis with comorbid eczema.
 
