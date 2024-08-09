@@ -470,11 +470,13 @@ In Uzbekistan, primary physicians visited patients, even to their homes, as a st
 
 My grandpa's death in 2016 preceded another old Jewish Bernie Sanders-type role model (whose name either rhymes with, or is, "Yury") rising to my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. Previously, I argued for Obama in my high school, and made a non-propagandizing video about the school's Election Day event since I was working as a media specialist there, but wasn't old enough to vote. This time I voted in the primaries, and I count that as my first vote.
 
-I wanted to donate to Bernie early in his campaign, before he was a household name. My mom was worried his emails might've been spam because my description sounded too good to be true for a politician. And I suppose it was, since he's not exactly a politician and more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) and specific policies. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders. I gave a vote to Clinton in the general, but, unlike others, didn't go so far as to put an "I voted" sticker on Susan B. Anthony's gravestone.
+I wanted to donate to Bernie early in his campaign, before he was a household name. My mom was worried his emails might've been spam because my description sounded too good to be true for a politician. And I suppose it was, since he's not exactly a politician and more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) and specific policies. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders. 
 
-However, that cemetary connected the street to the park of my former house on May St. I walked, biked, or drove through that cemetary every day to get to the University of Rochester campus when I was living there during my PhD. 
+After the primaries, I gave a vote to Hillary Clinton in the general election, but, unlike others, didn't go so far as to put an "I voted" sticker on Susan B. Anthony's gravestone.
 
-But I bring him up now because the following chapters are going to point to some serious problems more specifically, and address some specific reforms, ones that aren't redundant to the ones Bernie Sanders has already done a damn good job of popularizing into a skeptical mainstream audience, especially in the purported views of Democratic politicians since his surgency. How do I transition into this... Well...
+However, that cemetary connected the street of my former house on May St. to Highland Park, which it was closer to. I walked, biked, or drove through that cemetary every day to get to the university campus when I was living there.
+
+The following chapters are going to point to some serious problems more specifically, and address some specific reforms, ones that aren't redundant to the ones Bernie Sanders has already done a good job of popularizing into a skeptical mainstream audience, especially in the purported views of Democratic politicians since his surgency. How do I transition into this... Well...
 
 Speaking of the elderly...
 
