@@ -468,9 +468,7 @@ In Uzbekistan, primary physicians visited patients, even to their homes, as a st
 
 #### Another old Jew helps transition the times
 
-My grandpa's death in 2016 preceded another old Jewish Bernie Sanders-type role model (whose name either rhymes with, or is, "Yury") rising to my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. Previously, I argued for Obama in my high school, and made a non-propagandizing video about the school's Election Day event since I was working as a media specialist there, but wasn't old enough to vote. 
-
-Since the reference returns later, I'll mention: one of Bernie's cornerstone policies is [Medicare For All](https://berniesanders.com/issues/medicare-for-all/).
+My grandpa's death in 2016 preceded another old Jewish Bernie Sanders-type role model (whose name either rhymes with, or is, "Yury") rising to my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. Previously, I argued for Obama in my high school, and made a non-propagandizing video about the school's Election Day event since I was working as a media specialist there, but wasn't old enough to vote. This time I voted in the primaries, and I count that as my first vote.
 
 I wanted to donate to Bernie early in his campaign, before he was a household name. My mom was worried his emails might've been spam because my description sounded too good to be true for a politician. And I suppose it was, since he's not exactly a politician and more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) and specific policies. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders.
 
