@@ -515,8 +515,8 @@ Speaking of the elderly...
 >
 > To summarize:
 > - My big toe was painfully run over by the nurse, and ignored, no attention paid, disregarded screaming.
-> - I had to sleep in a chair for several nights in a shared open area filled with other patients while they neglected to transfer me to a room for a week with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and with food only that I was allergic to, while in an increasingly psychotic state.
-> - I was transferred to a geriatric unit, with almost nobody my age, and an environment that lacked any nature, with chocolate Ensures and synthetic plastics, no genuine warmth.
+> - I had to sleep in a chair for several nights in a shared open area filled with other patients for a week with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and with food only that I was allergic to, while in an increasingly psychotic state, and being told I'd be transferred to a unit later that day or the next day.
+> - I was transferred to a geriatric unit, with almost nobody my age, and an environment that lacked any nature, with only synthetic plastics, no genuine warmth, and an abundance of chocolate Ensures.
 > - My hair was falling out into my hands and my eczema returned.
 >
 > Some crazy-person advice: Clinicians should stop using the expression "I'm gonna take your vitals,” because when a patient thinks they’re in Hell, that is a terrifying thing to hear. Then that patient has no choice but to let those clinicians strap the patient or inject the patient or whatever, and the patient’s mind is possibly tuned to a ritual level of thinking where symbolism has extreme sacred meaning. The symbolism of "vitals" being “taken,” in the context of vampyrism or losing a loved one, isn't good. Just a suggestion. 
