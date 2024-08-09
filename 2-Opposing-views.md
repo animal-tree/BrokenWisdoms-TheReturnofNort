@@ -468,7 +468,13 @@ In Uzbekistan, primary physicians visited patients, even to their homes, as a st
 
 #### Geriatric unit hospitalization
 
-My grandpa's death preceded just before another old Jewish Bernie Sanders type role model propped up into the zeitgeist of my attention, none other than Bernie Sanders himself, promoting [Medicare For All](https://berniesanders.com/issues/medicare-for-all/), who my mom at first thought was a spammer because my description was too good to be true for a politician, and rightfully, since he's more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) than politics. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews.
+My grandpa's death preceded when another old Jewish Bernie Sanders-type role model propped up into the zeitgeist of my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. Previously, I argued for Obama in my high school, and made an election video for the school since I was working as a media specialist there, but wasn't old enough to vote. 
+
+Since the reference returns later, I'll mention: one of Bernie's cornerstone policies is [Medicare For All](https://berniesanders.com/issues/medicare-for-all/).
+
+I wanted to denote to Bernie early in his campaign, before he was a household name. My mom was worried his emails might've been spam because my description sounded too good to be true for a politician. And I suppose it was, since he's not exactly a politician and more about [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) and specific policies. That girlfriend who remarked on my cuticles, and I, actually bonded over our shared fanning over Bernie Sanders, speaking of old Jews. 
+
+But I bring him up now because the following chapters are going to point to some serious problems more specifically, and address some specific reforms. How do I transition into this... Well...
 
 Speaking of the elderly...
 
