@@ -765,7 +765,7 @@ His previous email read:
 > ### $\Huge &#8221;$
 > &ensp;&ensp;- **09/25/2023**
 
-In other words, 'Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by **10/06/2023**, now an added independent requirement to the previously delivered materials to the independent six-month review committee.'
+In other words, 'Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by **10/06/2023**, now an added independent requirement to the previously delivered research plan and materials to the independent six-month review committee.'
 
 Then I delivered another research plan, with precision and accuracy, by the specified date **10/06/2023**. 
 
