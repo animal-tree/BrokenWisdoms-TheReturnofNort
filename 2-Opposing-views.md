@@ -432,9 +432,11 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw "Зажигалки" (fire bombs) off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs.
 
 > ### $\Huge &#8220;$
-> Moscow was bombed every day, sometimes multiple times a day. 500 airplanes bombed the city in one day. Not only bombs, but also a lot of lighters were thrown from the airplanes. The alarm of the air raid required everyone to step down to the underground [bomb shelters], and I went there too. But if the air raid came at the time of our work shift, we, all working at the armory children [factory of defense], climbed on the roof. Our responsibility was to take the hot lighters and throw them off the roof, to prevent a fire." 
+> Moscow was bombed every day, sometimes multiple times a day. 500 airplanes bombed the city in one day. Not only bombs, but also a lot of lighters were thrown from the airplanes. The alarm of the air raid required everyone to step down to the underground [bomb shelters], and I went there too. But if the air raid came at the time of our work shift, we, all working at the armory children [factory of defense], climbed on the roof. Our responsibility was to take the hot lighters and throw them off the roof, to prevent a fire.
 > ### $\Huge &#8221;$
 > &ensp;&ensp; - Translated by my mom from an interview with my grandma in a draft of an essay my mom wrote for MCC, in October, 2000. Brackets denote additions by my mom.
+>
+> TO DO: Add the whole interview. 
 
 My grandma was about 24 when she and my grandpa arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principle of a school and continued teaching.
 
