@@ -70,7 +70,7 @@ And not only foretold to my university's professors, but innovated on and execut
 
 The head of OpenAI, the company that invented ChatGPT (that used MHDPA), whose name is "Sam Altman" (mine is Sam Lerman) — "Altman," which is not German Ashkenazi for "teacher" — was terminated as the head of OpenAI in an unusually sensationalized situation exactly 17 days after my termination as PhD student, then was brought back.
 
-They were working on some AGI project called Q*, and the synchronicity may have been meant to give me hope, but [it didn't](https://github.com/animal-tree/Suspicious-Synchronicities/blob/main/Synchronicity-Paranoias.md).
+They were working on some AGI project called Q*, and the synchronicity may have been meant to give me hope, but [it didn't](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Synchronicity-Paranoias.md).
 
 ### Michael Scott’s paper factory
 
