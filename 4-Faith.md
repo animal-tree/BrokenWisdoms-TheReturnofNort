@@ -72,9 +72,33 @@ The head of OpenAI, the company that invented ChatGPT (that used MHDPA), whose n
 
 They were working on some AGI project called Q*, and the synchronicity may have been meant to give me hope, but [it didn't](https://github.com/animal-tree/Suspicious-Synchronicities/blob/main/Synchronicity-Paranoias.md).
 
+### Michael Scott’s paper factory
+
+Michael’s name [is mockable](https://youtu.be/ZPKdJGY0YyE?si=ja-odwAD_z7G98ZK). 
+
+But from the age of three and two thirds, until 11th grade, as a result of the Uzbek translation when we moved, mine used to be much more mockable. 
+
+As I described to my friend: 
+
+> ### $\Huge &#8220;$
+> These quotes express that I am writing something, but i am aware that this writing is in quotes. Therefore do the quotes bias their own measurement of what is being written? I think so. Lest this paragraph thus far would not be entirely about the quotes.
+>
+> Anyway, I'm thinking about "Sam" - the name. Did you know, \<friend's name\>, (okay apparently this is a targeted-audience writing-prompt), that my name was Semen until 11th grade? This is new information to you as far as I can recall, but a major part of the story of my life. "story" sounds pretentious and there I go with the quotes again. 
+>
+> Yes, my name was legitimately, legally "Semen". From the age of 3ish/4 to 11th grade. And every bully and teacher and substitute teacher knew it. No one told me I could get a lawyer let alone a lawyer would do the process of changing the name for free! My mom to this day thinks it wouldn't have been possible before 11th grade, for free anyway. And we were poor. Lower-lower class poor. 
+> 
+> Maybe a lawyer and court would've sympathized with a kid wanting to change his name from "Semen", maybe not. But of course, it shaped me. Into being the odd weird "semen" that I am today. In actuality, my name is Seamón<sup>$\text{\color{green}[1.]}$</sup> or Soema, or the Americanized: Sim'on or Shimon<sup>$\text{\color{green}[2.]}$</sup>. In Hebrew these names mean wisdom. In the Kabbalistic teachings, two types of wisdom: seeing as the complement to hearing, hearing as the complement to seeing. I think I mentioned this already. I won't rehash but something something new paragraph.
+>
+> Anyway, I like Sam. Because Sam in all the fantasies and mythos' of modern time means "innocence." "Samwell", "Samwise", "Sam". It means "this person has a wisdom, but from the good of his heart, not his intelligence." It means "this person is naive, but he has a good heart." I like the name Sam. "Shimon" means "this person is wise through his intelligence." It's true, but it's not me all the time as you know. I like "Sam" though.
+> ### $\Huge &#8221;$
+
+$\text{\color{green}[1.]:}$ I think "Siímyon" might be the best spelling.
+
+$\text{\color{green}[2.]:}$ My Rabbi, who I hadn't met before 2022, actually told me this. He designated me as "Shimon," and told me that "Shimon" means "to hear" in Kabballic teachings. In Kabballic teachings, "to hear" is the complement to "to see." It's the second way of knowing. To hear is to understand, it's to fine out the meaning from the varied knowings, whereas "to see" is to know — it’s the sense or awareness of truth; no teaching needed. My mom being a music theory professor in Samarkand when I was born, I find it meaningful if this was my birth name, though really it had nothing to do with the Kabbalistic interpretation. My great-aunt’s late husband was named Siímyon. When my kindergarten teacher truncated my name to "Sem," it became "Sam," which is also synchronistic to where I was born, Samarkand. I'm not gonna make a second-cumming pun though. The real twist about my name, has to do with my physics method, and my grandma's father, TBA.
+
 ### "Life ruined" post, entire-forum being deleted 5 months after I emailed it to the faculty/administrators 
 
-Description [after having shown it to Niaz who commented in person about it, and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running]
+Description [after having shown it to Niaz who commented in person about it (and to faculty/administrators), and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running]
 
 ### House on May St. 
 
