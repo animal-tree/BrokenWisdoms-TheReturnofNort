@@ -431,7 +431,7 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 - I even fasted during Tayler, before the Tayler hospitalization, before my hair grew back, so strict discipline wasn't what caused it to fall out in December. It was a prolonged fast, about 7 days. I did 3 prolonged fasts in my life. Only that one corresponded (later) with hair regrowth.
 - The Tayler hospitalization had given me a lot of junk food and I was eating lots of sweets after, as well, still on the dietary momentum from that hospitalization, even chocolate-chip cookies and cakes and things like that, somewhat addictively. But then I resumed strict discipline and a steak-primarily diet maybe a month or so after. I think steak/salmon-only.
-- Besides the geriatric unit hospitalization, the period of eating sweets starting from the Tayler hospitalization might've caused the hair loss. Other than those two hospitalization, the social pain of losing Tayler might've contributed as well. The other two times my hair would grow back happened during an isolated period and a more-social period, respectively, both when I was strictly doing steak/salmon-only diet with some Paleo leniency.
+- Besides the geriatric unit hospitalization, the period of eating sweets starting from the Tayler hospitalization might've caused the hair loss. Other than those two hospitalizations, the social pain of losing Tayler might've contributed as well. The other two times my hair would grow back happened during an isolated period and a more-social period, respectively, both when I was strictly doing steak/salmon-only diet with some Paleo leniency.
 
 #### I didn't mention fingernails (fingernails regrowth)
 
