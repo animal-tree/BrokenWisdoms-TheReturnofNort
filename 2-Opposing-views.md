@@ -554,7 +554,7 @@ However, adding this seems to undermine just how severe the injustice we're talk
 
 The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgements, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
 
-#### Right to die
+#### [#RightToDie](#righttodie)
 
 The impossibility of talking about suicide ideation in our society without the threat of being hospitalized and coercively drugged increases the likelihood of suicide for people. The Right To Die gives people the ability to do this. It also guarantees peace of mind, enough for people going through unbelievable trauma to relax and feel more safe. With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that family members might arrive witness to. 
 
