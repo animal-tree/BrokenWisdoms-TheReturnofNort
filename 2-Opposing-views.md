@@ -560,9 +560,7 @@ Most people seriously considering suicide can't talk about it, not unless they b
 
 It's also to increase peace of mind for people with severe depression, by giving them an exit from Hell, and avoiding Sartre's depiction of the current state of human relationships, wherein we have both that "Hell is other people" and No Exit. Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, Right To Die also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax, feel more safe, and regain a sense of optimism to pursue with their life. 
 
-With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
-
-Is the goal to help people or to be able to say, "Yep, we sure saved that life."?
+With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more, at no benefit except to our pride as a society for being able to say pompously and wrongly, "Yep, we sure saved that life."
 
 The option to die is agony-relieving. Taking it away contributes to suicide ideation. Keeping it illegal leads to gruesome methods that lack dignity, but are the only remaining option. It's a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true.  A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
 
