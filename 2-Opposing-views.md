@@ -438,6 +438,8 @@ My eyelashes started growing back for the first time in summer, 2023, when I'd s
 
 However, adding this seems to undermine just how severe the injustice we're talking about is.
 
+The bullies at the University of Rochester's hospital and research institutions don't understand that they had no justification in the first place to carry out the treatments, policies, and enforcements that they did (not the severe ones anyway), and did everything humanly possible to take away and waste my dignity, money, social life, physical body, and work.
+
 #### I didn't mention fingernails (fingernails regrowth)
 
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].
