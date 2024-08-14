@@ -47,8 +47,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Another old Jew helps transition the times
         - Geriatric unit hospitalization
         - Warmth, nature, and organic-type foods
-        - Future hair losses
         - Schools
+        - Future hair losses
         - Intimacy healing
         - The artificial and synthetic
         - AI
