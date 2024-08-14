@@ -564,7 +564,7 @@ With Right To Die, bodies of suicide victims don't have to splatter from buildin
 
 Is the goal to help people or to be able to say, "Yep, we sure saved that life."?
 
-The option to die is agony-relieving. Taking it away contributes to suicide ideation. Keeping it illegal leads to gruesome methods that lack dignity, but are the only remaining option. It's a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true.  A society’s responsibility is to negotiate for the life of the people who inhabit it — not a person's to give what's left of theirs suffering inexpressibly within an unjust society.
+The option to die is agony-relieving. Taking it away contributes to suicide ideation. Keeping it illegal leads to gruesome methods that lack dignity, but are the only remaining option. It's a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true.  A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering inexpressibly within an unjust society.
 
 #### Intimacy healing
 
