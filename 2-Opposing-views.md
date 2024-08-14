@@ -560,7 +560,7 @@ Most people seriously considering suicide can't talk about it, not unless they b
 
 It's also to increase peace of mind for people with severe depression. Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, Right To Die also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax and feel more safe. 
 
-With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more
+With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
 
 Is the goal to help people or be able to say, "Yep, we sure saved that life."?
 
