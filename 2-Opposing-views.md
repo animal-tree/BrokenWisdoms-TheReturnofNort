@@ -556,7 +556,7 @@ The bullies at the University of Rochester's hospital and research institutions 
 
 #### Right to talk about suicide seriously
 
-Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. The point of Right To Die is to legalize suicide-plan therapy, in order to reduce suicide.
+Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. One of the points of Right To Die, to start with, is to legalize suicide-plan therapy, as one way in which it counterintuitively reduces, not increases, suicide.
 
 It's also to increase peace of mind for people with severe depression. Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, Right To Die also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax and feel more safe. 
 
