@@ -558,7 +558,7 @@ The bullies at the University of Rochester's hospital and research institutions 
 
 Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. One of the points of Right To Die, to start with, is to legalize suicide-plan therapy.
 
-It's also to increase peace of mind for people with severe depression. Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, Right To Die also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax and feel more safe. 
+It's also to increase peace of mind for people with severe depression, by giving them an exit from Hell, and avoiding Sartre's depiction of the current state of human relationships, wherein we have both that "Hell is other people" and No Exit. Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, Right To Die also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax and feel more safe. 
 
 With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
 
