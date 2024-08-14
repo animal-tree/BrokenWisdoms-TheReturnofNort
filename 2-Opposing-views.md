@@ -432,6 +432,8 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 - Besides the geriatric unit hospitalization, the period of eating sweets starting from the Tayler hospitalization might've caused the hair loss. Other than those two hospitalizations, the social pain of losing Tayler might've contributed as well. The other two times my hair would grow back happened during an isolated period and a more-social period, respectively, both when I was strictly doing steak/salmon-only diet with some Paleo leniency. The isolated period was also a work-intensive period, but there was less pressure on me at that time from Chenliang than during the December when my hair fell out, since in December I was under strict deadlines and in a new group, whereas later I earned credibility in Chenliang's group and was more permitted to manage my own labor (more so anyway, and in addition to the Mechanical Engineering lab I was assigned to). 
 - My hair was falling into my hands first in the geriatric unit.
 
+My pubic hair grew back while doing a strict steak/salmon-only diet with some Paleo leniency, and fell out gradually, perhaps correlating after another social-situation related misery.
+
 My eyelashes started growing back for the first time in summer, 2023, when I'd started doing the steak/salmon-only diet again, and fell out shortly after I was terminated, at which time I also had gone more lenient on my steak/salmon-only diet, due to the combination of more stress and lacking an income.
 
 #### I didn't mention fingernails (fingernails regrowth)
