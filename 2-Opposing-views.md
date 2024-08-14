@@ -538,7 +538,7 @@ I didn’t eat steak, because of course they couldn’t afford it. Could you ima
 
 #### Future hair losses
 
-My pubic hair grew back in 2021 or 2022 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually.
+My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually.
 
 My eyelashes started growing back for the first time in summer, 2023, when I'd started doing the steak/salmon-only diet again, and my best friend returned into my life, and fell out shortly after I was terminated, at which time I also had gone more lenient on my steak/salmon-only diet, due to the combination of more stress (from that termination) and lacking an income. Those three eyelashes that had grown back one by one gradually up to that point, that summer, starting that summer, for the first time ever in the 5 full years since losing all my hair, then each fell out, but I attribute them to my best friend, who returned that summer, and probably also the correlating steak/salmon-only diet that I'd resumed before his return, earlier in 2023. Though, besides steak/salmon during that period when my eyelashes started to grow back for the first time, I allowed myself organic tea on that one, as well. Then, when I was terminated by this wonderful university of mine that had cost me the hair in the first place, my newly miracle'd eyelashes fell out.
 
