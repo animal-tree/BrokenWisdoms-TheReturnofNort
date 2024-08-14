@@ -49,7 +49,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Warmth, nature, and organic-type foods
         - Schools
         - Future hair losses
-        - #RightToDie
+        - Right to die
         - Intimacy healing
         - The artificial and synthetic
         - AI
