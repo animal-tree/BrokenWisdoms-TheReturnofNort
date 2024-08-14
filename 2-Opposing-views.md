@@ -562,7 +562,7 @@ It's also to increase peace of mind for people with severe depression. Besides g
 
 With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
 
-Is the goal to help people or be able to say, "Yep, we sure saved that life."?
+Is the goal to help people or to be able to say, "Yep, we sure saved that life."?
 
 The option to die is agony-relieving. Taking it away contributes to suicide ideation. Keeping it illegal leads to gruesome methods that lack dignity, but are the only remaining option. It's a healing right for somebody to have within their own choice, for their own life. I don't want to misappropriate "My body, my choice," but it's true.  A society’s responsibility is to negotiate for the life of the people who inhabit it — not a person's to give what's left of theirs to an unjust society.
 
