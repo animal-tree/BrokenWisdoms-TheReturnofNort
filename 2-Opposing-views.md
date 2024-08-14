@@ -554,6 +554,14 @@ However, adding this seems to undermine just how severe the injustice we're talk
 
 The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgements, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
 
+#### Right to die
+
+The impossibility of talking about suicide ideation in our society without the threat of being hospitalized and coercively drugged increases the likelihood of suicide for people. The Right To Die gives people the ability to do this. It also guarantees peace of mind, enough for people going through unbelievable trauma to relax and feel more safe. With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that family members might arrive witness to. 
+
+There are other methods that people can resort to, but they require research ability and skill to carry out successfully singlehandedly. Yet other methods exist that can cause permanent damage to brain or body, reducing life quality even more, at no benefit except to our pride as a society for being able to say, "Yep, we sure saved that life."
+
+The option to die is agony-relieving. Taking it away contributes to suicide ideation. Keeping it illegal leads to gruesome methods that lack dignity, but are the only remaining option. A society’s responsibility is to negotiate for the life of the people who inhabit it — not mine to give what's left of mine to an unjust system that has proven it doesn't care about me.
+
 #### Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
