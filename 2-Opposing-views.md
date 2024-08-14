@@ -554,7 +554,7 @@ However, adding this seems to undermine just how severe the injustice we're talk
 
 The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgements, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
 
-#### Right to die
+#### Right to talk about suicide seriously
 
 Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. The point of Right To Die is to legalize suicide-plan therapy, in order to reduce suicide.
 
