@@ -619,7 +619,9 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, faciliated something extremely questionable.
 >
-> Benzos are personality-disinhibiting, like alcohol or GHB. They also share an overlapping mechanism of action, with not just alcohol, but also GHB, all of which are GABA agonists. GHB is the date-rape pill, the ["rapist's weapon of choice"](https://www.bbc.com/news/uk-51006504). However, benzos are the "therapist's weapon of choice," and perhaps there might be a better for weapon for these problems than drugs...
+> Benzos are personality-disinhibiting, like alcohol. Or GHB for that matter, whose mechanism of action also overlaps with benzos and alcohol (all three are GABA agonists). GHB is adifferent drug from benzos and also acts on the GHB receptors. GHB is the date-rape pill, also called the ["rapist's weapon of choice"](https://www.bbc.com/news/uk-51006504).
+>
+> Benzos are the "therapist's weapon of choice," and perhaps there might be a better weapon for the root problems that people come into hospitals with than drugs.
 
 This could've been prevented if she had another resort, but not through further oppression and subduing. Don't fight nonconsensual-coercion-on-innocent-people with even-stricter-nonconsensual-coercion-on-innocent-people.
 
