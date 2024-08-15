@@ -592,7 +592,7 @@ With Right To Die, bodies of suicide victims don't have to splatter from buildin
 >
 > Another interpretation is that his love — literally — is tied to a soulmate, one he hasn't met yet, someone in the future who he will love, guaranteed to him by the stars. I like that interpretation, too, but it's out of context for what the narrator is primarily conveying in this specific sonnet, the injustice of the world that leads the narrator, through Shakespeare's words, to cry for death. 
 
-Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically were about to be:
+Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically were about to be, and the thoughts that appeared in my head in those final moments:
 
 > ### $\Huge &#8220;$
 > [...]
