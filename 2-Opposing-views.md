@@ -629,6 +629,9 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
 
+> [!WARNING]
+> It's not just therapists that depend on benzos to deal with root problems whose root causes stem from social problems. Many of us drug ourselves, and depend on alcohol to connect with other people. The original prescription of benzos for me was for social anxiety. I drugged myself sometimes just to be able to connect with people.
+
 #### The artificial and synthetic
 
 I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
