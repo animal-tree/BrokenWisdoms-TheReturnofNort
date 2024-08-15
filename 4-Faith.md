@@ -96,7 +96,7 @@ Here is an excerpt from my own suicide note that I'd written, trying to describe
 
 That's how the note ended. 
 
-A suicide victim isn't selfish. Every suicide, is to some extent a society's murder and to some extent a society's mercy, depending who in society, and who within oneself.
+A suicide victim isn't selfish. Every suicide, is to some extent a society's murder and to some extent a society's mercy, depending who in society, and who within the consciousness of the suicide victim.
 
 Note: My mom didn't know my suicide plan. Nobody knew I was going to do it, and how seriously I meant to. However, I did talk to my therapist, through completely abstract rhetoric — since anything other than abstract philosophical rhetoric would've risked another coercive hospitalization and drugging — about Right To Die. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Not everybody can transmute their emotions into philosophy, or write a Shakespeare sonnet, everytime they want to communicate something, nor does that necessarily help. Those words, expressed literally and seriously, not just as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
