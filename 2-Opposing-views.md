@@ -556,6 +556,8 @@ The bullies at the University of Rochester's hospital and research institutions 
 
 #### Intimacy healing
 
+[To do: After I finish my draft, when I'm comfortable telling anybody about this book, add: "This was shared with \<Lily's real name\>'s permission." or stick with "Lily."]
+
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
 
 > [!WARNING]
@@ -569,8 +571,6 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 > Benzos are personality-disinhibiting, like alcohol. Or GHB for that matter.
 >
 > However, perhaps there is a better alternative for those needs than drugs and janitors. 
-
-[To do: After I finish my draft, when I'm comfortable telling anybody about this book, add: "This was shared with \<Lily's real name\>'s permission." or stick with "Lily."]
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
