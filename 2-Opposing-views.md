@@ -617,7 +617,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, committed a date-rape.
 >
-> Benzos are personality-disinhibiting, like alcohol or GHB, all of which have the same mechanism of action. GHB is also a GABA agonist. The psychiatric ward is where she had sex with the 50-something year-old janitor.
+> Benzos are personality-disinhibiting, like alcohol or GHB, all of which have the overlapping mechanism of action of being GABA agonists. The psychiatric ward is where she had sex with the 50-something year-old janitor.
 
 This could've been prevented if she had another resort, a medically studied and socially appreciated one.
 
