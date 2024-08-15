@@ -633,11 +633,6 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
 
-> [!WARNING]
-> It's not just therapists that depend on benzos to deal with root problems whose root causes stem from social problems. Many of us drug ourselves, and depend on alcohol to connect with other people. The original prescription of benzos for me was for social anxiety, and [my personality is so much better for some reason with alcohol](https://github.com/user-attachments/assets/c950f290-b3d5-42fd-834d-2a0c4e149d00). I almost only ever drugged myself just to be able to connect with people.
->
-> But I don't think fundamentally, alcohol or drugs are necessary for creating states of mind and society where we all can sincerely, without fear, be able to obtain the relationships and consciousness states we need in order to obtain the human intimacy we need. Existing therapy is extremely ineffective.
-
 #### The artificial and synthetic
 
 I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
