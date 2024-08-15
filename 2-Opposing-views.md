@@ -564,7 +564,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > She told me that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
 >
-> Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, faciliated something extremely questionable.
+> Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, facilitated something extremely questionable.
 >
 > Benzos are personality-disinhibiting, like alcohol. Or GHB for that matter.
 >
