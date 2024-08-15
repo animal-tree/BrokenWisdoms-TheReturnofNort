@@ -80,7 +80,7 @@ With Right To Die, bodies of suicide victims don't have to splatter from buildin
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
-Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been, as I inferred from my practice rounds of trying to go through with it, earlier this year:
+Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been, as I inferred from my practice rounds of trying to go through with it, earlier this year. It also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
 
 > ### $\Huge &#8220;$
 > [...]
@@ -92,9 +92,13 @@ Here is an excerpt from my own suicide note that I'd written, trying to describe
 > But then I can maybe find peace in those thoughts. Maybe I can imagine my mom and grandma, and grandpa, and all those people who loved me and made me, and love — present tense — in the case of my mom, and find peace in knowing they want my pain to end. That they are not judging me for my exit, and support my escape from this hellhole.
 >
 > Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
-> ### $\Huge &#8221;$ 
+> ### $\Huge &#8221;$
 
-That's how the note ended. Note: My mom didn't know my suicide plan. Nobody knew I was going to do it, and how seriously I meant to. However, I did talk to my therapist, through completely abstract rhetoric — since anything other than abstract philosophical rhetoric would've risked another coercive hospitalization and drugging — about Right To Die. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Not everybody can transmute their emotions into philosophy, or write a Shakespeare sonnet, everytime they want to communicate something, nor does that necessarily help. Those words, expressed literally and seriously, not just as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
+That's how the note ended. 
+
+A suicide victim isn't selfish. Every suicide, is a society's murder. 
+
+Note: My mom didn't know my suicide plan. Nobody knew I was going to do it, and how seriously I meant to. However, I did talk to my therapist, through completely abstract rhetoric — since anything other than abstract philosophical rhetoric would've risked another coercive hospitalization and drugging — about Right To Die. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Not everybody can transmute their emotions into philosophy, or write a Shakespeare sonnet, everytime they want to communicate something, nor does that necessarily help. Those words, expressed literally and seriously, not just as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
 Here is what I can say from personal experience, having an elaborate plan and method (one that I can always eventually take up, in case coercive hospitals think they have a chance at helping me again): The option to die is agony-relieving. Taking it away contributes to suicide ideation. Furthermore, speaking from past personal experience and the reality that is proven: keeping it illegal can lead to gruesome methods being resorted to that lack dignity, but for some people become the only method they know they can turn to to escape suffering. The peaceful version, via Right To Die, is a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
 
