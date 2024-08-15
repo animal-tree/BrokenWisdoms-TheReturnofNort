@@ -106,7 +106,7 @@ This is a free-speech issue, too. Right To Talk About Suicide Plans Seriously Wi
 
 I should specify, Right To Die, in principle, is distinct from Right For Physician To Commit Physician-Assisted Suicide, though the latter I also support under heavy regulations.
 
-In principle, also, most of my experience with the medical systems was Physician-"Assisted" Suicide.
+In principle, also, most of my experience with the medical systems was Physician-"Assisted" Suicide, with very minimal, poor regulations, and practices that, unlike Right To Talk About Suicide, should be outlawed.
 
 ## Synchronicities
 
