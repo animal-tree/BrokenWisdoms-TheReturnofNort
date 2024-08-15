@@ -617,7 +617,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > She told me, while I was hanging out, that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. She gave no specifics, about where in the psychiatric unit and so on — like, the private bathroom that patients get or even the janitor's closet — but she said that she and him (the 50-something year old janitor) got into a relationship afterwards, that he was her most recent boyfriend, and she'd broken up with him. Maybe they have text conversations to confirm.
 >
-> Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, faciliated a date-rape, in which I'm pretty sure they're more guilty than the janitor, depending on how that relationship came about.
+> Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, faciliated something extremely questionable.
 >
 > Benzos are personality-disinhibiting, like alcohol or GHB. They also share an overlapping mechanism of action, with not just alcohol, but also GHB, all of which are GABA agonists. GHB is the date-rape pill, the ["rapist's weapon of choice"](https://www.bbc.com/news/uk-51006504). However, benzos are the "therapist's weapon of choice," and perhaps there might be a better for weapon for these problems than drugs...
 
