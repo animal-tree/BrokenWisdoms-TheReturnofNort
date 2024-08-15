@@ -378,7 +378,7 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 >
 > Another was a robot dimension. And the robot dimension I think was a message about the use of robots in hospitals, the terrible dissociation from humanity that comes from a robotic nurterer pretending to be human, cold and far from humane.
 >
-> One was Tayler-tyriany one, where I was under her unforgiving judgement, debating her about something, some nature of a two-sided Kundalini, where somehow I was trying to defend that both are one.
+> One was Tayler-tyranny one, where I was under her unforgiving judgement, debating her about something, some nature of a two-sided Kundalini, where somehow I was trying to defend that both are one.
 >
 > Afterwards, I went through a more interesting pair of rituals that I'll describe below under [More seriously](#more-seriously).
 >
