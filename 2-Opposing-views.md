@@ -568,7 +568,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Benzos are personality-disinhibiting, like alcohol. Or GHB for that matter.
 >
-> However, perhaps there is a better alternative for those needs than drugs and janitors.
+> However, perhaps there is a better alternative for those needs than drugs and janitors. They probably have text conversations to confirm.
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
