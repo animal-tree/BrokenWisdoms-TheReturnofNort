@@ -585,7 +585,7 @@ My mom told me the Russian translation of this sonnet translates the last line t
 
 When a person dies, they don't just leave their life. They leave the constellations of beauty inside them, including all of their love, and this sonnet expresses a tragedy, of someone who has so much love and passion, and it's wasted.
 
-Another interpretation is that his love — literally — is tied to a soulmate, one he hasn't met yet, someone in the future who he will love, guaranteed to him by the stars. I like that interpretation, too, but it's too optimistic for this poem and would still feel like a divergence and betrayal to the rest of what's expressed, unless literally that essence were made equivalent in spirit to what is expressed as his consciousness. That's not to say it would be a divergence or betrayal if that happened narratively, but in the context of the narrator's expression in this sonnet, that doesn't make sense for him to express yet, as in, it would betray a complete lack of faith in the earlier conviction that this sonnet primarily teaches, the injustice of the world that leads the narrator, through Shakespeare's words, to cry for death. Not that I'm projecting.
+Another interpretation is that his love — literally — is tied to a soulmate, one he hasn't met yet, someone in the future who he will love, guaranteed to him by the stars. I like that interpretation, too, but it's too optimistic for this poem and is in poor taste next to what the narrator primarily teaches, the injustice of the world that leads the narrator, through Shakespeare's words, to cry for death. 
 
 Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been:
 
