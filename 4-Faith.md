@@ -104,6 +104,8 @@ Here is what I can say from personal experience, having an elaborate plan and me
 
 At the very least, Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized, if serious suicide plans that are planned and intended are to be actually prevented).
 
+This is a free-speech issue, too. Right To Talk About Suicide Plans Seriously Without Threat Or Risk Of Hospitalization, Drugging, Or Police Action. But a free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, plice should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
+
 ## Synchronicities
 
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
