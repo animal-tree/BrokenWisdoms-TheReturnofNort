@@ -618,18 +618,13 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 
 > [!WARNING]
 > 
-> In the hospital-provided housing that Lily got after the hospitalization, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, all really good food, that we ate in her neighbor's unit. I brought yams I'd made previously before the invitation.
+> In the hospital-provided housing that Lily got after the hospitalization, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, that we ate in her neighbor's unit. I brought yams I'd made previously before the invitation.
 >
-> She told me, while I was hanging out, that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. She gave no specifics, about where in the psychiatric unit and so on — like, the private bathroom that patients get or even the janitor's closet — but she said that she and him (the 50-something year old janitor) got into a relationship afterwards, that he was her most recent boyfriend, and she'd broken up with him. Maybe they have text conversations to confirm.
+> She told me that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
 >
 > Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, faciliated something extremely questionable.
 >
-> Benzos are personality-disinhibiting, like alcohol. Or GHB for that matter, whose mechanism of action also overlaps with benzos and alcohol, as a GABA agonist ([but also stimulates dopamine via acting on the GHB receptor](https://go.drugbank.com/drugs/DB01440#)). It's also known as the date-rape pill, and called the ["rapist's weapon of choice,"](https://www.bbc.com/news/uk-51006504) while benzos are the "therapist's weapon of choice" for targetting many psychiatric problems.
->
-> However, perhaps there is a better alternative to drugs and janitors for a person's psychological malaise.
-
-
-This could've been prevented if she had another resort, but not through further oppression and subduing. The answer to nonconsensual-coercion-on-innocent-people-with-questionable-sexual-outcomes isn't even-stricter-nonconsensual-coercion-on-innocent-people.
+> Benzos are personality-disinhibiting, like alcohol. Or GHB for that matter.
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
@@ -638,9 +633,6 @@ Independently, sex work should be legalized, regarded as a subset of fine art, f
 Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
-
-> [!WARNING]
-> The answer isn't to subjugate patients further. Guitar Hero is good; patients braiding each other's hair is good. What's not good is that the root problems that people actually need help on, which in many cases have to do with the state of a person's social relationships in the real-world, are ignored in favor of synthetic methods that our enlightened academic authorities haven't figured out tie to actual realities in a person's life. However, providing Lily with housing is an extremely good thing that the hospital did. And by "extremely," I mean what medical institutions should really be doing to treat physical and psychological health problems. Not "extreme" at all. Economic and social problems are probably the cause of most disease. Discipline isn't enough in the current system. The current system is such that if an individual practiced every discipline imaginable and had every ethic, that still wouldn't suffice to guarentee them good health, because economic and social issues would remain unaccounted for, since those are most certainly not resolvable from good discipline and ethic, or even intelligence, alone. Medical institutions are responsible for a person's economic and social happiness if their responsibility truly has to do with health and medicine. We are currently wasting too much on big pharma and so much else, money and work that could go towards actually addressing what's causing illness.
 
 #### The artificial and synthetic
 
