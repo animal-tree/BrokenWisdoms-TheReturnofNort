@@ -49,7 +49,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Warmth, nature, and organic-type foods
         - Schools
         - Future hair losses
-        - Right to talk about suicide seriously
         - Intimacy healing
         - The artificial and synthetic
         - AI
@@ -76,6 +75,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Conclusive disproof
   - [Faith](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md)
     - Part 5
+      - Right to talk about suicide seriously 
       - Friends
       - Allies
       - Enemies
