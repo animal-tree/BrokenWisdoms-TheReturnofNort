@@ -514,7 +514,7 @@ Speaking of the elderly...
 >
 > I wasn’t risking the tongue trick from before to spit out the benzos. I wasn’t in that kind of flow state. But perhaps all of this was my fault because, later, when they gave me a Covid mask, in the geriatric unit, which I don't recall if they did while in the open area with other patients, I got to spit the benzos out into that.
 >
-> I think they did a Covid test before transferring me, though I don't recall one. I'm just inferring, since it was a geriatric unit (a unit for the elderly).
+> I think they did a Covid test before transferring me, though I don't recall one. I'm just inferring, since it was a geriatric unit (a unit for the elderly). Yes, I recall mention of a Covid test. I don't know if it was before or after the dungeon-enclosure.
 >
 > To summarize:
 > - My big toe was painfully run over by the nurse, and ignored, no attention paid, disregarded screaming.
