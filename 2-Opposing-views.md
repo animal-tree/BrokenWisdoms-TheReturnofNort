@@ -619,7 +619,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Benzos are personality-disinhibiting, like alcohol or GHB, all of which have the overlapping mechanism of action of being GABA agonists. For those who don't know, GHB is the date-rape pill, the ["rapist's weapon of choice."](https://www.bbc.com/news/uk-51006504) 
 
-This could've been prevented if she had another resort.
+This could've been prevented if she had another resort, but not through further oppression and subduing.
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
