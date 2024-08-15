@@ -108,6 +108,8 @@ I should specify, Right To Die, in principle, is distinct from Right For Physici
 
 In principle, also, most of my experience with the medical systems was Physician-"Assisted" Suicide, with very minimal, poor regulations, and neurochemical and coercive practices that, unlike Right To Talk About Suicide or the effectively equivalent Right To Die, should be outlawed.
 
+If suicide is a crime, it shouldn't be a crime until a person is officially pronounced dead.
+
 ## Synchronicities
 
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
