@@ -599,7 +599,7 @@ Here is an excerpt from my own suicide note that I'd written, trying to describe
 > Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
 > ### $\Huge &#8221;$ 
 
-That's how the note ended. Note: My mom didn't know my suicide plan. Nobody knew I was going to do it, and how seriously I meant to. My therapist for a full year didn't know for this very reason. However, I did convince, through completely abstract rhetoric, him about the legal necessity of Right To Die.
+That's how the note ended. Note: Nobody knew I was going to do it, and how seriously I meant to. My therapist for a full year didn't know for this very reason. However, I did convince, through completely abstract rhetoric, him about the legal necessity of Right To Die.
 
 Here is what I can say from personal experience, having an elaborate plan and method (one that I can always eventually take up, in case coercive hospitals think they have a chance at helping me again): The option to die is agony-relieving. Taking it away contributes to suicide ideation. Furthermore, not speaking from personal experience: keeping it illegal can lead to gruesome methods that lack dignity, but are the only remaining option. It's a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
 
