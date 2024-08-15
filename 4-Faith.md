@@ -104,7 +104,8 @@ At the very least, Right To Talk About Suicide Without Hospitalization, Drugging
 - This is a free-speech issue, too. Right To Talk About Suicide Plans Seriously Without Threat Or Risk Of Hospitalization, Drugging, Or Police Action is a free-speech issue, different from any other: A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
 - Right To Die, in principle, is distinct from Right For Physician To Commit Physician-Assisted Suicide, though the latter I also support under heavy regulations.
 - In principle, also, most of my experience with the medical systems was Physician-"Assisted" Suicide, with very minimal, poor regulations, and neurochemical and coercive practices that, unlike Right To Talk About Suicide or the effectively equivalent Right To Die, should be outlawed.
-- If suicide is a crime, it shouldn't be a crime until a person is officially pronounced dead. Suicide $\neq$ murder, and requires total amnesty for discussion. 
+- If suicide is a crime, it shouldn't be a crime until a person is officially pronounced dead. Suicide $\neq$ murder, and requires total amnesty for discussion.
+- Making it a crime in that case however is extremely redundant, since the person is already dead and needlessly just adds shame. Right To Talk About Suicide is effectively equivalent to Right To Die, except the latter also removes the addition of shame from if it happens. And, Right For Physician To Commit Physician-Assisted Suicide is an independent issue that has much more difficulties to make moral absolutes about than giving people planning suicide the ability to share their reality without threat of further punishment, even without philosophy and art to make it seem acceptable.
 
 ## Synchronicities
 
