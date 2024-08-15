@@ -619,7 +619,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Benzos are personality-disinhibiting, like alcohol or GHB, all of which have the overlapping mechanism of action of being GABA agonists. 
 
-This could've been prevented if she had another resort, a medically studied and socially appreciated one.
+This could've been prevented if she had another resort.
 
 The onotology for the branch of medicine I propose is as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
