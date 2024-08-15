@@ -106,6 +106,8 @@ This is a free-speech issue, too. Right To Talk About Suicide Plans Seriously Wi
 
 I should specify, Right To Die, in principle, is distinct from Right For Physician To Commit Physician-Assisted Suicide, though the latter I also support under heavy regulations.
 
+In principle, also, most of my experience with the medical systems was Physician-"Assisted" Suicide.
+
 ## Synchronicities
 
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
