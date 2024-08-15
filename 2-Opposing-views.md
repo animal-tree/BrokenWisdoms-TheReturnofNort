@@ -623,7 +623,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Benzos are the "therapist's weapon of choice," and perhaps there might be a better weapon for the root problems that people come into hospitals with than drugs.
 
-This could've been prevented if she had another resort, but not through further oppression and subduing. Don't fight nonconsensual-coercion-on-innocent-people with even-stricter-nonconsensual-coercion-on-innocent-people.
+This could've been prevented if she had another resort, but not through further oppression and subduing. The answer to nonconsensual-coercion-on-innocent-people-with-questionable-sexual-outcomes isn't even-stricter-nonconsensual-coercion-on-innocent-people.
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
