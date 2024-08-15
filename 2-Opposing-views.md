@@ -570,7 +570,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > However, perhaps there is a better alternative for those needs than drugs and janitors. 
 
-I don't want to transition to a radical idea too suddenly, without having addressed what I just wrote in a more satisfying way, but I'm not sure how to address that any more than just by stating what happened, and how to make the world better in that context.
+I don't want to transition to a radical idea too suddenly, without having addressed what I just wrote in a more satisfying way, but I'm not sure how to address that any more than just by stating what happened, and how to make the world better in that context. I don't think the answer is further subjugation of patients. So what is?
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
