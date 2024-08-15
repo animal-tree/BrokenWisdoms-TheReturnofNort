@@ -75,10 +75,10 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Conclusive disproof
   - [Faith](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md)
     - Part 5
-      - Right to talk about suicide seriously 
       - Friends
       - Allies
       - Enemies
+      - Right to talk about suicide seriously 
     - Synchronicities
       - Chris Kanan (Deus ex memory)
       - Jordan Peterson
