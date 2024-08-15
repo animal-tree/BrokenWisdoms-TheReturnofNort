@@ -582,7 +582,7 @@ With Right To Die, bodies of suicide victims don't have to splatter from buildin
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
 > [!NOTE]
-> I don't have the morale to elaborate on how "art made tongue-tied by authority and folly, doctor-like controlling skill" is relevant. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." With ideas that were intuitive and ahead of their time dismissed and disregarded. "Simple truth miscall'd simplicity." And indeed, "doctor-like" controlling skill is the analogy Shakespeare turned to. "And strength by limping sway disabled," as I literally limp to walk from the eczema on my legs, caused by the stress of describing their insanity.
+> I don't have the morale to elaborate on how "art made tongue-tied by authority and folly, doctor-like controlling skill" is relevant. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." With ideas that were intuitive and ahead of their time dismissed and disregarded. "Simple truth miscall'd simplicity." And indeed, "doctor-like" controlling skill is the analogy Shakespeare turned to to describe that authority. "And strength by limping sway disabled," as I literally limp to walk from the eczema on my legs, currently caused by the stress of describing their insanity and re-visiting these traumas in order to write this book.
 > 
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
