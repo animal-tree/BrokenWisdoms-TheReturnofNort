@@ -613,7 +613,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 > 
 > In the hospital-provided housing that Lily was living in, later, after all of the hospitalizations, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, that we ate in her neighbor's unit. I went home and got yams I'd made previously before the invitation, not knowing I was going to be spending Thanksgiving there. 
 >
-> We hung out and she told me she had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. More than that, that they got into a relationship afterwards, and she'd broken up with him. 
+> We hung out and she told me she had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. I could ask her for specifics, about where in the psychiatric unit and so on — like, the private bathroom that each patient's room has or even the janitor's closet — but first I need to finish writing this before I make any more assumptions about what she'd be willing to let me publicize. She also told me they got into a relationship afterwards, and she'd broken up with him. I can ask her if she'd be willing to publicize the existance of text conversations.
 >
 > Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, committed a date-rape.
 >
