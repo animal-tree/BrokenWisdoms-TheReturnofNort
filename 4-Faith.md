@@ -101,14 +101,10 @@ My mom didn't know my suicide plan. Nobody knew I was going to do it, and how se
 Here is what I can say from personal experience, having an elaborate plan and method (one that I can always eventually take up, in case coercive hospitals think they have a chance at helping me again): The option to die is agony-relieving. Taking it away contributes to suicide ideation. Furthermore, speaking from past personal experience and the reality that is proven: keeping it illegal can lead to gruesome methods being resorted to that lack dignity, but for some people become the only method they know they can turn to to escape suffering. The peaceful version, via Right To Die, is a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
 
 At the very least, Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized, if serious suicide plans that are planned and intended are to be actually prevented).
-
-This is a free-speech issue, too. Right To Talk About Suicide Plans Seriously Without Threat Or Risk Of Hospitalization, Drugging, Or Police Action is a free-speech issue, different from any other: A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
-
-Right To Die, in principle, is distinct from Right For Physician To Commit Physician-Assisted Suicide, though the latter I also support under heavy regulations.
-
-In principle, also, most of my experience with the medical systems was Physician-"Assisted" Suicide, with very minimal, poor regulations, and neurochemical and coercive practices that, unlike Right To Talk About Suicide or the effectively equivalent Right To Die, should be outlawed.
-
-If suicide is a crime, it shouldn't be a crime until a person is officially pronounced dead. Suicide $\neq$ murder, and requires total amnesty for discussion. 
+- This is a free-speech issue, too. Right To Talk About Suicide Plans Seriously Without Threat Or Risk Of Hospitalization, Drugging, Or Police Action is a free-speech issue, different from any other: A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
+- Right To Die, in principle, is distinct from Right For Physician To Commit Physician-Assisted Suicide, though the latter I also support under heavy regulations.
+- In principle, also, most of my experience with the medical systems was Physician-"Assisted" Suicide, with very minimal, poor regulations, and neurochemical and coercive practices that, unlike Right To Talk About Suicide or the effectively equivalent Right To Die, should be outlawed.
+- If suicide is a crime, it shouldn't be a crime until a person is officially pronounced dead. Suicide $\neq$ murder, and requires total amnesty for discussion. 
 
 ## Synchronicities
 
