@@ -80,7 +80,7 @@ With Right To Die, bodies of suicide victims don't have to splatter from buildin
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
-Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been, as I inferred from my practice rounds of trying to go through with it, earlier this year. It also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
+Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been, that also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
 
 > ### $\Huge &#8220;$
 > [...]
