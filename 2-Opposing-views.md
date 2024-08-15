@@ -616,7 +616,7 @@ That's how the note ended. Note: My mom didn't know my suicide plan. Nobody knew
 
 Here is what I can say from personal experience, having an elaborate plan and method (one that I can always eventually take up, in case coercive hospitals think they have a chance at helping me again): The option to die is agony-relieving. Taking it away contributes to suicide ideation. Furthermore, speaking from past personal experience and the reality that is proven: keeping it illegal can lead to gruesome methods being resorted to that lack dignity, but for some people become the only method they know they can turn to to escape suffering. The peaceful version, via Right To Die, is a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
 
-At the very least, Right To Talk About Suicide Without Hospitalization Or Drugging Or Police Action should be legalized (or rather, standardized).
+At the very least, Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized).
 
 #### Intimacy healing
 
