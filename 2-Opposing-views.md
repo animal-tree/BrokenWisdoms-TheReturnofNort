@@ -585,7 +585,7 @@ My mom told me the Russian translation of this sonnet translates the last line t
 
 Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been:
 
-> ### $"$
+> ### $\Huge &#8220;$
 > [...]
 > 
 > Another concern is thoughts of doubt. For example, I might remember how much comfort my mom brings me and that the comfort she offers is still available tomorrow. I might even feel guilty for taking such drastic actions under the wing of such availability of comfort. I think that’s the strongest argument, and the hardest to stay resolved in.
@@ -595,7 +595,7 @@ Here is an excerpt from my own suicide note that I'd written, trying to describe
 > But then I can maybe find peace in those thoughts. Maybe I can imagine my mom and grandma, and grandpa, and all those people who loved me and made me, and love — present tense — in the case of my mom, and find peace in knowing they want my pain to end. That they are not judging me for my exit, and support my escape from this hellhole.
 >
 > Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
-> ### $``$ 
+> ### $\Huge &#8221;$ 
 
 That's how the note ended. Note: My mom didn't know my suicide plan. Nobody knew I was going to do it, and how seriously I meant to. 
 
