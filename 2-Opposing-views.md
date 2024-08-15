@@ -558,11 +558,48 @@ The bullies at the University of Rochester's hospital and research institutions 
 
 Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. One of the points of Right To Die, to start with, is to legalize suicide-plan therapy.
 
-It's also to increase peace of mind for people with severe depression, by giving them an exit from Hell, and avoiding Sartre's depiction of the current state of human relationships, wherein we have both that "Hell is other people" and No Exit. Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, Right To Die also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax, feel more safe, and regain a sense of optimism to pursue with their life. 
+It's also to increase peace of mind for people with severe depression, by giving them an exit door from Hell, not an exit push. Borrowing Sartre's depiction of the current state of human relationships, we have both that "Hell is other people" and, as the play is called: [No Exit](https://en.wikipedia.org/wiki/No_Exit). Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, Right To Die also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax, with some security, to regain a sense of optimism to pursue with their life. 
 
 With Right To Die, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more, at no benefit except to our pride as a society for being able to say pompously and wrongly, "Yep, we sure saved that life."
 
-The option to die is agony-relieving. Taking it away contributes to suicide ideation. Keeping it illegal leads to gruesome methods that lack dignity, but are the only remaining option. It's a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true.  A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
+> ### $\Huge &#8220;$
+> &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
+> &ensp;&ensp; *As to behold desert a beggar born,*</br>
+> &ensp;&ensp; *And needy nothing trimm'd in jollity,*</br>
+> &ensp;&ensp; *And purest faith unhappily forsworn,*</br>
+> &ensp;&ensp; *And gilded honour shamefully misplac'd,*</br>
+> &ensp;&ensp; *And maiden virtue rudely strumpeted,*</br>
+> &ensp;&ensp; *And right perfection wrongfully disgrac'd,*</br>
+> &ensp;&ensp; *And strength by limping sway disabled,*</br>
+> &ensp;&ensp; *And art made tongue-tied by authority,*</br>
+> &ensp;&ensp; *And folly, doctor-like, controlling skill,*</br>
+> &ensp;&ensp; *And simple truth miscall'd simplicity,*</br>
+> &ensp;&ensp; *And captive good attending captain ill.*</br>
+> &ensp;&ensp; *Tired with all these, from these would I be gone,*</br>
+> &ensp;&ensp; *Save that, to die, I leave my love alone.*
+> ### $\Huge &#8221;$
+>
+> &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
+
+My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live. And that might be the interpretation, but that's not the correct one nor the one that Shakespeare meant. My interpretation might end up even more controversial than this chapter of this book, really, since a lot of people perhaps want to interpret a romantic notion at the end. However, that would be a pretty big thematic divergence and betrayal, if after every line (from "purest faith unhappily forsworn" to "maiden virtue rudely strumpeted"), Shakespeare's meaning coalesced to, "Well, I could never do that to my girlfriend." The narrator referred to himself as a "beggar born," and he cries for death so as to behold himself "desert" from himself, meaning to "leave" himself (to die) and all of the tragedies listed thereafter. The last line is exactly parallel to this in meaning. He refers to his love: "I leave *my* love" — his literal, un-metaphorical love — "alone." To leave his love is like leaving his body. It's like leaving his skin. It's like leaving his emotion. Shakespeare is expressing that the narrator doesn't wish to leave his consciousness, including the immense love within it that he's just expressed in the verses of this sonnet, alone. Jokingly, one could even interpret he'd rather take you all with him. Perhaps the simplest possible interpretation of the word "love" will be called "simplicity" by the academics who've been interpreting this sonnet for centuries (or at least the Russian translators that my mom was familiar with), but the un-metaphorical meaning, the literal one — love, literally — is the meaning Shakespeare meant.
+
+Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been:
+
+> ### $"$
+> [...]
+> 
+> Another concern is thoughts of doubt. For example, I might remember how much comfort my mom brings me and that the comfort she offers is still available tomorrow. I might even feel guilty for taking such drastic actions under the wing of such availability of comfort. I think that’s the strongest argument, and the hardest to stay resolved in.
+>
+> I might remember my grandma, and the injustice that this has fallen on her grandson.
+>
+> But then I can maybe find peace in those thoughts. Maybe I can imagine my mom and grandma, and grandpa, and all those people who loved me and made me, and love — present tense — in the case of my mom, and find peace in knowing they want my pain to end. That they are not judging me for my exit, and support my escape from this hellhole.
+>
+> Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
+> ### $``$ 
+
+That's how the note ended. Note: My mom didn't know my suicide plan. Nobody knew I was going to do it, and how seriously I meant to. 
+
+Here is what I can say from personal experience, having an elaborate plan and method (one that I can always eventually take up, in case coercive hospitals think they have a chance at helping me again): The option to die is agony-relieving. Taking it away contributes to suicide ideation. Furthermore, not speaking from personal experience: keeping it illegal can lead to gruesome methods that lack dignity, but are the only remaining option. It's a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
 
 #### Intimacy healing
 
