@@ -2,7 +2,41 @@
 
 ## Part 5
 
-### Right to talk about suicide seriously
+### Friends
+
+> Date: **10/29/23**
+
+[name redacted] messages.
+
+### Allies
+
+Message about preferring to die than legal action
+
+> Date: **10/30/23**
+
+Screenshot
+
+I almost said “It makes me want to die” in the [mass email of 10/30/23](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#email-10302023). Thankfully a friend in a group chat of several people suggested otherwise, or else the University of Rochester might’ve been responsible for doing another coerced hospitalization of me, and a repeat of the cycle of unforeseen consequences from involuntary interventions on me. Either way, however, they could have *plausibly* been responsible for a student and worker's suicide.
+
+> Date: **10/30/23**
+
+Screenshot
+
+### Enemies
+
+Rewind to August, before the six-month review deadline and after I was notified of my stipend and advisor-cut. I took my best friend into this, asking for his advice on an email that I sent, and stating my plans (or lackthereof) regarding legal action:
+
+> Date: **08/06/23**
+
+<img width="150" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d59745f2-cf66-44c3-8cd0-b8faa2ae1cda">
+
+</br>We were discussing [this email (of 08/10/23)](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md).
+
+I sent them this email exactly as I showed my friend. That was the best I was able to phrase everything (for whatever reason, perhaps due to revisiting the trauma, my consciousness and my corresponding linguistics weren't in the best state). All of what had gone on was conveyed to them as early as the beginning of August, at least as much as could be summarized in less than a book. Following which, here is how my best friend and I discussed it afterwards:
+
+Screenshots
+
+## Right to talk about suicide seriously
 
 Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. One of the points of Right To Die, to start with, is to legalize suicide-plan therapy.
 
@@ -65,40 +99,6 @@ That's how the note ended. Note: My mom didn't know my suicide plan. Nobody knew
 Here is what I can say from personal experience, having an elaborate plan and method (one that I can always eventually take up, in case coercive hospitals think they have a chance at helping me again): The option to die is agony-relieving. Taking it away contributes to suicide ideation. Furthermore, speaking from past personal experience and the reality that is proven: keeping it illegal can lead to gruesome methods being resorted to that lack dignity, but for some people become the only method they know they can turn to to escape suffering. The peaceful version, via Right To Die, is a healing right for somebody to have within their own choice, for their own life. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
 
 At the very least, Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized).
-
-### Friends
-
-> Date: **10/29/23**
-
-[name redacted] messages.
-
-### Allies
-
-Message about preferring to die than legal action
-
-> Date: **10/30/23**
-
-Screenshot
-
-I almost said “It makes me want to die” in the [mass email of 10/30/23](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#email-10302023). Thankfully a friend in a group chat of several people suggested otherwise, or else the University of Rochester might’ve been responsible for doing another coerced hospitalization of me, and a repeat of the cycle of unforeseen consequences from involuntary interventions on me. Either way, however, they could have *plausibly* been responsible for a student and worker's suicide.
-
-> Date: **10/30/23**
-
-Screenshot
-
-### Enemies
-
-Rewind to August, before the six-month review deadline and after I was notified of my stipend and advisor-cut. I took my best friend into this, asking for his advice on an email that I sent, and stating my plans (or lackthereof) regarding legal action:
-
-> Date: **08/06/23**
-
-<img width="150" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d59745f2-cf66-44c3-8cd0-b8faa2ae1cda">
-
-</br>We were discussing [this email (of 08/10/23)](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md).
-
-I sent them this email exactly as I showed my friend. That was the best I was able to phrase everything (for whatever reason, perhaps due to revisiting the trauma, my consciousness and my corresponding linguistics weren't in the best state). All of what had gone on was conveyed to them as early as the beginning of August, at least as much as could be summarized in less than a book. Following which, here is how my best friend and I discussed it afterwards:
-
-Screenshots
 
 ## Synchronicities
 
