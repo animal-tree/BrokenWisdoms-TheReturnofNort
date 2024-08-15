@@ -640,7 +640,7 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
 
 > [!WARNING]
-> But the understated point is that, yes, even sexual assault of patients is a serious risk in University of Rochester's Strong Hospital.
+> But the understated point is that, yes, even sexual assault of patients, including minors, is a serious risk in University of Rochester's Strong Hospital.
 
 #### The artificial and synthetic
 
