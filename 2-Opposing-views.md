@@ -641,6 +641,8 @@ Perhaps my alternative would've served better, and given her a spiritual, health
 
 > [!WARNING]
 > But the understated point is that, yes, even sexual assault of patients, including minors, is a serious risk in University of Rochester's Strong Hospital.
+>
+> I don't want to be the person delivering this news.
 
 #### The artificial and synthetic
 
