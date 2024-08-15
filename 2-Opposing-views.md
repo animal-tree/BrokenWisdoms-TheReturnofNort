@@ -617,7 +617,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, committed a date-rape.
 >
-> Benzos are personality-disinhibiting, like alcohol or GHB, all of which have the overlapping mechanism of action of being GABA agonists. 
+> Benzos are personality-disinhibiting, like alcohol or GHB, all of which have the overlapping mechanism of action of being GABA agonists. For those who don't know, GHB is the date-rape pill, the ["rapist's weapon of choice."](https://www.bbc.com/news/uk-51006504) 
 
 This could've been prevented if she had another resort.
 
