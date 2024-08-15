@@ -504,7 +504,7 @@ Speaking of the elderly...
 >
 > Finally, they specified a reason for why they were holding me. Apparently my mom said I wasn't eating enough, which she later denied saying. Ironically, I was eating a lot. Usually 5 organic steaks and a salmon every day, about half of my income. I was lectured pretty heavily by a fat woman specialist about how carbs are a necessary part of a healthy diet. That was Winter, 2020/2021, perhaps just before diets like the keto diet gained scientific support, or maybe already after. During that hospitalization, chunks of my hair fell out. The rapid timing was extremely coincidental, so maybe the onset of the hair loss was independent to the hospitalization, or maybe a synchronicity, but most likely exacerbated, because I thought I was in Hell.
 > 
-> The anxiety was so extreme that my eczema became itchy just from that, if not the food.
+> The anxiety was so extreme that my eczema became itchy just from that, if not the food. I ate all of their garbage food.
 > 
 > Due to Covid, my family wasn’t allowed to visit me.
 >
@@ -537,7 +537,7 @@ Speaking of the elderly...
 
 To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
 
-Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed eczema-causing food, more coerced benzos, and interrogative military clinicians -> geriatric unit -> them arguing carbs were a necessary part of a healthy diet and stating that the reason for holding me in that hospitalization was that I wasn't eating enough.
+Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed eczema-causing food, more coerced benzos, and interrogative military clinicians -> geriatric unit -> them arguing carbs were a necessary part of a healthy diet and stating that the reason for holding me in that hospitalization was that I wasn't eating enough (even as I ate all of their garbage food).
 
 #### Warmth, nature, and organic-type foods
 
