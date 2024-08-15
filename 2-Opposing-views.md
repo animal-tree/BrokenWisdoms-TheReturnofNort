@@ -615,7 +615,11 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > During that hangout, she told me she had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. More than that, that they got into a relationship afterwards, and she'd broken up with him. 
 >
-> Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, committed a date-rape. 
+> Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, committed a date-rape.
+>
+> Benzos are personality-disinhibiting, like alcohol or GHB, all of which have the same mechanism of action. They're GABA agonists. The psychiatric ward is where she had sex with the 50-something year-old janitor.
+
+This could've been prevented if she had another resort, a medically studied and socially appreciated one.
 
 The onotology for the branch of medicine I propose is as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
