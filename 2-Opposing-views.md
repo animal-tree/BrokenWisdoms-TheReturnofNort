@@ -596,7 +596,9 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Benzos are personality-disinhibiting. They have the same effect as alcohol. They're even similar to GHB, since both are GABA agonists. GHB also acts on the GHB receptor. All three predispose a horny person to making bad decisions, or good decisions based on a temporary need induced by confinement.
 >
-> However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed. 
+> However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed.
+>
+> But I'm sure she's thankful for your services.
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
