@@ -380,7 +380,7 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 >
 > One was Tayler-tyranny one, where I was under her unforgiving judgement, debating her about something, some nature of a two-sided Kundalini, where somehow I was trying to defend that both are one (or more specifically, that the two can communicate).
 >
-> That's also literally where I started getting my [evolutionary learning ideas](https://github.com/slerman12/BuildingBlocks/blob/master/Population.py), [with attention](https://docs.google.com/presentation/d/1sw2Iu6foH3dmn-7a2JfijCljqheH_A3fEW5OuK-68Yg/edit?usp=sharing), which apparently to my surprise had some positive results, though I don't even remember doing that.
+> That's also literally where I started getting my [evolutionary learning ideas](https://github.com/slerman12/BuildingBlocks/blob/master/Population.py), with attention, which apparently to my surprise [had some positive results](https://docs.google.com/presentation/d/1sw2Iu6foH3dmn-7a2JfijCljqheH_A3fEW5OuK-68Yg/edit?usp=sharing), though I don't even remember doing that.
 >
 > Afterwards, I went through more interesting rituals with the nurses that I'll describe below under [Rituals, Religion, & Hell](#rituals-religion--hell).
 >
