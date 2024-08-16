@@ -594,7 +594,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > Through the captivity and drugging of her with benzos, the University of Rochester's Strong Hospital facilitated that.
 >
-> Benzos are personality-disinhibiting. They have the same effect as alcohol. They're even similar to GHB, since both are GABA agonists. GHB also acts on the GHB receptor. All three predispose a horny person to making bad decisions, or good decisions based on a temporary need induced by confinement.
+> Benzos act like alcohol, and are incredibly personality-disinhibiting. They're even similar to GHB, also a GABA agonist, but which additionally acts on the GHB receptor. All three reduce consciousness, and predispose a horny person to making bad decisions, or good decisions based on a temporary need induced by confinement.
 >
 > However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed.
 >
