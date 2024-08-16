@@ -590,11 +590,11 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > She told me that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
 >
-> Since she was being drugged with personality-disinhibiting benzos in that psychiatric unit, the institution, through the captivity and drugging of her, facilitated something extremely questionable.
+> Through the captivity and drugging of her with benzos, the University of Rochester's Strong Hospital facilitated something extremely questionable.
 >
-> Benzos are personality-disinhibiting, like alcohol. Or GHB for that matter.
+> Benzos are personality-disinhibiting, like alcohol. Or GHB for that matter, which also is a GABA agonist, in addition to acting on the GHB receptor. All three predispose a horny person to making bad decisions.
 >
-> However, perhaps there is a better alternative for those needs than drugs and janitors. 
+> However, perhaps there is a better alternative for those needs than drugs and janitors, which might've prevented what some might call a drug-induced date-rape. 
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
