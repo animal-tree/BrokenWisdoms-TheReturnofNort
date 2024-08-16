@@ -587,8 +587,10 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 > [!WARNING]
 > 
 > In the hospital-provided housing that Lily got after the hospitalization, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, that we ate in her neighbor's unit. I brought yams I'd made previously before the invitation.
+> 
+> Pork is not a metaphor for sex. Yams is not a metaphor boobs. Thanksgiving is a metaphor for how grateful I was.
 >
-> She told me that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
+> She told me then that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
 >
 > Through the captivity and drugging of her with benzos, the University of Rochester's Strong Hospital facilitated something extremely questionable.
 >
