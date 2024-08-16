@@ -596,7 +596,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > However, perhaps there is a better alternative for those needs than drugs and janitors, which might've prevented what some might call a drug-induced date-accident. 
 
-I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
+I propose a new branch of medicine called intimacy healing, one with an ontology like: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
 Independently, sex work should be legalized, regarded as a subset of fine art, formally and academically, but distinct from intimacy healing, and the branches of medicine and fine art can overlap.
 
