@@ -386,7 +386,7 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 >
 > Afterwards, I went through more interesting rituals with the nurses that I'll describe below under [Rituals, Religion, & Hell](#rituals-religion--hell).
 >
-> Lastly, after I was finally landed in the psychiatric unit, I met an older woman who Bar Mitzvah’d me.
+> Lastly, after I was finally landed in the psychiatric unit, I met an older woman who Bar Mitzvah’d me. Uh, yep.
 >
 > That inpatient got her dad to bring in a prayer sheet that he suggested I memorize for later recitation out loud. Over the next week or more, that inpatient — who curiously looked and sounded like an older Lily — insisted I read it, and I had the instinct to, as she ritually sanctified it via sharing the same trance kind of state I was in in which we both sensed that I had to do that, as we both paced around the window end of the hallway, as I recited from memory and she like did her own intuitive ritualistic movements.
 >
