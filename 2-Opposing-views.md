@@ -215,7 +215,7 @@ The second psychiatrist changed the schedule some time after that. She came in t
 
 He didn't. I don't remember his name either, but not because of being high — at that point, I was in severe cognitive decline, and the euphoria was turning into grey cloud and fog, excruciating anxiety and fear, and terror. 
 
-In the first month with him, I told him about all of those symptoms, and tried to relay the agony. He didn't care. He thought the benzos would help. He argued they could be safely taken for years.
+In the first month with him, I told him about all of these symptoms, and tried to relay the agony. He didn't care. He thought the benzos would help. He argued they could be safely taken for years.
 
 At no point did he specify a tapering schedule, despite me practically begging him.
 
