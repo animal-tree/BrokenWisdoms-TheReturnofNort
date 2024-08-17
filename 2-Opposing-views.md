@@ -195,7 +195,7 @@ It's amazing he could write at all after the electrocution they put him through.
 
 Meanwhile, little did I know — and actually quite a lot since I made the case quite articulately — I was being brain damaged and chemically waterboarded.
 
-My friend Jeremiah, someone so kind it's not even funny, went through something different while he was there. He told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement, and that his medications once caused him to have a seizure. Having undergone physical assaults from the university-hospital police myself, due also to efforts to leave containment, and once in the grass outside, and burned alive in the downregulation nightmare, I can say it’s unpleasant. 
+My friend Jeremiah, someone so kind it's not even funny, went through something different while he was there. He told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement, and that his medications once caused him to have a seizure. Having undergone physical assaults from the university-hospital police myself, once in the grass outside, and burned alive in the downregulation nightmare, I can say it’s unpleasant. 
 
 Those events are listed in the reverse chronological order by the way, combative efforts to escape only appearing in later hospitalizations that followed and probably were contributed to from this one with the multi-year benzo nightmare.
 
