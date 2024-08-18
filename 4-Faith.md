@@ -8,7 +8,7 @@ Most people seriously considering suicide can't talk about it, not unless they b
 
 Right To Die is not the same as Right For Physician To Commit Physician-Assisted Suicide in my opinion. One permits being able to talk about suicide, and not shaming or punishing a person for doing so, the other gives doctors permission to assist with that suicide. The latter also has merits, and before we get into what I'm proposing, let's look at a couple of those merits to see that even the radical variant, wherein doctors can assist with the suicide, makes sense.
 
-Right For Physician To Commit Physician-Assisted Suicide can increase peace of mind for people with severe depression, by giving them an exit door from Hell, that is their's to step through if they need to. Borrowing Sartre's depiction of the seemingly-perennial state of human relationships, we have both that "Hell is other people" and, as the play is called: [No Exit](https://en.wikipedia.org/wiki/No_Exit). Available death guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax, with some security, to regain a sense of optimism to pursue with their life. I can say from personal experience this actually works.
+Right For Physician To Commit Physician-Assisted Suicide can increase peace of mind for people with severe depression, by giving them an exit door from Hell, that is their's to step through if they need to. Borrowing Sartre's depiction of the seemingly-perennial state of human relationships, we have both that "Hell is other people" and, as the play is called: "[No Exit](https://en.wikipedia.org/wiki/No_Exit)" from that Hell. Giving people going through unbelievable trauma the key to exit makes their lives feel less like Hell. That optimism can be what saves them. And the lack of urgency to take the first opportunity for death that opens up means they can live longer knowing they can always do it tomorrow.
 
 Secondly, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Less gruesome methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
 
@@ -34,7 +34,21 @@ Right To Die, on the other hand, makes it so that a person can plan and even act
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
 > [!NOTE]
-> I don't have the morale (I should say "words") to elaborate (I should say "express") on how "art made tongue-tied by authority and folly, doctor-like controlling skill" is relevant (I should say "caused"). I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." With ideas that were intuitive ("I should say stupid," I hear Chenliang's voice, though he would never say those words) and ahead of their time dismissed and disregarded (more so across the CS department than Chenliang's group). "Simple truth miscall'd simplicity." And indeed ("this part's extremely true," Chenliang validates, also not words he'd ever say), "doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs most of the university ("I didn't mean that literally," Chenliang qualifies about the being "extremely true"). "And strength by limping sway disabled," as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their  ("THEIR?!?") insanity in order to write this book.
+> <i><p align="center">Art made tongue-tied by authority and folly, doctor-like controlling skill</p></i>
+> 
+> <p align="right">Art suffocates in the limitations of Chenliang and Michael. "Doctor-like" is the analogy Shakespeare turned to to describe such authority.</p>
+> 
+> <i><p align="center">Captive good attending to captain evil</p></i>
+> 
+> <p align="right">My good attended hostage to Chenliang under the university's captain evil. </p>
+>
+> <i><p align="center">Simple truth miscall'd simplicity</p></i>
+> 
+> <p align="right">My ideas that were intuitive and ahead of their time, dismissed and disregarded unless spoonfed to faculty in exactly the language and terms that they liked.</p>
+> 
+> <i><p align="center">And strength by limping sway disabled</p></i>
+> 
+> <p align="right">I limp in my words here from re-visited traumas, and literally, to walk, from the eczema on my legs, from the stress, from their insanity.</p>
 > 
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
@@ -72,7 +86,7 @@ I didn't share with anybody that I was going to do it.
 
 If I had Right To Die, I could've shared that I was going to do it, whereas I was able to do it and just not have no risk of coerced hospitalization and being drugged against my will if I talked about it. I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Nobody has the ability to transform into a philosopher or write a Shakespeare sonnet everytime they want to communicate something. Those meanings at the end of my suicide note, expressed literally and seriously and with a plan and concrete immediately-executable method tied to them, not just as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
-The option to die is agony-relieving. Taking it away contributes to suicide ideation. This point can't be under-stressed. Having the option, counterintuitively is therapy. Right To Die is a healing right for a person to have within their choice. I don't want to extend a political slogan beyond its intended meaning, but My Body, My Choice is true. If I sensed that the option were at risk of being taken away from me, or me from having access to that option, I'm intelligent enough to do it no matter what intervening actions are taken. Those intervening actions would be the cause. And they would tell me to do it soon, as soon as I can and as soon as the opportunity opens for me. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
+This point can't be under-stressed. Taking away the option to die contributes to suicide ideation. Having the option, counterintuitively, is therapeutic. It's a right for a person to make a choice about their own body. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
 
 Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized, if serious suicide plans that are planned and intended are to be actually prevented).
 - A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
