@@ -79,7 +79,7 @@ Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action 
 - Right To Die, in principle, is distinct from Right To Talk About Suicide [...], but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about it.
 - In principle, also, most of my experience with the medical systems was physician-"assisted" suicide.
 
-My point is that to prevent literal, un-metaphorical painful realities, people need to be able to hear them.
+My point is that if we are to prevent literal, un-metaphorical painful realities, we need to be able to hear them.
 
 ### Friends
 
