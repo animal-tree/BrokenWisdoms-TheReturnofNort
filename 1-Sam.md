@@ -86,7 +86,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Timing of benzodiazepine coercion diagram
       - CMT deletion of record
       - Covid
-      - Translations (and meaning of my last name "Lerman")
+      - Translations and meaning of my last name "Lerman"
       - Sam "Altman"
       - Michael Scott’s paper factory
       - "Life ruined" post
