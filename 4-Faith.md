@@ -107,7 +107,7 @@ At the very least, Right To Talk About Suicide Without Hospitalization, Drugging
 - If suicide is a crime, it shouldn't be a crime until a person is officially pronounced dead. Suicide $\neq$ murder, and requires total amnesty for discussion.
 - Making it a crime in that case however is extremely redundant, since the person is already dead and so that just adds shame. Right To Talk About Suicide is effectively equivalent to Right To Die, except the latter also removes the addition of shame from if it happens. And, Right For Physician To Commit Physician-Assisted Suicide is an independent issue that has much more difficulties to make moral absolutes about than giving people planning suicide the ability to talk about it without further threat, even without philosophy and art to make their words detached. The real reason to oppose Right To Talk About Suicide (and its shame-free equivalent, Right To Die) is to avoid hearing literal, un-metaphorical painful realities, not to prevent them.
 
-## Synchronicities
+# Synchronicities
 
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
 
@@ -141,7 +141,7 @@ And not only foretold to my university's professors, but innovated on and execut
 
 Then Covid interestingly happened when I joined an all-Chinese lab (Chenliang’s). Almost like he was taking vengeance for me.
 
-### Translations (and meaning of my last name "Lerman")
+### Translations and meaning of my last name "Lerman"
 
  Also wasn’t unfitting given my Taoist practices and interests, which is one of the most peaceful religions on Earth, credited to the Chinese, namely Laozi, not Chenliang, and good translators including Richard Wilhelm, who was German (and my last name “Lerman” is actually of German Ashkenazi root, meaning “teacher,” also a good translator, of ["ancient" wisdom](Philosophy/My-Spirituality.md), [the nature of consciousness](Philosophy/Consciousness.md), [convoluted](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) AI topics for Chenliang’s somewhat-[convoluted](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) lab group, [complex math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md), [myth](Philosophy/Cosmogenesis-Myth.md), [chemistry](Philosophy/Fire.md), and now [apparently physics](Philosophy/Velocity-Addition-Formula.md)). 
 
