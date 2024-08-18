@@ -78,7 +78,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Friends
       - Allies
       - Enemies
-      - Right to talk about suicide seriously 
     - Synchronicities
       - Chris Kanan (Deus ex memory)
       - Jordan Peterson
@@ -92,6 +91,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - "Life ruined" post
       - House on May St.
       - Physics
+    - Right to talk about suicide seriously 
   - Thesis
     - [Early work in program](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)   
       - Part 6
