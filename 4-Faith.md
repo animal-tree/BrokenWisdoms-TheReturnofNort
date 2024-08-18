@@ -83,8 +83,6 @@ Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action 
 
 My point is that if we are to prevent literal, un-metaphorical painful realities, we need to be able to hear them.
 
-As it stands, our institutions and authorities get very triggered.
-
 ### Friends
 
 > Date: **10/29/23**
