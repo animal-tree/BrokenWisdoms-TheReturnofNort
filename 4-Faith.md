@@ -70,7 +70,7 @@ That's how the note ended.
 
 It's expressing a strong belief that the world doesn't have heart, and that the part of it that does wants me to be free of pain, literally, un-metaphorically, seriously.
 
-I didn't share with anybody that I was going to do it. Had I done it, I would've succeeded. Had I shared that I was going to do it, I would've gotten coercively hospitalized and drugged against my will, most likely.
+I didn't share with anybody that I was going to do it. Had I done it, I would've succeeded. Had I shared that I was going to do it, I would've gotten coercively hospitalized and drugged against my will, most likely. If I did it now, I would succeed. If the method were taken away from me, I would succeed. The method left in my hands, is the only possibility in which I survive.
 
 I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged each session by hundreds of dollars), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible.I don't mean Shakespeare sonnets or radical philosophy. Those meanings, expressed literally and seriously, even with a plan and concrete immediately-executable method tied to them, not as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
