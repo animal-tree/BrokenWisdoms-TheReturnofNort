@@ -4,8 +4,6 @@
 
 ### Right to talk about suicide seriously
 
-Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. Under the existing system, suicide-plan therapy is effectively impossible for somebody who doesn't want to be coercively hospitalized and drugged.
-
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
 > &ensp;&ensp; *As to behold desert a beggar born,*</br>
@@ -59,8 +57,6 @@ Here is an excerpt from my own suicide note that I'd written, trying to describe
 That's how the note ended. 
 
 It's expressing a strong belief that the world doesn't have heart, and that the part of it that does wants me to be free of pain, literally, un-metaphorically, seriously.
-
-I didn't share with anybody that I was going to do it.
 
 I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged by hundreds of dollars per session), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Nobody has the ability to transform into a philosopher or write a Shakespeare sonnet everytime they want to communicate something. Those meanings at the end of my suicide note, expressed in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
