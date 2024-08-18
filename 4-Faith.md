@@ -2,6 +2,81 @@
 
 ## Part 5
 
+### Right to talk about suicide seriously
+
+Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. The point of Right To Die, as I define it, is to legalize suicide-plan therapy.
+
+Right To Die is not the same as Right For Physician To Commit Physician-Assisted Suicide in my opinion. One permits being able to talk about suicide, and not shaming or punishing a person for doing so, the other gives doctors permission to assist with that suicide. The latter also has merits, and before we get into what I'm proposing, let's look at a couple of those merits to see that even the radical variant, wherein doctors can assist with the suicide, makes sense.
+
+Right For Physician To Commit Physician-Assisted Suicide can increase peace of mind for people with severe depression, by giving them an exit door from Hell, not an exit push. Borrowing Sartre's depiction of the seemingly-perennial state of human relationships, we have both that "Hell is other people" and, as the play is called: [No Exit](https://en.wikipedia.org/wiki/No_Exit). Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, which I think should also be part of Right For Physician To Commit Physician-Assisted Suicide, (regulated) availability of assistance also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax, with some security, to regain a sense of optimism to pursue with their life. I can say from personal experience this actually works.
+
+Also, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
+
+Right To Die, on the other hand, makes it so that a person can plan and even act on suicide without involuntary institutionalization, and without being coerced chemicals, both of which obstruct conversation and therapy, and can assist later suicide desire. The main advantage of Right To Die, is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through politics, philosophy, or art. 
+
+> ### $\Huge &#8220;$
+> &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
+> &ensp;&ensp; *As to behold desert a beggar born,*</br>
+> &ensp;&ensp; *And needy nothing trimm'd in jollity,*</br>
+> &ensp;&ensp; *And purest faith unhappily forsworn,*</br>
+> &ensp;&ensp; *And gilded honour shamefully misplac'd,*</br>
+> &ensp;&ensp; *And maiden virtue rudely strumpeted,*</br>
+> &ensp;&ensp; *And right perfection wrongfully disgrac'd,*</br>
+> &ensp;&ensp; *And strength by limping sway disabled,*</br>
+> &ensp;&ensp; *And art made tongue-tied by authority,*</br>
+> &ensp;&ensp; *And folly, doctor-like, controlling skill,*</br>
+> &ensp;&ensp; *And simple truth miscall'd simplicity,*</br>
+> &ensp;&ensp; *And captive good attending captain ill.*</br>
+> &ensp;&ensp; *Tired with all these, from these would I be gone,*</br>
+> &ensp;&ensp; *Save that, to die, I leave my love alone.*
+> ### $\Huge &#8221;$
+>
+> &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
+
+> [!NOTE]
+> I don't have the morale to elaborate on how "art made tongue-tied by authority and folly, doctor-like controlling skill" is relevant. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." With ideas that were intuitive and ahead of their time dismissed and disregarded. "Simple truth miscall'd simplicity." And indeed, "doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs most of the university. "And strength by limping sway disabled," as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their insanity in order to write this book.
+> 
+> My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
+>
+> "Tired with all these, from these would I be gone, save that, to die, I leave my love alone."
+>
+> And that might be the interpretation, but I sense that's not the one Shakespeare most meant. My interpretation might end up even more controversial than this chapter of this book, really, since a lot of people perhaps want to interpret a romantic notion at the end (my mom knows Shakespeare didn't mean it maternally). However, that would be a pretty big thematic divergence and betrayal, if after every line (from "purest faith unhappily forsworn," to "maiden virtue rudely strumpeted," to "gilded honour shamefully misplac'd"), Shakespeare's meaning coalesced to, "Well, I could never do that to my girlfriend." Not to man-splain what Shakespeare meant, but this is what Shakespeare meant ("sam-splaining" is a distinct form):
+>
+> The narrator referred to himself as a "beggar born," and he cries for death so as to behold himself "desert" from himself, meaning to "leave" himself (to die) and "leave" all of the tragedies listed thereafter. The last line is exactly parallel to this in meaning. He refers to his love: "I leave *my* love" — his literal, un-metaphorical love — "alone." To leave his love is leaving his body. It's leaving his skin. It's leaving his emotion. Shakespeare is expressing that the immense love within the narrator that he's expressed in the verses of this sonnet, does not deserve the injustice of being escaped alone. Jokingly, one could even interpret he'd rather take you all with him. Perhaps the simplest possible interpretation of the word "love" will be called "simplicity" by academics. The un-metaphorical meaning, the literal one — love — is the meaning I think Shakespeare most meant.
+>
+> When a person dies, they don't just leave their life. They leave the constellations of beauty inside them, including all of their love; and this sonnet expresses a tragedy, of someone who has so much love and passion — and it's wasted.
+>
+> Another interpretation is that his love is tied to a soulmate. I like that interpretation, too, but it's out of context for what the narrator is primarily conveying in this specific sonnet, the injustice of the world that leads the narrator, through Shakespeare's words, to cry for death.
+>
+> Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
+
+Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been, that also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
+
+> ### $\Huge &#8220;$
+> [...]
+> 
+> Another concern is thoughts of doubt. For example, I might remember how much comfort my mom brings me and that the comfort she offers is still available tomorrow. I might even feel guilty for taking such drastic actions under the wing of such availability of comfort. I think that’s the strongest argument, and the hardest to stay resolved in.
+>
+> I might remember my grandma, and the injustice that this has fallen on her grandson.
+>
+> But then I can maybe find peace in those thoughts. Maybe I can imagine my mom and grandma, and grandpa, and all those people who loved me and made me, and love — present tense — in the case of my mom, and find peace in knowing they want my pain to end. That they are not judging me for my exit, and support my escape from this hellhole.
+>
+> Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
+> ### $\Huge &#8221;$
+
+That's how the note ended. 
+
+It was saying that to know that somebody loves you is to know they want you to be free of pain. I didn't share with anybody that I was going to do it. However, I did talk to my therapist, back in 2022, through completely abstract rhetoric — since anything other than abstract philosophical rhetoric would've risked another coercive hospitalization and drugging — about Right To Die. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Nobody, including me, has the ability to transform into a philosopher or write a Shakespeare sonnet everytime they want to communicate something. Those words of Shakespeare, or those at the end of my suicide note, expressed literally and seriously, not just as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
+
+Here is what I can say from personal experience, having an elaborate plan and method (one that I can always eventually take up, in case coercive hospitals think they have a chance at helping me again): The option to die is agony-relieving. Taking it away contributes to suicide ideation. This point can't be under-stressed. Having the option, counterintuitively is therapy. Right To Die is a healing right for me to have within my choice. I don't want to risk more controversy by extending a political slogan beyond its intended meaning, but My Body, My Choice is true. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
+
+Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized, if serious suicide plans that are planned and intended are to be actually prevented).
+- A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
+- Right To Die, in principle, is distinct from Right To Talk About Suicide [...], but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about it.
+- In principle, also, most of my experience with the medical systems was physician-"assisted" suicide.
+
+My point is that if we are to prevent literal, un-metaphorical painful realities, we need to be able to hear them.
+
 ### Friends
 
 > Date: **10/29/23**
@@ -115,78 +190,3 @@ Description
 ### Physics
 
 Revelatory insights about the universe as a differentiable brain in my 2nd year, with that fascination returning to me regularly and intensely thereafter. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (an optics physicist, about applying deep learning models to his work, involving optics, including behavior of light, for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and, since being terminated, me coming up with a [unified wave theory](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/Unified-Wave-Theory.md) (involving a differentiable, intelligence-optimizable, simulation/model of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit diffraction (analogous to XRD) experiments.
-
-# Right to talk about suicide seriously
-
-Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. The point of Right To Die, as I define it, is to legalize suicide-plan therapy.
-
-Right To Die is not the same as Right For Physician To Commit Physician-Assisted Suicide in my opinion. One permits being able to talk about suicide, and not shaming or punishing a person for doing so, the other gives doctors permission to assist with that suicide. The latter also has merits, and before we get into what I'm proposing, let's look at a couple of those merits to see that even the radical variant, wherein doctors can assist with the suicide, makes sense.
-
-Right For Physician To Commit Physician-Assisted Suicide can increase peace of mind for people with severe depression, by giving them an exit door from Hell, not an exit push. Borrowing Sartre's depiction of the seemingly-perennial state of human relationships, we have both that "Hell is other people" and, as the play is called: [No Exit](https://en.wikipedia.org/wiki/No_Exit). Besides giving people the ability to talk about suicide ideation without the threat of being hospitalized and coercively drugged, which I think should also be part of Right For Physician To Commit Physician-Assisted Suicide, (regulated) availability of assistance also guarantees some peace of mind, enough for people going through unbelievable trauma to possibly relax, with some security, to regain a sense of optimism to pursue with their life. I can say from personal experience this actually works.
-
-Also, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
-
-Right To Die, on the other hand, makes it so that a person can plan and even act on suicide without involuntary institutionalization, and without being coerced chemicals, both of which obstruct conversation and therapy, and can assist later suicide desire. The main advantage of Right To Die, is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through politics, philosophy, or art. 
-
-> ### $\Huge &#8220;$
-> &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
-> &ensp;&ensp; *As to behold desert a beggar born,*</br>
-> &ensp;&ensp; *And needy nothing trimm'd in jollity,*</br>
-> &ensp;&ensp; *And purest faith unhappily forsworn,*</br>
-> &ensp;&ensp; *And gilded honour shamefully misplac'd,*</br>
-> &ensp;&ensp; *And maiden virtue rudely strumpeted,*</br>
-> &ensp;&ensp; *And right perfection wrongfully disgrac'd,*</br>
-> &ensp;&ensp; *And strength by limping sway disabled,*</br>
-> &ensp;&ensp; *And art made tongue-tied by authority,*</br>
-> &ensp;&ensp; *And folly, doctor-like, controlling skill,*</br>
-> &ensp;&ensp; *And simple truth miscall'd simplicity,*</br>
-> &ensp;&ensp; *And captive good attending captain ill.*</br>
-> &ensp;&ensp; *Tired with all these, from these would I be gone,*</br>
-> &ensp;&ensp; *Save that, to die, I leave my love alone.*
-> ### $\Huge &#8221;$
->
-> &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
-
-> [!NOTE]
-> I don't have the morale to elaborate on how "art made tongue-tied by authority and folly, doctor-like controlling skill" is relevant. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." With ideas that were intuitive and ahead of their time dismissed and disregarded. "Simple truth miscall'd simplicity." And indeed, "doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs most of the university. "And strength by limping sway disabled," as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their insanity in order to write this book.
-> 
-> My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
->
-> "Tired with all these, from these would I be gone, save that, to die, I leave my love alone."
->
-> And that might be the interpretation, but I sense that's not the one Shakespeare most meant. My interpretation might end up even more controversial than this chapter of this book, really, since a lot of people perhaps want to interpret a romantic notion at the end (my mom knows Shakespeare didn't mean it maternally). However, that would be a pretty big thematic divergence and betrayal, if after every line (from "purest faith unhappily forsworn," to "maiden virtue rudely strumpeted," to "gilded honour shamefully misplac'd"), Shakespeare's meaning coalesced to, "Well, I could never do that to my girlfriend." Not to man-splain what Shakespeare meant, but this is what Shakespeare meant ("sam-splaining" is a distinct form):
->
-> The narrator referred to himself as a "beggar born," and he cries for death so as to behold himself "desert" from himself, meaning to "leave" himself (to die) and "leave" all of the tragedies listed thereafter. The last line is exactly parallel to this in meaning. He refers to his love: "I leave *my* love" — his literal, un-metaphorical love — "alone." To leave his love is leaving his body. It's leaving his skin. It's leaving his emotion. Shakespeare is expressing that the immense love within the narrator that he's expressed in the verses of this sonnet, does not deserve the injustice of being escaped alone. Jokingly, one could even interpret he'd rather take you all with him. Perhaps the simplest possible interpretation of the word "love" will be called "simplicity" by academics. The un-metaphorical meaning, the literal one — love — is the meaning I think Shakespeare most meant.
->
-> When a person dies, they don't just leave their life. They leave the constellations of beauty inside them, including all of their love; and this sonnet expresses a tragedy, of someone who has so much love and passion — and it's wasted.
->
-> Another interpretation is that his love is tied to a soulmate. I like that interpretation, too, but it's out of context for what the narrator is primarily conveying in this specific sonnet, the injustice of the world that leads the narrator, through Shakespeare's words, to cry for death.
->
-> Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
-
-Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been, that also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
-
-> ### $\Huge &#8220;$
-> [...]
-> 
-> Another concern is thoughts of doubt. For example, I might remember how much comfort my mom brings me and that the comfort she offers is still available tomorrow. I might even feel guilty for taking such drastic actions under the wing of such availability of comfort. I think that’s the strongest argument, and the hardest to stay resolved in.
->
-> I might remember my grandma, and the injustice that this has fallen on her grandson.
->
-> But then I can maybe find peace in those thoughts. Maybe I can imagine my mom and grandma, and grandpa, and all those people who loved me and made me, and love — present tense — in the case of my mom, and find peace in knowing they want my pain to end. That they are not judging me for my exit, and support my escape from this hellhole.
->
-> Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
-> ### $\Huge &#8221;$
-
-That's how the note ended. 
-
-It was saying that to know that somebody loves you is to know they want you to be free of pain. I didn't share with anybody that I was going to do it. However, I did talk to my therapist, back in 2022, through completely abstract rhetoric — since anything other than abstract philosophical rhetoric would've risked another coercive hospitalization and drugging — about Right To Die. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Nobody, including me, has the ability to transform into a philosopher or write a Shakespeare sonnet everytime they want to communicate something. Those words of Shakespeare, or those at the end of my suicide note, expressed literally and seriously, not just as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
-
-Here is what I can say from personal experience, having an elaborate plan and method (one that I can always eventually take up, in case coercive hospitals think they have a chance at helping me again): The option to die is agony-relieving. Taking it away contributes to suicide ideation. This point can't be under-stressed. Having the option, counterintuitively is therapy. Right To Die is a healing right for me to have within my choice. I don't want to risk more controversy by extending a political slogan beyond its intended meaning, but My Body, My Choice is true. A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society.
-
-Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized, if serious suicide plans that are planned and intended are to be actually prevented).
-- A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
-- Right To Die, in principle, is distinct from Right To Talk About Suicide [...], but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about it.
-- In principle, also, most of my experience with the medical systems was physician-"assisted" suicide.
-
-My point is that if we are to prevent literal, un-metaphorical painful realities, we need to be able to hear them.
