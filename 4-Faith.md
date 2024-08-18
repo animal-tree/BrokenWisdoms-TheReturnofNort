@@ -153,7 +153,7 @@ They were working on some AGI project called Q*, and the synchronicity may have 
 
 ### Michael Scott’s paper factory
 
-Michael’s name [is mockable](https://youtu.be/ZPKdJGY0YyE?si=ja-odwAD_z7G98ZK). 
+Michael’s name [is mockable](https://youtu.be/ZPKdJGY0YyE?si=ja-odwAD_z7G98ZK) (that links to a story arc from The Office, where a character named Michael Scott starts his own paper company, much like the academic factory that I was beingpressured to publish faster in, except regular papers). 
 
 But from the age of three and two thirds, until 11th grade, as a result of the Uzbek mistranslation when we moved, mine used to be much more mockable. 
 
