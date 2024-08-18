@@ -66,7 +66,7 @@ Here is an excerpt from my own suicide note that I'd written, trying to describe
 
 That's how the note ended. 
 
-It was saying that to know that somebody loves you is to know they want you to be free of pain. I didn't share with anybody that I was going to do it. 
+It was saying that to know that somebody loves you is to know they want you to be free of pain. I didn't share with anybody that I was going to do it. It's also saying that the world doesn't have heart.
 
 I talked to my therapist about suicide back in 2022, while I was still allowed to see him, through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Nobody, including me, has the ability to transform into a philosopher or write a Shakespeare sonnet everytime they want to communicate something. Those meanings at the end of my suicide note, expressed literally and seriously and with a plan tied to them, not just as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
