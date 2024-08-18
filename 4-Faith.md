@@ -38,7 +38,7 @@ Screenshots
 
 ### Right to talk about suicide seriously
 
-Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. One of the points of Right To Die, to start with, is to legalize suicide-plan therapy.
+Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. The point of Right To Die, as I define it, is to legalize suicide-plan therapy.
 
 Right To Die is not the same as Right For Physician To Commit Physician-Assisted Suicide in my opinion. One permits being able to talk about suicide, and not shaming or punishing a person for wanting to, the other gives doctors permission to assist with that suicide, which also has merits.
 
