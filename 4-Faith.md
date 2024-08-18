@@ -10,7 +10,7 @@ Right To Die is not the same as Right For Physician To Commit Physician-Assisted
 - Available death guarantees some peace of mind, enough for people going through unbelievable circumstances to possibly relax, with some security, to regain a sense of optimism to pursue with their life. 
 - The peaceful version doesn't involve bodies splattering from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Many methods are gruesome. Those that aren't require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
 
-Right To Die gets rid of involuntary institutionalization and coerced chemicals for planning and talking about suicide. The main advantage is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through politics, philosophy, and art. 
+Right To Die gets rid of involuntary institutionalization and coerced chemicals for planning and talking about suicide. The main advantage is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through philosophy and art. 
 
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
