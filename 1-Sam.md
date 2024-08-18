@@ -75,6 +75,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Conclusive disproof
   - [Faith](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md)
     - Part 5
+      - Right to talk about suicide seriously 
       - Friends
       - Allies
       - Enemies
@@ -91,7 +92,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - "Life ruined" post
       - House on May St.
       - Physics
-    - Right to talk about suicide seriously 
   - Thesis
     - [Early work in program](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)   
       - Part 6
