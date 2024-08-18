@@ -14,7 +14,7 @@ Right To Die is not the same as Right For Physician To Commit Physician-Assisted
 
 Suicide is legal in many places, including New York State. Coerced hospitalization and drugging, however, are pretty standard.
 
-Right To Die, by my more literal interpretation, only changes one thing from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, and therefore talking about planning to commit, suicide. The main advantage is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through philosophy and art. 
+Right To Die, by my more literal interpretation, only changes one thing from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, and therefore talking about planning to commit, suicide. The main advantage of changing medical practices as such is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through philosophy and art. 
 
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
