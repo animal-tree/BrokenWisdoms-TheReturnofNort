@@ -84,7 +84,7 @@ Right To Die, on the other hand, makes it so that a person can plan and even act
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
-Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been, that additionally addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
+Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would've been, that also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
 
 > ### $\Huge &#8220;$
 > [...]
