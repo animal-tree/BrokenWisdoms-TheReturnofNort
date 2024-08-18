@@ -48,7 +48,7 @@ Right To Die, on the other hand, gets rid of consequences for planning and talki
 > 
 > <i><p align="center">And strength by limping sway disabled</p></i>
 > 
-> <p align="right">as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their  ("THEIR?!?") insanity in order to write this book.</p>
+> <p align="right">as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their insanity in order to write this book.</p>
 > 
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
