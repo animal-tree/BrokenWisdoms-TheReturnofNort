@@ -106,10 +106,10 @@ Here is what I can say from personal experience, having an elaborate plan and me
 
 Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized, if serious suicide plans that are planned and intended are to be actually prevented).
 - A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
-- Right To Die, in principle, is distinct from Right For Physician To Commit Physician-Assisted Suicide, though the latter I also support under heavy regulations.
-- In principle, also, most of my experience with the medical systems was Physician-"Assisted" Suicide, with very minimal, poor regulations, and neurochemical and coercive practices that, unlike Right To Talk About Suicide or the effectively equivalent Right To Die, should be outlawed.
-- If suicide is a crime, it shouldn't be a crime until a person is officially pronounced dead. Suicide $\neq$ murder, and requires total amnesty for discussion.
-- Making it a crime in that case however is extremely redundant, since the person is already dead and so that just adds shame. Right To Talk About Suicide is effectively equivalent to Right To Die, except the latter also removes the addition of shame from if it happens. And, Right For Physician To Commit Physician-Assisted Suicide is an independent issue that has much more difficulties to make moral absolutes about than giving people planning suicide the ability to talk about it without further threat, even without philosophy and art to make their words detached. The real reason to oppose Right To Talk About Suicide (and its shame-free equivalent, Right To Die) is to avoid hearing literal, un-metaphorical painful realities, not to prevent them.
+- Right To Die, in principle, is distinct from Right To Talk About Suicide [...], but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about it.
+- In principle, also, most of my experience with the medical systems was physician-"assisted" suicide.
+- Suicide $\neq$ murder, and requires total amnesty for discussion.
+- My point is that if we are to prevent literal, un-metaphorical painful realities, we need to be able to hear them.
 
 # Synchronicities
 
