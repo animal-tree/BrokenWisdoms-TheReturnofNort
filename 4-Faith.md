@@ -52,7 +52,7 @@ Right To Die, by my more literal interpretation, only changes one thing from the
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
-Here is an excerpt from a suicide note that I wrote, trying to process through the final moments of executing the suicide method, and trying to process how to surmount the thoughts that I found most tried to stop me in my practice or previous attempts:
+Here is an excerpt from a suicide note that I wrote, trying to process through the final moments of executing the suicide method, and trying to process how to surmount the thoughts that I found most tried to stop me in my previous attempts:
 
 > ### $\Huge &#8220;$
 > [...]
