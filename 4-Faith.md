@@ -67,9 +67,7 @@ Here is an excerpt from a suicide note that I wrote, trying to process how I wou
 > ### $\Huge &#8221;$
 
 > [!NOTE]
-> That's how the note ended. 
->
-> It's expressing a strong belief that the world doesn't have heart, and that the part of it that does wants me to be free of pain, literally, un-metaphorically, seriously. This excerpt also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
+> It's expressing a strong belief that the world doesn't have heart, and that the part of it that does wants me to be free of pain, literally, un-metaphorically, seriously. This excerpt also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path.
 >
 > I didn't share with anybody that I was going to do it. 
 
