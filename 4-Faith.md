@@ -8,7 +8,7 @@ Most people seriously considering suicide can't talk about it, not unless they b
 
 Right To Die is not the same as Right For Physician To Commit Physician-Assisted Suicide in my opinion. One permits being able to talk about suicide, and not shaming or punishing a person for doing so, the other gives doctors permission to assist with that suicide. The latter also has merits, and before we get into what I'm proposing, let's look at a couple of those merits to see that even the radical variant, wherein doctors can assist with the suicide, makes sense.
 
-Right For Physician To Commit Physician-Assisted Suicide can increase peace of mind, by giving a person an exit door from Hell, that is their's to step through if they need to. Giving people going through unbelievable trauma the key to exit makes their lives feel less like Hell. The lack of urgency to take the first opportunity for death that opens up means they can live longer knowing they can always do it tomorrow.
+Right For Physician To Commit Physician-Assisted Suicide can increase peace of mind, optimism, and desire to live. Giving people the key to exit makes their lives feel less like Hell. The lack of urgency to take the first opportunity for death that opens up means they can live longer knowing they can always do it tomorrow.
 
 Secondly, gruesome methods can be avoided. Without it, suicide victims splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Yet other methods can cause permanent damage to brain or body, reducing life quality even more. Other methods require research ability and skill to carry out singlehandedly. 
 
