@@ -137,6 +137,14 @@ CMT (the portal that was used to submit to the "NIPS" 2018 conference, today cal
 
 And not only foretold to my university's professors, but innovated on and executed successful experiments verifying the early innovation — and formal paper submission, later derailed by me having to switch advisors, fields, and put on deadlines, not to mention all of their doubt, skepticism, and lack of enthsuiasm (oh but enthusiasm came later when MHDPA exploded, with Henry even telling me on email record, after he was no longer my advisor, that I should work on vision transformers!).
 
+### Covid
+
+Then Covid interestingly happened when I joined an all-Chinese lab (Chenliang’s). Almost like he was taking vengeance for me.
+
+### Translations
+
+ Also wasn’t unfitting given my Taoist practices and interests, which is one of the most peaceful religions on Earth, credited to the Chinese, namely Laozi, not Chenliang, and good translators including Richard Wilhelm, who was German (and my last name “Lerman” is actually of German Ashkenazi root, meaning “teacher,” also a good translator, of ["ancient" wisdom](Philosophy/My-Spirituality.md), [the nature of consciousness](Philosophy/Consciousness.md), [convoluted](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) AI topics for Chenliang’s somewhat-[convoluted](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) lab group, [complex math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md), [myth](Philosophy/Cosmogenesis-Myth.md), [chemistry](Philosophy/Fire.md), and now [apparently physics](Philosophy/Velocity-Addition-Formula.md)). 
+
 ### Sam "Altman"
 
 The head of OpenAI, the company that invented ChatGPT (that used MHDPA), whose name is "Sam Altman" (mine is Sam Lerman) — "Altman," which is not German Ashkenazi for "teacher" — was terminated as the head of OpenAI in an unusually sensationalized situation exactly 17 days after my termination as PhD student, then was brought back.
