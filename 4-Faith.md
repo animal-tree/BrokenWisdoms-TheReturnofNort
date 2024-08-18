@@ -52,7 +52,7 @@ Right To Die, by my more literal interpretation, only changes one thing from the
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
-Here is an excerpt from a suicide note that I wrote, trying to process how I would process those last moments of doubt:
+Here is an excerpt from a suicide note that I wrote, trying to process how I would process those last moments of doubt. This excerpt also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path.
 
 > ### $\Huge &#8220;$
 > [...]
@@ -66,10 +66,11 @@ Here is an excerpt from a suicide note that I wrote, trying to process how I wou
 > Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
 > ### $\Huge &#8221;$
 
-> [!NOTE]
-> It's expressing a strong belief that the world doesn't have heart, and that the part of it that does wants me to be free of pain, literally, un-metaphorically, seriously. This excerpt also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path.
->
-> I didn't share with anybody that I was going to do it. 
+That's how the note ended. 
+
+It's expressing a strong belief that the world doesn't have heart, and that the part of it that does wants me to be free of pain, literally, un-metaphorically, seriously.
+
+I didn't share with anybody that I was going to do it. 
 
 If I had Right To Die, I could've shared that I was going to do it, whereas I was able to do it and just not have no risk of coerced hospitalization and being drugged against my will if I talked about it. I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged each session by hundreds of dollars), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Nobody has the ability to write a Shakespeare sonnet or transform their words into philosophy everytime they want to communicate something. Those meanings in Sonnet 66 and at the end of my suicide note, expressed literally and seriously and with a plan and concrete immediately-executable method tied to them, and not as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
