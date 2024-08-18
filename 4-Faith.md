@@ -48,8 +48,6 @@ Right To Die, by my more literal interpretation, only changes one thing from the
 >
 > When a person dies, they don't just leave their life. They leave the constellations of beauty inside them, including all of their love; and this sonnet expresses a tragedy, of someone who has so much love and passion — and it's wasted.
 >
-> Another interpretation is that his love is tied to a soulmate who he is separated from. I like that interpretation, too, but that would be a fast thematic divergence from the rest of the sonnet.
->
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
 Here is an excerpt from my own suicide note that I'd written, trying to describe what my last moments hypothetically would be, and which addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path:
