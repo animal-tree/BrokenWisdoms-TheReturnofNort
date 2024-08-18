@@ -36,7 +36,7 @@ I sent them this email exactly as I showed my friend. That was the best I was ab
 
 Screenshots
 
-## Right to talk about suicide seriously
+### Right to talk about suicide seriously
 
 Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. One of the points of Right To Die, to start with, is to legalize suicide-plan therapy.
 
