@@ -74,6 +74,8 @@ If I had Right To Die, I could've shared that I was going to do it, whereas I wa
 
 On top of that, Right To Die is a healing right for a person to have within their choice, wherein [Hell has an exit door](https://en.wikipedia.org/wiki/No_Exit). A society’s responsibility is to negotiate for the lives of the people who inhabit it — not a person's to give what's left of theirs suffering — not to mention inexpressibly — within an unjust society. Sartre, in his play No Exit, described in less words than anybody what creates that Hell. "Hell is other people."
 
+If I sensed that the option were at risk of being taken away from me, or me from having access to that option, I'm intelligent enough to do it no matter what intervening actions are taken. Those intervening actions would be the cause. And they would tell me to do it soon, as soon as I can and as soon as the opportunity opens for me.
+
 Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized, if serious suicide plans that are planned and intended are to be actually prevented).
 - A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
 - My Body, My Choice, regarding not being coercively hospitalized and drugged, is true.
