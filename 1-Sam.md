@@ -1,6 +1,6 @@
 # $\mathfrak{\mathrm{P}rologue}$
 
-## $\mathbf{Dialogue \ of \ the \ Congress \ 1}$
+## $\mathbf{Dialogue \ of \ the \ Congress \ \text{1}}$
 
 &ensp;&ensp;&ensp;"Who is Sam?" the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;The stenographer checks the print. "The records read: \``A not-bald, not-especially-traumatized PhD student in artificial intelligence.`\`"
 
@@ -10,7 +10,7 @@
 
 # 𖥸 Broken Wisdoms
 
-$$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
+$$\text{a \ Sam \ Lerman \ hobbit\'s \ tale} \ 𖥸$$
 
 </br>
 
