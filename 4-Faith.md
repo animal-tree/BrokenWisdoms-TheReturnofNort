@@ -33,9 +33,9 @@ Right To Die, on the other hand, makes it so that a person can plan and even act
 >
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
+I don't have the words to elaborate on how "art made tongue-tied by authority and folly, doctor-like controlling skill" is relevant. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." With ideas that were intuitive and ahead of their time dismissed and disregarded. "Simple truth miscall'd simplicity." And indeed, "doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs most of the university. "And strength by limping sway disabled," as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their insanity in order to write this book.
+
 > [!NOTE]
-> I don't have the morale to elaborate on how "art made tongue-tied by authority and folly, doctor-like controlling skill" is relevant. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." With ideas that were intuitive and ahead of their time dismissed and disregarded. "Simple truth miscall'd simplicity." And indeed, "doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs most of the university. "And strength by limping sway disabled," as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their insanity in order to write this book.
-> 
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
 > "Tired with all these, from these would I be gone, save that, to die, I leave my love alone."
