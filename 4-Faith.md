@@ -10,7 +10,7 @@ Right To Die is not the same as Right For Physician To Commit Physician-Assisted
 
 Right For Physician To Commit Physician-Assisted Suicide can increase peace of mind, by giving a person an exit door from Hell, that is their's to step through if they need to. Giving people going through unbelievable trauma the key to exit makes their lives feel less like Hell. The lack of urgency to take the first opportunity for death that opens up means they can live longer knowing they can always do it tomorrow.
 
-Secondly, via Right For Physician To Commit Physician-Assisted Suicide, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
+Secondly, gruesome methods can be avoided. Without it, bodies of suicide victims splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Yet other methods can cause permanent damage to brain or body, reducing life quality even more. Other methods require research ability and skill to carry out singlehandedly. 
 
 Right To Die, on the other hand, makes it so that a person can plan and even act on suicide without involuntary institutionalization, and without being coerced chemicals, both of which obstruct conversation and therapy, and can assist later suicide desire. The main advantage of Right To Die, is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through politics, philosophy, and art. 
 
