@@ -46,7 +46,7 @@ Right To Die, on the other hand, makes it so that a person can plan and even act
 >
 > When a person dies, they don't just leave their life. They leave the constellations of beauty inside them, including all of their love; and this sonnet expresses a tragedy, of someone who has so much love and passion — and it's wasted.
 >
-> Another interpretation is that his love is tied to a soulmate. I like that interpretation, too, but it's out of context for what the narrator is primarily conveying in this specific sonnet, the injustice of the world that leads the narrator, through Shakespeare's words, to cry for death.
+> Another interpretation is that his love is tied to a soulmate who he is separated from. I like that interpretation, too, but that woud be a fast thematic divergence from the rest of the sonnet.
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
