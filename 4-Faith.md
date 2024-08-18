@@ -141,7 +141,7 @@ And not only foretold to my university's professors, but innovated on and execut
 
 Then Covid interestingly happened when I joined an all-Chinese lab (Chenliang’s). Almost like he was taking vengeance for me.
 
-### Translations
+### Translations (and meaning of my last name "Lerman")
 
  Also wasn’t unfitting given my Taoist practices and interests, which is one of the most peaceful religions on Earth, credited to the Chinese, namely Laozi, not Chenliang, and good translators including Richard Wilhelm, who was German (and my last name “Lerman” is actually of German Ashkenazi root, meaning “teacher,” also a good translator, of ["ancient" wisdom](Philosophy/My-Spirituality.md), [the nature of consciousness](Philosophy/Consciousness.md), [convoluted](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) AI topics for Chenliang’s somewhat-[convoluted](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) lab group, [complex math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md), [myth](Philosophy/Cosmogenesis-Myth.md), [chemistry](Philosophy/Fire.md), and now [apparently physics](Philosophy/Velocity-Addition-Formula.md)). 
 
