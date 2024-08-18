@@ -46,7 +46,7 @@ Right For Physician To Commit Physician-Assisted Suicide can increase peace of m
 
 Also, with Right For Physician To Commit Physician-Assisted Suicide specifically, bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
 
-While Right To Die doesn't necessarily prevent (or contribute to) those horrific deaths the way Right For Physician To Commit Physician-Assisted does, Right To Die makes it so that a person can plan and even act on suicide without involuntary institutionalization, and without involuntary coercions of chemicals. The main advantage of that, is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through politics, philosophy, or art. 
+While Right To Die doesn't necessarily prevent (or contribute to) those horrific deaths the way Right For Physician To Commit Physician-Assisted does, Right To Die makes it so that a person can plan and even act on suicide without involuntary institutionalization, and without coercions of chemicals. The main advantage of that, is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through politics, philosophy, or art. 
 
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
