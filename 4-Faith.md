@@ -64,8 +64,6 @@ I didn't share with anybody that I was going to do it.
 
 I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. Nobody has the ability to transform into a philosopher or write a Shakespeare sonnet everytime they want to communicate something. Those meanings at the end of my suicide note, expressed in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
-My point is that if we are to prevent literal, un-metaphorical painful realities, we need to be able to hear them.
-
 ### Friends
 
 > Date: **10/29/23**
