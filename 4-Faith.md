@@ -66,7 +66,7 @@ Here is an excerpt from my own suicide note that I'd written, trying to describe
 
 That's how the note ended. 
 
-It's expressing a strong belief that the world doesn't have heart.
+It's expressing a strong belief that the world doesn't have heart, and that the part of it that does wants me to be free of pain, literally, un-metaphorically, seriously.
 
 I didn't share with anybody that I was going to do it.
 
