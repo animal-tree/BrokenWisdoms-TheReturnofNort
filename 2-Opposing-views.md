@@ -177,7 +177,7 @@ Let's begin a simplified explanation of the brain's neuron. Neurons are cells th
 
 Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally, from the parts that are understood to the parts that aren't.
 
-To understand this mechanism, you'd have to solve all of neurology, artificial intelligence, and more, and psychiatrists definitely haven't. Benzos are a floodbath of GABA, and your brain responds to those GABA bursts by "downregulation," even long, long after cessation.
+Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. Benzos are a floodbath of GABA, and your brain responds to those GABA bursts by "downregulation," even long, long after cessation.
 
 ### Hospitalization
 
