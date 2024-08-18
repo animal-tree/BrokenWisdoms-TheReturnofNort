@@ -32,21 +32,7 @@ Right To Die gets rid of consequences for planning and talking about suicide, in
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
 > [!NOTE]
-> <i><p align="center">Art made tongue-tied by authority and folly, doctor-like controlling skill</p></i>
-> 
-> <p align="right">Art suffocates in the limitations of Chenliang and Michael. "Doctor-like" is the analogy Shakespeare turned to to describe such authority.</p>
-> 
-> <i><p align="center">Captive good attending to captain evil</p></i>
-> 
-> <p align="right">My good attended hostage to Chenliang under the university's captain evil. </p>
->
-> <i><p align="center">Simple truth miscall'd simplicity</p></i>
-> 
-> <p align="right">My ideas that were intuitive and ahead of their time, dismissed and disregarded unless spoonfed to faculty in exactly the language and terms that they liked.</p>
-> 
-> <i><p align="center">And strength by limping sway disabled</p></i>
-> 
-> <p align="right">as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their insanity in order to write this book.</p>
+>  I don't have the morale to elaborate on how "art made tongue-tied by authority and folly, doctor-like controlling skill" is relevant. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." With ideas that were intuitive and ahead of their time dismissed and disregarded. "Simple truth miscall'd simplicity." And indeed, "doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs most of the university. "And strength by limping sway disabled," as I limp both in my words here as I re-visit the traumas, and literally, to walk, from the eczema on my legs, currently caused by the stress of describing their insanity in order to write this book.
 > 
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
