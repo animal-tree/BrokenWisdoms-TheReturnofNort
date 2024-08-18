@@ -1,45 +1,60 @@
-# Early work in program
+# Indebted
 
-## Part 6
+## Part 6 ([Continued](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md))
 
-> This isn't meant as a resume. It illustrates the university's lack of standing as a credible institution, having opposed and been late to every idea that turned out to be the next major leap in the field, including some I don't have the energy to elaborate on.
->
-> It mainly shows how much I did in the first 3 years, amid the extreme terror, tragedy, and obstruction with the same institution on me concurrently. See [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md) for work I did throughout my PhD.
-> 
-> I under-stress how much they argued, pre-emptively judged, and disagreed.
+I can't be indebted. that's insane. the university of rochester took my life from me and left me with nothing except my mom. now i have to pay my student debts to them, after doctors working for them put me through medical malpractice. The university terminated me for only publishing 2 papers in 3 years under Chenliang, while advisors and committee members abandoned their responsibilities to pursue promotions and more-efficient publication rates. I have the hair of Gollum due to the full-body hair loss that they medically inflicted.
 
-“A ChatGPT paper” refers to a work I did in 2018 when I was studying RL, called [“Distributional Relations In Deep Learning.”](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) Back then, the professors at the University of Rochester in majority believed and argued that Deep Learning was a fad. My first advisor, Henry Kautz, was somewhat better but really skeptical of my obsession with this obscure thing called “MHDPA”, the method behind ChatGPT and is now central to deep learning, you can't get away with not hearing about it. He emailed that he thought I should focus on Neural Architecture Search. I was (somewhat heretically) interested in reinforcement learning, relational reasoning (such as via MHDPA, both for sequences and spatial entities / vision, but note that back then this was an alienating and argued-against view to take), and long-term lifelong memory (such as the early neural episodic control and memory networks). At the time of that work, I was probably the only one outside of DeepMind who heard of MHDPA and certainly at my university. An author of an MHDPA-based RNN at NeurIPS 2018 was so impressed with me he even said he’d recommend me to his colleagues at DeepMind if I applied, though I of course never did because I was hospitalized and brain damaged around that time. By the way, I finished running the experiments for that paper literally in the hospital (first hospitalization, late 2018). My mom had to bring in my laptop. Henry once told me, "Ideas are cheap. Execution is hard." I did both and never got credit.
- 
-Back then I had to use Tensorflow 1.0 and there wasn’t an existing infrastructure. I ran the experiments I could in the hospital and got successful results. The reviewers of the paper who rejected it didn’t know what MHDPA was. And they were unsatisfied with the number of experiments, and the jargon about relational reasoning (today, "relational reasoning" is convention). That work and foresight, much like muuuch and maaany of the disciplines and work of my doctoral-program years (and this really can’t be understated), got wasted, often by ill-timed sudden and improbable circumstances, including foolish advisors and environment. 
+I can hear your inner voice, dear reader, just asking why I don't sue. You don't understand what happened to me. I am not Sam leaving the Shire. I'm Frodo after Mordor. And I would rather sail to the Gray Havens, literally, my dear friend, than fight another day for money. 
 
-Then both the induced brain damage happened and I had to find a new advisor, while clocking in simultaneously at the Medical Center for funding where I built a prognostication web app and a pipeline for disease prognostication. Then Covid, just as I was starting to recover from the emotional impact of induced hair loss and >year induced benzodiazepine Hellish torment (and actual brain damage).
+Not to mention, the later benzodiazepine coercions and lies that induced brain damage on me after as well, that my trauma memory doesn't easily let me elaborate on.
+
+"What is it you want?" - I ask on your behalf, talking to myself, a bit too much like Gollum.
+
+I want the university to apologize for its actions, take accountability, and remediate the damages of their own volitions by their own proclaimed principles. More generally, my faith in humanity, a reason to want to live, [restored](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md), and for the many things that happened to me to not be possible in this world anymore.
+
+Here is some of the work I did and had to do for them at less than minimum wage:
+
+(neural) Architecture Systems:
+
+1. Generously-released AI open-source library from which I made no money due to it being unfinished due to the university’s termination of support, even calling it “unviable”: https://www.github.com/AGI-init/UnifiedML-legacy
+2. Open-source slides: https://docs.google.com/presentation/d/1JpT09GMN0xa81J1h88urRklcOZkJ704s58LHHikmUG8/edit?usp=sharing
+
+Teaching (professors and students):
+
+1. Temporal dynamics: https://docs.google.com/presentation/d/1FsN1zniVRPjnGCMkminigHOrzXPUQIYe_bREbg7WU8M/edit?usp=sharing
+2. Multi-phase Classification figures for their second grant (that I also helped write):  https://docs.google.com/presentation/d/1mNgtyuTHR99Io8N3kbfbJcucTKeH98bdl9XY1QBW7Lw/edit?usp=sharing
+3. Description of biological neurons as LSTMs: https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link (this one was personal)
+4. Ideas, e.g., I think this is a good [example](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md)
+5. Many useful diagrams, e.g. [here](https://private-user-images.githubusercontent.com/9126603/293291504-d598721d-c5e0-4c87-bf30-914681777965.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc0NTI2NTcsIm5iZiI6MTcwNzQ1MjM1NywicGF0aCI6Ii85MTI2NjAzLzI5MzI5MTUwNC1kNTk4NzIxZC1jNWUwLTRjODctYmYzMC05MTQ2ODE3Nzc5NjUucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDIwOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAyMDlUMDQxOTE3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDgxMjYxZTNkMDY5ZGQ1NWJlYmM4ZDdiNzBmN2U0ZDdkYWM5OWY0YTIwYzRiOWFiZDY0NDU0NjhmYjFjNDkwNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.LYvh8X_mQfkBuVXaYOiY1uF9IJDmearKm4J-Dj8HBb8)
+6. Pytorch lecture: https://docs.google.com/presentation/d/1RylmVCn6IStbXv4zSdG6LMK3OfLDjsRstA4mRNls3ho/edit?usp=sharing)
+7. Neural Crystallography (which I guess they had me do for fun): https://docs.google.com/presentation/d/1Z7RpzigzFAgnurscUSIBFX0aAZuxr81T-yqPIFz5fKg/edit?usp=sharing
+
+And countless weekly paper reviews, project summaries, updates on work done, every week. Since I was in two labs, instead of just one like Chenliang's other students, I had to give these updates on two separate independent sets of projects every week for 3 years, meaning I was entirely monitored and supervised in every action, and yet terminated for a missed six-month review make-up (after being terminated).
+
+Robotics:
+
+1. Robo 1: https://docs.google.com/presentation/d/18SbDI_gDK3ashBhhZuG0pbKU91bwCkTpyR3LKjj5_Vo/edit?usp=sharing
+2. Robo 2: https://docs.google.com/presentation/d/1Zm-uNjS6D80Oi44kSVuX-6VHBAvCYBnAYh0541oU4nM/edit?usp=sharing
+3. Open-source: https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py
+
+Top-venue paper publication, that I had to do under force in less than 2 months while literally brain damaged (literally, physiologically, by that very institution, due to benzodiazepine coercions and malpractice) or else I would lose funding due to my first advisor being promoted to a directing position at the NSF and my second one not wanting to accept me into his lab unless I wrote and submitted a top-venue paper immediately:
+
+1. Published Paper: https://arxiv.org/pdf/2006.08601.pdf
+2. Poster: https://docs.google.com/presentation/d/1nI8dKitjOy0yLsIpJHKNF1nnfOnydpXOBobXi9s2-eY/edit?usp=sharing)
+3. Video: https://youtu.be/P08ZNFxMh7Q?si=KwNnGlIA7PdXF5zR)
+
+Then another paper publication, and more, for a paper that was under review when my advisor decided I didn’t have enough papers, just before it was accepted.
+
+[Another paper publication](https://docs.google.com/presentation/d/1nZFXtz2hJQlAsiLW-nuxRDPh97-UAj_g7eN326vTL8k/edit?usp=sharing) </br>
+[And a whole GitHub for them, including the data generation and pipeline, and all of the experiments](https://github.com/AGI-init/XRDs/tree/main) </br>
+And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
+
+That’s a lot of money I helped bring into their institution to be supposedly indebted many thousands to them, an institution responsible for coerced permanent damage against me, literal torture, and blatant abuse of my hard work.
 
 #
 
-> **Most recently**, my second advisor decided last-minute out of nowhere in the middle of a paper review (of a paper that had positive reviews and got accepted) that I didn’t have enough papers. And I was terminated before being able to run my robotics / foundation model experiments on the A6000s, literally a week after having finished the core programming for them. [I released that code open source](https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py), but have no funding and barely the morale left to finalize, as this passion, work, and open-source generosity, is again wasted.
+Work that I did — meaning, fully implemented, as described below — that was rejected by the brand new interim committee and called "unviable" by the department chair:
 
-#
+[Plug-and-play substitute for Pytorch DataLoader, better in every way, leveraging truly-shared memory from scratch accelerated across domains, and with the best possible interface for use in reinforcement learning as an experience replay, prioritized experience replay, or other parallel, distributed, algorithmically novel versions, including priority-sampling without replacement by multiple parallel-CPU workers and memory-mapping, fully unified with dynamically growable and agent-re-writable online dataset and curriculum capability, and even support for cross-device (e.g. GPU) memory pre-allocation of datasets dynamically beyond just pre-fetching mini-batches, supporting data loading/collecting/real-time-learning, online or offline, on-policy and off-policy, across every conceivable learning domain and implemented elegantly.](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Replay.py)
 
-Note: I was new to Deep Learning in 2017 when I entered the program. I learned it fast while balancing the extremely-myopic “breadth” courses I had to take. I graduated my undergrad (with two degrees in Comp Sci and Math) in May, 2017 and went straight into the PhD program in September with the idea of studying empathy and giving empathy to machines ([it’s not as stupid as it sounds](https://github.com/slerman12/PersonalWebpage/blob/master/IRTG%20Project%20Proposal.pdf)). Then I started Transcendental Meditation and had hypnogogic revelations about ontological entities composing relations querying associative memories, a method of nearest neighbors long-term memory I envisioned in a hypnogogic state that I called “circle waves” that DeepMind turned out to have a similar line on with Neural Episodic Control, but to be clear: I arived to it before that paper, and as for "hypnogogic", I always remained lucid and professional.
-
-I should add: I got an [honorable mention](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) (type in Samuel Lerman under "Search by Name" and select "All Years") in the NSF GRFP, with all excellent reviews and the only doubt being that (at the time) I didn't have any publications. That is a highly competitive fellowship, but I received no funding due to that reason. Oh, the excellent reviews were for that very idea (composing relations querying associative memories) that I just qualified with an unnecessary disclaimer about acting professional, because despite the passion with which I considered these ideas (even entering "hypnogogic states"), I always acted professionally. This was my area exam, 2nd year as PhD student in program: [here](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing). Deep learning professor Chenliang Xu, at that area exam, asked me how I planned to do "relational representations", and I turned to slide 11, and taught them MHDPA. My then-advisor Henry Kautz didn't like that I called it "relational reasoning", but that is now a convention. In his defense, he told me I "passed with flying colors." To be fair to Chenliang, the advisor who decided I didn't have enough papers when he decided to leave (when I published 2 in the 3 years under him), it was and still is impressive to me that of all of them he was the only one who inquired on *how* I planned to do relational representations. MHDPA is the method that today underpins large-language models like ChatGPT, and ViTs. See [here](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) for an innovative explanation of them that I called "Conv is all you need", also teaching a little more than the succinctness would let on.
-
-> I also proposed these [bio-inspired neurons]( https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) to my semantic parsing class in 2018, to Henry, and again to Chenliang later. But, no one other than me particularly took an interest, despite the extremely original, intuitive formulation.
-
-> TO DO: Describe disease modeling in its own section, as well as the Keras-type framework I built for medical modeling with long-term episodic memory, how that is still relevant via leveraging foundation model memory, and all the work I did at the medical center that I conveniently excluded here.
-
-Can include NSF GRFP documents.
-
-In progress: structure like this, and actually elaborate on the enormous work done:
-
-### Disease Prediction
-**2016 - 2020**
-
-### Persistent Biologically-Inspired RNN Cell 
-**2018**
-
-### Long-Term Memory
-**2018 - today**
-
-### ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
-**2018**
+> TO DO: Really summarize my work, including the above run-on sentence, long-term memory, architectures, unified framework, GATO multi-task, Bittle, and so much more.
