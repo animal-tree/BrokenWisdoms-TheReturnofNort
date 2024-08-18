@@ -79,7 +79,7 @@ Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action 
 - My Body, My Choice extends also to not having one's body coercively hospitalized and drugged.
 - Gun-rights already give people direct access, except with added risk compared to the safer, peaceful methods that require more research ability and skill to carry out singlehandedly.
 - Right To Die is distinct from Right To Talk, but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about it.
-- In principle, also, most of my experience with the medical systems was physician-"assisted" suicide.
+- Mmost of my experience with the medical systems was physician-assisted suicide.
 
 My point is that if we are to prevent literal, un-metaphorical painful realities, we need to be able to hear them.
 
