@@ -12,7 +12,7 @@ Available death guarantees some peace of mind, enough for people going through u
 
 Bodies of suicide victims don't have to splatter from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
 
-Right To Die, on the other hand, gets rid of consequences for planning and talking about suicide, including involuntary institutionalization, and without being coerced chemicals, both of which obstruct conversation and therapy, and can assist later suicide desire. The main advantage of Right To Die, is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through politics, philosophy, and art. 
+Right To Die, on the other hand, gets rid of consequences for planning and talking about suicide, including involuntary institutionalization and coerced chemicals, both of which obstruct conversation and therapy, and can assist later suicide desire. The main advantage of Right To Die, is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through politics, philosophy, and art. 
 
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
