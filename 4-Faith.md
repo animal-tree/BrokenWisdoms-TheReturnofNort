@@ -4,7 +4,7 @@
 
 ### Right to talk about suicide seriously
 
-Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. Under the existing system, suicide-plan therapy is effectively illegal.
+Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. Under the existing system, suicide-plan therapy is effectively impossible for somebody who doesn't want to be coercively hospitalized and drugged.
 
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
