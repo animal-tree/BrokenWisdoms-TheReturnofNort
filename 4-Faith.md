@@ -52,7 +52,7 @@ Right To Die, by my more literal interpretation, only changes one thing from the
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
-Here is an excerpt from a suicide note that I wrote, trying to process how I would process those last moments of doubt. This excerpt also addresses the question of whether it's amoral for somebody "to do that to someone," as in, the question of whether a suicide victim is selfish for "choosing" that path.
+Here is an excerpt from a suicide note that I wrote, trying to process how I would process those last moments of doubt. 
 
 > ### $\Huge &#8220;$
 > [...]
