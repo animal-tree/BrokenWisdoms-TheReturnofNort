@@ -169,9 +169,7 @@ I was also on antipsychotics, starting from RGH, but the remainder of this book 
 
 This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
 
-Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.<sup>$^\text{\color{green}[1.]}$</sup>
-
-$^\text{\small\color{green}[1.]:}$ <sup>Time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier.</sup> 
+Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.
 
 #
 
@@ -382,7 +380,7 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 >
 > Another was a robot dimension. And the robot dimension I think was a message about the use of robots in hospitals, the terrible dissociation from humanity that comes from a robotic nurturer pretending to be human, cold and far from humane.
 >
-> One was Tayler-tyranny one, where I was under her unforgiving judgement, debating her about something, some nature of a two-sided Kundalini, where somehow I was trying to defend that both are one (or more specifically, that the two can communicate) (and I realized later that that was about the Wernicke and Broca’s areas of the language center of the brain, though at time of psychosis, I envisioned it as the two hemispheres of the brain).
+> One was Tayler-tyranny one, where I was under her unforgiving judgement, debating her about something, some nature of a two-sided Kundalini, where somehow I was trying to defend that both are one (or more specifically, that the two can communicate).
 >
 > That's also literally where I started getting my [evolutionary learning ideas](https://github.com/slerman12/BuildingBlocks/blob/master/Population.py), with attention, which apparently to my surprise [had some positive results](https://docs.google.com/presentation/d/1sw2Iu6foH3dmn-7a2JfijCljqheH_A3fEW5OuK-68Yg/edit?usp=sharing), though I don't even remember doing that. [I just remember having made this video](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) (all within a pretty short time period after the hospitalization, and at this point Chenliang's group was becoming really impressed with me, and I was starting to build a good reputation, though that would only develop, occassionally me getting side-tracked with some other really good [ideas](https://docs.google.com/presentation/d/1QbWNfnWAgm0rHTy4EFnDrjpaMP7Ako6isNxOUSR17_A/edit?usp=sharing) and/or implementations ([BioNet](https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNet), [ViRP](https://github.com/slerman12/UnifiedMLold2/blob/master/Blocks/Architectures/LermanBlocks/ViRP.py), or [Thousand Brains](https://github.com/slerman12/UnifiedMLold2/blob/master/Blocks/Architectures/LermanBlocks/ThousandBrains.py)), mysteriously always side-tracked despite my interest and usually some positive result, until when I was building UnifiedML (to be described below) — consistently over more than 2 years, finally not side-tracked — they were pretty much in awe of me and I felt reasonably appreciated for the first time for my work). But distracting deep learning revelations aside, back to craziness: Traveling dimensions, debating hypothetical Tayler about some metaphysics philosophy... resume...
 >
