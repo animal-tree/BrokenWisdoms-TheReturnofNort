@@ -57,6 +57,7 @@ Right To Die, by my way more literal interpretation, only changes one thing from
 
 Here is an excerpt from a suicide note that I wrote, trying to process through the final moments of executing the suicide method, and trying to process how to surmount the thoughts that I found most tried to stop me in my previous attempts:
 
+> [!NOTE]
 > ### $\Huge &#8220;$
 > [...]
 > 
