@@ -4,6 +4,7 @@
 
 ### Right to talk about suicide seriously
 
+> [!WARNING]
 > Trigger warning: I want to die.
 
 Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. The point of Right To Die, as I define it, is to legalize suicide-plan therapy.
