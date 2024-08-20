@@ -1,6 +1,6 @@
 # Early work in program
 
-> To do: Early work in program should go into the human spirit’s fight to achieve, metric level of intelligence, and area exam and master’s degree amid crux of benzo trauma 
+> To do: Early work in program should go into the human spirit’s fight to achieve, metric level of intelligence as referenced in the benzo mechanism, and area exam and master’s degree amid crux of benzo trauma 
 
 ## Part 6
 
