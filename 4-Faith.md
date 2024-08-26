@@ -51,12 +51,12 @@ Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein th
 I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged each session by hundreds of dollars), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. I don't mean Shakespeare sonnets or radical philosophy. Those meanings, expressed literally and seriously, not as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
 
 "Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action" should be standardized, if serious suicide plans that are planned and intended are to be actually prevented.
-- A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan contributes to the likelihood of the suicide.
+- A "free speech" person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan contributes to the likelihood of the suicide.
 - "My Body, My Choice" extends to one's body not coercively hospitalized and drugged.
-- Gun rights people already believe in giving direct access for a method for suicide.
+- "Gun rights" people already believe in giving direct access for a method for suicide.
   - Such methods (or other gruesome ones, that can traumatize literal-witnesses, such as involving locomotives or skyrises), get prioritized, frequently, over safer, peaceful methods, that require more research ability to learn the methods of and which therapists can't communicate as an alternative to plans that would traumatize other innocent people, the suicide victim lacking any other resort.
 - "Right To Die" is distinct from "Right To Talk," but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about those actions.
-- Most of my experience with the medical systems was physician-assisted suicide.
+- Most of my experience with the medical systems was "physician-assisted suicide."
   - Again, in the literal sense.
 
 Hearing the literal truth of others is needed in order to help them, and that cannot come with strings attached. When it does, those people die, leaving their love alone.
