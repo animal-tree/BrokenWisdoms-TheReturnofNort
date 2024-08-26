@@ -62,7 +62,7 @@ I talked to my therapist about suicide back in 2022, while I was still allowed t
 Hearing the literal truth of others is needed in order to help them, and that cannot come with strings attached. When it does, those people die, leaving their love alone.
 
 > [!WARNING]
-> Trigger warning:
+> TRIGGER WARNING:
 >
 > Coercing me into your safe-space buildings and injecting me with your body/brain-morphing drugs is a trigger-happy move for snowflake authoritarians.
 
