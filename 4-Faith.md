@@ -66,7 +66,7 @@ Hearing the literal truth of others is needed in order to help them, and that ca
 >
 > Coercing me into your safe-space buildings and injecting me with your body/brain-morphing drugs is a trigger-happy move for snowflake authoritarians.
 
-Here is an excerpt from a suicide note that I wrote:
+Here is an excerpt from a suicide note I wrote:
 
 > ### $\Huge &#8220;$
 > [...]
