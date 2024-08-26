@@ -52,7 +52,7 @@ I talked to my therapist about suicide back in 2022, while I was still allowed t
 
 "Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action" should be standardized, if serious suicide plans that are planned and intended are to be actually prevented.
 - A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan contributes to the likelihood of the suicide.
-- "My Body, My Choice" extends also to not having one's body coercively hospitalized and drugged.
+- "My Body, My Choice" extends to one's body not coercively hospitalized and drugged.
 - Gun rights people already believe in giving direct access for a method for suicide.
   - Such methods (or other gruesome ones, that can traumatize literal-witnesses, such as involving locomotives or skyrises), get prioritized, frequently, over safer, peaceful methods, that require more research ability to learn the methods of and which therapists can't communicate as an alternative to plans that would traumatize other innocent people, the suicide victim lacking any other resort.
 - "Right To Die" is distinct from "Right To Talk," but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about those actions.
