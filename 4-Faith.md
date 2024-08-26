@@ -4,18 +4,11 @@
 
 ### Right to talk about suicide seriously
 
-> [!WARNING]
-> Trigger warning: I want to die.
+Suicide is legal in New York State, but so are coerced hospitalizations and drugging as a standard medical practice for treating people with suggested plans to commit suicide, threatening people into witholding communicating the severity of their suffering and the plans they intend.
 
-Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they legally can without risking the security of their plan. The point of Right To Die, as I define it, is to legalize suicide-plan therapy.
+"Right To Die" is not the same as "Right For Physician To Commit Physician-Assisted Suicide," in my opinion, and by the literal meaning of the words, where "right" does not mean "accessibility." One permits being able to talk about suicide, and not coercing or punishing a person for doing so by coercing hospitalization or drugging; the other gives doctors permission to assist with that suicide.
 
-Right To Die is not the same as Right For Physician To Commit Physician-Assisted Suicide in my opinion. One permits being able to talk about suicide, and not shaming or punishing a person for doing so, the other gives doctors permission to assist with that suicide. The latter also has merits, and before we get into what I'm proposing, let's look at a couple of those merits to see that even the radical variant, wherein doctors can assist with the suicide, makes sense.
-- Available death guarantees some peace of mind, enough for people going through unbelievable circumstances to possibly relax, with some security, to regain a sense of optimism to pursue with their life. That availability is usually highly therapeutic, as long as it's not taken up to its final conclusion, and even then, for the victim anyway, that's arguably very therapeutic. 
-- The peaceful version doesn't involve bodies splattering from buildings, or in front of locomotives, or from bullet wounds on the walls that witnesses arrive to. Other methods require research ability and skill to carry out singlehandedly. Yet other methods can cause permanent damage to brain or body, reducing life quality even more.
-
-Suicide is legal in many places, including New York State. Coerced hospitalization and drugging, however, are pretty standard.
-
-Right To Die, by my way more literal interpretation, only changes one thing from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, and therefore talking about planning to commit, suicide. The main advantage of changing medical practices as such is the ability for somebody planning to commit suicide, but not wanting the security of their plan ruined, to talk about it, and not just through philosophy and art. 
+"Right To Die," by my way more literal interpretation, only changes one thing from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, so that patients can talk to their therapists about the desire to die, and not just through philosophy and art. 
 
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
@@ -37,9 +30,7 @@ Right To Die, by my way more literal interpretation, only changes one thing from
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
 > [!NOTE]
-> The magnitude of the relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil," devotedly and faithfully serving them, beyond their highest expectations, within what was physically and temporally afforded me, and even beyond that. And indeed, "doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. My intuitive ideas, ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that their minds didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them by their schools, normalized by their colleagues, and standardized. "And strength by limping sway disabled," as I limp both in my words here to re-visit the traumas (having edited this paragraph many times against the existing linguistic voice's resistance), and literally, to walk, from the eczema on my legs, caused throughout my PhD by anxiety, and currently by the stress of describing the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
->
-> <p align="center">· · ☽ · ·</p>
+> The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." "Doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. My intuitive ideas, ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them by their schools, normalized by their colleagues, and standardized. "And strength by limping sway disabled," as I limp both in my words here to re-visit the traumas (having edited this paragraph many times), and literally, to walk, from the eczema on my legs, caused throughout my PhD by anxiety, and currently by the stress of describing the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
 > 
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
@@ -55,7 +46,27 @@ Right To Die, by my way more literal interpretation, only changes one thing from
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
-Here is an excerpt from a suicide note that I wrote, trying to process through the final moments of executing the suicide method, and trying to process how to surmount the thoughts that I found most tried to stop me in my previous attempts:
+Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. A person who wants to commit suicide has "No Exit," because they can't even express truthfully the severity of what they're enduring, as I wasn't with my therapist and wouldn't be able to now.
+
+I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged each session by hundreds of dollars), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. I don't mean Shakespeare sonnets or radical philosophy. Those meanings, expressed literally and seriously, not as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
+
+"Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action" should be standardized, if serious suicide plans that are planned and intended are to be actually prevented.
+- A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan contributes to the likelihood of the suicide.
+- "My Body, My Choice" extends also to not having one's body coercively hospitalized and drugged.
+- Gun rights people already believe in giving direct access for a method for suicide.
+  - Such methods (or other gruesome ones, that can traumatize literal-witnesses, such as involving locomotives or skyrises), get prioritized, frequently, over safer, peaceful methods, that require more research ability to learn the methods of and which therapists can't communicate as an alternative to plans that would traumatize other innocent people, the suicide victim lacking any other resort.
+- "Right To Die" is distinct from "Right To Talk," but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about those actions.
+- Most of my experience with the medical systems was physician-assisted suicide.
+  - Again, in the literal sense.
+
+Hearing the literal truth of others is needed in order to help them, and that cannot come with strings attached. When it does, those people die, leaving their love alone.
+
+Here is an excerpt from a suicide note that I wrote:
+
+> [!WARNING]
+> Trigger warning:
+>
+> Coercing me into your safe-space buildings and injecting me with your body/brain-morphing drugs is a trigger-happy move for snowflake authoritarians.
 
 > ### $\Huge &#8220;$
 > [...]
@@ -68,25 +79,6 @@ Here is an excerpt from a suicide note that I wrote, trying to process through t
 >
 > Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
 > ### $\Huge &#8221;$
-
-That's how the note ended. 
-
-It's expressing a strong belief that the world doesn't have heart, and that the part of it that does wants me to be free of pain, literally, un-metaphorically, seriously.
-
-I didn't share with anybody that I was going to do it. Had I done it, I would've succeeded. Had I shared that I was going to do it, I would've gotten coercively hospitalized and drugged against my will, most likely. If I did it now, I would succeed. If the method were taken away from me, I would succeed, and whoever took it away would directly cause me to exploit the first chance I get, whatever that method may be, then or for the rest of my life, to do it. The method left in my hands, is the only possibility in which I survive.
-
-I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged each session by hundreds of dollars), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. I don't mean Shakespeare sonnets or radical philosophy, or inevitable ability to go through with it. Those meanings, expressed literally and seriously, even with a plan and concrete immediately-executable method tied to them, not as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
-
-Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. A society’s responsibility is to negotiate for the lives of the people who inhabit it, not a person's to give what's left of theirs suffering within an unjust society, not to mention inexpressibly. 
-
-Right To Talk About Suicide Without Hospitalization, Drugging, Or Police Action should be legalized (or rather, standardized, if serious suicide plans that are planned and intended are to be actually prevented).
-- A free-speech person might argue, "I support free speech, but if somebody talks about an elaborate plan to commit a murder, police should take action, in order to prevent the murder. In order to prevent the murder." But in the case of suicide, the inability to talk about the plan causes the suicide.
-- My Body, My Choice extends also to not having one's body coercively hospitalized and drugged.
-- Gun-rights already give people direct access, except with added risk compared to the safer, peaceful methods that require more research ability and skill to carry out singlehandedly.
-- Right To Die is distinct from Right To Talk, but the latter doesn't make sense without the former. Any limitation on the actions a person can take also limits their right to talk about it.
-- Most of my experience with the medical systems was physician-assisted suicide.
-
-My point is that if we are to prevent literal, un-metaphorical painful realities, we need to be able to hear them.
 
 ### Friends
 
