@@ -2,7 +2,7 @@
 
 ## Part 6
 
-> To do: structure like this:
+> In progress: structure like this, and actually elaborate on the enormous work done:
 
 ### Disease Prediction
 **2016 - 2020**
@@ -47,5 +47,3 @@ I should add: I got an [honorable mention](https://www.research.gov/grfp/Awardee
 > Early work in program should also go into the human spirit’s fight to achieve, metric level of intelligence as referenced in the benzo mechanism, and area exam and master’s degree amid crux of benzo trauma
 
 Can include NSF GRFP documents.
-
-In progress: structure like this, and actually elaborate on the enormous work done:
