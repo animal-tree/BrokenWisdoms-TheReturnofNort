@@ -2,6 +2,22 @@
 
 ## Part 6
 
+> To do: structure like this:
+
+### Disease Prediction
+**2016 - 2020**
+
+### Persistent Biologically-Inspired RNN Cell 
+**2018**
+
+### Long-Term Memory
+**2018 - today**
+
+### ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
+**2018**
+
+#
+
 > This isn't meant as a resume. It illustrates the university's lack of standing as a credible institution, having opposed and been late to every idea that turned out to be the next major leap in the field, including some I don't have the energy to elaborate on.
 >
 > It tries to show how much I did in the first 3 years, amid the extreme terror, tragedy, and obstruction with the same institution on me concurrently. I did more than would be expected for a top PhD student. See [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md) for work I did in the next 3 years of my PhD.
@@ -33,17 +49,3 @@ I should add: I got an [honorable mention](https://www.research.gov/grfp/Awardee
 Can include NSF GRFP documents.
 
 In progress: structure like this, and actually elaborate on the enormous work done:
-
-> To do: structure like this:
-
-### Disease Prediction
-**2016 - 2020**
-
-### Persistent Biologically-Inspired RNN Cell 
-**2018**
-
-### Long-Term Memory
-**2018 - today**
-
-### ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
-**2018**
