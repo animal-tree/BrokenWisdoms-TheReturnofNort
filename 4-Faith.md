@@ -82,6 +82,8 @@ Here is an excerpt from a suicide note I wrote:
 > Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
 > ### $\Huge &#8221;$
 
+That is to say that a suicide victim is not selfish for committing suicide. Those who love him should support his choice.
+
 ### Friends
 
 > Date: **10/29/23**
