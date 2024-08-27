@@ -83,7 +83,7 @@ Here is an excerpt from a suicide note I wrote:
 > 
 > ### $\Huge &#8221;$
 
-$^\text{\color{green}1.}$ <sup>That is to say that a suicide victim is not selfish for committing suicide. Those who love him should support his choice. And, in truth, it's almost never a choice, but more of one than the repeatedly-proven hellholes alternative.</sup>
+$^\text{\color{green}1.}$ <sup>That is to say that a suicide victim is not selfish for committing suicide. In truth, it's almost never a choice, but more of one than the repeatedly-proven hellholes.</sup>
 
 ### Friends
 
