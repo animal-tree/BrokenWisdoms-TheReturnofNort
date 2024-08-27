@@ -48,7 +48,7 @@ Suicide is legal in New York State, but so are coerced hospitalizations and drug
 >
 > Another interpretation is that his love is tied to a soulmate who he is separated from. I like that interpretation, too, but that would be a fast thematic divergence from the rest of the sonnet.
 >
-> Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
+> Every other interpretation, besides this literal one, is wrong to me in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
 Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. A person who wants to commit suicide has "No Exit," because they can't even express truthfully the severity of what they're enduring, as I wasn't with my therapist and wouldn't be able to now.
 
