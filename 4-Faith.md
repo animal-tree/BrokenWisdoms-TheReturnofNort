@@ -77,12 +77,13 @@ Here is an excerpt from a suicide note I wrote:
 >
 > I might remember my grandma, and the injustice that this has fallen on her grandson.
 >
-> But then I can maybe find peace in those thoughts. Maybe I can imagine my mom and grandma, and grandpa, and all those people who loved me and made me, and love — present tense — in the case of my mom, and find peace in knowing they want my pain to end. That they are not judging me for my exit, and support my escape from this hellhole.
+> But then I can maybe find peace in those thoughts. Maybe I can imagine my mom and grandma, and grandpa, and all those people who loved me and made me, and love — present tense — in the case of my mom, and find peace in knowing they want my pain to end. That they are not judging me for my exit, and support my escape from this hellhole.<sup>$^\text{\color{green}1.}$</sup>
 >
-> Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it. 
+> Then I can [method redacted] and try not to think of all the strangers who tainted this world for me. Try to remain meditated on the thought that my family — my mom, my uncle — are good. The world has heart in it.
+> 
 > ### $\Huge &#8221;$
 
-That is to say that a suicide victim is not selfish for committing suicide. Those who love him should support his choice.
+$^\text{\color{green}1.}$ <sup>That is to say that a suicide victim is not selfish for committing suicide. Those who love him should support his choice. And, in truth, it's almost never a choice, but more of one than the repeatedly-proven hellholes alternative.</sup>
 
 ### Friends
 
