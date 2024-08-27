@@ -27,12 +27,14 @@ I should add: I got an [honorable mention](https://www.research.gov/grfp/Awardee
 > I also proposed these [bio-inspired neurons]( https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) to my semantic parsing class in 2018, to Henry, and again to Chenliang later. But, no one other than me particularly took an interest, despite the extremely original, intuitive formulation.
 
 > TO DO: Describe disease modeling in its own section, as well as the Keras-type framework I built for medical modeling with long-term episodic memory, how that is still relevant via leveraging foundation model memory, and all the work I did at the medical center that I conveniently excluded here.
+>
+> Early work in program should also go into the human spirit’s fight to achieve, metric level of intelligence as referenced in the benzo mechanism, and area exam and master’s degree amid crux of benzo trauma
 
 Can include NSF GRFP documents.
 
 In progress: structure like this, and actually elaborate on the enormous work done:
 
-> To do:
+> To do: structure like this:
 
 ### Disease Prediction
 **2016 - 2020**
@@ -45,5 +47,3 @@ In progress: structure like this, and actually elaborate on the enormous work do
 
 ### ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
 **2018**
-
-> To do: Early work in program should also go into the human spirit’s fight to achieve, metric level of intelligence as referenced in the benzo mechanism, and area exam and master’s degree amid crux of benzo trauma
