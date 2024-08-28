@@ -14,6 +14,8 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 
 "Right To Die," by my way more literal interpretation, only changes one item from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, so that somebody planning to commit suicide, but not wanting the security of their plan ruined, can get therapy, and not just through philosophy and art.
 
+Here is my favorite Shakespeare sonnet:
+
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
 > &ensp;&ensp; *As to behold desert a beggar born,*</br>
