@@ -36,7 +36,7 @@ Here is my favorite Shakespeare sonnet:
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
 > [!NOTE]
-> ### Academia & Medicine
+> ### Academia & medicine
 > 
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the kind of authority he refers to and that governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
 >
@@ -46,7 +46,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > "And strength by limping sway disabled," as I limp, literally, to walk, from the eczema on my legs caused throughout my PhD by anxiety, and by my words, trying through repeated disappointing edits to describe the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
 >
-> ### Love & Loneliness
+> ### Love & loneliness
 >
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
@@ -67,7 +67,7 @@ Here is my favorite Shakespeare sonnet:
 #
 
 > [!NOTE]
-> ### Transcendence
+> ### Transcendence & other people
 > 
 > Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. A person who wants to commit suicide has "No Exit," because they can't even express truthfully the severity of what they're enduring, as I wasn't with my therapist and wouldn't be able to now.
 
