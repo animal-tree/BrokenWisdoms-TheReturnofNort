@@ -68,6 +68,8 @@ Here is my favorite Shakespeare sonnet:
 
 > [!NOTE]
 > ### Transcendence & other people
+>
+> Suicide rates are highest among [trans people](https://www.statista.com/statistics/1388565/us-trans-suicide-rate/) and [men](https://afsp.org/suicide-statistics/).
 > 
 > Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. A person who wants to commit suicide has "No Exit," because they can't even express truthfully the severity of what they're enduring, as I wasn't with my therapist and wouldn't be able to now.
 
