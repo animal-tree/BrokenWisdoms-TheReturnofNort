@@ -77,6 +77,7 @@ Here is my favorite Shakespeare sonnet:
 >   - Sages, monks, shamans, and healers have been exploring identity for many millenia, long before the Woke movement. But the Woke movement gets different credit because, until recently, those explorations were taught to have to be individual. The Woke movement has began the mass-teaching of identity exploration as a collective process, that we all have some responsibility in, in each other's individual and symbiotic processes of realization, evolution, and exploration.
 >   - By "transcending," I mean finding what's really there. I don't mean nullifying. If a person has to nullify their emotions, experiences, and impetuses, the best Noble Eightfold Path to do that is to just die.
 > - Repression, in a person's actions and expressions, leads to health risks that go beyond just mental.
+>   - All the world's a stage, but it's very important that each person can play themselves.
 >
 > A person who wants to commit suicide has "No Exit," because they can't even express truthfully the severity of what they're enduring, as I wasn't with my therapist and wouldn't be able to now.
 
