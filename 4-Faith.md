@@ -38,7 +38,7 @@ Here is my favorite Shakespeare sonnet:
 > [!NOTE]
 > ### Academia & medicine
 > 
-> The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the kind of authority he refers to and that governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
+> The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the perfect referent for the kind of authority he refers to, which governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
 >
 > My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like desperately trying to point out the need to reason about different relationships, according to their parts, weighed and prioritized relative to each other. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized.
 >
