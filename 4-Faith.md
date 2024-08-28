@@ -32,8 +32,6 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
 > [!NOTE]
-> ## SONNET ANALYSIS (somewhat personal)
->
 > ### 1.
 > 
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the kind of authority he refers to and that governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
@@ -80,7 +78,7 @@ I talked to my therapist about suicide back in 2022, while I was still allowed t
 Hearing the literal truth of others is needed in order to help them, and that cannot come with strings attached. When it does, those people die, leaving their love alone.
 
 > [!WARNING]
-> ### TRIGGER WARNING (meaning: put your guns, forces, and needles away)
+> TRIGGER WARNING (meaning: put your guns, forces, and needles away):
 >
 > Here is an excerpt from a suicide note I wrote:
 
