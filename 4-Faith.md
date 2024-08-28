@@ -42,6 +42,8 @@ Most people seriously considering suicide can't talk about it, not unless they b
 >
 > The narrator referred to himself as a "beggar born," and he cries for death so as to behold himself "desert" from himself, meaning to "leave" himself (to die) and "leave" all of the tragedies listed thereafter. The last line is exactly parallel to this in meaning. He refers to his love: "I leave *my* love" — his literal, un-metaphorical love — "alone." To leave his love is leaving his body. It's leaving his skin. It's leaving his emotion. Shakespeare is expressing that the immense love within the narrator that he's expressed in the verses of this sonnet, does not deserve the injustice of being escaped alone. Jokingly, one could even interpret he'd rather take you all with him. Perhaps the simplest possible interpretation of the word "love" will be called "simplicity" by academics, translators, and most everybody. The un-metaphorical meaning, the literal one — love — is the meaning I think Shakespeare most meant.
 >
+> <p align="center">· · ☽ · ·</p>
+>
 > When a person dies, they don't just leave their life. They leave the constellations of beauty inside them, including all of their love; and this sonnet expresses a tragedy, of someone who has so much love and passion — and it's wasted.
 >
 > Another interpretation is that his love is tied to a soulmate who he is separated from. I like that interpretation, too, but that would be a fast thematic divergence from the rest of the sonnet.
