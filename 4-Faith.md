@@ -75,7 +75,7 @@ Here is my favorite Shakespeare sonnet:
 > - Controversial claim: there are more than just two spectrum categories. Transcend-able identity is a spectrum with more than two categories. “Woke” is transcending (1) gender, and (2) sexuality. “Enlightenment” is transcending all permanent negative judgement of others. If an Age of Enlightenment is ever to come (another “Renaissance”), such a time will be marked by when all people are given their identity, gender, and sexual satisfaction, from the very most promiscuous to the utmost jealous to the horniest beyond reproach, with limits that come from intelligence and a society that is so innocent and loving that Adam and Eve (and Steve) will know how to approach each other’s hearts, by their human nature, uncorrupted by stress and systems of oppression, and when not to.
 >   - Monks, shamans, etc. have been exploring identity for many millenia, long before the "Woke" movement.
 >   - By "transcending," I mean finding what's really there. I don't mean nullifying. If a person has to nullify their emotions, experiences, and impetuses, the best Noble Eightfold Path to do that is to just die.
-> - Wherever repression, in a person's actions and expressions, is worst, is where suicide risk is highest.
+> - Repression, in a person's actions and expressions, leads to health risks that go beyond just mental.
 >
 > A person who wants to commit suicide has "No Exit," because they can't even express truthfully the severity of what they're enduring, as I wasn't with my therapist and wouldn't be able to now.
 
