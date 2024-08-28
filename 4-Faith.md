@@ -7,7 +7,7 @@
 The more seriously somebody genuinely needs to talk about their suicidal depression, the less they can. Suicide is legal in New York State, but so are coerced hospitalizations and drugging, threatening people into withholding communicating the severity of their suffering.
 
 By the literal meaning of the words, "Right To Die" is not the same as "Right For Physician To Commit Physician-Assisted Suicide," in my opinion, where "right" does not mean "accessibility": 
-- One permits being able to talk about suicide, without coercion (e.g., hospitalization, drugging, intervention) and without punishment.
+- One permits being able to talk about suicide, without coercion (e.g., hospitalization, drugging, intervention), and without punishment.
 - The other gives doctors permission to assist with the suicide.
 
 "Right To Die," by my way more literal interpretation, only changes one thing from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, so that somebody planning to commit suicide, but not wanting the security of their plan ruined, can get therapy or talk about it, and not just through philosophy and art:
