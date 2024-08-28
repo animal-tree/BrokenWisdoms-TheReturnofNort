@@ -10,7 +10,7 @@ By the literal meaning of the words, I don't think "Right To Die" should mean th
 - One permits suicide plans, without coercion (e.g., hospitalization, drugging, intervention), and without punishment.
 - The other gives doctors permission to assist with the suicide.
 
-"Right To Die," by my way more literal interpretation, only changes one item from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, so that somebody planning to commit suicide, but not wanting the security of their plan ruined, can get therapy (or talk about it, *without risk to somebody else*), and not just through philosophy and art, as is currently the only safe means of that expression.
+"Right To Die," by my way more literal interpretation, only changes one item from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, so that somebody planning to commit suicide, but not wanting the security of their plan ruined, can get therapy (or talk about it, *without risk to somebody else*), and not just through philosophy and art, as is currently the only safe means available.
 
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
