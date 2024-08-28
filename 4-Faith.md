@@ -4,11 +4,11 @@
 
 ### Right to talk about suicide seriously
 
-Suicide is legal in New York State, but so are coerced hospitalizations and drugging as a standard medical practice for treating people with suggested plans to commit suicide, threatening people into witholding communicating the severity of their suffering and the plans they intend.
+Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they realistically can without risking the security of their plan. Suicide is legal in New York State, but so are coerced hospitalizations and drugging as a standard medical practice for treating people with suggested plans to commit suicide, threatening people into witholding communicating the severity of their suffering.
 
 "Right To Die" is not the same as "Right For Physician To Commit Physician-Assisted Suicide," in my opinion, and by the literal meaning of the words, where "right" does not mean "accessibility." One permits being able to talk about suicide, and not coercing or punishing a person for doing so by coercing hospitalization or drugging. The other gives doctors permission to assist with that suicide.
 
-"Right To Die," by my way more literal interpretation, only changes one thing from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, so that patients can talk to their therapists about serious and planned desires to die, and not just through philosophy and art:
+"Right To Die," by my way more literal interpretation, only changes one thing from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit, so that somebody planning to commit suicide, but not wanting the security of their plan ruined, can talk about it, and not just through philosophy and art:
 
 > ### $\Huge &#8220;$
 > &ensp;&ensp; *Tired with all these, for restful death I cry,*</br>
@@ -31,6 +31,8 @@ Suicide is legal in New York State, but so are coerced hospitalizations and drug
 
 > [!NOTE]
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil." "Doctor-like" controlling skill is the analogy Shakespeare turned to, to describe the kind of authority that governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them by their schools (*alma maters*, the more preferable phrasing), normalized by their colleagues, and standardized. "And strength by limping sway disabled," as I limp both in my words here to re-visit the traumas (having edited this paragraph many times), and literally, to walk, from the eczema on my legs, caused throughout my PhD by anxiety, and currently by the stress of describing the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
+>
+> <p align="center">· · ☽ · ·</p>
 >
 > Speaking of standard academic interpretations:
 >
