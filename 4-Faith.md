@@ -32,9 +32,9 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
 > [!NOTE]
-> ## Sonnet analysis (somewhat personal)
+> ## SONNET ANALYSIS (somewhat personal)
 >
-> ### Part 1
+> ### 1.
 > 
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the kind of authority he refers to and that governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
 >
@@ -44,9 +44,7 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 >
 > "And strength by limping sway disabled," as I limp, literally, to walk, from the eczema on my legs caused throughout my PhD by anxiety, and by my words, trying through repeated disappointing edits to describe the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
 >
-> <p align="center">· · ☽ · ·</p>
->
-> ### Part 2
+> ### 2.
 >
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
@@ -82,7 +80,7 @@ I talked to my therapist about suicide back in 2022, while I was still allowed t
 Hearing the literal truth of others is needed in order to help them, and that cannot come with strings attached. When it does, those people die, leaving their love alone.
 
 > [!WARNING]
-> ### Trigger warning (meaning: put your guns, forces, and needles away):
+> ### TRIGGER WARNING (meaning: put your guns, forces, and needles away)
 >
 > Here is an excerpt from a suicide note I wrote:
 
