@@ -40,9 +40,9 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 >
 > My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized.
 >
-> I worked under Chenliang and the university's arbitrations literally as "captive good attending to captain evil."
+> I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil."
 >
-> "And strength by limping sway disabled," as I limp, to walk, from the eczema on my legs caused throughout my PhD by anxiety, and by my words, trying through repeated disappointing edits to describe the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
+> "And strength by limping sway disabled," as I limp, literally, to walk, from the eczema on my legs caused throughout my PhD by anxiety, and by my words, trying through repeated disappointing edits to describe the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
 >
 > <p align="center">· · ☽ · ·</p>
 >
