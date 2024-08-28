@@ -4,7 +4,7 @@
 
 ### Right to talk about suicide seriously
 
-Most people seriously considering suicide can't talk about it due to the standard medical practice of hospitalization and drugging. Suicide is legal in New York State, but so are coerced hospitalizations and drugging, threatening people into withholding communicating the severity of their suffering. 
+Most people seriously considering suicide can't talk about it. Suicide is legal in New York State, but so are coerced hospitalizations and drugging, threatening people into withholding communicating the severity of their suffering. 
 
 By the literal meaning of the words, I don't think "Right To Die" is "Right For Physician To Commit Physician-Assisted Suicide." Just in the literal sense, where "right" does not mean "accessibility," the two phrases are different: 
 - One permits a person to take actions towards suicide, including talking to a therapist about those actions, without coercion (e.g., hospitalization, drugging, intervention), and without punishment.
