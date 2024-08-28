@@ -58,7 +58,7 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 >
 > <p align="center">· · ☽ · ·</p>
 >
-> When a person dies, they don't just leave their life. They leave the constellations of beauty inside them, including all of their love; and this sonnet expresses a tragedy, of someone who has so much love and passion — and it's wasted.
+> This sonnet expresses a tragedy, of someone who has so much love and passion — and it's wasted.
 >
 > Another interpretation is that his love is tied to a soulmate who he is separated from. I like that interpretation, too, but that would be a fast thematic divergence from the rest of the sonnet.
 >
