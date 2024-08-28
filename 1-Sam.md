@@ -48,6 +48,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Geriatric unit hospitalization
         - Warmth, nature, and organic-type foods
         - Schools
+        - Hair regrowth
         - Future hair losses
         - Intimacy healing
         - The artificial and synthetic
