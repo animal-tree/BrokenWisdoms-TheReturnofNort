@@ -34,8 +34,6 @@ Most people seriously considering suicide can't talk about it, not unless they b
 >
 > <p align="center">· · ☽ · ·</p>
 >
-> Speaking of standard academic interpretations:
->
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
 > "Tired with all these, from these would I be gone, save that, to die, I leave my love alone."
