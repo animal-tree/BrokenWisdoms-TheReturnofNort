@@ -58,6 +58,8 @@ By the literal meaning of the words, "Right To Die" is not the same as "Right Fo
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
+#
+
 Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. A person who wants to commit suicide has "No Exit," because they can't even express truthfully the severity of what they're enduring, as I wasn't with my therapist and wouldn't be able to now.
 
 I talked to my therapist about suicide back in 2022, while I was still allowed to see him (before the University of Rochester's CS department's health insurance price-gouged each session by hundreds of dollars), through completely abstract rhetoric. Anything other than abstract philosophical rhetoric would've risked being hospitalized coercively and drugged against my will again. I talked to him philosophically, but that's not the kind of serious expression I mean should be possible. I don't mean Shakespeare sonnets or radical philosophy. Those meanings, expressed literally and seriously, not as philosophy or art, but in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
