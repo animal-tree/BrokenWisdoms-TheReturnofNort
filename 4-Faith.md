@@ -48,13 +48,13 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 >
 > PART 2:
 >
-> My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the speaker's life, for him, for whom he still has reason to live.
+> My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
 > "Tired with all these, from these would I be gone, save that, to die, I leave my love alone."
 >
-> And that might be the interpretation, but I hear in Shakespeare's words that that's not the one the speaker most meant. My interpretation might end up even more controversial than this chapter of this book, really, since a lot of people perhaps want to interpret a romantic notion at the end (my mom knows Shakespeare didn't mean it maternally). To me, "my love" referring to a lover feels like a pretty big thematic divergence and betrayal, if after every line (from "purest faith unhappily forsworn," to "maiden virtue rudely strumpeted," to "gilded honour shamefully misplac'd"), Shakespeare's meaning coalesced to, "Well, I could never do that to my girlfriend." Not to man-splain what Shakespeare meant, but this is what the speaker most meant ("sam-splaining" is a distinct form):
+> And that might be the interpretation, but I hear in Shakespeare's words that that's not the one he most meant. My interpretation might end up even more controversial than this chapter of this book, really, since a lot of people perhaps want to interpret a romantic notion at the end (my mom knows Shakespeare didn't mean it maternally). However, that would be a pretty big thematic divergence and betrayal, if after every line (from "purest faith unhappily forsworn," to "maiden virtue rudely strumpeted," to "gilded honour shamefully misplac'd"), Shakespeare's meaning coalesced to, "Well, I could never do that to my girlfriend." Not to man-splain what Shakespeare meant, but this is what Shakespeare meant ("sam-splaining" is a distinct form):
 >
-> The speaker referred to himself as a "beggar born," and he cries for death so as to behold himself "desert" from himself, meaning to "leave" himself (to die) and "leave" all of the tragedies listed thereafter. The last line is exactly parallel to this in meaning. He refers to his love: "I leave *my* love" — his literal, un-metaphorical love — "alone." To leave his love is leaving his body. It's leaving his skin. It's leaving his emotion. Shakespeare is expressing that the immense love within the speaker that he's expressed in the verses of this sonnet, does not deserve the injustice of being escaped alone. Jokingly, one could even interpret he'd rather take you all with him. Perhaps the simplest possible interpretation of the word "love" will be called "simplicity" by academics, translators, and most everybody. The un-metaphorical meaning, the literal one — love — is the meaning I think Shakespeare most meant.
+> The narrator referred to himself as a "beggar born," and he cries for death so as to behold himself "desert" from himself, meaning to "leave" himself (to die) and "leave" all of the tragedies listed thereafter. The last line is exactly parallel to this in meaning. He refers to his love: "I leave *my* love" — his literal, un-metaphorical love — "alone." To leave his love is leaving his body. It's leaving his skin. It's leaving his emotion. Shakespeare is expressing that the immense love within the narrator that he's expressed in the verses of this sonnet, does not deserve the injustice of being escaped alone. Jokingly, one could even interpret he'd rather take you all with him. Perhaps the simplest possible interpretation of the word "love" will be called "simplicity" by academics. The un-metaphorical meaning, the literal one — love — is the meaning I think Shakespeare most meant.
 >
 > <p align="center">· · ☽ · ·</p>
 >
@@ -62,7 +62,7 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 >
 > Another interpretation is that his love is tied to a soulmate who he is separated from. I like that interpretation, too, but that would be a fast thematic divergence from the rest of the sonnet.
 >
-> Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the speaker's struggle.
+> Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
 #
 
