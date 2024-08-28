@@ -4,7 +4,7 @@
 
 ### Right to talk about suicide seriously
 
-Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard medical policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genine imminent plan, the less they standardly can without risking the security of their plan. Suicide is legal in New York State, but so are coerced hospitalizations and drugging, threatening people into withholding communicating the severity of their suffering. 
+Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard medical policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genuine imminent plan, the less they standardly can without risking the security of their plan. Suicide is legal in New York State, but so are coerced hospitalizations and drugging, threatening people into withholding communicating the severity of their suffering. 
 
 These coercive medical practices are bad.
 
