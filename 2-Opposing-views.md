@@ -273,11 +273,11 @@ The experience of losing my hair has cost me relationships and worsened my socia
 
 ### Samarkand, Uzbekistan and subjugation
 
-Many Jews, after the Nazis occupied Poland, were tortured, executed, and thrown in piles when the Nazis subsequently occupied Ukraine. Muslim nations, like Kazakhstan or Uzbekistan, were the refuge that Jews turned to, including my grandpa’s mom Maña, his younger sister Rosá, and my grandpa, Yury. 
+Many Jews, were tortured by, or had to flee or fight, Nazis during their occupation of Ukraine. Muslim nations, like Kazakhstan or Uzbekistan, were often the best available refuge for Jews, including for my grandpa’s mom Maña and his younger sister Rosá, and my grandpa, Yury.
 
 Jews in large numbers evacuated, and during the evacuations, my grandpa chased a train in Kazakhstan that was already moving, that his mom and sister were already boarded on. 
 
-Rosá was crying in fear, thinking my grandpa wasn’t going to make it. He ran and jumped, just at the edge of the moment, into their arms, to make the grueling journey from the breads he was getting, to the transit. At that time, my grandpa’s father, Yacob, wasn’t with them. Yacob, also an Ashkenazi Jew, was drafted and was mandatorily fighting in the warfront, for Ukraine. 
+Rosá was crying in fear, thinking my grandpa wasn’t going to make it. He ran and jumped, just at the edge of the moment, into their arms, to make the grueling journey from the market breads he was getting, to the transit. At that time, my grandpa’s father, Yacob, wasn’t with them. Yacob, also an Ashkenazi Jew, was drafted and was mandatorily fighting in the warfront, for Ukraine. 
 
 I heard that story for the first time while in the severest point of my benzo withdrawal. I was told, as a kind of reassuring love wisdom about what I was certain was going to be permanent brain damage, "Lermans are strong."
 
