@@ -388,9 +388,7 @@ As Niaz said, "I don't know what he was thinking."
 
 Now some much-needed levity to an intense time period (how do I do this transition naturally?)...
 
-### Comedic Aside: Sexier moments during Chenliang tenure:
-
-#### "Tayler hospitalization"
+### "Tayler hospitalization"
 
 Got to message someone named Tayler a week after my Taylor-CAM paper who reached out to me on Facebook who turned out to be a cam-girl (["Taylor-CAM"](https://arxiv.org/abs/2006.08601)), circa June, 2020… 
 - She was quite a synchronicity because she went through a similar thing that I did on the same Christmas, 2018 night, except together with a bald Jewish guy (who she was married to at the time), and our interaction began exactly one week after I first archived my ["Taylor-CAM"](https://arxiv.org/abs/2006.08601) paper, my first-ever published paper. After intense flirting and telling me she loved me, including at one point offering to pay for my plane tickets to fly to her (which I couldn't do because of an eczema outbreak that coincided during this whole time), she lost interest in me and was hinting that she was seeing other guys, beginning in early Fall, 2020...
@@ -431,19 +429,17 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 >
 > The [next one was in a geriatric unit (a facility for the elderly)](#geriatric-unit-hospitalization), so consider me reprimanded.
 
-#### The entirety of my social life, spanning 2020 - 2024:
+### The entirety of my social life, spanning 2020 - 2024:
 
 - ["Taylor-CAM"](https://arxiv.org/abs/2006.08601).
 - Waxed wise with a close friend who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
 - The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
 - Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) "rQdia" (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
-- Well, I suppose there was the thanksgiving with Lily (see [in next chapter](#intimacy-healing)), which I also appreciated and appreciate and give thanks to. As well as somebody from Texas who hung out with me, due to our Meetup groups. And an older woman that gave me a "Life Application Study Bible." And the 87 year old neighbor who lived upstairs to my grandparents, Gorgen. About three or four other texters I thumb-war'd as well.
+- Well, I suppose there was the thanksgiving with Lily (see [in next chapter](#intimacy-healing)), which I also appreciated and appreciate and give thanks to. As well as somebody from Texas who hung out with me, due to our Meetup groups. Okay, including [some](https://github.com/user-attachments/assets/a6fa1526-abdd-4307-8593-e4871a28e2fb) PhD students. And an older woman that gave me a "Life Application Study Bible." And the 87 year old neighbor who lived upstairs to my grandparents, Gorgen. About three or four other texters I thumb-war'd as well.
 
-That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang (or mostly Henry for that matter). Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
+That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang (or mostly [Henry](https://github.com/user-attachments/assets/e2e55660-57be-415b-9371-7918e93add5a) for that matter). Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
 
-### More seriously
-
-#### Rituals, Religion, & Hell
+### Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Tayler hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally sat on the floor when I told him to and followed my every instruction. I was playful and had unambiguous humor and self awareness in my voice. I understood the nurse wasn't literally him, my best friend who I projected not-fully-intentionally.
 
@@ -457,7 +453,7 @@ It's the delusion that doctors and hospitals are trying to heal. However, in tha
 
 Later, my best friend returned, literally. We were texting and he remarked, without prompt, saying if he were a Devil, he'd be a "snarky Devil." He texted me that of his own accord, knowing nothing about the hospitalization, no context, no prompt.
 
-#### I didn't mention fingernails (fingernails regrowth)
+### I didn't mention fingernails (fingernails regrowth)
 
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].
 
@@ -478,13 +474,13 @@ She told me when we were sitting in the backseat of the car, perhaps when we wer
 
 Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
-#### How my grandma got dementia
+### How my grandma got dementia
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
 
 She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13, 2016.
 
-#### How my grandpa died
+### How my grandpa died
 
 My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. Sometime in the month of November, in 2015, he was having trouble breathing. My mom took him to his primary care doctor. His primary care doctor diagnosed him with congestive heart failure, and prescribed pills. About a month and a week later, after taking his pills, he was still having trouble breathing. My mom took him to the hospital. In the hospital, they took a blood analysis, and apparently he'd had a third heart attack, that occurred about a week before. My grandpa's heart doctor came to the hospital and recommended a stent be put in his heart's main artery, via a surgery. The surgery would require an angiogram. The angiogram would require a dye that is bad for the kidneys. The primary care physician wanted to discharge my grandpa and send him for rehabilitation already, without the surgery. The heart doctor told my mom "without the surgery, his heart would only get worse" and that "he'd only have heart attacks and eventually die." My mom had to agree to the surgery. The stent was meant to be put in the main artery. The surgeon wasn't able to do the surgery for the main artery, because it was completely blocked, and so he put in stents into the little arteries that were narrow but weren't the cause of the congestive heart failure. After the surgery, which required an angiogram, which used the dye that is bad for the kidneys, my grandpa's kidneys got really bad. He couldn't walk at all anymore. He couldn't stand up on his feet. 
 
@@ -500,7 +496,7 @@ My grandpa's heart failed that night, after the grueling trial to make the heart
 
 In Uzbekistan, doctors visited patients. Primary care ones anyway. They would meet with patients in their homes, or wherever the patient was. This was standard in Uzbek healthcare. American healthcare should be better than Uzbek healthcare. Cardiologists specifically (heart doctors). In our neighboring apartment units, my grandpa was having trouble breathing, but could still walk, and had survived three heart attacks previous to his death. Perhaps the heart doctor was right, and he'd keep having heart attacks and eventually die, but eventually was the night of their appointment, after a heroic ordeal to get to that office that my grandpa, with heavy strain, survived.  
 
-#### When my grandma died
+### When my grandma died
 
 My grandma, Asya Lerman (Hebrew/American: "Esya") always cooked, healthy and really well, but she had type-2 diabetes at old age. 
 
@@ -524,7 +520,7 @@ My grandpa also gets a claim to rhythmic numerical timing. He entered the hospit
 
 My grandma’s numerical timing of when she died is a proof symbol in my opinion on the meaning of my grandpa’s death: that the healthcare system needs reform. And the ascent of Bernie, whose name slantly rhymes with "Yury," immediately after, means a lot to me about the need for reforming healthcare systems, not just in governance, but inside the systems themselves, from elderly care, to prescription habits, to the dietary and environment principles. I had severe eczema, and my grandma helped by giving the best massages, and my mom and grandpa did too. Tayler may have symbolized one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
 
-#### Another old Jew helps transition the times
+### Another old Jew helps transition the times
 
 My grandpa's death in 2016 preceded another old Jewish Bernie Sanders-type role model (whose name either rhymes with, or is, "Yury") rising to my attention: none other than Bernie Sanders himself, the first person I was old enough to vote for in our democracy. 
 
@@ -534,7 +530,7 @@ But I bring him up now because the following chapters are going to point to some
 
 Speaking of the elderly...
 
-#### Geriatric unit hospitalization
+### Geriatric unit hospitalization
 
 > [!WARNING]
 > In December, 2020, about a month after Tayler blocked me on our coinciding birthdays, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
@@ -592,11 +588,11 @@ To do: Make a diagram specifically for geriatric unit hospitalization (Universit
 
 Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed eczema-causing food, more coerced benzos, and interrogative military clinicians -> geriatric unit -> them arguing carbs were a necessary part of a healthy diet and stating that the reason for holding me in that hospitalization was that I wasn't eating enough (even as I ate all of their garbage food).
 
-#### Warmth, nature, and organic-type foods
+### Warmth, nature, and organic-type foods
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
 
-#### Schools
+### Schools
 
 Let's now regress back to childhood.
 
@@ -604,7 +600,7 @@ Many of the problems that exist in hospitals also exist in public and private ed
 
 Those environments are where we learn that some people are inferior to others, namely, students, to teachers and adults, with potentially permanent life-threatening consequences. And those structures disseminate to the relationships between kids. 
 
-#### Hair regrowth
+### Hair regrowth
 
 > This chapter would need editing
 
@@ -621,7 +617,7 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 - Besides the geriatric unit hospitalization, the period of eating sweets starting from the Tayler hospitalization might've caused the hair loss. Other than those two hospitalizations, the social pain of losing Tayler might've contributed as well. The other two times my hair would grow back happened during an isolated period and a more-social period, respectively, both when I was strictly doing steak/salmon-only diet with some Paleo leniency. The isolated period was also a work-intensive period, but there was less pressure on me at that time from Chenliang than during the December, 2020 when my hair started falling out, since in December, 2020 I was under strict deadlines and in a new group, whereas later I earned credibility in Chenliang's group and was more permitted to manage my own labor (more so anyway, and in addition to the Mechanical Engineering lab I was assigned to). However, the late-Summer, 2020 hair regrowth also happened while Chenliang was already my advisor. Those isolated-period hair regrowth and more-social period hair regrowith are discussed more below in [Future hair losses](#future-hair-losses).
 - My hair was falling into my hands first in the geriatric unit in December, 2020.
 
-#### Future hair losses
+### Future hair losses
 
 My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
 - That hair grew back already in the period when Chenliang’s group was reasonably impressed with me (which never concluded, I don't think), though I was working too hard and exercising too many disciplines that alienated me from people socially. I imposed those disciplines on myself for multiple reasons, but mood, cognition, and willpower were the main benefits besides hair regrowth at that point, and I believed they were helping my social life, not hurting it, since that was my primary purpose for them, as I concurrently had to do an enormous amount of work for Chenliang, and two separate labs, and the hair growth from the previous time I did those diets was still pretty abundantly on my head, and looked good enough [as long as I wore hats](https://youtu.be/VKoSfmECpx0?si=iqPaLB1gmGQnd3xb). So the appreciation from his group (and him, actually), and the other group, probably is what helped that pubes regrowth (congrats), combined with the diet, but it’s not surprising that that hair gradually fell out, as almost all of my efforts were targeted towards connecting with people, socially, as, despite my serious efforts, through everything humanly possible that could've been advised or asked of me (everything, no matter what "more" or "less" idea popped into your head), I was becoming increasingly more alienated, connected to a yogic trance in nature at that point everyday that I didn't allow to get me hospitalized or disturb my work, and my isolation would remain to be the case until my best friend returned in 2023, who amazingly did not reject my insanity, whatsoever. Hence eyelashes.
@@ -632,7 +628,7 @@ However, adding this seems to undermine just how severe the injustice we're talk
 
 The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgements, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
 
-#### Intimacy healing
+### Intimacy healing
 
 [To do: After I finish my draft, when I'm comfortable telling anybody about this book, add: "This was shared with \<Lily's real name\>'s permission." or stick with "Lily."]
 
@@ -662,7 +658,7 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
 
-#### The artificial and synthetic
+### The artificial and synthetic
 
 I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
 - And note, via humans.
@@ -681,7 +677,7 @@ And that must be understood as distinct from capitalistic drug-like fixes that p
 
 Intimacy healing is a step towards that, starting with medical institutions.
 
-#### AI
+### AI
   
 AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
