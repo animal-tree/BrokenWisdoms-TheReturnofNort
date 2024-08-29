@@ -390,7 +390,7 @@ Now some much-needed levity to an intense time period (how do I do this transiti
 
 ### Comedic Aside: Sexier moments during Chenliang tenure:
 
-#### Tayler hospitalization
+#### "Tayler hospitalization"
 
 Got to message someone named Tayler a week after my Taylor-CAM paper who reached out to me on Facebook who turned out to be a cam-girl (["Taylor-CAM"](https://arxiv.org/abs/2006.08601)), circa June, 2020… 
 - She was quite a synchronicity because she went through a similar thing that I did on the same Christmas, 2018 night, except together with a bald Jewish guy (who she was married to at the time), and our interaction began exactly one week after I first archived my ["Taylor-CAM"](https://arxiv.org/abs/2006.08601) paper, my first-ever published paper. After intense flirting and telling me she loved me, including at one point offering to pay for my plane tickets to fly to her (which I couldn't do because of an eczema outbreak that coincided during this whole time), she lost interest in me and was hinting that she was seeing other guys, beginning in early Fall, 2020...
