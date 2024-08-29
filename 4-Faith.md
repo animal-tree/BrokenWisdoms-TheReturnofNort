@@ -44,7 +44,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil," hard work, brilliance, love, and art crushed with interrogations, urgency, and criteria based on ridiculous standards where the quality of the work meant much less than how deeply in the weeds students went to claim "state of the art" in time for the latest conference deadline.
 >
-> "And strength by limping sway disabled," as I limp, literally, to walk, from the eczema on my legs, as caused throughout my PhD by anxiety, and in my words, trying through repeated disappointing edits to describe the faith and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
+> "And strength by limping sway disabled," as I limp, literally, to walk, from the eczema on my legs, as caused throughout my PhD by anxiety, and in my words, trying through repeated disappointing edits to describe the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated"), and worked there.
 >
 > ### Love & loneliness
 >
