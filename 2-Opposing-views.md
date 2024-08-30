@@ -273,7 +273,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 
 Many Jews, were executed or tortured, or piled in bodies, when the Nazis occupied Ukraine. My grandpa’s father, Yacob, was drafted to mandatorily fight in the warfront, as other Jews evacuated to Muslim nations, like Kazakhstan or Uzbekistan, including my grandpa’s mom Mañá and his younger sister Rosá, and my grandpa, Yury. They evacuated back to Ukraine at the end of the war, and my grandpa and grandma married, before he was assigned by the Soviet Union to work in a sheepskin manufacturing plant/factory, near to which my grandparents had to move, emigrating subsequently once more, this time to Samarkand, Uzbekistan, rather than Kazakhstan.
 
-My grandpa was a leather technology engineer; my grandma worked as a teacher of German language. 
+My grandpa was a leather technology engineer, my grandma worked as a teacher of German language. 
 
 My mom, uncle, sister, and I were all born in Samarkand, all of us also Ashkenazi Jews. I was born last of my family. My name is Sam, but I wasn’t born "Sam." I was actually born "Siímyon," after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam" sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. First, my mom Nélya and uncle Slava were born. Then my older cousins, Lena and Irina. And then my older sister Marina, and me. 
 
