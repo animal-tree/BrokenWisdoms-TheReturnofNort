@@ -64,11 +64,7 @@ Here is my favorite Shakespeare sonnet:
 
 #
 
-The only period that didn’t lead to suicide ideation, was when I lived in Drama House, a student theater living community. Undergrad years weren’t perfect, and I suffered from eczema and the stress of two majors and still pretty severe social anxiety, but it was by far the best period of my life and probably the only time I was even a modicum socially happy. That was where I first saw Sartre’s play, No Exit. 
-
-> [!NOTE]
-> ### Exiting Hell, unifying quantum with Einstein, & symbiotically transcending individual psychological and behavioral repression
-> 
+> [!NOTE] 
 > Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. A person who wants to commit suicide has "No Exit," because they can't even express truthfully the severity of what they're enduring, as I wasn't with my therapist and wouldn't be able to now.
 
 I talked to my therapist about suicide back in 2022, while I was still allowed to see him. That stopped being the case when the University of Rochester's CS department's health insurance price-gouged each session by hundreds of dollars. I talked to him through completely abstract rhetoric, about suicide. Anything other than abstract philosophical rhetoric, about suicide, would've risked me getting hospitalized coercively and drugged against my will again. I talked to him philosophically, and that's not the kind of serious expression I mean should be safe and possible. I don't mean showing him Shakespeare sonnets or enthusing about radical philosophy. The meanings of those art forms or philosophies, expressed literally and seriously, and in the words that a person has available to them everyday, shouldn't have institutional coercion, including coercive hospitalization and drugging, as the threat for their speaking.
