@@ -39,8 +39,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Henry Kautz
       - Chenliang Xu
       - Comedic Aside: Sexier moments during Chenliang tenure:
-        - "Tayler hospitalization"
-        - The entirety of my social life, spanning 2020 - 2024:
+        - Bar Mitzvah hospitalization
+        - On the note of synchronicities: The entirety of my social life, spanning 2020 - 2024:
       - More Seriously
         - Rituals, Religion, & Hell
         - I didn't mention fingernails (fingernails regrowth)
@@ -80,6 +80,9 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
   - [Faith](4-Faith.md)
     - Part 5
       - Right to talk about suicide seriously 
+        - Academia & medicine
+        - Love & loneliness
+        - Exiting Hell, unifying quantum with Einstein, & symbiotically transcending individual psychological and behavioral repression
       - Friends
       - Allies
       - Enemies
