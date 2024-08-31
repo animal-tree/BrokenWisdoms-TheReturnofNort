@@ -324,7 +324,7 @@ Before accepting me into his doctoral candidacy, Henry connected me to Charles V
 </a>
 </p>
 
-Charles was my first advisor there.
+Charles was my advisor there.
 
 Henry recommended me to the position at the Med Center to do disease modeling, while I was still an undergrad, predating all of the medical trauma, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. "Neurodegenerative" means when the brain degenerates, for example, by chemical floodbaths of GABA from benzodiazepines and severe downregulation.
 
