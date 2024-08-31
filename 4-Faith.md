@@ -44,8 +44,8 @@ Here is my favorite Shakespeare sonnet:
 >
 > I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation:
 >
-> - (a) An agent "choosing" actions randomly at first in an environment, given "states" as input, remembering the actions chosen in a memory together with each state, then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory,
->    - (relevant method examples: such as via K-nearest neighbors),
+> - (a) An agent "choosing" actions at first randomly in an environment, given "states" as input, remembering the actions chosen in a memory together with each state, then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory,
+>    - (relevant method examples: such as via K-nearest neighbors; symbolic and neural episodic control; parametrically rather than symbolically via RNNs or Decision Transformers),
 > - (b) "similarity" as measurable by the regular distance between those numbers ("states") that represent input datapoints,
 >    - (relevant method examples: such as via Euclidean distance, cosine distance, parametric distance),
 > - (c) decomposing those representations into representations of parts and relations
@@ -65,12 +65,14 @@ Here is my favorite Shakespeare sonnet:
 >
 > As well as just simple intuitions that were pedagogically better:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations (local optima, myopia, e.g. myopic derivatives, and the process of searching/data-acquisition),
-> - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward,
-> - (c) parameter-reuse methods for invariability and greater training diversity,
-> - (d) training stability via incremental progress, as in small gradient steps, additive updates layer-wise, or diffusion, except not necessarily temporally,
-> - (e) [more advanced math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md) usually pertaining to calculus (non-instantaneity, bi-directionality, cross-derivatives), backprop as just an algorithm for taking a derivative, wherein the change that would hypothetically increase or decrease a function is disseminated, operation by operation, from the output back to the input, to each parameter in that function, 
-> - (f) [LSTMs as biological neurons](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link), and
-> - (g) ["Convolution is all you need"](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md).
+> - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward, the latter especially when differentiating an actor through a good differentiable predictor, or predictors, of immediate and any future outcomes, where "good" depends on the quality and quantity, perhaps prioritized for efficiency and exploration-sake, of memory/data learned-from and the outcome-goal(s),
+> - (c) curriculum learning as prioritized experience replay, where data that there is most to learn from is prioritized for learning,
+> - (d) learning rate schedules as exploration/exploitation tradeoffs,
+> - (e) parameter-reuse methods for invariability and greater training diversity,
+> - (f) training stability via incremental progress, as in small gradient steps, additive updates layer-wise, or diffusion, except not necessarily temporally,
+> - (g) [more advanced math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md) usually pertaining to calculus (non-instantaneity, bi-directionality, cross-derivatives), backprop as just an algorithm for taking a derivative, wherein the change that would hypothetically increase or decrease a function is disseminated, operation by operation, from the output back to the input, to each parameter in that function, 
+> - (h) [LSTMs as biological neurons](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link), and
+> - (i) ["Convolution is all you need"](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md).
 >   - Quick rant, but worth reading:
 >       - "Attention is all you need" sounds like a reply to "You just want attention." It’s in bad taste. That’s the name of the paper from DeepMind that most revolutionized deep learning after 2017. My later paper under Chenliang was going to be called, ["Relation is all you need,"](https://docs.google.com/presentation/d/1QbWNfnWAgm0rHTy4EFnDrjpaMP7Ako6isNxOUSR17_A/edit?usp=sharing) which brings the idea slightly closer to "Relationships are all you need" or John Lennon’s phrasing, "Love is all you need," and the method it uses is more algorithmically democratic (which is a good analogy, since governing systems are systems/algorithms for decision-making, meant to compose the knowlege and wisdom of smaller parts to that of larger collectives, relationally).
 >         - I was rushing to make [this](https://docs.google.com/presentation/d/1QbWNfnWAgm0rHTy4EFnDrjpaMP7Ako6isNxOUSR17_A/edit?usp=sharing) into an ECCV, 2022 paper, because Chenliang said it makes him "sad" that almost no one in his group was submitting to ECCV, 2022. Solely out of love, I was about to rush another extremely fundamental new MHDPA innovation just because he ended that week's meeting, the week before the submission deadline, with "It makes me sad." I managed to run one experiment in time ([see here for code](https://github.com/slerman12/UnifiedMLold2/blob/master/Blocks/Architectures/LermanBlocks/ViRP.py)), and then resumed my regular work because I still had all of UnifiedML to build, and not even a tacit hint of dissatisfaction from Chenliang.
