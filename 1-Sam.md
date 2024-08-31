@@ -39,8 +39,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Henry Kautz
       - Chenliang Xu
       - Comedic Aside: Sexier moments during Chenliang tenure:
-        - Bar Mitzvah hospitalization
-        - On the note of synchronicities: The entirety of my social life, spanning 2020 - 2024:
       - More Seriously
         - Rituals, Religion, & Hell
         - I didn't mention fingernails (fingernails regrowth)
