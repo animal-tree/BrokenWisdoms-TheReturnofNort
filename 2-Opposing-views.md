@@ -332,7 +332,7 @@ While I was working and researching under Charles, I had written most of, come u
 
 But before we come to the conclusion that Charles is caught "red-handed," he was very supportive; and he was left-handed, I recall, like my grandpa.
 
-I hope Charles and his colleagues may find the above diagram (["5 Computational Neurons"](#benzodiazepine-benzos-mechanism-of-action)) valuable in their work. I ask that this time, ideally with credit attribution to me. The diagram ilucidates mechanisms of neurodegeneration biologically, computationally, and in psychiatric practice
+I hope Charles and his colleagues may find the above diagram (["5 Computational Neurons"](#benzodiazepine-benzos-mechanism-of-action)) valuable in their work. I ask that this time, they give credit attribution to me. The diagram ilucidates mechanisms of neurodegeneration biologically, computationally, and in psychiatric practice
 
 ### Henry Kautz
 
