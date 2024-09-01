@@ -379,7 +379,7 @@ Henry got an offer to direct the AI division at the National Science Foundation 
 </a>
 </p>
 
-I lost my hair in my first year, I went into benzo withdrawal in my second year, and I started working in Chenliang Xu’s lab nearing the end of my third year.
+I started losing my hair in my 1st year, I started taking benzos in my 2nd year, and I started working in Chenliang Xu’s lab nearing the end of my 3rd year.
 
 For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
