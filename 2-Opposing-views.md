@@ -201,9 +201,9 @@ My friend Jeremiah, someone so kind it's not even funny, told me the university-
 
 Finally, Mobi. He actually braided Lily's hair, I later found out. Mobi was 16, also prescribed benzos like I was, but he was there for years, a kid. This is the part I can't even believe as I write: he was in there for drug problems and addiction. No wonder, they'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14. Acclimating to benzos, one's brain is going to be deprived of GABA and will want drugs. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos.
 
-He was intelligent and kind. There is no way he should've been in the hospital. He could've been a revolution leader or some shit.
+And he was intelligent and respectful and well mannered. There is no way he should've been in the hospital. He could've been a revolution leader or some shit.
 
-The next part of the story conveys some of my trauma, and issa be hard to write about.
+The next part of the story conveys some of my trauma, and it's goun be hard to write about.
 
 ### My trauma
 
