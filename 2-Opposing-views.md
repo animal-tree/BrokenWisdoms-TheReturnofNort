@@ -289,7 +289,7 @@ She had spent the whole day at the Embassy, from early morning to night. She sai
 
 "Yes yes, you’re right, you didn’t have to and it’s good you didn’t. Why, to America, you're going?" 
 
-"I’m going to meet with family, mom, dad, brother is already there. I’m the only one left, with my children. My cousin, my brother, everyone is already there. And, second, because there is anti-semitism in Uzbekistan and I cannot live there.” 
+"I’m going to meet with my family, mom, dad, my brother is already there. I’m the only one left, with my children. My cousin, my brother, everyone is already there. And, second, because there is anti-semitism in Uzbekistan and I cannot live there.” 
 
 "What, in Uzbekistan, it was bad?"
 
