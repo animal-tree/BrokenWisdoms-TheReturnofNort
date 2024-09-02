@@ -236,7 +236,7 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 >
 > I like that Jeremiah remembers me by the way. He remembers me generally, from that short to long time in Israel and just being distant Facebook friends, and he somehow knows me through that. And what’s especially meaningful, is after I lost my hair, went through trauma, and lost my personality, he still recognized and knows me. 
 >
-> He’s a good friend, who knew without a doubt, in a diner in 2021, before I did, “This is the start of a beautiful friendship."
+> He’s a good friend, who knew without a doubt, in a diner in 2021, before I did, “This is the start of a beautiful friendship." Or maybe he said "great."
 >
 > He’s respectful and I trust him.
 >
