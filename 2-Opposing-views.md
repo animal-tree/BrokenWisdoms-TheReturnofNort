@@ -245,6 +245,8 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 > Additionally, Jeremiah also endured psychiatric malpractice. Some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists. In spite of standard-*seeming* consensuses, seizures are a pretty standard side effect, and the calculus of whether they're worth inducing for the sake of the tequila-like effect of benzos makes me question whether literally just tequila would be wiser.
 >
 > Fun story, I ordered a margarita in Israel once, with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
+>
+> That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/) 
 
 They didn't ask about what happened to me. They just wanted to treat the "catatonia," which, ironically, wasn't what it was, didn't involve immobolization (delusional-adherence to threats from "God" aren't the same as catatonia), and I was conscious. The previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write.
 
@@ -602,9 +604,9 @@ I had severe eczema, and my grandma when I was a kid helped by giving the best m
 
 #### Ascent of a Jewish old grandpa
 
-In 2016, Bernie Sanders was the first presidential candidate I was old enough to vote for, and voted for.
+In 2016, Bernie Sanders was the first presidential candidate I was old enough to vote for, and I voted for him.
 
-I wanted to donate to his campaign early, from a link in one of his emails. My mom cautioned me that the email might've been spam because my description sounded too good to be true. He wasn’t a household name yet. She doesn’t think that anymore. We both ended up donating, multiple times. But he was an unlikely figure in any politics, American or otherwise, devoted to principled [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md), e.g. universal healthcare, not politics.
+I wanted to donate to his campaign [early](https://www.facebook.com/share/p/bu8N4jvNp9As7Rs1/), from a link in one of his emails. My mom cautioned me that the email might've been spam because my description sounded too good to be true. He wasn’t a household name yet. She doesn’t think that anymore. We both ended up donating, multiple times. But he was an unlikely figure in any politics, American or otherwise, devoted to principled [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md), e.g. universal healthcare, not politics.
 
 The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma’s perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were finally relinquished to the world, joining his up in the Health Care Financing Administration (pronounced "HeCk-FAn").
 
