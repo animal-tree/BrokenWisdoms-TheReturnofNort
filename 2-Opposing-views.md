@@ -287,7 +287,7 @@ Jenya’s brother’s family lived in Moscow, so my mom was able to leave us wit
 
 "I thought I didn’t have to bring them, the documentation said we didn’t."
 
-"Yes yes, you’re right. Why, to America, you're going?"
+"Yes yes, you’re right," the interviewer said. "Why, to America, you're going?"
 
 "I’m going to meet with my family, mom, dad, my brother is already there. I’m the only one left, with my children. My cousin, my brother, everyone is already there. And, second, because there is anti-semitism in Uzbekistan."
 
