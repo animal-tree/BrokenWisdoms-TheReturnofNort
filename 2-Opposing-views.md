@@ -281,7 +281,7 @@ My uncle Slava was the first one born, then my mom Nélya, both in Samarkand. Th
 
 She had spent the whole day at the embassy, from early morning to night. She said, "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep."
 
-Jenya’s brother’s family lived in Moscow, so my mom was able to leave us with them while she went to the embassy to convince them that she was subjugated. 
+Jenya’s brother’s family lived in Moscow, so my mom was able to leave us with them while she went to the embassy to petition for refugee status.
 
 "A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity."
 
