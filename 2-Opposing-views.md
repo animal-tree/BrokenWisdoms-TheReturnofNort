@@ -185,9 +185,9 @@ I was still doing all my yoga and meditation regimen there. I also remember shar
 
 Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* was the missing ingredient. 
 
-Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. I showed her my MHDPA innovation paper, and had described relational reasoning to my brother-in-law and sister in my ward. As if my lucidity needed any more evidence, I explained the methods of ChatGPT to my visitors, in Winter, 2019.
+Lily was 24 when we met, a year older than me. I brought in my MHDPA innovation paper. She found it unusually readable, and threw away that her mom had a published short story in a Stephen King anthology. I was throwing away my own truth bombs in my psychiatric ward when my brother-in-law and sister came to visit, and I described relational reasoning via MHDPA to them, since I was excited about that paper. In other words, as if my lucidity needed any more evidence, I explained the methods of ChatGPT to another inpatient and my family visitors, in Winter, 2019 while drugs were being actively used by doctors to change the functioning of *my* neurology.
 
-When I was being discharged, Hudson wrote me this letter:
+Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope:
 
 <p align="center">
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
