@@ -287,7 +287,7 @@ She had spent the whole day at the Embassy, from early morning to night. She sai
 
 "I thought I didn’t have to bring them, the documentation said we didn’t."
 
-"Yes yes, you’re right, you didn’t have to and it’s good you didn’t. "Why America you going?" 
+"Yes yes, you’re right, you didn’t have to and it’s good you didn’t. Why, to America, you're going?" 
 
 "I’m going to meet with family, mom, dad, brother is already there. I’m the only one left, with my children. My cousin, my brother, everyone is already there. And, second, because there is anti-semitism in Uzbekistan and I cannot live there.” 
 
