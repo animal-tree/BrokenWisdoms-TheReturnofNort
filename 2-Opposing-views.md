@@ -271,9 +271,9 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University CS department Chair**
 - **University Deans**
 
-Many Jews fled to Muslim nations when the Nazis attacked Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but under Nazi occupation, Jews were being raped, executed, and piles of bodies were being tossed in the streets. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Mañá, my grandpa’s younger sister Rosá, who was about 6, and my grandpa, Yury, who was about 13, evacuated to Kazakhstan. At the end of the war, they returned and reunited in Ukraine with Yakob. My grandparents married, the Soviet Union assigned my grandpa to work in a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, and so my grandparents emigrated from Chernihiv, Ukraine to Samarkand, Uzbekistan.
+Many Jews, were executed or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Muslim nations, like Kazakhstan or Uzbekistan for refuge. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Mañá, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan. At the end of the war, they returned and reunited in Ukraine with my grandpa’s father Yakob. My grandparents married, the Soviet Union assigned my grandpa work in a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, and my grandparents were then required to emigrate from Chernihiv, Ukraine once more, this time to Samarkand, Uzbekistan, rather than Kazakhstan.
 
-My grandpa worked as a leather technology engineer at that plant/factory, my grandma a teacher.
+My grandpa was a leather technology engineer, my grandma a teacher of German language. 
 
 My uncle Slava, mom Nélya, older cousins Lena and Irina, older sister Marina, and I were all born in Samarkand, all of us also Ashkenazi Jews. 
 
