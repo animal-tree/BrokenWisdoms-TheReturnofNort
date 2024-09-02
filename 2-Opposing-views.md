@@ -289,11 +289,11 @@ She had spent the whole day at the Embassy, from early morning to night. She sai
 
 "Yes yes, you’re right, you didn’t have to and it’s good you didn’t. Why, to America, you're going?" 
 
-"I’m going to meet with my family, mom, dad, my brother is already there. I’m the only one left, with my children. My cousin, my brother, everyone is already there. And, second, because there is anti-semitism in Uzbekistan and I cannot live there.” 
+"I’m going to meet with my family, mom, dad, my brother is already there. I’m the only one left, with my children. My cousin, my brother, everyone is already there. And, second, because there is anti-semitism in Uzbekistan.” 
 
 "What, in Uzbekistan, it was bad?"
 
-Anti-semitism in Uzbekistan wasn’t as bad as in other countries. She told me, while describing the interview, that in Ukraine, anti-semitism was always worse, from the war when my grandpa was young, to when my mom was an adult. However, she told me, Jews customarily weren’t allowed to hold higher offices, in Uzbekistan either. 
+Anti-semitism in Uzbekistan wasn’t as bad as in other countries, she told me. In Ukraine, anti-semitism was always worse, from the war when my grandpa was young, to when my mom was an adult. However, she told me, Jews customarily weren’t allowed to hold higher offices, in Uzbekistan either. 
 
 To get refugee status, she had to give the ways that anti-semitism, in Uzbekistan, a Muslim country, specifically affected her, a Jewish woman, since, unlike her parents and brother, she was made to live alone with two kids while the rest of her family went through. She had to give a specific answer. "I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish." 
 
