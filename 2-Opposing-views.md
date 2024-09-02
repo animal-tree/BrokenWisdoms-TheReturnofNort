@@ -201,10 +201,8 @@ I was told a court order would be acquired if I didn't take them and I probably 
 
 I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization. A couple years later, I learned that Lily had met Mobi in one of their hospitalizations, too, that he'd even braided Lily's hair. Mobi had multiple hospitalizations and was a recurrent "offender." He was 16, prescribed benzos. He was really intelligent, a "sober" intelligence and humor, respectful, lucid, and well-mannered. This is the part I can't believe as I write: They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14, and he was in there just for drug problems and addiction. Acclimating to benzos, one's brain is going to be deprived of GABA and will want drugs. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos. 
 
-### My trauma
-
 > [!NOTE]
-> #### Jeremiah
+> #### Israel trip
 > 
 > What do I appreciate about Jeremiah besides his synchronistic value and unconditional kindness, potentially understanding, and submissiveness of me? Like what internally about him, besides the telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries? Well, I like his kindness and innocence generally, innocence meaning that I think he wants to be the good guy. I think he has some work ethic and has rationalized some really difficult concepts and ideas, sometimes in the emotional realm. He’s exploring dangerous areas and capable of not following the patterns I’ve seen established with everybody else, especially in relation to me and not falling from loyalty amid my more extreme states. 
 >
@@ -249,6 +247,8 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 > That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
 >
 > And we all got extremely sick, everyone on our bus. My cousin, Irina, who went with me, and I got the most sick. My cousin, I recall, had recovered with the help of opioids that were prescribed to her. I don't remember why opioids were necessary. I recovered without drugs.
+
+### My trauma
 
 They didn't ask about what happened to me. They just wanted to treat the "catatonia," which, ironically, wasn't what it was, didn't involve immobolization (delusional-adherence to threats from "God" aren't the same as catatonia), and I was conscious. The previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write.
 
