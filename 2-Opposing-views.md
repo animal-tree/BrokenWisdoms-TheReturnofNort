@@ -244,7 +244,7 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 >
 > Additionally, Jeremiah also endured psychiatric malpractice. Some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists. In spite of standard-*seeming* consensuses, seizures are a pretty standard side effect, and the calculus of whether they're worth inducing for the sake of the tequila-like effect of benzos makes me question whether literally just tequila would be wiser.
 >
-> Fun story, I ordered a margarita in Israel, with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
+> Fun story, I ordered a margarita in Israel once, with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
 
 They didn't ask about what happened to me. They just wanted to treat the "catatonia," which, ironically, wasn't what it was, didn't involve immobolization (delusional-adherence to threats from "God" aren't the same as catatonia), and I was conscious. The previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write.
 
