@@ -297,7 +297,7 @@ Anti-semitism in Uzbekistan wasn’t as bad as in other countries, she told me. 
 
 To get refugee status, she had to give the ways that anti-semitism, in Uzbekistan, a Muslim country, specifically affected her, a Jewish woman, even as her family went through. She had to give a specific answer. "I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish." 
 
-She wanted to do a PhD, but wasn’t allowed to, despite having a master's degree and being a good student.
+She wanted to do a PhD, but wasn’t allowed to, despite having a master's degree in Music Theory and being a good student.
 
 She continued, "Jewish people don’t openly keep their traditions there, they don’t get good jobs/positions, they don’t enroll. I was professor teaching at music college. I had to stop working there. I dropped out in 1998, because they reduced my hours, and not just me, but other Jewish people. Uzbeks they gave many." My uncle found her a temporary job for an American firm, that had originally been offered to him, where she did indexing, tabulating, and auditing, that paid many times more, but she had a master’s degree in Music Theory and was a professor at a music college, who was loved by her students.
 
