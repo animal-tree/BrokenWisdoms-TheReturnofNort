@@ -246,7 +246,9 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 >
 > Fun story, I ordered a margarita in Israel once, with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
 >
-> That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/) 
+> That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
+>
+> And we all got extremely sick, everyone on our bus, with my cousin and I being the most sick. My cousin, I recall, had recovered with the help of opioids that were prescribed to her. I don't remember why opioids were necessary. 
 
 They didn't ask about what happened to me. They just wanted to treat the "catatonia," which, ironically, wasn't what it was, didn't involve immobolization (delusional-adherence to threats from "God" aren't the same as catatonia), and I was conscious. The previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write.
 
