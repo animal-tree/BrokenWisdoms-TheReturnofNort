@@ -289,7 +289,7 @@ Anti-semitism in Uzbekistan wasn’t as bad as in other countries. She told me, 
 
 She wanted to do a PhD, but wasn’t allowed to, despite being a hard worker and good student.
 
-She continued, "Yes, bad it was. Anti-semitism, Jewish people don’t openly keep their traditions there, they’re embarrassed, they don’t get good jobs/positions, they don’t enroll. They reduced my hours. Uzbeks they gave many. I was professor teaching at music college. I had to stop working there. I dropped out in 1998. They stopped giving me hours, and not just me, but other Jewish people." My uncle found her a temporary job for an American firm, that had been offered to him, where she did indexing, tabulating, and auditing, that paid many times more, but she had a master’s degree in Music Theory and was a professor at a music college, who was loved by her students. 
+She continued, "Yes, bad it was. Anti-semitism, Jewish people don’t openly keep their traditions there, they’re embarrassed, they don’t get good jobs/positions, they don’t enroll. They reduced my hours. Uzbeks they gave many. I was professor teaching at music college. I had to stop working there. I dropped out in 1998. They reduced my hours, and not just me, but other Jewish people." My uncle found her a temporary job for an American firm, that had been offered to him, where she did indexing, tabulating, and auditing, that paid many times more, but she had a master’s degree in Music Theory and was a professor at a music college, who was loved by her students. 
 
 The interview ended with one more interrogation: 
 
