@@ -275,9 +275,19 @@ Many Jews, were executed or tortured, or piled in bodies, when the Nazis occupie
 
 My grandpa was a leather technology engineer, my grandma worked as a teacher of German language. 
 
-My uncle Slava, mom Nélya, older cousins Lena and Irina, older sister Marina, and I were all born in Samarkand, all of us also Ashkenazi Jews. My name is Sam, but I wasn’t born "Sam." I was actually born "Siímyon," after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam" sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. 
+My uncle Slava, mom Nélya, older cousins Lena and Irina, older sister Marina, and I were all born in Samarkand, all of us also Ashkenazi Jews. I was born last of my family. My name is Sam, but I wasn’t born "Sam." I was actually born "Siímyon," after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam" sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. 
 
-All of the adults applied for us to immigrate to America. My grandma had a sister (Tsilia) with adult son Sasha in America, and my uncle Slava was a physicist, whereas for some reason my mom's status wasn't satisfactory. We (my mom and her two kids) were the only ones not approved. When my grandparents immigrated, they sent an invitation to my mom through the Embassy. My mom then had to do an interview with the American Embassy in Moscow to convince them that she was subjugated. So my mom had to fly to Moscow, with my sister and me, to do the interview at the Moscow Embassy. My aunt’s brother’s family lived in Moscow, and my mom was able to leave us with them there. The interviewer, who was meant to determine if my mom deserved refugee status, interrogated: "Why America you going?" 
+All of the adults applied for us to immigrate to America. My grandma had a sister (Tsilia) with adult son Sasha in America, and my uncle Slava was a physicist, whereas for some reason my mom's status wasn't satisfactory. We (my mom and her two kids) were the only ones not approved. When my grandparents immigrated, they sent an invitation to my mom through the Embassy. My mom then had to do an interview with the American Embassy in Moscow to convince them that she was subjugated. So my mom had to fly to Moscow, with my sister and me, to do the interview at the Embassy. My aunt’s brother’s family lived in Moscow, and my mom was able to leave us with them there. The interviewer, who was meant to determine if my mom deserved refugee status, interrogated: 
+
+"Your form said you have kids. Where are they?"
+
+She had spent the whole day at the Embassy, from early morning to night. She said, "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep."
+
+"A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity."
+
+"I thought I didn’t have to bring them, the documentation said we didn’t."
+
+"Yes yes, you’re right, you didn’t have to and it’s good you didn’t. "Why America you going?" 
 
 "I’m going to meet with family, mom, dad, brother is already there. I’m the only one left, with my children. My cousin, my brother, everyone is already there. And, second, because there is anti-semitism in Uzbekistan and I cannot live there.” 
 
@@ -290,18 +300,6 @@ Anti-semitism in Uzbekistan wasn’t as bad as in other countries. She told me, 
 She wanted to do a PhD, but wasn’t allowed to, despite being a hard worker and good student.
 
 She continued, "Yes, bad it was. Anti-semitism, Jewish people don’t openly keep their traditions there, they’re embarrassed, they don’t get good jobs/positions, they don’t enroll. They reduced my hours. Uzbeks they gave many. I was professor teaching at music college. I had to stop working there. I dropped out in 1998. They reduced my hours, and not just me, but other Jewish people." My uncle found her a temporary job for an American firm, that had been offered to him, where she did indexing, tabulating, and auditing, that paid many times more, but she had a master’s degree in Music Theory and was a professor at a music college, who was loved by her students. 
-
-The interview ended with one more interrogation: 
-
-"Your form said you have kids. Where are they?"
-
-She had spent the whole day at the Embassy, from early morning to night. "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep."
-
-"A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity."
-
-"I thought I didn’t have to bring them, the documentation said we didn’t."
-
-"Yes yes, you’re right, you didn’t have to and it’s good you didn’t."
 
 We flew to Rochester, New York, immigrating officially as Jewish refugees. More than half a year passed since the Embassy interview. I was 3 and two thirds, and am told I was crying on the plane. The Uzbek government mistranslated my name, legally, like on legal record, as "Semen," which we didn't yet know the meaning of, the story around which won't be elaborated on for many more chapters, not until [Part 5](4-Faith.md), except a short reference regarding my grandpa's name change in ["When my grandma died"](#when-my-grandma-died) in Part 3. My mom found a low-paying piano teaching job, and got an associate's degree at a community college in Computer Information Systems, hoping to earn more money. Later, she worked two jobs, as a piano teacher giving individual lessons for a piano studio, and tutoring students at MCC, the community college she got her associate’s degree from. She was a part-time computer tutor there in two different labs. My mom's students loved her, both in Uzbekistan at the music college where she taught and here. She actually taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java.
 
