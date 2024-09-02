@@ -246,7 +246,7 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 >
 > That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
 >
-> And we all got extremely sick, everyone on our bus. My cousin, Irina, who went with me, and I, got the most sick. My cousin, I recall, had recovered with the help of opioids that were prescribed to her. I don't remember why opioids were necessary. I recovered without drugs.
+> And we all got extremely sick, everyone on our bus. My cousin, Irina, who went with me, and I, got the most sick. My cousin, I recall, had recovered with the help of a a decongestant (maybe pseudoephedrine) and paracetamol (Tylenol) combo that were prescribed to her. I recovered, slower, without hospital or drugs.
 
 ### My trauma
 
