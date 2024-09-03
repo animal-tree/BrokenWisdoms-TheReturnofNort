@@ -199,11 +199,11 @@ Our other companion was Hudson, who caught me as I was being discharged and hand
 
 I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, lightning bolts of happiness, for depression. I guess if the core of a patient’s depression isn’t "lack of pills," the evidence-backed next step is to get some jumper cables to their ears.
 
-#### Court order
-
 Meanwhile, now checking my phone to make sure we are indeed in the 21st century, I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, long-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering. 
 
 I was told a court order would be acquired if I didn't take them and I probably should’ve called their bluff on that, since worst case difference-scenario: a court would have to document itself as requiring benzo treatement on a patient whose medical history wrongly diagnosed catatonia months prior, who was lucidly taking antipsychotics. That would be a lot of effort just to get me drunk.
+
+My mom stopped them from electroshocking me, but I have no evidence to this or record. 
 
 #### Mobi
 
