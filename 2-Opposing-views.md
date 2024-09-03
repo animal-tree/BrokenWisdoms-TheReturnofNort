@@ -251,11 +251,13 @@ The first psychiatrist wanted to wean me off before the discharge. Since I was w
 
 The second psychiatrist came in to replace him, and changed the schedule, against his and my preferance. She said the outpatient doctor, the psychiatrist after the hospitalization, would wean me off. Maybe she didn't trust that I would continue with therapy if I hadn't had a literal physiological addiction to incentivize me.
 
-The third psychiatrist, the outpatient doctor, didn't. I don't remember his name either, as most of my memory was in deterioration, no longer the "high" or "drunk" effect that comes with benzos in the first weeks. A month into the benzos, I was in cognitive decline, and the euphoria was turning into grey cloud and fog, excruciating anxiety and fear, and terror. 
+The third psychiatrist, the outpatient doctor, didn't. He was cold, unbelieving, and consumed with authority. I don't remember his name either, as most of my memory was in deterioration, no longer the "high" or "drunk" effect that comes with benzos in the first weeks. A month into the benzos, I was in cognitive decline, and the euphoria was turning into grey cloud and fog, excruciating anxiety and fear, and terror. 
 
-In the first month with him, I told him about all of these symptoms, and tried to relay the agony. I couldn't, or rather, he didn't care or believe. He only believed the benzos were needed. He argued they could be safely taken for years.
+In the first month with him, I told him about all of these symptoms, and tried to relay the agony. I couldn't, or rather, he didn't care or believe. He only believed the benzos were needed. He argued they could be safely taken for years. 
 
-I don't recall him ever asking about the "catatonia." At no point did he specify a tapering schedule, and I was begging him.
+None of the previous diagnoses from the first hospitalization, none were questioned by the University of Rochester’s psychiatrists, none of the events were inquired about.
+
+At no point did he specify a tapering schedule, and I was begging him.
 
 In the next month, I told him I was brain damaged. He wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose.
 
