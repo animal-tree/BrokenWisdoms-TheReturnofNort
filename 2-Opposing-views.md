@@ -232,7 +232,7 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 >
 > And he has a good Jewish sense of humor sometimes.
 >
-> $^\text{\color{green}1.}$ <sup>read: highly anxious</sup>
+> $^\text{\color{green}1.}$ <sup>read: highly anxious or, as he would call it, partially incoherent</sup>
 
 ### My trauma
 
