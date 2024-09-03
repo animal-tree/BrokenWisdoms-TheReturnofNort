@@ -204,49 +204,15 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 > [!NOTE]
 > #### Israel trip
 > 
-> What do I appreciate about Jeremiah besides his synchronistic value and unconditional kindness, potentially understanding, and submissiveness of me? Like what internally about him, besides the telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries? Well, I like his kindness and innocence generally, innocence meaning that I think he wants to be the good guy. I think he has some work ethic and has rationalized some really difficult concepts and ideas, sometimes in the emotional realm. He’s exploring dangerous areas and capable of not following the patterns I’ve seen established with everybody else, especially in relation to me and not falling from loyalty amid my more extreme states. 
->
-> Perhaps that’s why he enters psychosis. 
-> 
-> His state of consciousness is loyal to the point that it does not raise the red flag until nearly all life is lost, if then.
->
-> Jeremiah is brave.
->
-> And he has a good Jewish sense of humor sometimes.
->
-> I fear for him because I don’t want him to risk how much I know I would.
->
-> I relate to things he goes through, things I don’t want him to go through.
->
-> What did I like about Jeremiah before he showed me these things?
->
-> Well at first, the radical honesty on the plane.
->
-> Then just his general niceness and being the only person on the Israel trip who didn’t feel like rejected me.
->
-> I didn’t like that he was weird in their eyes, or so I thought when imagining how he’d make me seem to the girl I was attracted to. 
->
-> I really didn’t like that he snored in our shared hotel with Joe, but I didn’t attribute that personally. 
->
-> I appreciated that he had social anxiety and the three of us connected on that.
->
-> He’s (Jeremiah) really supportive and actually does things and allows things and participates in things that others wouldn’t with me or in general.
->
-> I like that Jeremiah remembers me by the way. He remembers me generally, from that short to long time in Israel and just being distant Facebook friends, and he somehow knows me through that. And what’s especially meaningful, is after I lost my hair, went through trauma, and lost my personality, he still recognized and knows me. 
->
-> He’s a good friend, who knew without a doubt, in a diner in 2021, before I did, “This is the start of a beautiful friendship." Or maybe he said "great."
->
-> He’s respectful and I trust him.
->
-> He was one of the few people who commented on my Facebook post about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a  run for it. "[...] I tried to escape and they held me down and choked me. I got to the driveway [...]" My [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
->
-> Additionally, Jeremiah also endured psychiatric malpractice. Some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists. In spite of standard-*seeming* consensuses, seizures are a pretty standard side effect, and the calculus of whether they're worth inducing for the sake of the tequila-like effect of benzos makes me question whether literally just prescribing tequila would be wiser.
->
 > Fun story, I ordered a margarita in Israel once, with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
 >
 > That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
 >
 > And we all got extremely sick, everyone on our bus. My cousin, Irina, who went with me, and I, got the most sick. My cousin had recovered with the help of a a decongestant (maybe pseudoephedrine) and paracetamol (Tylenol) combo that were prescribed to her. I recovered, slower, without hospital or drugs.
+>
+> Out of the hospital, a year later, I was reconnecting with my friend Jeremiah by interesting chance. He's the most non-violent person there is. He once wrote to me, "I just want to make people happy," and through all of our interactions has proved it, sincerely. He'd shy away from hurting a fly, but he'd probably go into battle, like a fellow brave hobbit, for the sake of good. He was one of the few people who commented on my Facebook post about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a  run for it. "[...] I tried to escape and they held me down and choked me. I got to the driveway [...]" My [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
+>
+> Additionally, Jeremiah also endured psychiatric malpractice. Some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists. In spite of standard-*seeming* consensuses, seizures are a pretty standard side effect, and the calculus of whether they're worth inducing for the sake of the tequila-like effect of benzos makes me question whether literally just prescribing tequila would be wiser.
 
 ### My trauma
 
