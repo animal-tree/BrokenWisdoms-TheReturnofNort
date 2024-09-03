@@ -181,11 +181,15 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 ### Hospitalization
 
+#### Lily
+
 I was still doing all my yoga and meditation regimen there. I also remember sharing some of my food with Lily, since my mom, uncle, aunt, and even cousin were bringing in my Paleo diet food, which I ate instead of the hospital’s unhealthy processed type food, and which helped with my cognition and eczema.
 
 Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* was the missing ingredient. 
 
 Lily was 24 when we met, a year older than me. I brought in my MHDPA innovation paper. She found it unusually readable, and threw away that her mom had a published short story in a Stephen King anthology. I was throwing away my own truth bombs in my psychiatric ward when my brother-in-law and sister came to visit, and I described relational reasoning via MHDPA to them, since I was excited about that paper. In other words, as if my lucidity needed any more evidence, I explained the methods of ChatGPT to another inpatient and my family visitors, in Winter, 2019 while drugs were being actively used by doctors to change the functioning of *my* neural networks.
+
+#### Hudson
 
 Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
 
@@ -195,42 +199,45 @@ Our other companion was Hudson, who caught me as I was being discharged and hand
 
 I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, lightning bolts of happiness, for depression. I guess if the core of a patient’s depression isn’t "lack of pills," the evidence-backed next step is to get some jumper cables to their ears.
 
+#### Court order
+
 Meanwhile, now checking my phone to make sure we are indeed in the 21st century, I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, long-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering. 
 
 I was told a court order would be acquired if I didn't take them and I probably should’ve called their bluff on that, since worst case scenario: a court would have to document itself as requiring benzo treatement on a patient whose medical history wrongly diagnosed catatonia months prior, who was lucidly taking antipsychotics. That would be a lot of effort just to get me drunk.
 
+#### Mobi
+
 I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization. A couple years later, I learned that Lily had met Mobi in one of their hospitalizations, too, that he'd even braided Lily's hair. Mobi had multiple hospitalizations and was a recurrent inpatient psychiatric care recipient. He was 16, prescribed benzos. He was really intelligent, a "sober" intelligence and humor, respectful, lucid, and well-mannered. This is the part I can't believe as I write: They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14, and he was in there just for drug problems and addiction. Acclimating to benzos, one's brain is going to be deprived of GABA and will crave something, usually a drug, to take the literal edge off. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos. 
 
-> [!NOTE]
-> #### Israel birthright trip
-> 
-> Fun story, I ordered a margarita in Israel once, with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
->
-> That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
->
-> And we all got extremely sick, everyone on our bus. My cousin, Irina, who went with me, and I, got the most sick. My cousin had recovered with the help of a a decongestant (maybe pseudoephedrine) and paracetamol (Tylenol) combo that were prescribed to her. I recovered, slower, without hospital or drugs.
->
-> About two years after my first Strong Hospital hospitalization, Jeremiah commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "[...] I tried to escape and they held me down and choked me. I got to the driveway [...]" My [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
->
-> Additionally, Jeremiah also endured psychiatric malpractice. Some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists. In spite of standard-*seeming* consensuses, seizures are a pretty standard side effect, and the calculus of whether they're worth inducing for the sake of the tequila-like effect of benzos makes me question whether literally just prescribing margaritas, a tequila cocktail drink, would be wiser.
->
-> #### Jeremiah's bravery
->
-> Jeremiah looks exactly like the lion from Wizard of Oz.
->
-> He told me, I'm remembering now, as I figure out how to structure this story, in a diner while we were eating, that his spirit animal — I think he said "spirit animal," or the animal he would be anyway, if he were an animal other than human — is a lion.
->
-> What I appreciate about Jeremiah, besides his synchronistic value, unconditional kindness, telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries, is his kindness and innocence generally; he wants to be the good guy. He's a hobbit, a fellow hobbit. He's capable of not following the patterns I’ve seen established with everybody else, especially in relation to me, and not falling from loyalty, or forgetting who I am, amid my more extreme<sup>$^\text{\color{green}1.}$</sup> states. 
->
-> Perhaps that’s why he enters psychosis. 
-> 
-> His state of consciousness is loyal to the point that it does not raise the red flag until nearly all life is lost, if then.
->
-> Jeremiah is brave.
->
-> Jeremiah had the bravery to go places others wouldn’t. Psychiatrists would be unlikely to have the bravery to do a proper control study on whether tequila might actually just be better for many use cases than benzos. ["The man who passes the sentence should swing the sword,"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) and most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it.
->
-> And he has a good Jewish sense of humor sometimes.
+#### Israel birthright trip
+
+Fun story, I ordered a margarita in Israel once, with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
+
+That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
+
+And we all got extremely sick, everyone on our bus. My cousin, Irina, who went with me, and I, got the most sick. My cousin had recovered with the help of a a decongestant (maybe pseudoephedrine) and paracetamol (Tylenol) combo that were prescribed to her. I recovered, slower, without hospital or drugs.
+
+About two years after my first Strong Hospital hospitalization, Jeremiah commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "[...] I tried to escape and they held me down and choked me. I got to the driveway [...]" My [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
+
+Additionally, Jeremiah also endured psychiatric malpractice. Some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists. In spite of standard-*seeming* consensuses, seizures are a pretty standard side effect, and the calculus of whether they're worth inducing for the sake of the tequila-like effect of benzos makes me question whether literally just prescribing margaritas, a tequila cocktail drink, would be wiser.
+
+#### Jeremiah's bravery
+
+Jeremiah looks exactly like the lion from Wizard of Oz.
+
+He told me, I'm remembering now, as I figure out how to structure this story, in a diner while we were eating, that his spirit animal — I think he said "spirit animal," or the animal he would be anyway, if he were an animal other than a human — is a lion.
+
+What I appreciate about Jeremiah, besides his synchronistic value, unconditional kindness, telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries, is his kindness and innocence generally; he wants to be the good guy. He's a hobbit, a fellow hobbit. He's capable of not following the patterns I’ve seen established with everybody else, especially in relation to me, and not falling from loyalty, or forgetting who I am, amid my more extreme<sup>$^\text{\color{green}1.}$</sup> states. 
+
+Perhaps that’s why he enters psychosis. 
+
+His state of consciousness is loyal to the point that it does not raise the red flag until nearly all life is lost, if then.
+
+Jeremiah is brave.
+
+Jeremiah had the bravery to go places others wouldn’t. Psychiatrists would be unlikely to have the bravery to do a proper control study on whether tequila might actually just be better for many use cases than benzos. ["The man who passes the sentence should swing the sword,"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) and most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. The characterization difference between alcohol and benzos is not proportional to their actual health-endangerment difference. Either one needs to be characterized better, or the other needs to be characterized worse.
+
+And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
 
 $^\text{\color{green}1.}$ <sup>read: highly anxious or, as he would call it, partially incoherent</sup>
 
