@@ -33,6 +33,11 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Psychiatrists at the University of Rochester’s Strong Hospital
       - Benzodiazepine mechanism of action
       - Hospitalization
+        - Lily
+        - Hudson
+        - Mobi
+        - Israel birthright trip, and Jeremiah
+        - Jeremiah's bravery
       - My trauma
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
