@@ -237,7 +237,7 @@ Jeremiah is brave.
 
 Jeremiah had the bravery to go places others wouldn’t. Psychiatrists would be unlikely to have the bravery to do a proper control study on whether tequila might actually just be better for many use cases than benzos. ["The man who passes the sentence should swing the sword,"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) and most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. The characterization difference between alcohol and benzos is not proportional to their actual health-endangerment difference. Either one needs to be characterized better, or the other needs to be characterized worse.
 
-And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
+And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
 
 ### My trauma
 
