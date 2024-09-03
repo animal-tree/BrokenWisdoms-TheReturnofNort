@@ -213,6 +213,18 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 > About two years after this hospitalization, I Jeremiah commented on my Facebook post, that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "[...] I tried to escape and they held me down and choked me. I got to the driveway [...]" My [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
 >
 > Additionally, Jeremiah also endured psychiatric malpractice. Some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists. In spite of standard-*seeming* consensuses, seizures are a pretty standard side effect, and the calculus of whether they're worth inducing for the sake of the tequila-like effect of benzos makes me question whether literally just prescribing margaritas, a tequila cocktail drink, would be wiser.
+>
+What do I appreciate about Jeremiah besides his synchronistic value and unconditional kindness? Like what internally about him, besides the telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries? Well, I like his kindness and innocence generally, innocence meaning that I think he wants to be the good guy. I think he has some work ethic and has rationalized some really difficult concepts and ideas, sometimes in the emotional realm. He’s exploring dangerous areas and capable of not following the patterns I’ve seen established with everybody else, especially in relation to me and not falling from loyalty amid my more extreme states. 
+>
+> Perhaps that’s why he enters psychosis. 
+> 
+> His state of consciousness is loyal to the point that it does not raise the red flag until nearly all life is lost, if then.
+>
+> Jeremiah is brave.
+>
+> And he has a good Jewish sense of humor sometimes.
+>
+> Jeremiah had the bravery to go places others wouldn’t. Psychiatrists would be unlikely to have the bravery to do a proper control study on whether tequila might actually just be better for many use cases than benzos. ["The man who passes the sentence should swing the sword,"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) and most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it.
 
 ### My trauma
 
