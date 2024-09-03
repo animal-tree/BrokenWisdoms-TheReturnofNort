@@ -203,7 +203,7 @@ Meanwhile, now checking my phone to make sure we are indeed in the 21st century,
 
 I was told a court order would be acquired if I didn't take them.
 
-Short-term benzo administration is a mtter that requires more nuance:
+Short-term benzo administration is a matter that requires more nuance.
 
 > My mom stopped them from electroshocking me, but I have no evidence to this or record, besides our memories and those strangers we don't remember who were involved. I was staring up at the two lights from my blurred eyes, that were really just one light from the light fixture, when the nurses injected me with benzos due to my having gone motionless, thinking that if I said anything, somehow that would risk my relationship with someone named Jane, so I lay still, somewhat like I was paralyzed, but with my eyes open and following those light glares. They said they were going to take me to electroshock therapy, they were about to roll me off for electroshock therapy, the benzos kicked in, I was no longer feeling that conviction about the need to stay still, and then for some reason the nurses paused, and they were talking to my mom and my mom started saying something really irritating, that, for some reason, due to the benzo disinhibition I irritatedly reacted to, and then my mom responded, and I responded again, now feeling like I ruined whatever committed state I was in, and the nurses were exasperated and said something like, "Okay good, we were gonna take you to electroshock therapy."
 
