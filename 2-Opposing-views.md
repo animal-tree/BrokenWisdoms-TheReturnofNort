@@ -187,7 +187,9 @@ I was still doing all my yoga and meditation regimen there. I also remember shar
 
 Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* was the missing ingredient. 
 
-Lily was 24 when we met, a year older than me. I brought in my MHDPA innovation paper. She found it unusually readable, and threw away that her mom had a published short story in a Stephen King anthology. I was throwing away my own truth bombs in my psychiatric ward when my brother-in-law and sister came to visit, and I described relational reasoning via MHDPA to them, since I was excited about that paper. In other words, as if my lucidity needed any more evidence, I explained the methods of ChatGPT to another inpatient and my family visitors, in Winter, 2019 while drugs were being actively used by doctors to change the functioning of *my* neural networks.
+Lily was 24 when we met, a year older than me. I brought in my MHDPA innovation paper. She found it unusually readable, and threw away that her mom had a published short story in a Stephen King anthology. I was throwing away my own truth bombs in my psychiatric ward when my brother-in-law and sister came to visit, and I described relational reasoning via MHDPA to them, since I was excited about that paper. In other words, as if my lucidity needed any more evidence, I explained the methods of ChatGPT to another inpatient and my family visitors, in Winter, 2019, while drugs were being actively used by doctors to change the functioning of *my* neural networks.
+
+She was in there for trashing a convenience store, and, in all likelihood, was being medicated less intensely than me.
 
 #### Hudson
 
