@@ -181,17 +181,13 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 ### Hospitalization
 
-#### Lily
+Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* was the missing ingredient.
 
-I was still doing all my yoga and meditation regimen there. I also remember sharing some of my food with Lily, since my mom, uncle, aunt, and even cousin were bringing in my Paleo diet food, which I ate instead of the hospital’s unhealthy processed type food, and which helped with my cognition and eczema.
+My mom, uncle, aunt, and even cousin were bringing in my Paleo diet food, which I ate instead of the hospital’s unhealthy processed type food, and which helped with my cognition and eczema.
 
-Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* was the missing ingredient. 
+#### Lily and Hudson
 
 Lily was 24 when we met, a year older than me. I brought in my MHDPA innovation paper. She found it unusually readable, and threw away that her mom had a published short story in a Stephen King anthology. I was throwing away my own truth bombs in my psychiatric ward when my brother-in-law and sister came to visit, and I described relational reasoning via MHDPA to them, since I was excited about that paper. In other words, as if my lucidity needed any more evidence, I explained the methods of ChatGPT to another inpatient and my family visitors, in Winter, 2019, while drugs were being actively used by doctors to change the functioning of *my* neural networks. 
-
-She was in there for trashing a convenience store, and, in all likelihood, was being medicated less intensely than me.
-
-#### Hudson
 
 Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
 
@@ -225,8 +221,6 @@ About two years after my first Strong Hospital hospitalization, Jeremiah comment
 
 Additionally, Jeremiah also endured psychiatric malpractice. Some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists. In spite of standard-*seeming* consensuses, seizures are a pretty standard side effect, and the calculus of whether they're worth inducing for the sake of the tequila-like effect of benzos makes me question whether literally just prescribing margaritas, a tequila cocktail drink, would be wiser. That would give a new meaning to the word "shot."
 
-#### Jeremiah's bravery
-
 Jeremiah looks exactly like the lion from Wizard of Oz.
 
 He told me, I'm remembering now, as I figure out how to structure this story, in a diner while we were eating, that his spirit animal — I think he said "spirit animal," or the animal he would be anyway, if he were an animal other than a human — is a lion.
@@ -245,7 +239,7 @@ And he has a good Jewish sense of humor sometimes. I should invite him to grab a
 
 ### My trauma
 
-They didn't ask about what happened to me. Delusional-adherence to threats from "God" aren't the same as catatonia (which, 5 years later, still have not ceased, though I interpret them as a different intelligence than "God" and the "threats" have evolved into helpful or slightly sabotaging suggestions, what others with frontal lobes might just observe in themselves, less acutely, as "social energies, social sense, social skill, emotional intelligence, or emotion," and frontal lobes should, as a general rule of thumb, be handled delicately when just growing in, by the way, as they tend to in a person's early 20s, when by totally-random-amazing-coincidence, schizophrenic episodes are most likely to occur in a person whose relationships with those energies of their intelligence might not be as integrated as with other impressive energies of their intelligence, and that integration can be initially exactly as intense as it's supposed to be minus the external orders that make it quite paranoid and scary — did I just explain schizophrenia in one sentence?). They didn't question the medical record, that what I went through was catatonia. They didn't ask me about any of what happened either. Not that I could explain it to them if they had, necessarily. The previous trauma was recent and took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful with a dish of tea.
+They didn't ask about what happened to me. Delusional-adherence to threats from "God" aren't the same as catatonia. They didn't question the medical record, that what I went through was catatonia. They didn't ask me about any of what happened either. Not that I could explain it to them if they had, necessarily. The previous trauma was recent and took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful with a dish of tea.
 
 The first psychiatrist wanted to wean me off before the discharge. Since I was worried about the benzos, he was willing to withdraw them as fast as safely possible, and assured me it'd be before discharge.
 
