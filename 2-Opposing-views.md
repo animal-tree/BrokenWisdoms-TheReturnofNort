@@ -245,7 +245,7 @@ And he has a good Jewish sense of humor sometimes. I should invite him to grab a
 
 ### My trauma
 
-They didn't ask about what happened to me. Delusional-adherence to threats from "God" aren't the same as catatonia. They didn't question the medical record, that what I went through was catatonia. It didn't involve physical immobilization, and I was conscious, so that rules out catatonia pretty quickly. They didn't ask me about any of what happened either. Not that I could explain it to them if they had, necessarily. The previous trauma was recent and took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful.
+They didn't ask about what happened to me. Delusional-adherence to threats from "God" aren't the same as catatonia. They didn't question the medical record, that what I went through was catatonia. It didn't involve physical disruption of movement, and I was conscious, so that rules out catatonia pretty quickly. They didn't ask me about any of what happened either. Not that I could explain it to them if they had, necessarily. The previous trauma was recent and took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful.
 
 The first psychiatrist wanted to wean me off before the discharge. Since I was worried about the benzos, he was willing to withdraw them as fast as safely possible, and assured me it'd be before discharge.
 
