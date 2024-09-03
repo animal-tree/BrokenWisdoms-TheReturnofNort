@@ -215,7 +215,7 @@ Fun story, I ordered a margarita in Israel once, with Jeremiah probably somewher
 
 That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
 
-And we all got extremely sick, everyone on our bus. My cousin, Irina, who went with me, and I, got the most sick. My cousin had recovered with the help of a a decongestant (maybe pseudoephedrine) and paracetamol (Tylenol) combo that were prescribed to her. I recovered, slower, without hospital or drugs.
+And we all got extremely sick, everyone on our bus. My cousin, Irina, who went with me, and I, got the most sick. My cousin had recovered with the help of a a decongestant (maybe pseudoephedrine) and paracetamol (Tylenol) combo that were prescribed to her (for some reason, I vaguely recall she was also prescribed an opioid). I recovered, slower, without hospital or drugs.
 
 About two years after my first Strong Hospital hospitalization, Jeremiah commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "[...] I tried to escape and they held me down and choked me. I got to the driveway [...]" My [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
 
