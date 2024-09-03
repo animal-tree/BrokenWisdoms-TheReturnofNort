@@ -227,7 +227,7 @@ Jeremiah looks exactly like the lion from Wizard of Oz.
 
 He told me, I'm remembering now, as I figure out how to structure this story, in a diner while we were eating, that his spirit animal — I think he said "spirit animal," or the animal he would be anyway, if he were an animal other than a human — is a lion.
 
-What I appreciate about Jeremiah, besides his synchronistic value, unconditional kindness, telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries, is his kindness and innocence generally; he wants to be the good guy. He's a hobbit, a fellow hobbit. He's capable of not following the patterns I’ve seen established with everybody else, especially in relation to me, and not falling from loyalty, or forgetting who I am, amid my more extreme<sup>$^\text{\color{green}1.}$</sup> states. 
+What I appreciate about Jeremiah, besides his synchronistic value, unconditional kindness, telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries, is his kindness and innocence generally; he wants to be the good guy. He's a hobbit, a fellow hobbit. He's capable of not following the patterns I’ve seen established with everybody else, especially in relation to me, and not falling from loyalty, or forgetting who I am, amid my more extreme (as he would call it, partially incoherent) states. 
 
 Perhaps that’s why he enters psychosis. 
 
@@ -238,8 +238,6 @@ Jeremiah is brave.
 Jeremiah had the bravery to go places others wouldn’t. Psychiatrists would be unlikely to have the bravery to do a proper control study on whether tequila might actually just be better for many use cases than benzos. ["The man who passes the sentence should swing the sword,"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) and most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. The characterization difference between alcohol and benzos is not proportional to their actual health-endangerment difference. Either one needs to be characterized better, or the other needs to be characterized worse.
 
 And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
-
-$^\text{\color{green}1.}$ <sup>read: highly anxious or, as he would call it, partially incoherent</sup>
 
 ### My trauma
 
