@@ -261,7 +261,7 @@ At no point did he specify a tapering schedule, and I was begging him.
 
 In the next month, I told him I was brain damaged. He wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose, as if that would reduce my brain's increasing system-wide downregulation of GABA rather than worsen it.
 
-I should've weaned myself off. I knew he was wrong, but inside I didn't have the conviction (notably, because of the drug) to go against his recommendation and instruction — and I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then. The brain damage had already risked being permanent and irreversible.
+I should've weaned myself off. I knew he was an idiot, but inside I didn't have the conviction due to the impairment induced by the drug to go against his recommendation and instruction — and I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then. The brain damage had already risked being permanent and irreversible.
 
 The brain's writing mechanisms revolve around memory. During that period, I had no memory. My linguistics have nothing vivid to center on because everything from that period was grey.
 
