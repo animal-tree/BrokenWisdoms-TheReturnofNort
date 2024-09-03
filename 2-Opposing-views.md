@@ -202,7 +202,7 @@ I was told a court order would be acquired if I didn't take them and I probably 
 I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization. A couple years later, I learned that Lily had met Mobi in one of their hospitalizations, too, that he'd even braided Lily's hair. Mobi had multiple hospitalizations and was a recurrent "offender." He was 16, prescribed benzos. He was really intelligent, a "sober" intelligence and humor, respectful, lucid, and well-mannered. This is the part I can't believe as I write: They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14, and he was in there just for drug problems and addiction. Acclimating to benzos, one's brain is going to be deprived of GABA and will want drugs. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos. 
 
 > [!NOTE]
-> #### Israel trip
+> #### Israel birthright trip
 > 
 > Fun story, I ordered a margarita in Israel once, with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
 >
