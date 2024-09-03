@@ -220,7 +220,7 @@ I met Mobi in my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) h
 > 
 > His state of consciousness is loyal to the point that it does not raise the red flag until nearly all life is lost, if then. Jeremiah is brave.
 >
-> Jeremiah had the bravery to go places others wouldn’t. Psychiatrists would be unlikely to have the bravery to do a proper control study on whether tequila might actually just be better for many use cases than benzos. ["The man who passes the sentence should swing the sword,"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) and most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it.
+> Jeremiah had the bravery to go places others wouldn’t. Psychiatrists would be unlikely to have the bravery to do a proper control study on whether tequila might actually just be better for many use cases than benzos. ["He who passes the sentence should swig the sword,"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) and most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it.
 >
 > And he has a good Jewish sense of humor sometimes.
 
