@@ -560,7 +560,7 @@ Now for some stretchier synchronicities:
 
 As for my grandma, the number 13 also includes a number that "is less than 3," e.g. a heart <3, which a modern readership might be able to visually appreciate universally across languages, having been a teacher of varied languages, including Ukrainian, Russian, Yiddish, and German (and she also learned English after we immigrated), in her life.
 
-Besides 16, another synchronistic number is 7. My grandma was born March 25, 1927. My mom was born July 17, 1957 (07/17/57). And Irina, who takes the most from my grandma besides me, was born November 17, one day and 7 years apart from my birthday. And my grandpa was 87 when he died.
+Besides 16, another synchronistic number is 7. My grandma was born March 25, 1927. My mom was born July 17, 1957 (07/17/57). And Irina, who takes the most from my grandma besides me, was born November 17, one day and 6 years apart from my birthday. And my grandpa was 87 when he died.
 
 And 2016 has the number 16, that, besides being the upcoming day of my grandpa’s birthday, was the beginning of a larger-scope revolution in politics, and reformed perceptions of the healthcare system, with the 2016 ascent of another, similar Jewish old-grandpa type character and role model to me, Bernie Sanders, who has some similarities to my grandpa. 
 
