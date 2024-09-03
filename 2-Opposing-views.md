@@ -185,9 +185,11 @@ Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will 
 
 My mom, uncle, aunt, and even cousin were bringing in my Paleo diet food, which I ate instead of the hospital’s unhealthy processed type food, and which helped with my cognition and eczema.
 
+I also kept pace with all of my meditation and yoga routine.
+
 #### Lily and Hudson
 
-Lily was 24 when we met, a year older than me. I brought in my MHDPA innovation paper. She found it unusually readable, and threw away that her mom had a published short story in a Stephen King anthology. I was throwing away my own truth bombs in my psychiatric ward when my brother-in-law and sister came to visit, and I described relational reasoning via MHDPA to them, since I was excited about that paper. In other words, as if my lucidity needed any more evidence, I explained the methods of ChatGPT to another inpatient and my family visitors, in Winter, 2019, while drugs were being actively used by doctors to change the functioning of *my* neural networks. 
+Lily was 24, a year older than me. I brought in my MHDPA innovation paper. She found it unusually readable, and threw away that her mom had a published short story in a Stephen King anthology. I was throwing away my own truth bombs in my psychiatric ward when my brother-in-law and sister came to visit, and I described relational reasoning via MHDPA to them, since I was excited about that paper. In other words, as if my lucidity needed any more evidence, I explained the methods of ChatGPT to another inpatient and my family visitors, in Winter, 2019, while drugs were being actively used by doctors to change the functioning of *my* neural networks. 
 
 Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
 
