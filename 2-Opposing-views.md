@@ -387,7 +387,7 @@ The brain's writing mechanisms revolve around memory. During that period, I had 
 
 The brain's GABA being downregulated is like living in an active war zone. Coercively induced, it is, without exaggeration, a legalized form of torture, neurochemical waterboarding, except the effect persists beyond each cranium drowning, without a moment's break for air. Former addicts of heroin or cocaine who were on benzos have reported, in anecdotes I've seen in pharmaceutical recovery forums, that those side effects and withdrawals of benzo-induced GABA downregulation were worse than the side effects and withdrawals they'd suffered from heroin or cocaine. Not long ago, lobotomies and conversion therapies were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by history as barbarism.
 
-#### Couch, suicide attempt, and literally-self-bootstrapped recovery
+#### International date, couch, suicide attempt, and literally-self-bootstrapped recovery
 
 At after the 6 month point, I gradually reduced the dose, now entering the "hungover" chemical waterboarding phase, characteried mainly by a couch, but not a therapy couch, finally away from the therapists, at home, in my mom's and I apartment.
 
