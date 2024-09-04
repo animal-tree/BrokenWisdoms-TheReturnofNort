@@ -582,7 +582,7 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 >
 > Another was a demon dimension. I did a yogically-guided "exorcism," as demons from the hospital's energies were popping on me. The nurse asked what I was doing when she caught me, moving and making the noises I was making (speaking in tongues, now that I think about it, maybe, but the tongues had semantics), and I said "exercising." She was satisfied with that answer. I think the message there was that exercise is good. Glad we could decipher that mystery — but actually, the yogic state of impersonating the energetic and linguistic forces that were inhabiting me, seemed to rid me of them and return me back to a flow state that was mine. Like doubling down on their corruptions to the point that they themselves become absurd and vanish. It worked.
 >
-> Another was a robot dimension. And the robot dimension I think was a message about the use of robots in hospitals, the terrible dissociation from humanity that comes from a robotic nurturer pretending to be human, cold and far from humane.
+> Another was a robot dimension. And the robot dimension I think was a message about the use of robots in hospitals, the terrible dissociation from humanity that comes from a robotic nurturer pretending to be human, cold and far from humane, or technology being either wrongly objectified or wrongly humanized vis a vis a cyborg.
 >
 > One was Tayler-tyranny one, where I was under her unforgiving judgement, debating her about something, some nature of a two-sided Kundalini, where somehow I was trying to defend that both are one (or more specifically, that the two can communicate).
 >
