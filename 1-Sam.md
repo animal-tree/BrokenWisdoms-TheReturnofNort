@@ -37,6 +37,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Hudson
       - My trauma
         - Israel birthright trip, and Jeremiah
+        - Clicking their healing pens three times
+        - International date, couch, suicide attempt, and literally-self-bootstrapped recovery
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
