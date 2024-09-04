@@ -341,6 +341,8 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
 
+#### Clicking their healing pens three times
+
 My trauma revolves around three psychiatrists.
 
 The first psychiatrist wasn't bad, a young guy who understood my hesitation about taking benzos, knew I was arguing against using them to the nurses and to him, and reassured me I'd be off them before discharge. We walked together in the hall and he sensed that I was bright. The social lubricant of benzos gave me "flying colors" that I think he sensed were authoritative, about my knowledge of benzos and intelligence. He said I'd be weaned off before the discharge, and that was the schedule. I felt pretty at ease. I was under the impression for a while I would be weaned off from the drugs before discharge. He reassured, I would be weaned off *before* discharge.
@@ -384,6 +386,8 @@ The brain's writing mechanisms revolve around memory. During that period, I had 
 </p>
 
 The brain's GABA being downregulated is like living in an active war zone. Coercively induced, it is, without exaggeration, a legalized form of torture, neurochemical waterboarding, except the effect persists beyond each cranium drowning, without a moment's break for air. Former addicts of heroin or cocaine who were on benzos have reported, in anecdotes I've seen in pharmaceutical recovery forums, that those side effects and withdrawals of benzo-induced GABA downregulation were worse than the side effects and withdrawals they'd suffered from heroin or cocaine. Not long ago, lobotomies and conversion therapies were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by history as barbarism.
+
+#### Couch, suicide attempt, and literally-self-bootstrapped recovery
 
 At after the 6 month point, I gradually reduced the dose, now entering the "hungover" chemical waterboarding phase, characteried mainly by a couch, but not a therapy couch, finally away from the therapists, at home, in my mom's and I apartment.
 
