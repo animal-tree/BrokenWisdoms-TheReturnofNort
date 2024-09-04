@@ -33,14 +33,19 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Psychiatrists at the University of Rochester’s Strong Hospital
       - Benzodiazepine mechanism of action
       - Hospitalization
+        - Sarah
+        - Hudson
       - My trauma
+        - Israel birthright trip, and Jeremiah
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
       - Comedic Aside: Sexier moments during Chenliang tenure:
+        - Tayler
       - More Seriously
         - Rituals, Religion, & Hell
+        - Mobi
         - I didn't mention fingernails (fingernails regrowth)
         - How my grandma got dementia
         - How my grandpa died
