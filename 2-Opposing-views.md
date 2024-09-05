@@ -334,7 +334,7 @@ I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania"
 
 None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester’s psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about.
 
-The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/), that persisted for more than a year.
+The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year.
 
 The "flying colors" had faded. I was in black-and-white-Penfield-New-York-Kansas, but the tornado had begun.
 
