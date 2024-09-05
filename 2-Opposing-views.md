@@ -287,8 +287,6 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 
 ### My trauma
 
-While my best friend (name nowhere specified) will lead the battles in Rohan and Gondor, my physically closest best friend, Jeremiah, will go with me to the fires of Mordor.
-
 > [!NOTE]
 > ### Israel birthright trip, and Jeremiah
 >
