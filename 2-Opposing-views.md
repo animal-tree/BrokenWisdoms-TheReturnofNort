@@ -287,6 +287,8 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 
 ### My trauma
 
+While my best friend (name nowhere specified) will lead the battles in Rohan and Gondor, my physically closest best friend, Jeremiah, will go with me to the fires of Mordor.
+
 > [!NOTE]
 > ### Israel birthright trip, and Jeremiah
 >
@@ -315,8 +317,6 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 > Jeremiah had the bravery to go places others wouldn’t. Psychiatrists, for example, would be unlikely to have the bravery to do a proper control study on whether "shots" of tequila in a margaritia (not the pizza) rather than benzos might actually just be better for many benzo use cases. Most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. The tradeoff from "seizures" to "hangovers and queeziness" might also be worth it. The characterization difference between alcohol and benzos is not proportional to their actual health-endangerment difference, or even fundamental utility. Either one needs to be characterized better, or the other needs to be characterized worse.
 >
 > And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
-
-While my best friend (name nowhere specified) will lead the battles in Rohan and Gondor, my physically closest best friend, Jeremiah, will go with me to the fires of Mordor.
 
 #### Clicking their healing pens three times
 
