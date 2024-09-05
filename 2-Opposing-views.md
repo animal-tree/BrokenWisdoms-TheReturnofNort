@@ -153,7 +153,7 @@ In “Many worlds," or at least my version that I was conjuring up in my mind in
 
 "Many worlds" is more nuanced. It says: there's a LOT of worlds — like at least 6. No, maybe a million. No, googolplex. Infinity! Undefined! And we're in this one, because "reasons."
 
-Both of these theories/interpretations are wrong. But neglecting to explain why for now (hint: [it’s inefficient](#cosmogenesis-myth)), I think either of these serve as an accessible way to quickly show that, even under a pretty standard physics interpretation, the possibility of "God" is not... I think the word I want to use is "not necessarily stupid."
+Both of these theories/interpretations are wrong. But neglecting to explain why for now, I think either of these serve as an accessible way to quickly show that, even under a pretty standard physics interpretation, the possibility of "God" is not... I think the word I want to use is "not necessarily stupid."
 
 I mentioned stochasticity in the universe's quantum mechanics. That means randomness. The universe, as it's theorized today, is fundamentally probabilistic. And physics does a great job of telling us that those probabilities are probabilities. No no, just look at Schrödinger’s quantum wave function. See, it's a bunch of probability densities that splash around like a kiddie pool. And when those waves are especially high, that's where the particle is more likely to get sampled, or that's the more likely velocity of the particle, or that's the more likely “World" that gets sampled, or in my especially terrible vision, that's the "Cycle" that the universe just permanently converges to forever. 
 
