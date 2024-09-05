@@ -334,7 +334,7 @@ None of the previous diagnoses from the first hospitalization, none of what RGH 
 
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and physical agony.
 
-The third psychiatrist, the outpatient doctor, also University of Rochester, was worse in every way. 
+The third psychiatrist, the outpatient doctor, also University of Rochester, was bad.
 
 In the first month with him, I told him my symptoms. He was cold, authoritative, and disbelieving. He didn't believe me or show even the slightest emotion of warmth. If he cared about me in the slightest, he did everything possible to show otherwise. He only believed the benzos were needed. He left no room for argument. He argued down my arguments, with the conviction of an authority with no humility whatsoever, that they could be safely taken for years.
 
