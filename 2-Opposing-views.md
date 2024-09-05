@@ -336,7 +336,7 @@ None of the previous diagnoses from the first hospitalization, none of what RGH 
 
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and physical agony.
 
-The "flying colors" had faded. I was in black-and-white-Penfield-New-York-Kansas, but the tornado had just begun.
+The "flying colors" had faded. I was in black-and-white-Penfield-New-York-Kansas, but the tornado had begun.
 
 The third psychiatrist, the outpatient doctor, also University of Rochester, was bad.
 
