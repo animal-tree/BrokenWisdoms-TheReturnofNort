@@ -354,6 +354,8 @@ From the first psychiatrist, my memory was flyingly colorful, but a blur, like t
 4. Even financial systemic biases notwithstanding, the third psychiatrist's overt disbelief towards my suffering, and involuntary perpetuation of my consumption of those drugs on the basis of my insecurity about weaning off by myself, is inexcusable.
 5. This reminds me, that outpatient doctor commented on my bald head. He wouldn't believe me that the hair loss was induced. $\color{#d08370}\text{He}$ $\color{#d08370}\text{interrogated,}$ $\color{#d08370}\text{rather}$ $\color{#d08370}\text{repeatedly,}$ $\color{#d08370}\text{even}$ $\color{#d08370}\text{after}$ $\color{#d08370}\text{I}$ $\color{#d08370}\text{answered,}$ $\color{#d08370}\text{whether}$ $\color{#d08370}\text{I}$ $\color{#d08370}\text{had}$ $\color{#d08370}\text{pulled}$ $\color{#d08370}\text{the}$ $\color{#d08370}\text{hair}$ $\color{#d08370}\text{out}$ $\color{#d08370}\text{myself}$.
 
+#### International date, couch, suicide attempt, and literally-self-bootstrapped recovery
+
 <p align="center">
 <picture>
   <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
@@ -361,8 +363,6 @@ From the first psychiatrist, my memory was flyingly colorful, but a blur, like t
 </picture><br><i>Modified AI-generated image via Adobe Express. 
 <br>To do: Find a better image that does me more justice.</i>
 </p>
-
-#### International date, couch, suicide attempt, and literally-self-bootstrapped recovery
 
 At after the 6 month point, I gradually reduced the dose, now entering the "hungover" chemical waterboarding phase, characteried mainly by a couch, but not a therapy couch, finally away from the therapists, at home, in my mom's and I apartment.
 
