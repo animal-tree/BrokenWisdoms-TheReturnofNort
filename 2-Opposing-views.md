@@ -382,11 +382,11 @@ You know, the way I learned about the calcification was because chunks of what I
 
 The steak-diet saved my ass.
 
-And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), except I had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated, or mine, wherein their practices are the disorders — makes more sense.
-
 TO DO: Mention I tried to kill myself, seriously, how my family took the helium tank away
 
 Mention that I had to buy waist straps to get myself off of the couch
+
+And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), except I had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated, or mine, wherein their practices are the disorders — makes more sense.
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the year of benzo neurochemical torture.
 
