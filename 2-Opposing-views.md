@@ -316,6 +316,8 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
 
+While my best friend (name nowhere specified) will lead the battles in Rohan and Gondor, my physically closest best friend, Jeremiah, will go with me to the fires of Mordor.
+
 #### Clicking their healing pens three times
 
 My trauma revolves around three psychiatrists.
