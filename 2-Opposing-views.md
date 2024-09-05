@@ -334,7 +334,7 @@ None of the previous diagnoses from the first hospitalization, none of what RGH 
 
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and physical agony.
 
-No place like home. Oz was gone. The yellow brick road and "Grace" was gone. I was in black-and-white-Rochester-New-York-Kansas, Toto, but the tornado had just begun.
+No place like home. Oz was gone. The yellow brick road and "Grace" was gone. I was in black-and-white-Rochester-New-York-Kansas, but the tornado had just begun.
 
 The third psychiatrist, the outpatient doctor, also University of Rochester, was bad.
 
