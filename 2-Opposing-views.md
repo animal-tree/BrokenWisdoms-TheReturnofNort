@@ -386,7 +386,7 @@ TO DO: Mention I tried to kill myself, seriously, how my family took the helium 
 
 Mention that I had to buy waist straps to get myself off of the couch
 
-And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), except I had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated, or mine, wherein their practices are the disorders — makes more sense.
+And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), except I had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are the disorders — makes more sense.
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the year of benzo neurochemical torture.
 
