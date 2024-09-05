@@ -319,6 +319,8 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > She could've potentially been wrong about all three things. First, crypticism ("ice cream") isn't the ideal way to just ask about things, but in that context, it felt good. Then "depends" about John Green, well, that's subjective. I could, hypothetically, stop being leftist just because everyone in my generation is Woke. But I don't, because my opinions, on both art and politics, are based on actual principles, and not counter-culture. And the third thing, she was really wrong about.
 >
+> Somehow, my inner-Jeremiah's identity keeps getting stolen, or conflated with some other identity, mistaken for, I don't know, a Columbia law student or Josiah, a Republican Christian fundamentalist.
+>
 > Fun story, I ordered a margarita in that 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
 >
 > That was also the trip, privileged as it may have been, where I was complaining [my hair was too long — oh no, the disaster!](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
