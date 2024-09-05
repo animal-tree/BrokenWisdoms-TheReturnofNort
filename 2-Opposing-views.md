@@ -285,7 +285,7 @@ I'm impressed he was able to write at all. He had depression, was in the hospita
 
 Meanwhile, now checking my phone to make sure we are indeed in the 21st century, I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, long-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering. 
 
-I was told a court order would be acquired if I didn't exactly comply to their recommendations, even as I was taking antipsychotics.
+I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
 
 ### My trauma
 
