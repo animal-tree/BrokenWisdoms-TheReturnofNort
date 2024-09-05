@@ -296,7 +296,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > That was also the trip, privileged as it may have been, where I was complaining [my hair was too long — oh no, the disaster!](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
 >
-> And we all got extremely sick, suddenly, everyone on our bus. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more.
+> And we all got extremely sick, suddenly, everyone on our bus, 15 plus people. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more.
 >
 > About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), something I've seen reported anecdotally in pharmaceutical recovery forums, extremely often. Social media reports aren't given credibility by many psychiatrists, though they should be. 
 >
