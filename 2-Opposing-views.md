@@ -306,7 +306,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > He told me, I'm remembering now, as I figure out how to structure this story, in a diner while we were eating, that his spirit animal — I think he said "spirit animal," or the animal he would be anyway, if he were an animal other than a human — is a lion.
 >
-> What I appreciate about Jeremiah, besides his synchronistic value, unconditional kindness, telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries — not elaborated on in this relatively more grounded chapter — is his kindness and innocence generally; he wants to be the good guy. He's a hobbit, a fellow hobbit. He's capable of not following the patterns I’ve seen established with everybody else, especially in relation to me, and not falling from loyalty, or forgetting who I am, amid my more extreme (read: highly anxious, or as he would call it, partially incoherent) states.
+> What I appreciate about Jeremiah, besides his synchronistic value, unconditional kindness, telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries — all not elaborated on in this relatively more grounded chapter — is his kindness and innocence generally; he wants to be the good guy. He's a hobbit, a fellow hobbit. He's capable of not following the patterns I’ve seen established with everybody else, especially in relation to me, and not falling from loyalty, or forgetting who I am, amid my more extreme (read: highly anxious, or as he would call it, partially incoherent) states.
 >
 > Perhaps that’s why he enters psychosis. 
 >
