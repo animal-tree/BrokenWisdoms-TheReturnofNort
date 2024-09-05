@@ -382,7 +382,7 @@ You know, the way I learned about the calcification was because chunks of what I
 
 The steak-diet saved my ass.
 
-And after all of this, [literally nothing was cured.](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/)
+And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), except I had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — their's, wherein these conditions are accidents that need to be militantly defeated, or mine, wherein their practices are the disorders — makes more sense.
 
 TO DO: Mention I tried to kill myself, seriously, how my family took the helium tank away
 
