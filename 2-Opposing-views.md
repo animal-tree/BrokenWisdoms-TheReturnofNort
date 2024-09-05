@@ -382,6 +382,8 @@ You know, the way I learned about the calcification was because chunks of what I
 
 The steak-diet saved my ass.
 
+And after all of this, [literally nothing was cured.](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/)
+
 TO DO: Mention I tried to kill myself, seriously, how my family took the helium tank away
 
 Mention that I had to buy waist straps to get myself off of the couch
