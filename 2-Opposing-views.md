@@ -330,7 +330,7 @@ They didn't question if the diagnoses, in particular "catatonia," were actually 
 
 I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania" were the only description needed, indubitably exhaustive. Were I asked, I'm not sure I'd have been able to explain it to them, necessarily. The Christmas, 2018 trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure, and the pressure was higher with each subsequent psychaitrist because my "flying colors" were increasingly faded.
 
-None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investiagted or asked about in any extent by the University of Rochester’s psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about or known to them.
+None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investiagted or asked about in any extent by the University of Rochester’s psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about or known to them, beyond whatever may have made it into the medical record.
 
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and physical agony.
 
