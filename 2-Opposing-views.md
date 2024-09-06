@@ -336,7 +336,7 @@ The euphoria was turning into grey cloud and fog. I was in cognitive decline by 
 
 The "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third click of the third "healer," the tornado had begun.
 
-The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-V definition for bad, it should just be a picture of him.
+The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 definition for bad, it should just be a picture of him.
 
 In the first month with him, I told him my symptoms. He was cold, authoritative, and disbelieving. He didn't believe me or show even the slightest emotion of warmth. If he cared about me in the slightest, he did everything possible to show otherwise. He only believed the benzos were needed. He left no room for argument. He argued down my arguments, with the conviction of an authority with no humility whatsoever, that they could be safely taken for years.
 
