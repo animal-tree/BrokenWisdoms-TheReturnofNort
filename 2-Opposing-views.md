@@ -285,7 +285,7 @@ They can also be [transmitted through EM signals to EEGs.]()
 
 And yet another mechanism might exist, if particles have small stochastic variations that can be decoded as intelligent by a — say, Pineal — region of the brain. 
 
-I would say “But this is all speculative,” but telepathic information transmission, from my somewhat possibly rare experience, most definitely is not, so some mechanism must exist, and I think particle variations, in real-time if not only just during sleep, is said mechanism. 
+I would say “But this is all speculative,” but telepathic information transmission, from my personally-common somewhat-possibly-rare-for-people-in-general experience, most definitely is not, so some mechanism must exist, and I think particle variations, in real-time if not only just during sleep, is said mechanism. 
 
 Heck, even the tinnitus that started ringing in my ears due to the benzos could be connected to that system of information transmission, like beep beep beep-beep-beep sonogram. 
 
