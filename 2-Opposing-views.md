@@ -273,7 +273,7 @@ My brother-in-law came in with my sister and I explained to him relational reaso
 
 I showed my MHDPA innovation paper to Sarah. She was amazed that she could read it since usually, she said, that kind of stuff isn't readable, and brought up one more synchronicity. Her mom was a writer who had a published short story in a Stephen King anthology, a writer of horror. I was indeed in a hospitalization that was like a pretty good short story in an otherwise Stephen King anthology. 
 
-Not that my lucidity needed evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of *my* biological neural networks.
+Not that my lucidity needed evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
 
 #### Hudson
 
