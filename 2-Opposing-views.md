@@ -292,7 +292,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > Fun story, I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
 >
-> That was also the trip, privileged as it may have been, where I was complaining [my hair was too long — oh no, the disaster!](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
+> That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
 >
 > And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who I hadn't interacted with. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall my cousin was even prescribed an opioid, besides Sudafed.
 >
