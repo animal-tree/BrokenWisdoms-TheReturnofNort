@@ -334,7 +334,7 @@ None of the previous diagnoses from the first hospitalization, none of what RGH 
 
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year.
 
-The "flying colors" had faded. I was in black-and-white-Penfield-New-York-Kansas, but the tornado had begun.
+The "flying colors" had faded. It was Dorothy in reverse, where the psychiatrists were the naive reality-deniers, and the tornado had begun.
 
 The third psychiatrist, the outpatient doctor, also University of Rochester, was bad.
 
