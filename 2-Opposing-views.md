@@ -318,7 +318,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 
 #### Clicking their healing pens three times
 
-My trauma revolves around three psychiatrists.
+My trauma revolves around three psychiatrists, whose pens most certainly are the sage mechanism of healing professed across all the wisdoms of mankind's heart.
 
 The first psychiatrist wasn't bad, a young guy who understood my hesitation about taking benzos, knew I was arguing against using them to the nurses and to him, and reassured me I'd be off them before discharge. We walked together in the hall and he sensed that I was bright. The social lubricant of benzos gave me "flying colors" that I think he sensed were authoritative, about my knowledge of benzos and intelligence. He said I'd be weaned off before the discharge, and that was the schedule. I felt pretty at ease. I was under the impression for a while I would be weaned off from the drugs before discharge. He reassured, I would be weaned off *before* discharge.
 
@@ -334,7 +334,7 @@ The euphoria was turning into grey cloud and fog. I was in cognitive decline by 
 
 The "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third click of the third "healer," the tornado had begun.
 
-The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 definition for bad, it should just be a picture of him. He's the sort of doctor who thinks his pen might be the sage mechanism of healing professed across all the wisdoms of antiquity and modernity. He’d deliver a baby with that pen, if asked.
+The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 definition for bad, it should just be a picture of him. 
 
 In the first month with him, I told him my symptoms. He was cold, authoritative, and disbelieving. He didn't believe me or show even the slightest emotion of warmth. If he cared about me in the slightest, he did everything possible to show otherwise. He only believed the benzos were needed. He left no room for argument. He argued down my arguments, with the conviction of an authority with no humility whatsoever, that they could be safely taken for years.
 
