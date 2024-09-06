@@ -318,7 +318,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 
 #### Clicking their healing pens three times
 
-My trauma revolves around three psychiatrists, whose pens most certainly are the sage mechanism of healing professed across all the wisdoms of mankind's tomes and depths of instinct.
+My trauma revolves around three psychiatrists, whose pens most certainly are the sage mechanism of healing professed across all the wisdoms of mankind's tomes and depths of instinct, perhaps by which the scripts of the world's stage are written, as they write with the power of God over consciousness on their script-pads.
 
 The first psychiatrist wasn't bad, a young guy who understood my hesitation about taking benzos, knew I was arguing against using them to the nurses and to him, and reassured me I'd be off them before discharge. We walked together in the hall and he sensed that I was bright. The social lubricant of benzos gave me "flying colors" that I think he sensed were authoritative, about my knowledge of benzos and intelligence. He said I'd be weaned off before the discharge, and that was the schedule. I felt pretty at ease. I was under the impression for a while I would be weaned off from the drugs before discharge. He reassured, I would be weaned off *before* discharge.
 
