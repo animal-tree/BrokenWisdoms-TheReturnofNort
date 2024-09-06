@@ -275,24 +275,6 @@ I showed my MHDPA innovation paper to Sarah. She was amazed that she could read 
 
 Not that my lucidity needed evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of *my* biological neural networks.
 
-#### Guy whose name I don’t remember 
-
-I heard piano playing just as I first left my ward, turned right, and from the open-area lounge area far ahead to the left, with big doors, music was coming, honestly beautifully, and I walked in on him playing, and found him really cool. 
-
-But in principle, could thoughts be transmitted through ways other than sound? They can be [transmitted through pulse in the blood flow of one’s wrist](). 
-
-They can also be [transmitted through EM signals to EEGs.]()
-
-And yet another mechanism might exist, if particles have small stochastic variations that can be decoded as intelligent by a — say, Pineal — region of the brain. 
-
-I would say “But this is all speculative,” but telepathic information transmission, from my personally-common somewhat-possibly-rare-for-people-in-general experience, most definitely is not, so some mechanism must exist, and I think particle variations, in real-time if not only just during sleep, is said mechanism. 
-
-Heck, even the tinnitus that started ringing in my ears due to the benzos could be connected to that system of information transmission, like beep beep beep-beep-beep sonogram. 
-
-Or even just heart rate, which can be [sensed across fairly long distances](). 
-
-Or even [pheromones](), as some scientists here and there so daringly and so bravely risk to publicly propose. Such pseudoscientific quackery that is, I say! 
-
 #### Hudson
 
 Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
