@@ -290,7 +290,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 > [!NOTE]
 > ### Israel birthright trip, and Jeremiah
 >
-> Fun story, I ordered a margarita in that 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
+> Fun story, I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
 >
 > That was also the trip, privileged as it may have been, where I was complaining [my hair was too long — oh no, the disaster!](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
 >
