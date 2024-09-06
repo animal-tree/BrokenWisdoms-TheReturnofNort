@@ -289,12 +289,6 @@ Meanwhile, now checking my phone to make sure we are indeed in the 21st century,
 
 I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
 
-I walked around, wearing my light sweatpants (black) and white-spotted grey shirt, in a state of wisdom that I carried with me to the lunch tables, couch/piano/TV lounge area with big window, and different classes and activities they hosted, where Hudson saw me share my thoughts and speak through a wisdom — made much more wise than I could forge in writing now by the "flying colors" of maybe-some-transcendent-plane-of-consciousness but definitely benzos making me high and drunk, in tune with energies without fear — and I probably seemed like a little Aang the Last Airbender, legitimate, without pretense.
-
-That's probably what gave Hudson that impression, because when I messaged him later, how he was doing, my texts sounded much less "Starman" and much more awkward nerdy guy who doesn't know, so he stopped replying after not many texts. 
-
-He sat with us, played Guitar Hero with us, was chill/non-threatening with Sarah and me, attended those classes with us, had depression.
-
 ### My trauma
 
 > [!NOTE]
