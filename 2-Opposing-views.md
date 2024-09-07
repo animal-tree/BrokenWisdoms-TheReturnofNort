@@ -183,7 +183,7 @@ The I Ching once answered me, about the injustices and suffering that happen in 
 
 For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-[This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms towards me or adherences to the standard systems.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-)
+[This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms towards me or adherences to the standard systems](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-), about the characterization difference between a psychosis and a spiritual crisis.
 
 I was also on antipsychotics, but the remainder of this book will not be a dissection of antipsychotics, since the benzos were added on top of them, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
