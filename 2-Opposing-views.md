@@ -181,7 +181,7 @@ I had to stay in the University of Rochester's Strong Hospital for a month and t
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
-For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
+For the first three or so weeks, I was really, really drunk/high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
 ([This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms or feelings about the standard systems.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-))
 
