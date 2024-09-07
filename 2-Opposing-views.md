@@ -175,7 +175,7 @@ The I Ching once answered me about the reason for the less-than-ideal state of t
 
 I'm 5'5" 110lb.
 
-I had a prescription for benzos before, but for eczema and social anxiety, 1/4 to 1/2 of a milligram daily or as needed, a normal to pretty high dose. I took them for a period in college, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and that had side effects.
+I had a prescription for benzos before, but for eczema and social anxiety, 1/4 to 1/2 of a milligram daily or as needed, a normal to pretty high dose. I took them as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and that had side effects.
 
 I had to stay in the University of Rochester's Strong Hospital for a month and take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
