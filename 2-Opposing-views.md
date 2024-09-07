@@ -171,7 +171,7 @@ As my sister must’ve thought, I’d be getting just standard quality care. Wha
 
 ### The University of Rochester's Strong Hospital's dosages
 
-The I Ching once answered me about the reason for the less-than-ideal state of things for humanity as follows: "Difficulty at the beginning" (struggle from infancy or childhood, or at the outset of a challenge) $\rightarrow$ "Increase" (perpetual acceleration of or dependence on mechanisms of coping individual, collective, and in standards and systems, as opposed to pause, substitution, or decrease).
+The I Ching once answered me about the reason for the less-than-ideal state of things for humanity as follows: "Difficulty at the beginning" (struggle from infancy or childhood, or at the outset of a challenge) $\rightarrow$ "Increase" (perpetual acceleration of or dependence on mechanisms of coping individual, collective, and in standards and systems, as opposed to pause, substitution, or decrease) (or so was my interpretation to the answer).
 
 I'm 5'5" 110lb.
 
@@ -185,7 +185,7 @@ For the first three or so weeks, I was high. Then the fog rolled in. The chemica
 
 ([This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms or feelings about the standard systems.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-))
 
-I was also on antipsychotics, but the coming chapters will not critique antipsychotics, since the benzos were added on top of them, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this part will be about the experience that was most-plausibly caused by the benzos. 
+I was also on antipsychotics, but these next chapters will not be about antipsychotics, since the benzos were added on top of them, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
 ### Benzodiazepine ("benzos") mechanism of action
 
