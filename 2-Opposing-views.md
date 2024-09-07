@@ -171,7 +171,7 @@ As my sister must’ve thought, I’d be getting just standard quality care. Wha
 
 ### The University of Rochester's Strong Hospital's dosages
 
-The I Ching once answered me about the reason for the less-than-ideal state of things for humanity as follows: "Difficulty at the beginning" (struggle from infancy or childhood, or at the outset of a challenge) $\rightarrow$ "Increase" (e.g., perpetual acceleration of or dependence on mechanisms of coping individual, collective, and in standards and systems, as opposed to pause, substitution, or decrease).
+The I Ching once answered me about the reason for the less-than-ideal state of things for humanity as follows: "Difficulty at the beginning" (struggle from infancy or childhood, or at the outset of a challenge) $\rightarrow$ "Increase" (perpetual acceleration of or dependence on mechanisms of coping individual, collective, and in standards and systems, as opposed to pause, substitution, or decrease).
 
 I'm 5'5" 110lb.
 
