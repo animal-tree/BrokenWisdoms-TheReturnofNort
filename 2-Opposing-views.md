@@ -173,19 +173,17 @@ As my sister must’ve thought, I’d be getting just standard quality care. Wha
 
 I'm 5'5" 110lb.
 
-I had a prescription for benzos before, but for eczema and social anxiety, in which I responsibly took 1/4 to 1/2 of a milligram as needed, spacing out dosages by at least two weeks, during the time when I took them at all, and that had side effects.
+I had a prescription for benzos before, but for social anxiety, in which I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, and that had side effects.
 
-I had to stay there for a month and take $48\text{x}$ that dosage reduced later to $12\text{x}$ that dosage, over the course of $3$ times per day, every day. Think about that. 1/4 to 1/2 of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
+I had to stay there for a month and take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
-The I Ching once answered me, about the injustices and suffering that happen in humanity, "Why is it like this?": "Difficulty at the beginning" $\rightarrow$ "Increase."
-
 For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-[This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms towards me or adherences to the standard systems](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-), about the characterization difference between a psychosis and a spiritual crisis.
+([This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms or feelings about the standard systems.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-))
 
-I was also on antipsychotics, but the remainder of this book will not be a dissection of antipsychotics, since the benzos were added on top of them, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
+I was also on antipsychotics, but the remainder of this book will not be a dissection of antipsychotics, since the benzos were added on top of them, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos. 
 
 ### Benzodiazepine ("benzos") mechanism of action
 
