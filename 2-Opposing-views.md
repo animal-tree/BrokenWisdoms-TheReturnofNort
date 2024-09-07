@@ -173,7 +173,7 @@ As my sister must’ve thought, I’d be getting just standard quality care. Wha
 
 I'm 5'5" 110lb.
 
-I had a prescription for benzos before, but for social anxiety, in which I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, and that had side effects.
+I had a prescription for benzos before, but for eczema and social anxiety, in which I responsibly took 1/4 to 1/2 of a milligram as needed, spacing out dosages by at least two weeks, during the time when I took them at all, and that had side effects.
 
 I had to stay there for a month and take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
