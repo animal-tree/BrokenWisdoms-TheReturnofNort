@@ -179,7 +179,7 @@ I had to stay there for a month and take $48\text{x}$ that dosage reduced later 
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
-The I Ching once answered me, "Why is it like this?": "Difficulty at the beginning" $\rightarrow$ "Increase."
+The I Ching once answered me, about the injustices and suffering that happen in humanity, "Why is it like this?": "Difficulty at the beginning" $\rightarrow$ "Increase."
 
 For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
