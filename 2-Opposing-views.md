@@ -169,13 +169,15 @@ My advisor, Henry Kautz, was the most successful man I knew, and his house, I th
 
 As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
-### Psychiatrists at the University of Rochester's Strong Hospital
+### The University of Rochester's Strong Hospital's dosages
+
+The I Ching once answered me about the reason for the less-than-ideal state of things for humanity as follows: "Difficulty at the beginning" (struggle from infancy or childhood, or at the outset of a challenge) $\rightarrow$ "Increase" (e.g., perpetual acceleration of or dependence on mechanisms of coping individual, collective, and in standards and systems, as opposed to pause, substitution, or decrease).
 
 I'm 5'5" 110lb.
 
-I had a prescription for benzos before, but for eczema and social anxiety, in which I responsibly took 1/4 to 1/2 of a milligram as needed, spacing out dosages by at least two weeks, during the time when I took them at all, and that had side effects.
+I had a prescription for benzos before, but for eczema and social anxiety, 1/4 to 1/2 of a milligram daily or as needed, a normal to pretty high dose. I took them as needed, usually spaced out by more than two weeks, during the time when I took them at all, and that had side effects.
 
-I had to stay there for a month and take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
+I had to stay in the University of Rochester's Strong Hospital for a month and take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
