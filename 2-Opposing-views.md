@@ -183,7 +183,7 @@ For the first three or so weeks, I was high. Then the fog rolled in. The chemica
 
 ([This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms or feelings about the standard systems.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-))
 
-I was also on antipsychotics, but the remainder of this book will not be a dissection of antipsychotics, since the benzos were added on top of them, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos. 
+I was also on antipsychotics, but the coming chapters will not be a dissection of antipsychotics, since the benzos were added on top of them, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos. 
 
 ### Benzodiazepine ("benzos") mechanism of action
 
