@@ -175,7 +175,7 @@ As my sister must’ve thought, I’d be getting just standard quality care. Wha
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$.
 
-I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed, a pretty high dose. I took them sometimes during my junior and senior years of college at the Uniiversity of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and that had side effects.
+I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed, a pretty high dose. I took them sometimes during my junior and senior years of college at the University of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and they gave me small hangovers when the effect wore off.
 
 I had to stay in the University of Rochester's Strong Hospital for a month and take $48\text{x}$ that dosage, of the comparatively strong-per-duration-per-milligram Ativan, reduced later to $12\text{x}$ that dosage, over the course of $3$ times per day, every day. Think about that. $\text{1/4}$ to $\text{1/2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
