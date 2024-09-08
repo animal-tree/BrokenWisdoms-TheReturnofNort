@@ -227,9 +227,9 @@ I had to stay in the University of Rochester's Strong Hospital for a month and t
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
-Just prior to this, the I Ching had answered to me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" $\rightarrow$ "Increase." My interpretation: Struggle among people from infancy or childhood, or at the outset of a crisis ("Difficulty at the beginning") $\rightarrow$ (changes to) Perpetual acceleration of interventions, or, more specifically, dependence of an individual, collective, or collective standards and systems on more mechanisms of intervention, rather than pause, substitution, rememberance, reconsideration, or decrease of all of what preceded ("Increase"). Yes, all the I Ching answers specified in this book were/are real.
+Just prior to this, the I Ching had answered to me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" $\rightarrow$ "Increase." My interpretation: Struggle among people from infancy or childhood, or at the outset of a crisis ("Difficulty at the beginning") $\rightarrow$ (changes to) Perpetual acceleration of interventions, or, more specifically, dependence of an individual, collective, or collective standards and systems on more mechanisms of intervention, rather than pause, substitution, rememberance, reconsideration, or decrease of all of what preceded ("Increase"). Yes, all the I Ching answers specified in this book are real.
 
-For the first three or so weeks, I was really, really drunk, or "high." Then the fog rolled in. The chemical waterboarding was taking effect.
+For the first three or so weeks, I was really, really drunk/high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
 [This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-)
 
