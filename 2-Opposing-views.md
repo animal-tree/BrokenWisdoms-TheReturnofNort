@@ -130,9 +130,6 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - the nurses there were delicate and gentle;
 - then RGH discharged me one week later.
 
-> [!NOTE]
-> I lived with guilt for this psychosis that wasn’t my fault for a long time, for years, and now I'm actually proud of it because it proved my bravery when my mom is at threat, or when a responsibility — in particular, from whatever probable forces [somehow](#sarah), and not trivially, convinced me — is perceived.
-
 I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([this might be esoteric, but that song's lyrics John Lennon had written about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
 
 - **More than two weeks since the first hospitalization**, I end up not sleeping all night; 
@@ -201,11 +198,13 @@ I was also on antipsychotics, but these next chapters will not be about antipsyc
 
 This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
 
-Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.
+Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.<sup>$^\text{\color{green}1.}$</sup>
+
+$^\text{\small\color{green}1.:}$ <sup>Time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier.</sup> 
 
 #
 
-Neurons are cells that are connected to one another by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory," that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors into activating, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks, and even to the deep lower middle of the brain in the temporal lobe, where your brain remembers its oldest memories.
+Let's begin a simplified explanation of the brain's neuron. Neurons are cells that are connected to one another by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory," that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks.
 
 Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally, from the parts that are understood to the parts that almost entirely aren't, including some of the most important regions of intelligence whose healthy metric level of functioning is extremely hard to measure behaviorally, clinically, and longitudinally across variants of factors, and necessary for quality living, e.g., the hippocampus responsible for long-term memory. Alcohol does this too, but humans have provably evolved natural mechanisms of recovering from small doses of alcohol thanks to fermented fruit existing in nature. Benzos seem like a Godsend, a Panacea, especially since you're less likely to feel a headache the next day from them for the same effect, but the evidence isn't strong enough to support they're better than alcohol. From what I've gathered, benzos are worse. Since it's somewhat relevant, [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) is a video I made on evolutionary algorithms in deep learning.
 
@@ -250,6 +249,9 @@ Somehow, from the moment I'd left my apartment door, to the rest of this venture
 This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
 
 It was at night, near 2 AM, 3 AM, or 4 AM when that peace turned to horror.
+
+> [!NOTE]
+> I lived with guilt for this psychosis that wasn’t my fault for a long time, for years, and now I'm actually proud of it because it proved my bravery when my mom is at threat, or when a responsibility — in particular, from whatever probable forces somehow, and not trivially, convinced me — is perceived.
 
 The I Ching had called those disruptions, the guidances that were navigating me, "Grace." And in Taoist philosophy, "Grace" isn’t necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm’s words, "beauty in form," and in the I Ching’s taxonomy, such a state to a person’s psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way."
 
