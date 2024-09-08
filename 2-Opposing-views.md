@@ -167,7 +167,7 @@ The ambulance driver, who was neither Santa Claus nor Terence McKenna, had a big
 #### Swallowing my tongue
   
 - I went into a conscious yogic surrender of all muscle due to a command from "Grace" to do so, even as the doctors, who thought I was unconscious, chatted about me being "Jesus" bullying/sarcastically while they dragged my body to the MRI machine;
-  - I’d kind of intimately, slowly-and-aware-of-their-power silently shaken hands with the police officers prior to the limp body, so I think that’s what might've triggered that bullying;
+  - I’d kind of intimately, silently, slowly-and-aware-of-their-power shaken hands with the police officers prior to the limp body, so I think that’s what might've triggered that bullying;
 - Then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile in my eyes when she did that — not like an insincere smile, a smile because I was afraid and desperately needed that love and warmth.
   - I felt like a buzzing spark when Marina touched my arm.
 - And the doctor reassured her that I wasn’t (conscious).
