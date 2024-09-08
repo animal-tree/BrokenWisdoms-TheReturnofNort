@@ -30,7 +30,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
     - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers)
       - House on May St.
       - Psychosis, and Rochester General Hospital (RGH)
-      - Psychiatrists at the University of Rochester’s Strong Hospital
+      - The University of Rochester's Strong Hospital's dosage and rate
       - Benzodiazepine mechanism of action
       - Hospitalization
         - Sarah
