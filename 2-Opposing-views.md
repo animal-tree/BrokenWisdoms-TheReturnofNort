@@ -187,7 +187,7 @@ For the first three or so weeks, I was really, really drunk/high. Then the fog r
 
 ([This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms or feelings about the standard systems.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-))
 
-I was also on antipsychotics, but these next chapters will not be about antipsychotics (See ["Geriatric unit hospitlization"](#geriatric-unit-hospitalization) for my elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
+I was also on antipsychotics, but these next chapters will not be about antipsychotics (See ["Geriatric unit hospitlization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
 ### Benzodiazepine ("benzos") mechanism of action
 
