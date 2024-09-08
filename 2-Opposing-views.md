@@ -707,11 +707,6 @@ I had healthier food than the average American as a kid, despite my family’s p
 My grandma taught my mom dancing when they were younger, in Uzbekistan. Seeing my grandpa bedridden in the hospital, even before the surgery, it was obvious to me that he was losing strength, just from the sedentary confinement to bed, that the doctors put him in, in a corner of a concrete-surrounded hospital, with no natural light, nature, or fresh air. He would’ve benefited from some motion, out of bed and walking, outdoors, with nature, with fresh air. At least once a day, each day, without any grueling transits to reach such an environment.
 
 I really think had the hospital recommended my grandpa an organic steak/salmon-only diet, and nothing more, they possibly could’ve saved his main artery from being blocked, without a surgery. Then no stents would be put into his healthier narrow arteries, no damaged kidneys, no grueling transit to heart doctor. Just physical therapy and rehabilitation. And maybe many more years, living beyond my grandma.
-- The idea that red meat causes anything, has never been investigated in the context of organic, grass fed, grass-finished, and wild-caught meat, exclusive. High quality medicine that 2.4 million years in the Ice Age should give nutritionists some hint to, and cheaper than the entire benzo industry.
-- Inorganic factory-sourced industries aren’t sufficiently out-competed by their ethical organic, counterparts, which is unethical both to the animals and the people eating them. Living on a grassy pasture with other cows is a good life and not inhumane.
-- This diet, of organic, grass fed, grass-finished steak and wild-caught salmon, probably, would've cured my grandma's diabetes.
-- I haven't found any risks like mercury poisoning to be an issue, but that's why latitudinal studies are needed. I didn't eat more than one fillet of salmon per day usually. Often fresh rather than frozen, almost always wild-caught rather than farmed, with no other interacting chemicals, besides allowing myself salt and black pepper.
-- A proper nutrition study that investigates interacting chemicals, requires a combinatorially intractable number of control variables (and in this case, a lot of money), rarely accounted for in nutrition studies. This inadvertent study, longitudinally, resulted in at least 3 measured breakthrough results, across a span of 6 years, and others harder to measure objectively, on a population of me.
 
 She shortly outlived my grandpa, and died the same year as him **three days before** his April 16 birthday, on April 13, 2016.
 
@@ -808,6 +803,12 @@ Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed ecze
 #### Warmth, nature, and organic-type foods
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
+
+Steak/salmon-only diet arguments:
+- The idea that red meat causes anything, has never been investigated in the context of organic, grass fed, grass-finished, and wild-caught meat, exclusive. High quality medicine that 2.4 million years in the Ice Age should give nutritionists some hint to, and cheaper than the entire benzo industry (["The cost for Xanax 0.25 mg oral tablet is around $583 for a supply of 100 tablets, depending on the pharmacy you visit."](https://www.drugs.com/price-guide/xanax).
+- Inorganic factory-sourced industries aren’t sufficiently out-competed by their ethical organic, counterparts, which is unethical both to the animals and the people eating them. Living on a grassy pasture with other cows is a good life and not inhumane.
+- I haven't found any hypothetical risks to be an issue, but that's why latitudinal studies are needed. I didn't eat more than one fillet of salmon per day usually. Often fresh rather than frozen, almost always wild-caught rather than farmed, with no other interacting chemicals, besides allowing myself salt and black pepper.
+- A proper nutrition study that investigates interacting chemicals, requires a combinatorially intractable number of control variables (and in this case, a lot of money), rarely accounted for in nutrition studies. This inadvertent study, longitudinally, resulted in at least 3 measured breakthrough results, across a span of 6 years, and others harder to measure objectively, on a population of me.
 
 #### Schools
 
