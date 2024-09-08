@@ -171,7 +171,7 @@ As my sister must’ve thought, I’d be getting just standard quality care. Wha
 
 ### Psychiatry at the University of Rochester's Strong Hospital
 
-The I Ching once answered me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" $\rightarrow$ "Increase." My interpretation: Struggle among people from infancy or childhood, or at the outset of a crisis ("Difficulty at the beginning") $\rightarrow$ (changes to) Perpetual acceleration of interventions, or, more specifically, dependence of an individual, collective, or collective standards and systems on more mechanisms of intervention, rather than pause, substitution, rememberance, reconsideration, or decrease of all of what preceded ("Increase").
+<!--The I Ching once answered me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" $\rightarrow$ "Increase." My interpretation: Struggle among people from infancy or childhood, or at the outset of a crisis ("Difficulty at the beginning") $\rightarrow$ (changes to) Perpetual acceleration of interventions, or, more specifically, dependence of an individual, collective, or collective standards and systems on more mechanisms of intervention, rather than pause, substitution, rememberance, reconsideration, or decrease of all of what preceded ("Increase").-->
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$.
 
