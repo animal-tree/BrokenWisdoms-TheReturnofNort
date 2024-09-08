@@ -133,7 +133,7 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([this might be esoteric, but that song's lyrics John Lennon had written about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
 
 > [!NOTE]
-> More than 5 years later, I'm proud of this psychosis and how far I'd go to save my mom’s life thinking she's in danger. I lived with guilt for this psychosis that wasn’t my fault for a long time, for years, and not just this thing but also my child-porn sex-offender neighbor who'd been etched associatively into my consciousness, with hair loss and further medical malpractices yet to be described socially and medically alienating me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes.
+> More than 5 years later, I'm proud of this psychosis and how far I'd go to save my mom’s life thinking she's in danger. 
 
 ### The unsampled world at Clover St.
 
