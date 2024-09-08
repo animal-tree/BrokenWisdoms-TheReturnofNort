@@ -168,7 +168,7 @@ The ambulance driver, who was neither Santa Claus nor Terence McKenna, had a big
   
 - I went into a conscious yogic surrender of all muscle due to a command from "Grace" to do so, even as the doctors, who thought I was unconscious, chatted about me being "Jesus" bullying/sarcastically while they dragged my body to the MRI machine;
   - I’d kind of intimately, silently, slowly-and-aware-of-their-power shaken hands with the police officers prior to the limp body, so I think that’s what might've triggered that bullying;
-  - I'd also danced with my mom in the hall while we were waiting (since I'd been taking lessons with her those months, poorly, Tango lessons that I started with professional teachers including a friend my age, and never got good at, while in the House on May St.), her somewhat reluctant, though they did not witness that;
+  - I'd also danced with my mom in the hall while we were waiting (since I'd been taking lessons with her those months, poorly, tango lessons that I started with professional teachers including a friend my age, and never got good at, while in the House on May St.), her somewhat reluctant, though they mostly did not witness that, except for a woman nurse/attendant who barged in. All of this preced the tongue-swallowing yogic trance limp body-ness that was diagnosed as catatonia.
 - Then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile in my eyes when she did that — not like an insincere smile, a smile because I was afraid and desperately needed that love and warmth.
   - I felt like a buzzing spark when Marina touched my arm.
 - And the doctor reassured her that I wasn’t (conscious).
