@@ -177,7 +177,7 @@ I'm 5'5" 110lb.
 
 I had a prescription for benzos before, Xanax, but for eczema and social anxiety, 1/4 to 1/2 of a milligram daily or as needed, a normal to pretty high dose. I took them sometimes during my junior and senior years of college, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and that had side effects.
 
-I had to stay in the University of Rochester's Strong Hospital for a month and take 48x that dosage, of the comparatively strong-per-dose Ativan, reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
+I had to stay in the University of Rochester's Strong Hospital for a month and take 48x that dosage, of the comparatively strong-per-duration-of-effect-per-milligram Ativan, reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
