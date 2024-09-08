@@ -130,18 +130,18 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - the nurses there were delicate and gentle;
 - then RGH discharged me one week later.
 
-I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([this might be esoteric, but that song's lyrics John Lennon had written about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
-
 > [!NOTE]
-> More than 5 years later, I'm proud of this psychosis and how far I'd go to save my mom’s life thinking she's in danger. 
+> I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
 
-### The unsampled world at Clover St.
+I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([this might be esoteric, but that song's lyrics John Lennon had written about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
 
 - **More than two weeks since the first hospitalization**, I end up not sleeping all night; 
 - my sister happened to visit the next day;
 - due to having not slept all night, she was worried I might be going through another manic episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital;**
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
 - **I was there because my sister was worried.**
+
+### The unsampled world at Clover St.
 
 My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car the hypothetical Devil would drive. Compared to the cars my mom and I drove, it was much newer, much nicer. She was working as a nurse at the time and making a middle class income. My mom was working two jobs, and I was a doctoral student.
 
