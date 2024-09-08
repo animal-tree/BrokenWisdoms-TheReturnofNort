@@ -165,7 +165,8 @@ The ambulance driver, who was neither Santa Claus nor Terence McKenna, had a big
 [Add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of the details of the psychosis, including circumcision].
 
 #### Swallowing my tongue
-  
+
+- Then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it, my mouth opened wide, and it was like I swallowed my tongue, the whole Kundalini that had "risen";
 - I went into a conscious yogic surrender of all muscle due to a command from "Grace" to do so, even as the doctors, who thought I was unconscious, chatted about me being "Jesus" bullying/sarcastically while they dragged my body to the MRI machine;
   - I’d kind of intimately, silently, slowly-and-aware-of-their-power shaken hands with the police officers prior to the limp body, so I think that’s what might've triggered that bullying;
   - I'd also danced with my mom in the hall while we were waiting (since I'd been taking lessons with her those months, poorly, tango lessons that I started with professional teachers including a friend my age, and never got good at, while in the House on May St.), her somewhat reluctant, though they mostly did not witness that, except for a woman nurse/attendant who barged in kind of judgementally. All of this preceded the tongue-swallowing yogic trance limp body-ness that was diagnosed as catatonia.
