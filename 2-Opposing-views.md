@@ -135,13 +135,13 @@ I felt, ever since that sensation that my tongue was going back into my throat, 
 > [!NOTE]
 > More than 5 years later, I'm proud of that psychosis because it proves how much I'd do to save a person's life given the belief that they're in danger, how much I'd do to save my mom’s life, and lived with guilt for this thing that wasn’t my fault, and not just this thing but also my child-porn sex-offender neighbor who'd been etched associatively into my consciousness, for a long time, for years, with hair loss and further medical malpractices yet to be described socially and medically alienating me worse than had I myself committed his crimes and suffered his handicaps, hygiene, and alcoholism.
 
+### The unsampled world at Clover St.
+
 - **More than two weeks since the first hospitalization**, I end up not sleeping all night; 
 - my sister happened to visit the next day;
 - due to having not slept all night, she was worried I might be going through another manic episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital;**
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
 - **I was there because my sister was worried.**
-
-### The unsampled world at Clover St.
 
 My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car the hypothetical Devil would drive. Compared to the cars my mom and I drove, it was much newer, much nicer. She was working as a nurse at the time and making a middle class income. My mom was working two jobs, and I was a doctoral student.
 
