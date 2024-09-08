@@ -171,11 +171,11 @@ As my sister must’ve thought, I’d be getting just standard quality care. Wha
 
 ### Psychiatry at the University of Rochester's Strong Hospital
 
-The I Ching once answered me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" (struggle from infancy or childhood, or at the outset of a crisis) $\rightarrow$ "Increase." My interpretation to "Increase" in the context of my question, was: "Perpetual acceleration of or dependence on mechanisms of coping individual, collective, and in standards and systems, as opposed to pause, substitution, or decrease; and the difficulty that increases with each added intervention that doesn't decrease, remember, or reconsider the previous."
+The I Ching once answered me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" $\rightarrow$ "Increase." My interpretation: Struggle among people from infancy or childhood, or at the outset of a crisis ("Difficulty at the beginning") $\rightarrow$ (changes to) Perpetual acceleration of interventions, or, more specifically, dependence of an individual, collective, or collective standards and systems on more mechanisms of intervention, rather than pause, substitution, rememberance, reconsideration, or decrease of all of what preceded ("Increase").
 
 I'm 5'5" 110lb.
 
-I had a prescription for benzos before, Xanax, but for eczema and social anxiety, 1/4 to 1/2 of a milligram daily or as needed, a normal to pretty high dose. I took them sometimes during my junior and senior years of college, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and that had side effects.
+I had a prescription for benzos before, Xanax, but for eczema and social anxiety, 1/4 to 1/2 of a milligram daily or as needed, a normal to pretty high dose. I took them sometimes during my junior and senior years of college at the Uniiversity of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and that had side effects.
 
 I had to stay in the University of Rochester's Strong Hospital for a month and take 48x that dosage, of the comparatively strong-per-duration-per-milligram Ativan, reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. 1/4 to 1/2 of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
