@@ -132,10 +132,6 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 
 > [!NOTE]
 > I lived with guilt for this psychosis that wasn’t my fault for a long time, for years, and now I'm actually proud of it because it proved my bravery when my mom is at threat, or when a responsibility — in particular, from whatever probable forces [somehow](#sarah), and not trivially, convinced me — is perceived.
->
-> I lived with guilt for not just this psychosis but also my child-porn sex-offender neighbor who'd been etched associatively into my consciousness permanently, with hair loss and further medical malpractices yet to be described socially and medically alienating me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes, a condemnation that I only started recovering from just around the same time when he had a sudden, also previously unprecedented (to our knowledge) psychosis — revolving around his mother dying — and died in that psychosis.
->
-> A [later chapter](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md) will revisit this extraordinary coincidence ("synchronicity") and make sense of it.
 
 I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([this might be esoteric, but that song's lyrics John Lennon had written about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
 
