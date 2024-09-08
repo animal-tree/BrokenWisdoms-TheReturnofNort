@@ -169,7 +169,7 @@ My advisor, Henry Kautz, was the most successful man I knew, and his house, I th
 
 As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
-### The University of Rochester's Strong Hospital's dosage and rate
+### Psychiatric care at the University of Rochester's Strong Hospital
 
 The I Ching once answered me about the reason for the less-than-ideal state of things for humanity as follows: "Difficulty at the beginning" (struggle from infancy or childhood, or at the outset of a challenge) $\rightarrow$ "Increase." My interpretation to "Increase" in the context of my question, was: "Perpetual acceleration of or dependence on mechanisms of coping individual, collective, and in standards and systems, as opposed to pause, substitution, or decrease; and the difficulty that increases with each added intervention that doesn't decrease, remember, or reconsider the previous."
 
