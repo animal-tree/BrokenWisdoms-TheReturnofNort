@@ -169,13 +169,13 @@ My advisor, Henry Kautz, was the most successful man I knew, and his house, I th
 
 As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
-### Psychiatry at the University of Rochester's Strong Hospital
+### Psychiatrists at the University of Rochester's Strong Hospital
 
 <!--The I Ching once answered me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" $\rightarrow$ "Increase." My interpretation: Struggle among people from infancy or childhood, or at the outset of a crisis ("Difficulty at the beginning") $\rightarrow$ (changes to) Perpetual acceleration of interventions, or, more specifically, dependence of an individual, collective, or collective standards and systems on more mechanisms of intervention, rather than pause, substitution, rememberance, reconsideration, or decrease of all of what preceded ("Increase").-->
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$.
 
-I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed, a pretty high dose. I took them sometimes during my junior and senior years of college at the University of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and they gave me small hangovers when the effect wore off. Knowing they were in a similar class of drugs to alcohol (See ["Benzodiazepine ("benzos") mechanism of action"](#benzodiazepine-benzos-mechanism-of-action) for elaboration), I took them conservatively.
+I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed, a pretty high dose. I took them sometimes during my junior and senior years of college at the University of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and they gave me small hangovers when the effect wore off. Knowing they were in a similar class of drugs to alcohol (See ["Benzodiazepine ("benzos") mechanism of action"](#my-trauma) for elaboration), I took them conservatively.
 
 I had to stay in the University of Rochester's Strong Hospital for a month and take $48\text{x}$ that dosage, of the comparatively strong-per-duration-per-milligram Ativan, reduced later to $12\text{x}$ that dosage, over the course of $3$ times per day, every day, for that month and more than $5$ months after that with doctor-induced dependence and doctor-dependent tapering scheduling (See ["My trauma"](#my-trauma) for elaboration). Think about that. $\text{1/4}$ to $\text{1/2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
@@ -187,7 +187,7 @@ For the first three or so weeks, I was really, really drunk/high. Then the fog r
 
 ([This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms or feelings about the standard systems.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-))
 
-I was also on antipsychotics, but these next chapters will not be about antipsychotics (See ["Geriatric unit hospitlization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
+I was also on antipsychotics, but these next chapters will not be about antipsychotics (See ["Geriatric unit hospitalization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
 ### Benzodiazepine ("benzos") mechanism of action
 
