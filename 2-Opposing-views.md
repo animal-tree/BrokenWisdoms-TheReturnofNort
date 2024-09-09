@@ -93,57 +93,120 @@ About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychoti
   - I think "God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor;
   - I cleaned up the blood with paper towels;
 - then God telling me "He" was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, schizophrenic — state I was in;
-- staying in the woods in the freezing snow all day and night;
+
+It was literally a wind that pushed me into the woods. 
+
+I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were [yogic grace guidances](#sarah), to make a distance from her. Then I reached a road near Target, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
+
+Then, still not knowing I was going into the woods, a wind pushed me. A wind blew and I walked into those woods where I sat, in meditative silence, and peace, near a prettier part of the brook, thinking I had to stay there for a week, and if I did, my mom wouldn’t die. 
+
 - "God" telling me I had to stay there for a week;
-- "God" telling me to choose — "up" or "down" — with a throat movement situation that I sensed — where "up" meant "power" and "siding with men" and "down" meant siding with my mom, and I chose down and kept choosing down;
-- "God" commanding me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there;
-  - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish and we don't celebrate;
-- "God" telling me my mom was drowning in the freezing brook;
-- me jumping in the freezing brook to save my mom who the whole time I thought was dying, and now thought was drowning in the brook;
-- me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, smiling at me with deep defeat from beyond the realms of consciousness, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me — 
-- me then screaming for the ambulance to a full moon in the woods, my voice randomly and suddenly sounding insincere;
-- my pants had fallen partially down my legs when I had crawled out of the brook and God "told me" not to adjust them on faith;
-- the ambulance then finding me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, and bringing me to the hospital;
-- however, I didn’t share any of those details;
-- "God told me" to tell the ambulance responders that I was in there "for pleasure" on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did;
-- and that was all I told the ambulance responders or the first nurses about what happened — "for pleasure";
-- my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
-- a nurse, and I think no one else, saw and remarked on the slice/gash on my foreskin;
-- the foreskin eventually healed, and that is a miracle;
-- [add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of the details of the psychosis, including circumcision]).
 
-There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
+And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
 
-- Then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
-- I went into a conscious catatonia and stayed still due to a "command from God" to do so, even as the doctors, who thought I was unconscious, chatted about me being "Jesus" bullying/sarcastically while they dragged my body to the MRI machine;
-- I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
-- there was a lot of confusion after the catatonia, so the information about my foreskin didn’t pass from nurse 1 to people N, or else "mania" wouldn’t have been the diagnosis, and more questions would’ve been asked;
-- that nurse was just there to help thaw my legs to prevent hypothermia and frostbite;
-- then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile in my eyes when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
-  - I felt like a buzzing spark when Marina touched my arm;
-- and the doctor reassured her that I wasn’t (conscious);
-- the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obeying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
-- "God" telling me to wait like that for three days, with my jaw clenched;
-  - this detail also doesn't get shared with anyone;
-- a couple days later, benzos brought me out of the pseudo-catatonia;
-- I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
-- the nurses there were delicate and gentle;
-- then RGH discharged me one week later.
+Somehow, from the moment I'd left my apartment door, to the rest of this venture, except for a health concern, the cold didn’t feel too cold. My body, in this energy state, adapted so well, that I cannot tell you the medical implications of how much power the body has, as humans have evolved mostly in the Ice Age, and I was there, from the early morning I left to the rest of the day, in the cold, that through this extreme, "psychotic," transcendent energy state didn’t faze me in the slightest, didn’t bite the way cold is thought to supposed to, and it varied — you see, every disobedience to the guidance of my energy state resulted in a physical grasp of me by the cold; I would shiver and shake, at increasingly extreme levels the more I stopped adherence. But as soon as I returned to adherence, the cold and the shaking stopped. 
+
+This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
+
+Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the had Buddha said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
+
+It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror:
+
+- "God" telling me my mom was drowning in the freezing brook, perhaps me hearing splashes or a scream;
+- me jumping in the freezing brook to save my mom who I was contradictorily told was dead, or dying, or might die, and now thought was drowning in the brook;
+  - I believed that my mom had come to find me and had fallen in the brook drowning;
+  - I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the freezing water where the water might've not been clean since that was where I thought the (maybe unused) sewage pipe maybe was;
+  - I jumped in, and flailed my arms around, going underwater trying to find my mom;
 
 > [!NOTE]
-> I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
+> My mom actually had been nearby, during the day, I later learned. By some intuition, she went near those woods, to search for me earlier in the day. I wasn't home when she woke up, had been doing yoga a lot, it was a cold day, a cold winter day, freezing day, my car was parked there, and my mom was waiting and by 2 PM thought, "No, something's wrong. It's not possible he's wandering this long." So she thought I was walking near the brook, that maybe I fell in there, and she walked through the snow to look for me in that woods area, she searched and was looking for tracks, she thought maybe she even found tracks, and she followed them through snow. 
+>
+> She got near houses, all the way to a road, a different road than the one I'd reached, and she was cold, realized something was wrong, went home, called the police that I was missing, they tried to unlock my phone which I’d left at home, my mom showed them pictures of me, they searched the university, my cousin Lena and her husband David were driving around looking for me, and my sister was calling the police bothering them.
 
-I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([this might be esoteric, but that song's lyrics John Lennon had written about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
+- me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, smiling at me with deep defeat from beyond the realms of consciousness, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me —
+
+> [!NOTE]
+> Further injustices, combiend with the hair loss, will socially and medically alienate me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true. More than that, my recovery from those injustices only began around the time when [he died in a psychosis revolving around fear of his mom dying](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), as my mom learned, in the subsequent year, also with no previous history of mania or psychosis to my knowledge, a 50-something year old man.
+
+My legs were immobile when I crawled out of the brook.
+
+- me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere, like my voice was a different person's;
+- my pants had fallen partially down my legs when I had crawled out of the brook and "God" told me not to adjust them on faith;
+
+An ambulance found me, wet with brook water, nearly hypothermic. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
+
+- the ambulance then finding me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, and bringing me to the hospital;
+- "God told me" to tell the ambulance responders that I was in there "for pleasure" on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did;
+- and that was all I told the ambulance responders or the first nurses about what happened — "for pleasure";
+
+The ambulance drove me to Rochester General Hospital (RGH).  
+
+There was a Santa Claus who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas).
+
+- my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
+- a nurse, and I think no one else, saw and remarked on the slice/gash on my foreskin;
+  - there was a lot of confusion about the next situation (see ["Swallowing my tongue"](#swallowing-my-tongue)), so the information about my foreskin didn’t pass from nurse 1 to people N, or else more questions would’ve been asked;
+  - that nurse was just there to help thaw my legs to prevent hypothermia and frostbite;
+  - she wasn't a psychiatric care unit nurse;
+- the foreskin eventually healed, as I found out sometime after this hospitalization, and that is a miracle;
+- I kind of intimately, silently, slowly-and-aware-of-their-power shaken hands with the police officers;
+
+[Add details about frostbite/hypothermia situation from MyChart, hemoglobin, white blood cells, extremely strange and presumed-dangerous numbers].
+
+- then, we moved to another room;
+  - I danced with my mom in the hall while we were waiting since I'd been taking lessons with her those months, poorly, tango lessons that I started with professional teachers in a class she brought me to, including a friend my age, and never got good at, unlike my mom who learned from my grandma, while in the House on May St.;
+- then in a bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it, my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen";
+- I went into a conscious yogic surrender of all muscle due to a command from "God" to do so, even as the doctors, who thought I was unconscious, chatted about me being "Jesus" bullying/sarcastically while they dragged my body to the MRI machine;
+  - I think the shaking hands with the police officers is what might've triggered that bullying;
+- then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile in my eyes when she did that — not like an insincere smile, a smile because I was afraid and desperately needed that love and warmth;
+  - I felt like a buzzing spark when Marina touched my arm;
+- and the doctor reassured her that I wasn’t (conscious);
+- "God" telling me to wait like that for three days, with my jaw clenched;
+    - this detail also doesn't get shared with anyone;
+- I sensed that I was raising chickens in my stomach, who the nurses in the psychiatric unit were all attending, nicely and gently, to the labor of, as I sensed different energies throughout my digestive system;
+- a couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it, as I became carefree to the earlier perceived responsibility;
+- I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia;
+  - "Bipolar mania" could perhaps be clinically regarded as accurate. "Catatonia" was a misdiagnosis, due to both me not knowing the definition of "catatonia," the fear for my mom if I elaborated on what actually happened, the physical ability to have exited it, the yogic trance that I was adhering to only due to fear of my mom dying which is not the same as "catatonia," and the difficulty of articulating what happened so soon after/amid the psychosis in the first place;
+- I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) within just days of that, fully lucid now, in the hospital since the hospital staff allowed my mom to bring my laptop in;
+- then RGH discharged me not much more than one week after admission;
+
+> [!NOTE]
+> I lived with guilt for this psychosis for a long time, for years, and now I'm actually proud, because it proved my bravery when my mom's life is at threat, or when a responsibility — in particular, from whatever probable forces [somehow](#sarah), and not trivially, convinced me — is perceived.
+
+I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([that song's lyrics were about TM](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
+
+There is also some evidence that I was trying to "abort" the Kundalini "rising":
+
+There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I felt pushing forward and moving, behind my eyes and above the bridge of my nose.
+
+I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
+
+- "God" contradictorily telling me that my mom was dead, or dying, or might die;
+
+Then, back again to the dead of night:
+
+"God" telling me to choose — "up" or "down" — with a throat movement situation that I sensed — where "up" meant "power" and "siding with men" and "down" meant siding with my mom, and I chose down and kept choosing down;
+  - Up to "Heaven, God, creation, masculinity, power" or down to "Earth, nature, receptivity, femininity, my mom";
+
+I believed the spider from earlier in the day was crawling up my intestines to retrieve the energy.
+
+- "God" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there).
+
+I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body.
+
+The "circumcision" and brook-jumping "baptism" could all be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening" and often warned as characteristic in potential symptoms to psychosis, and the resurrection vision as an unfortunate reality that only concluded around the time that same wheelchair-bound individual had a psychosis revolving around a delusional fear about his own mother dying, and died, in his 50s, that subsequent year, also with perhaps no prior history of mania or psychosis.
 
 - **More than two weeks since the first hospitalization**, I end up not sleeping all night; 
 - my sister happened to visit the next day;
-- due to having not slept all night, she was worried I might be going through another manic episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital;**
-- **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
-- **I was there because my sister was worried.**
+- due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital.**
+
+By chance, this psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular.
+
+My interest in the I Ching began in the House on May St., when I heard of it by chance through hearing again a lecture from [Terence McKenna](https://youtu.be/9E5eBqG0cds?si=AZVe2xQMEci2s7Rr), who I used to enjoy in college. It resonated because of the randomness-dependent theory I had, and I ordered a Richard Wilhelm translation and copy as well as some Feng Shui coins. 
 
 ### The unsampled world at Clover St.
 
-My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car the hypothetical Devil would drive. Compared to the cars my mom and I drove, it was much newer, much nicer. She was working as a nurse at the time and making a middle class income. My mom was working two jobs, and I was a doctoral student.
+My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car the hypothetical-Devil would drive. Compared to the cars my mom and I drove, it was much newer, much nicer. She was working as a nurse at the time and making a middle class income. My mom was working two jobs, and I was a doctoral student.
 
 When we were driving, I remember we stopped at Clover St., due to a red light, and some instinct told me to jump out. The feeling was ominous. But together with that ominous feeling, as the drive progressed, I sensed that a million worlds existed, and that all of them had evolved to converge to this one. So I sat somewhat reassured, in an uneasy anxiety, that what was happening will be okay. 
 
@@ -236,23 +299,7 @@ So besides a consciousness component, I interpreted physical phenomena to be hap
 
 That made the threats infinitely times more convincing, and as I transitioned from the House on May St., where I had independence and self respect, to my apartment without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads, including auxiliary ones that my advisor made me do like applying to the NSF GRFP (for which I got a "honorable mention," all excellent reviews, later after all this, one of them even writing, ["This is exactly the type of high-risk, high-reward research that the NSF is looking for to support,"](https://github.com/user-attachments/assets/87ef2c97-c1d5-4333-9247-a0d28a689efb) except one that gave me a "good" instead of "excellent" because I didn’t have any publications to back up the peer-reviewed credibility of the research I was proposing, research that was about long-term memory primarily, but also relational reasoning and persistent memory), the "vibe" of my status as a person was marginalizing and "Gollum-esque," as I hid in a cave essentially, my last hairs dropping from my head, and worked. 
 
-I was also doing lots of yoga, in accord with that "vibe," besides meditation, asceticism, strict diet, cold showers, and work.
-
 That "vibe" then commanded me in different ways. Rather than a social energy (or, I should write, "self respecting energy," since I wasn't too social in the House on May St. either, and was also working really hard, but in a wealthier surroundings, with park and nearby nature and magical-cat-visitor and antiqueness in the aesthetic, to boot), the creativity of the energy went towards work, and the rest of it gradually became something else. I don’t want to describe it as anxiety. The anxiety appeared later, on that Christmas, 2018 day when I thought my mom was going to die, but until then it was beautiful, scary, but beautiful. 
-
-It was literally a wind that pushed me into the woods. 
-
-I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to those grace guidances, to make a distance from her. Then I reached a road near Target, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
-
-Then, still not knowing I was going into the woods, a wind pushed me. A wind blew and I walked into those woods where I sat, in meditative silence, and peace, near a prettier part of the brook, thinking I had to stay there for a week, and if I did, my mom wouldn’t die. 
-
-And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
-
-Somehow, from the moment I'd left my apartment door, to the rest of this venture, except for a health concern, the cold didn’t feel too cold. My body, in this energy state, adapted so well, that I cannot tell you the medical implications of how much power the body has, as humans have evolved mostly in the Ice Age, and I was there, from the early morning I left to the rest of the day, in the cold, that through this extreme, "psychotic," transcendent energy state didn’t faze me in the slightest, didn’t bite the way cold is thought to supposed to, and it varied — you see, every disobedience to the guidance of my energy state resulted in a physical grasp of me by the cold; I would shiver and shake, at increasingly extreme levels the more I stopped adherence. But as soon as I returned to adherence, the cold and the shaking stopped. 
-
-This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
-
-It was at night, near 2 AM, 3 AM, or 4 AM when that peace turned to horror.
 
 The I Ching had called those disruptions, the guidances that were navigating me, "Grace." And in Taoist philosophy, "Grace" isn’t necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm’s words, "beauty in form," and in the I Ching’s taxonomy, such a state to a person’s psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way."
 
