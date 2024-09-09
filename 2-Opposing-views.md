@@ -147,7 +147,7 @@ Then, back again to the dead of night:
 - me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere;
 
 > [!NOTE]
-> I think I had given birth to a new part of my consciousness, as will be evidenced and elaborated on in the extremely disturbing ["Hair regrowth"](#hair-growth) chapter (To do, but [see here for now](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md)).
+> I think I had given birth to a new part of my consciousness, as will be evidenced and elaborated on in the extremely disturbing ["Hair regrowth"](#hair-growth) chapter (To do, but [see here for now](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md)). Yet a more conventional interpretation, consistent with the physical sensations, is that my "Kundalini rose."
 
 - my pants had fallen partially down my legs when I had crawled out of the brook and "Grace" told me not to adjust them on faith.
 
