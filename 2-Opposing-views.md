@@ -130,6 +130,8 @@ There was a spider, a small spider, that seemed friendly at first, not as though
 
 I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
 
+Then in the dead of night:
+
 - "Grace" telling me my mom was drowning in the freezing brook;
 - me jumping in the freezing brook to save my mom who the whole time I was being told was dead or dying, and now thought was drowning in the brook;
   - I believed that my mom had come to find me and had fallen in the brook drowning;
