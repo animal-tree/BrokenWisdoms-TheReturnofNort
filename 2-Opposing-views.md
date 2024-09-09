@@ -144,10 +144,12 @@ Then, back again to the dead of night:
 > [!NOTE]
 > My child-porn sex-offender neighbor had been etched associatively into my consciousness, with hair loss and future medical malpractices socially and medically alienating me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true. More than that, my recovery only began around the time when he died in a psychosis revolving around fear of his mom dying, as my mom learned, in the subsequent year, also with no previous history of mania or psychosis to my knowledge, a 50-something year old man.
 
-- legs immobile, me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere;
+My legs were immobile when I crawled out of the brook.
+
+- me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere;
 
 > [!NOTE]
-> I think I had given birth to a new part of my consciousness, as will be evidenced and elaborated on in the extremely disturbing ["Hair regrowth"](#hair-growth) chapter (To do, but [see here for now](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md)). Yet a more conventional interpretation, consistent with the physical sensations, is that my "Kundalini rose." The brook-jumping may have been a baptism. The circumcision plausibly was symbolic of a spiritual birth/rebirth. Any such symbolism can only be interpreted after-the-fact. These decisions happened under perceived threats from yogic grace guidances rather than any explicitly religious ritual.
+> I think I had given birth to a new part of my consciousness, not Valyoda but somebody named Tayler, as will be evidenced and elaborated on in the extremely disturbing ["Hair regrowth"](#hair-growth) chapter (To do, but [see here for now](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md)). Yet a more conventional interpretation, consistent with the physical sensations, is that my "Kundalini rose." The brook-jumping may have been a baptism. The circumcision plausibly was symbolic of a spiritual birth/rebirth. Any such symbolism can only be interpreted after-the-fact. These decisions happened under perceived threats from yogic grace guidances rather than any explicitly religious ritual.
 
 - my pants had fallen partially down my legs when I had crawled out of the brook and "Grace" told me not to adjust them on faith.
 
