@@ -132,7 +132,7 @@ It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to hor
 
 My legs were immobile when I crawled out of the brook.
 
-- me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere, like my voice was a different person's, not Volyoda's, but somebody else's;
+- me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere, like my voice was a different person's, not Volyoda's;
 - my pants had fallen partially down my legs when I had crawled out of the brook and "God" told me not to adjust them on faith;
 
 An ambulance found me, wet with brook water, nearly hypothermic. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
