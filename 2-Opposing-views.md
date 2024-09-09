@@ -130,7 +130,7 @@ Then, back again to the dead of night:
 
 - "Grace" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there;
   - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;-->
-- "Grace" telling me my mom was drowning in the freezing brook;
+- "Grace" telling me my mom was drowning in the freezing brook, perhaps me hearing splashes or a scream;
 - me jumping in the freezing brook to save my mom who the whole time I was being told was dead or dying, and now thought was drowning in the brook;
   - I believed that my mom had come to find me and had fallen in the brook drowning;
   - I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the freezing water where the water might've not been clean since that was where I thought the (maybe unused) sewage pipe maybe was;
