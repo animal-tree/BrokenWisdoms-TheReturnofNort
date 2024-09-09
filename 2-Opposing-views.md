@@ -114,7 +114,7 @@ Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoda
 
 - staying in the woods in the freezing snow all day and night;
 - "Grace" telling me I had to stay there for a week;
-- "Grace" contradictorily telling me my mom was dead, or dying, or might die;
+- "Grace" contradictorily telling me that my mom was dead, or dying, or might die;
 
 It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
 
