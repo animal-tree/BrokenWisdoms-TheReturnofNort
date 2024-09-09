@@ -128,7 +128,7 @@ There was a spider, a small spider, that seemed friendly at first, not as though
 
 I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
 
-Then in the dead of night:
+Then, back again to the dead of night:
 
 - "Grace" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there;
   - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;
