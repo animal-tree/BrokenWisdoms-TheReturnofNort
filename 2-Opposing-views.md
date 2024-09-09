@@ -150,7 +150,7 @@ Then in the dead of night:
 - me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere;
 
 > [!NOTE]
-> I think I had given birth to a new part of my consciousness, as will be surprisingly evidenced and elaborated on in the extremely disturbing ["Hair regrowth"](#hair-growth) chapter (TO DO).
+> I think I had given birth to a new part of my consciousness, as will be well evidenced and elaborated on in the extremely disturbing ["Hair regrowth"](#hair-growth) chapter (TO DO).
 
 - my pants had fallen partially down my legs when I had crawled out of the brook and "Grace" told me not to adjust them on faith.
 
