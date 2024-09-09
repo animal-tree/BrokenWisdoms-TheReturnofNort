@@ -110,6 +110,8 @@ This is not trivial. This reproducibly felt like a physical relationship between
 
 Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the had Buddha said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
 
+- staying in the woods in the freezing snow all day and night;
+
 It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror:
 
 - "God" telling me my mom was drowning in the freezing brook, perhaps me hearing splashes or a scream;
