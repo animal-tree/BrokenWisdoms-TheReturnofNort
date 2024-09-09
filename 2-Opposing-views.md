@@ -121,7 +121,7 @@ It was at night, near 2 AM, 3 AM, or 4 AM when that peace turned to horror.
 
 I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion, I think. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body.
 
-I believed a spider from earlier in the day was crawling up my intestines, to retrieve the energy.
+I believed a spider from earlier in the day was crawling up my intestines to retrieve the energy.
 
 - "Grace" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there;
   - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;
