@@ -126,7 +126,7 @@ I had one orange slice that I brought with me. I tried to give a piece to the sp
 - "Grace" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there;
   - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;
 - "Grace" telling me my mom was drowning in the freezing brook;
-- me jumping in the freezing brook to save my mom who the whole time I thought was dying, and now thought was drowning in the brook;
+- me jumping in the freezing brook to save my mom who the whole time I feared was dying, and now thought was drowning in the brook;
   - I believed that my mom had come to find me and was screaming from the brook drowning;
   - I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the sewage water waste where the sewage pipe maybe was;
   - I jumped in, and flailed my arms around, going underwater trying to find my mom;
