@@ -113,7 +113,13 @@ Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoda
 - staying in the woods in the freezing snow all day and night;
 - "Grace" telling me I had to stay there for a week;
 
-It was at night, near 2 AM, 3 AM, or 4 AM when that peace turned to horror.
+It was daytime when that peace began to turn to horror.
+
+<!--There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I had influence over the movement of (which I haven't had since the kundalini disruption from the hospital), that with the spider, I felt pushing forward and moving, behind my eyes and above the bridge of my nose.-->
+
+There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I felt pushing forward and moving, behind my eyes and above the bridge of my nose.
+
+I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
 
 - "Grace" telling me to choose — "up" or "down" — with a throat movement situation that I sensed — where "up" meant "power" and "siding with men" and "down" meant siding with my mom, and I chose down and kept choosing down;
 
@@ -122,11 +128,7 @@ I inferred I had to bring those energies either up to "Heaven, masculinity, crea
 <!--I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me.-->
 But these commands were a delusion, I think. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and third eye) across my body.
 
-<!--There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I had influence over the movement of (which I haven't had since the kundalini disruption from the hospital), that with the spider, I felt pushing forward and moving, behind my eyes and above the bridge of my nose.-->
-
-There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I felt pushing forward and moving, behind my eyes and above the bridge of my nose.
-
-I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
+Then by nightfall, near 2 AM, 3 AM, or 4 AM, that horror turned into true horror.
 
 <!--- "Grace" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there;
   - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;-->
