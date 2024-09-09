@@ -110,7 +110,6 @@ This is not trivial. This reproducibly felt like a physical relationship between
   
 Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the had Buddha said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
 
-- staying in the woods in the freezing snow all day and night;
 - "Grace" telling me I had to stay there for a week;
 
 It was daytime when that peace began turning to horror.
@@ -127,6 +126,8 @@ I inferred I had to bring those energies either up to "Heaven, masculinity, crea
 
 <!--I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me.-->
 But these commands were a delusion, I think. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and third eye) across my body.
+
+- staying in the woods in the freezing snow all day and night;
 
 Then by nightfall, near 2 AM, 3 AM, or 4 AM, that horror turned to true horror.
 
