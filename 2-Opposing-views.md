@@ -136,7 +136,7 @@ Then in the dead of night:
 - "Grace" telling me my mom was drowning in the freezing brook;
 - me jumping in the freezing brook to save my mom who the whole time I was being told was dead or dying, and now thought was drowning in the brook;
   - I believed that my mom had come to find me and had fallen in the brook drowning;
-  - I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the sewage water waste where the sewage pipe maybe was;
+  - I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the sewage water waste where I knew the sewage pipe maybe was;
   - I jumped in, and flailed my arms around, going underwater trying to find my mom;
 
 > [!NOTE]
