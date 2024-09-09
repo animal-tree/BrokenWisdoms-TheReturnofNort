@@ -120,7 +120,7 @@ I had a few orange slices that I brought with me. I tried to give a piece of one
 
 It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
 
-- "Grace" telling me to choose — "up" or "down" — with a throat movement situation that I inferred I had to bring up to "Heaven, 'God,' masculinity, creation, power" or down to "Earth, nature, receptivity, femininity, my mom";
+- "Grace" telling me to choose — "up" or "down" — with a throat movement situation that I inferred I had to bring up to "Heaven, God, creation, masculinity, power" or down to "Earth, nature, receptivity, femininity, my mom";
 
 I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body.
 
