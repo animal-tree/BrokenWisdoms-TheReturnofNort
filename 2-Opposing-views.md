@@ -121,7 +121,7 @@ It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to hor
   - I jumped in, and flailed my arms around, going underwater trying to find my mom;
 
 > [!NOTE]
-> My mom actually had been nearby, during the day, I later learned. By some intuition, she went near to those woods, to search for me earlier in the day.
+> My mom actually had been nearby, during the day, I learned. By some intuition, she went near those woods, to search for me earlier in the day.
 >
 > I wasn't home when she woke up, had been doing yoga a lot, it was a cold day, a cold winter day, freezing day, my car was parked there, and my mom was waiting and by 2 PM thought, "No, something's wrong. It's not possible he's wandering this long." So she thought I was walking near the brook, that maybe I fell in there, and she walked through the snow to look for me in that woods area, she searched and was looking for tracks, she thought maybe she even found tracks, and she followed them through snow, near houses, all the way to a road, different than the one I reached, was cold, realized something was wrong, went home, called the police that I was missing, they tried to unlock my phone which I’d left at home, my mom showed them pictures of me, they searched the university, my cousin Lena and her husband David were driving around looking for me, and my sister was calling the police to get updates and bother them about the search.
 
