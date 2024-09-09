@@ -124,15 +124,14 @@ I kept choosing "down," so much so that I tried to keep my chakras open by force
 
 I believed a spider from earlier in the day was crawling up my intestines to retrieve the energy.
 
-- "Grace" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there;
-  - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;
-
 There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I felt pushing forward and moving, behind my eyes and above the bridge of my nose.
 
 I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
 
 Then in the dead of night:
 
+- "Grace" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there;
+  - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;
 - "Grace" telling me my mom was drowning in the freezing brook;
 - me jumping in the freezing brook to save my mom who the whole time I was being told was dead or dying, and now thought was drowning in the brook;
   - I believed that my mom had come to find me and had fallen in the brook drowning;
