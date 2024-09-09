@@ -117,7 +117,7 @@ It was at night, near 2 AM, 3 AM, or 4 AM when that peace turned to horror.
 
 - "Grace" telling me to choose — "up" or "down" — with a throat movement situation that I inferred I had to bring up to "Heaven, masculinity, creation" or down to "Earth, nature, receptivity, femininity, my mom";
 
-<!--I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me.-->
+<!--I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me.-->
 But these commands were a delusion, I think. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and third eye) across my body.
 
 <!--There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I had influence over the movement of (which I haven't had since the kundalini disruption from the hospital), that with the spider, I felt pushing forward and moving, behind my eyes and above the bridge of my nose.-->
