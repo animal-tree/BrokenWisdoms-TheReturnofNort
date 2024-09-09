@@ -110,11 +110,6 @@ This is not trivial. This reproducibly felt like a physical relationship between
 
 Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the had Buddha said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
 
-- staying in the woods in the freezing snow all day and night;
-- "Grace" telling me I had to stay there for a week;
-
-It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
-
 <!--There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I had influence over the movement of (which I haven't had since the kundalini disruption from the hospital), that with the spider, I felt pushing forward and moving, behind my eyes and above the bridge of my nose.-->
 
 - staying in the woods in the freezing snow all day and night;
