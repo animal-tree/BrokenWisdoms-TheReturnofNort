@@ -148,6 +148,10 @@ Then in the dead of night:
 > My child-porn sex-offender neighbor had been etched associatively into my consciousness, with hair loss and future medical malpractices socially and medically alienating me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true. More than that, my recovery only began around the time when he died in a psychosis revolving around fear of his mom dying, in the subsequent year, also with no previous history.
 
 - me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere;
+
+> [!NOTE]
+> I think I had given birth to a new part of my consciousness, as will be well evidenced and elaborated on in the extremely disturbing ["Hair regrowth"](#hair-growth) chapter.
+
 - my pants had fallen partially down my legs when I had crawled out of the brook and "Grace" told me not to adjust them on faith.
 
 An ambulance found me, wet with brook water, nearly hypothermic. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
