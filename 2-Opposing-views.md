@@ -158,7 +158,7 @@ There was a Santa Claus who showed up. He wanted to say hi. It was odd. (The amb
 - then, we moved to another room;
   - I danced with my mom in the hall while we were waiting since I'd been taking lessons with her those months, poorly, tango lessons that I started with professional teachers in a class she brought me to, including a friend my age, and never got good at, unlike my mom who learned from my grandma, while in the House on May St.;
 - then in a bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it, my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen";
-- I went into a conscious yogic surrender of all muscle due to a command from "God" to do so, even as the doctors chatted about me being "Jesus" bullying/sarcastically while they pushed and wheeled my limp body to the MRI machine, thinking I was unconscious;
+- I went into a conscious yogic surrender of all muscle due to a command from "God" to do so, even as the doctors chatted about me being "Jesus" bullying/sarcastically while they pushed and wheeled my limp body forward to the MRI machine, thinking I was unconscious;
   - I think the shaking hands with the police officers is what might've triggered that bullying;
 - then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile in my eyes when she did that — not like an insincere smile, a smile because I was afraid and desperately needed that love and warmth;
   - I felt like a buzzing spark when Marina touched my arm;
