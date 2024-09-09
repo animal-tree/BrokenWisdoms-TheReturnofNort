@@ -110,7 +110,9 @@ This is not trivial. This reproducibly felt like a physical relationship between
 
 Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the had Buddha said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
 
-<!--There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I had influence over the movement of (which I haven't had since the kundalini disruption from the hospital), that with the spider, I felt pushing forward and moving, behind my eyes and above the bridge of my nose.-->
+There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I felt pushing forward and moving, behind my eyes and above the bridge of my nose.
+
+I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
 
 - staying in the woods in the freezing snow all day and night;
 - "Grace" telling me I had to stay there for a week;
@@ -120,18 +122,14 @@ It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to hor
 
 - "Grace" telling me to choose — "up" or "down" — with a throat movement situation that I inferred I had to bring up to "Heaven, masculinity, creation" or down to "Earth, nature, receptivity, femininity, my mom";
 
-I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion, I think. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body.
+I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body.
 
-I believed a spider from earlier in the day was crawling up my intestines to retrieve the energy.
-
-There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I felt pushing forward and moving, behind my eyes and above the bridge of my nose.
-
-I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
+<!--I believed the spider from earlier in the day was crawling up my intestines to retrieve the energy.
 
 Then, back again to the dead of night:
 
 - "Grace" commanding me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger there;
-  - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;
+  - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas;-->
 - "Grace" telling me my mom was drowning in the freezing brook;
 - me jumping in the freezing brook to save my mom who the whole time I was being told was dead or dying, and now thought was drowning in the brook;
   - I believed that my mom had come to find me and had fallen in the brook drowning;
