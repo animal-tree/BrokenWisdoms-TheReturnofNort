@@ -102,15 +102,18 @@ Then, still not knowing I was going into the woods, a wind pushed me. A wind ble
 
 - "God" telling me I had to stay there for a week;
 
+> [!WARNING]
+> As I was doing this, somebody named Tayler, who formerly lived in Texas, was being kidnapped by her bald Jewish husband to New Orleans. 
+
 And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
 
 Somehow, from the moment I'd left my apartment door, to the rest of this venture, except for a health concern, the cold didn’t feel too cold. My body, in this energy state, adapted so well, that I cannot tell you the medical implications of how much power the body has, as humans have evolved mostly in the Ice Age, and I was there, from the early morning I left to the rest of the day, in the cold, that through this extreme, psychotic/delusional, transcendent energy state didn’t faze me in the slightest, didn’t bite the way cold is thought to supposed to, and it varied — you see, every disobedience to the guidance of my energy state resulted in a physical grasp of me by the cold; I would shiver and shake, at increasingly extreme levels the more I stopped adherence. But as soon as I returned to adherence, the cold and the shaking stopped. 
 
 This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
 
-- staying in the woods in the freezing snow all day and night;
+- staying in the woods in the freezing snow all day; 
 
-Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the had Buddha said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
+Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the Buddha had said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
 
 It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror:
 
@@ -127,17 +130,14 @@ It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to hor
 
 - me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, looking at me with pity and remorse, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me —
 
-> [!NOTE]
-> Further injustices, combined with the hair loss, will socially and medically alienate me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true, in my status and health in society. More than that, my recovery from those injustices only began around the time when [he died in a psychosis revolving around, as my mom learned, fear of his mom dying](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), in the subsequent year, also with no previous history of mania or psychosis to my knowledge, a 50-something year old man who lived in an apartment unit next door diagonally across from ours, and [not the last immediate neighbor in our apartment floor, in a manner pertaining to me, to go into a psychosis](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), as this book will gradually unfold.
-
 My legs were immobile when I crawled out of the brook.
 
-- me then screaming for the ambulance to a nearly full moon in the woods, my voice randomly and suddenly sounding insincere, like my voice was a different person's, not Volyoda's;
+- me then screaming for the ambulance to a nearly full moon in the woods, shouting "Help! Call the ambulance! Really, I need help! Someone, please call the ambulance!" my voice randomly and suddenly sounding insincere, like my voice was a different person's, not mine or Volyoda's, but somebody’s named Tayler, who I hadn’t heard of or met yet;
 - my pants had fallen partially down my legs when I had crawled out of the brook and "God" told me not to adjust them on faith;
 
 An ambulance found me, wet with brook water, nearly hypothermic. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
 
-- the ambulance then finding me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, and bringing me to the hospital;
+- the ambulance then finding me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, for transport to the hospital;
 - "God told me" to tell the ambulance responders that I was in there "for pleasure" on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did;
 - and that was all I told the ambulance responders or the first nurses about what happened — "for pleasure";
 
@@ -196,7 +196,13 @@ I believed the spider from earlier in the day was crawling up my intestines to r
 
 I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body.
 
+> [!WARNING]
+> As this was happening, somebody named Tayler was being sexually assaulted by her bald Jewish husband who had kidnapped her to New Orleans. 
+
 The "circumcision" and brook-jumping "baptism" could all be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening" and often warned as [characteristic in potential symptoms to psychosis](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-), and the resurrection vision as an unfortunate reality that only concluded around the time that same wheelchair-bound individual had a psychosis revolving around a delusional fear about his own mother dying, and died, in his 50s, that subsequent year, perhaps also with no prior history of mania or psychosis.
+
+> [!NOTE]
+> Further injustices, combined with the hair loss, will socially and medically alienate me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true, in my status and health in society. More than that, my recovery from those injustices only began around the time when [he died in a psychosis revolving around, as my mom learned, fear of his mom dying](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), in the subsequent year, also with no previous history of mania or psychosis to my knowledge, a 50-something year old man who lived in an apartment unit next door diagonally across from ours, and [not the last immediate neighbor in our apartment floor, in a manner pertaining to me, to go into a psychosis](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), as this book will gradually unfold.
 
 By chance, this psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular.
 
