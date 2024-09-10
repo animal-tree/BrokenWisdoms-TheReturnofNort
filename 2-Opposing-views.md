@@ -452,7 +452,7 @@ The "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit w
 
 The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 definition for bad, it should just be a picture of him. 
 
-#### The DSM-5 is the yellow brick road to the Wonderful Wizard
+#### The DSM-5 
 
 The three psychiatrists didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos.
 
@@ -462,7 +462,7 @@ None of the previous diagnoses from the first hospitalization, none of what RGH 
 
 In psychiatric medicine, the DSM-5 is the standard dictionary of categorical labels of mental illness, like "Major Depressive Disorder," "Generalized Anxiety Disorder," "Bipolar Disorder," etc.
 
-The DSM-5 is the manual by which a patient's brain is stereotyped for the sake of recommending treatments to the conditions that seem to be debilitating or causing them harm. Those conditions are often attributed to the patient's brain, e.g. a chemical imbalance, in addition to or sometimes altogether instead of the systems they are trapped in, relationships that they have or don't have, living and work environments, injustices they went through, eating patterns, other physical illnesses not "mental," economic and social mobility resources available to them, or spiritual phenomena that might not be understood yet by the existing schools.
+The DSM-5 is the yellow brick manual by which a patient's brain is stereotyped for the sake of recommending treatments to the conditions that seem to be debilitating or causing them harm. Those conditions are often attributed to the patient's brain, e.g. a chemical imbalance, in addition to or sometimes altogether instead of the systems they are trapped in, relationships that they have or don't have, living and work environments, injustices they went through, eating patterns, other physical illnesses not "mental," economic and social mobility resources available to them, or spiritual phenomena that might not be understood yet by the existing schools.
 
 #### The third click
 
