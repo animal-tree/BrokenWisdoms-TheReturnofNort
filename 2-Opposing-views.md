@@ -266,7 +266,7 @@ I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with
 
 > [!NOTE]
 > 
-> "Bipolar mania" could perhaps be clinically regarded as accurate. "Catatonia" was a misdiagnosis, due to both me not knowing the definition of "catatonia," the fear for my mom if I elaborated on what actually happened, the physical ability to have exited it, the yogic trance/grace/guidance that I was adhering to only due to fear of my mom dying which is not the same as "catatonia," and the difficulty of articulating what happened so soon after/amid the psychosis in the first place.
+> "Bipolar mania" could perhaps be clinically regarded as accurate. "Catatonia" was a misdiagnosis, due to me not knowing the definition of "catatonia," the fear for my mom if I elaborated on what actually happened, the physical ability to have exited it, the yogic trance/grace/guidance that I was adhering to only due to fear of my mom dying which is not the same as "catatonia," and the difficulty of articulating what happened so soon after/amid the psychosis in the first place.
 
 I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) within just days of that, fully lucid now, in the hospital since the hospital staff allowed my mom to bring my laptop in.
 
