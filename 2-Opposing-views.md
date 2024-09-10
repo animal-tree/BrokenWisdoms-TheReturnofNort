@@ -83,9 +83,6 @@ After that house, I moved in with my mom to our apartment, where I came up with 
 
 ### Crisis
 
-> [!NOTE]
-> No prior history of psychosis (not even of mania).
-
 <!--
 I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial." I got a clamp iron, and — how to describe the other tool I used? — "saw knife" might not be what it’s called, a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by; I think "God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor; I cleaned up the blood with paper towels. "Grace" had threatened to kill my mom if I didn't circumcise myself. 
 -->
@@ -139,6 +136,9 @@ The ambulance found me like that at around maybe 3 AM or 4 AM, wet from the broo
 
 The ambulance drove me to Rochester General Hospital (RGH).  
 -->
+
+> [!NOTE]
+> No prior history of psychosis (not even of mania).
 
 ### Rochester General Hospital (RGH)
 
