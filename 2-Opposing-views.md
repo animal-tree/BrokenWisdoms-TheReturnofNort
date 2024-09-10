@@ -350,7 +350,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 When I first arrived, as I first left my psychiatric unit room, and turned right, I followed the music, as it followed in pace with me. The music was playing exactly in tune with my steps. From the open-area lounge area far ahead to the left, with big doors, honestly beautifully, he was there playing the piano.
 -->
 
-#### Psychiatry at the University of Rochester's Strong Hospital
+### Psychiatry at the University of Rochester's Strong Hospital
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$.
 
