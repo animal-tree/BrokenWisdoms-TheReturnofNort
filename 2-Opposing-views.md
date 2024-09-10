@@ -94,6 +94,7 @@ About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychoti
   - a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by;
   - I think "God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor;
   - I cleaned up the blood with paper towels;
+  - I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial";
 - then God telling me "He" was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, schizophrenic — state I was in;
 
 I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were [yogic grace guidances](#sarah), to make a distance from her. Then I reached a road near Target, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
