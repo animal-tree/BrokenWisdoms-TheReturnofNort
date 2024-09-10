@@ -166,7 +166,9 @@ My interest in the I Ching began in the House on May St., when I heard of it by 
 
 -->
 
-A nurse was there to help thaw my legs to prevent hypothermia and frostbite. My legs were thawed in some machine and my mom arrived. I was still afraid her life was in danger, but I didn’t say anything. I didn't talk much.
+A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My legs were thawed in some machine and my mom arrived. I was still afraid her life was in danger, but I didn’t say anything. I didn't talk much.
+
+The nurse remarked on some damages I had. 
 
 #### Swallowing my tongue
 
@@ -210,6 +212,8 @@ In the psychiatric unit, I sensed that I was raising chickens in my stomach, who
 A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it (three days), as I became carefree to the earlier perceived responsibility. 
 
 I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([that song's lyrics were about TM](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck/head, with a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in this hospital.
+
+I was like an airbender trapped in ice.
 
 <!--
 #### Interpretations
