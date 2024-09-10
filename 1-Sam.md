@@ -29,10 +29,17 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
     - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers)
       - House on May St.
+      - Crisis
       - Psychosis, and Rochester General Hospital (RGH)
+        - Christmas, 2018
+        - Swallowing my tongue
+        - Kundalini risen, perhaps jammed, and how I was convinced
+        - Discharge from RGH
+      - The unsampled world at Clover St.
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
       - Hospitalization
+        - Psychiatric unit
         - Sarah
         - Hudson
       - My trauma
