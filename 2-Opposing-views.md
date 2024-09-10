@@ -448,11 +448,7 @@ The second psychiatrist, an Asian woman, looked stern and astute, came in on the
 
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year.
 
-The "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third click of the third "healer," the tornado had begun.
-
-The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 definition for bad, it should just be a picture of him. 
-
-#### The DSM-5 
+#### Sticking to following the yellow brick manual
 
 The three psychiatrists didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos.
 
@@ -465,6 +461,10 @@ In psychiatric medicine, the DSM-5 is the standard dictionary of categorical lab
 The DSM-5 is the yellow brick manual by which a patient's brain is stereotyped for the sake of recommending treatments to the conditions that seem to be debilitating or causing them harm. Those conditions are often attributed to the patient's brain, e.g. a chemical imbalance, in addition to or sometimes altogether instead of the systems they are trapped in, relationships that they have or don't have, living and work environments, injustices they went through, eating patterns, other physical illnesses not "mental," economic and social mobility resources available to them, or spiritual phenomena that might not be understood yet by the existing schools.
 
 #### The third click
+
+The "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third click of the third "healer," the tornado had begun.
+
+The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 definition for bad, it should just be a picture of him. 
 
 In the first month with him, I told him my symptoms. He was cold, authoritative, and disbelieving. He didn't believe me or show even the slightest emotion of warmth. If he cared about me in the slightest, he did everything possible to show otherwise. He only believed the benzos were needed. He left no room for argument. He argued down my arguments, with the conviction of an authority with no humility whatsoever, that they could be safely taken for years.
 
