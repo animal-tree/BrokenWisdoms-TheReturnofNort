@@ -499,8 +499,6 @@ Suspiciously, there are contradictions in recent studies from previous decades, 
 
 The benzo drug market is a $3 billion industry. 
 
-#### Kansas
-
 <!-- , but glorified in fancy lab coats and pedigree.-->
 
 Most of the modern medical system is a drug empire, with doctors taking the role of drug dealers.
