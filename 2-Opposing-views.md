@@ -270,9 +270,11 @@ I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf
 
 Then RGH discharged me not much more than one week after admission.
 
-#### The unsampled world at Clover St.
-
 *More than two weeks since the first hospitalization*, I end up not sleeping all night; my sister happened to visit the next day; due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to *the University of Rochester’s Strong Hospital.*
+
+*The doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it; I was there because my sister was worried.*
+
+#### The unsampled world at Clover St.
 
 My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car the hypothetical Devil would drive. Compared to the cars my mom and I drove, it was much newer, much nicer. She was working as a nurse at the time and making a middle class income. My mom was working two jobs, and I was a doctoral student.
 
@@ -299,8 +301,6 @@ But at this time, we were stopped on Clover St. And there was my doctoral adviso
 My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
 
 As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
-
-*The doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it; I was there because my sister was worried.*
 
 #### The University of Rochester's Strong Hospital
 
