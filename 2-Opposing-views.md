@@ -228,7 +228,7 @@ My interest in the I Ching began in the House on May St., when I heard of it by 
 
 -->
 
-#### Kundalini risen, perhaps jammed 
+#### Kundalini risen, perhaps jammed, and how I was convinced 
 
 After the Christmas, 2018 trauma, I wasn’t able to access my meditation anymore. The mystical phenomenon I physically sensed was stunted. Those Kundalini sensations, and the complete transcendence of my psyche, stopped. 
 
