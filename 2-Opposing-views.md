@@ -140,7 +140,7 @@ The ambulance drove me to Rochester General Hospital (RGH).
 > [!NOTE]
 > No prior history of psychosis (not even of mania).
 
-### Rochester General Hospital (RGH)
+### Psychosis, and Rochester General Hospital (RGH)
 
 #### Christmas, 2018
 
