@@ -260,6 +260,9 @@ The I Ching had called those disruptions, the guidances that were navigating me,
 
 Perhaps this is what I was supposed to learn from the betrayal in my mind’s newly activated much-deeper-more-acute-intense intuitions. However, I suspect maybe something else as the mechanism, something in the collective consciousness, something that brought "Grace," as my work actualized into a paper and my body came to look ever more like Gollum’s — from extreme intelligence to extreme stupidity. 
 
+> [!NOTE]
+> The brook-jumping "baptism" could be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening." Others describe similar phenomena independently, in particular in Hindu tradition, where [psychosis-type symptoms are indeed a well known epiphenomenon of "Kundalini rising."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/)
+
 #### Discharge from RGH
 
 I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia.
