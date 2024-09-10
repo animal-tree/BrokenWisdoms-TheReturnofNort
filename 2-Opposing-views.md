@@ -448,9 +448,7 @@ The second psychiatrist, an Asian woman, looked stern and astute, came in on the
 
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year.
 
-#### Sticking to following the yellow brick manual
-
-The three psychiatrists didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos.
+They didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos.
 
 I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania" were the only description needed, indubitably exhaustive. Were I asked, I'm not sure I'd have been able to explain it to them, necessarily. The Christmas, 2018 trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure, and the pressure was higher with each subsequent psychiatrist because my "flying colors" were increasingly faded.
 
