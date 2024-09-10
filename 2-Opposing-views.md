@@ -351,7 +351,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 
 #### Guy whose name I don’t remember 
 
-When I first arrived, as I first left my psychiatric unit room, and turned right, I followed a music spell that paused and started with each movement I made, as if I was tied in consciousness to that orchestration. I slowly walked into the open-area lounge area far ahead to the left, with big doors. He was in there in the left of the room playing the piano, honestly beautifully.
+When I first arrived, as I first left my psychiatric unit room, and turned right, I followed the music, as it followed in pace with me. The music was playing exactly in tune with my steps. From the open-area lounge area far ahead to the left, with big doors, honestly beautifully, he was there playing the piano.
 
 ### My trauma
 
