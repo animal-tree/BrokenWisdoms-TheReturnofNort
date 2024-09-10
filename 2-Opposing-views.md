@@ -150,11 +150,12 @@ By chance, my psychosis happened from the morning of Christmas Eve to the mornin
 
 My interest in the I Ching began in the House on May St., when I heard of it by chance through hearing again a lecture from [Terence McKenna](https://youtu.be/9E5eBqG0cds?si=AZVe2xQMEci2s7Rr), who I used to enjoy in college. It resonated because of the randomness-dependent theory I had, and I ordered a Richard Wilhelm translation and copy as well as some Feng Shui coins. 
 
+<!--
 > [!WARNING]
 > ### Hospital logistics
-><!--
+>
 > A nurse, and I think no one else, saw and remarked on the slice/gash on my foreskin. There was a lot of confusion about the next situation (see "swallowed my tongue" below), so the information about my foreskin didn’t pass from nurse 1 to people N, or else more questions would’ve been asked. That nurse was just there to help thaw my legs to prevent hypothermia and frostbite. She wasn't a psychiatric care unit nurse. The foreskin eventually healed, as I found out sometime after this hospitalization.
-> -->
+> 
 > A nurse was there to help thaw my legs to prevent hypothermia and frostbite. She wasn't a psychiatric care unit nurse. My legs were thawed in some machine and my mom arrived. I was still afraid her life was in danger, but I didn’t say anything. I didn't talk much. The heart rate pacing machine beeped really fast and showed large numbers that seemed to sporadically change to me. I had some conscious control over the displayed heart rate on the screen standing to my left, I recall, being able to change the displayed pulse with my breath.
 > 
 > [Add details about frostbite/hypothermia situation from MyChart, hemoglobin, white blood cells, extremely strange and presumed-dangerous numbers].
@@ -162,6 +163,12 @@ My interest in the I Ching began in the House on May St., when I heard of it by 
 >  I kind of intimately, silently, slowly-and-aware-of-their-power had shaken hands with the police officers. Police officers came in for questioning. I didn't say a word, looked them intensely in the eyes, and slowly made it clear that I was aware of them. I shook hands with each one, slowly and with a slow intimate intensity.
 >
 > I was still afraid my mom was going to die. We were moved to a different room and I danced with my mom in the hall out of an effort to reduce her fear, or my fear, or bring humor to the situation, while we were waiting, still mostly silently. I'd been taking lessons with her those months, poorly, tango lessons that I started with professional teachers in a class she brought me to, where a friend my age taught, while in the House on May St. I never got good at it, unlike my mom, who'd been dancing since childhood and was originally taught by my grandma.
+
+-->
+
+A nurse was there to help thaw my legs to prevent hypothermia and frostbite. My legs were thawed in some machine and my mom arrived. I was still afraid her life was in danger, but I didn’t say anything. I didn't talk much.
+
+#### Swallowing my tongue
 
 Then in a bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it, my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen."
 
@@ -188,24 +195,21 @@ Then in a bed, while doctors or nurses or attendants were in the room, I felt so
 > I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body, with the control that one has over one's tongue and with the lightness of air, adaptive, not "up or down," but a living organ; and that was not the sense in this dead of night, where I was trying to brute force something out of fear and, most plausibly, delusion/misconstruction of a phenomena that was actually happening.
 -->
 
+<!--
 I went into a conscious yogic surrender of all muscle due to a command from those yogic grace guidances to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine, thinking I was unconscious, because I was perfectly surrendering in those yogic grace guidances. They joked about me being "Jesus" bullying/sarcastically while they wheeled my body forward to the MRI machine. I think either the intense silence with them earlier or the shaking hands with the police officers is what might've triggered their bullying.
+-->
 
-Then my sister arrived to the room I was in next, and she saw me, and touched my arm, briefly, and she saw in my eyes and maybe the corners of my mouth a small, smile, sincere as I was afraid and her coming here and touching my arm was like a major relief. I felt like a buzzing spark when Marina touched my arm; she said she thinks I'm conscious, that she saw me smile; and the doctor reassured her that I wasn’t (as I watched all this, consciously).
+I went into a conscious yogic surrender of all muscle due to a command from those yogic grace guidances to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine, thinking I was unconscious.
 
-In the psychiatric unit, I sensed that I was raising chickens in my stomach, who the nurses were all attending, devotedly, to the labor of, as I sensed different energies throughout my digestive system. "Grace" told me to wait like that for three days, with my jaw clenched; this detail also doesn't get shared with anyone. A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it (three days), as I became carefree to the earlier perceived responsibility. 
+Then my sister arrived to the room I was in next, and she saw me, and touched my arm, briefly, and she saw in my eyes and maybe the corners of my mouth a small, smile, sincere as I was afraid and her coming here and touching my arm was like a major relief. 
+
+I felt like a buzzing spark when Marina touched my arm; she said she thinks I'm conscious, that she saw me smile; and the doctor reassured her that I wasn’t (as I watched all this, consciously).
+
+In the psychiatric unit, I sensed that I was raising chickens in my stomach, who the nurses were all attending, devotedly, to the labor of, as I sensed different energies throughout my digestive system. A delusion told me to wait like, with jaw clenched. 
+
+A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it (three days), as I became carefree to the earlier perceived responsibility. 
 
 I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([that song's lyrics were about TM](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck/head, with a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in this hospital (RGH).
-
-I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia.
-
-> [!WARNING]
-> ### Diagnosis
-> 
-> "Bipolar mania" could perhaps be clinically regarded as accurate. "Catatonia" was a misdiagnosis, due to both me not knowing the definition of "catatonia," the fear for my mom if I elaborated on what actually happened, the physical ability to have exited it, the yogic trance/grace/guidance that I was adhering to only due to fear of my mom dying which is not the same as "catatonia," and the difficulty of articulating what happened so soon after/amid the psychosis in the first place.
-
-I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) within just days of that, fully lucid now, in the hospital since the hospital staff allowed my mom to bring my laptop in.
-
-Then RGH discharged me not much more than one week after admission.
 
 > [!NOTE]
 > I lived with guilt for this psychosis for a long time, for years, and now I'm actually proud, because it proved my bravery when my mom's life is at threat, or when a responsibility — in particular, from whatever probable forces [somehow](#sarah), and not trivially, convinced me — is perceived.
@@ -255,6 +259,16 @@ That "vibe" then commanded me in different ways. Rather than a social energy (or
 The I Ching had called those disruptions, the guidances that were navigating me, "Grace." And in Taoist philosophy, "Grace" isn’t necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm’s words, "beauty in form," and in the I Ching’s taxonomy, such a state to a person’s psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way."
 
 Perhaps this is what I was supposed to learn from the betrayal in my mind’s newly activated much-deeper-more-acute-intense intuitions. However, I suspect maybe something else as the mechanism, something in the collective consciousness, something that brought "Grace," as my work actualized into a paper and my body came to look ever more like Gollum’s — from extreme intelligence to extreme stupidity. 
+
+#### Discharge from RGH
+
+I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia.
+
+"Bipolar mania" could perhaps be clinically regarded as accurate. "Catatonia" was a misdiagnosis, due to both me not knowing the definition of "catatonia," the fear for my mom if I elaborated on what actually happened, the physical ability to have exited it, the yogic trance/grace/guidance that I was adhering to only due to fear of my mom dying which is not the same as "catatonia," and the difficulty of articulating what happened so soon after/amid the psychosis in the first place.
+
+I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) within just days of that, fully lucid now, in the hospital since the hospital staff allowed my mom to bring my laptop in.
+
+Then RGH discharged me not much more than one week after admission.
 
 #### The unsampled world at Clover St.
 
