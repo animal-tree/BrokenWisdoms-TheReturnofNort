@@ -304,6 +304,49 @@ My advisor, Henry Kautz, was the most successful man I knew, and his house, I th
 
 As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
+### Psychiatry at the University of Rochester's Strong Hospital
+
+I'm $5\text{'}5\text{'' } 110\text{lb}$.
+
+I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed, a pretty high dose. I took them sometimes during my junior and senior years of college at the University of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and they gave me small hangovers when the effect wore off. Knowing they were in a similar class of drugs to alcohol (see [below](#benzodiazepine-benzos-mechanism-of-action)), I took them conservatively.
+
+I had to stay in the University of Rochester's Strong Hospital for a month and take $48\text{x}$ that dosage, of the comparatively strong-per-duration-per-milligram Ativan, reduced later to $10\text{x}$ that dosage, over the course of $3$ times per day, every day, for that month and more than $5$ months after due to doctor-induced dependence and doctor-dependent tapering scheduling, the details of the psychosis still un-inquired about, incommunicable, and unbeknownst to them (see ["My trauma"](#my-trauma) for elaboration on all of this). Think about that. $\text{1/4}$ to $\text{1/2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $10\text{x}$ that dosage, but every day.
+
+Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $70\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $140\text{x}$ increase.
+
+Just prior to this, the I Ching had answered to me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" $\rightarrow$ "Increase." My interpretation: Struggle among people from infancy or childhood, or at the outset of a crisis ("Difficulty at the beginning") $\rightarrow$ (changes to) Perpetual acceleration of interventions, or, more specifically, dependence of an individual, collective, or collective standards and systems on more mechanisms of intervention, rather than pause, substitution, rememberance, reconsideration, or decrease of all of what preceded ("Increase"). Yes, all the I Ching answers specified in this book were/are real.
+
+For the first three or so weeks, I was really, really drunk/high. Then the fog rolled in. The chemical waterboarding was taking effect.
+
+[This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-)
+
+I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
+
+### Benzodiazepine ("benzos") mechanism of action
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+<picture>
+  <source width="90%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+  <img width="90%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+</picture></a><br><i></i>
+</p>
+
+This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
+
+Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.
+<!-- <sup>$^\text{\color{green}1.}$</sup>
+
+$^\text{\small\color{green}1.:}$ <sup>Time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier.</sup> -->
+
+#
+
+Let's begin a simplified explanation of the brain's neuron. Neurons are cells that are connected to one another by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory," that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks.
+
+Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally, from the parts that are understood to the parts that almost entirely aren't, including some of the most important regions of intelligence whose healthy metric level of functioning is extremely hard to measure behaviorally, clinically, and longitudinally across variants of factors, and necessary for quality living, e.g., the hippocampus responsible for long-term memory. Alcohol does this too, but humans have provably evolved natural mechanisms of recovering from small doses of alcohol thanks to fermented fruit existing in nature. Benzos seem like a Godsend, a Panacea, especially since you're less likely to feel a headache the next day from them for the same effect, but the evidence isn't strong enough to support they're better than alcohol. From what I've gathered, benzos are worse. Since it's somewhat relevant, [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) is a video I made on evolutionary algorithms in deep learning.
+
+Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. Benzos are a floodbath of GABA, and your brain responds to those GABA bursts by "downregulation," even long, long after cessation.
+
 ### Hospitalization at the University of Rochester's Strong Hospital
 
 #### The University of Rochester's Strong Hospital
@@ -349,49 +392,6 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 
 When I first arrived, as I first left my psychiatric unit room, and turned right, I followed the music, as it followed in pace with me. The music was playing exactly in tune with my steps. From the open-area lounge area far ahead to the left, with big doors, honestly beautifully, he was there playing the piano.
 -->
-
-### Psychiatry at the University of Rochester's Strong Hospital
-
-I'm $5\text{'}5\text{'' } 110\text{lb}$.
-
-I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed, a pretty high dose. I took them sometimes during my junior and senior years of college at the University of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and they gave me small hangovers when the effect wore off. Knowing they were in a similar class of drugs to alcohol (see [below](#benzodiazepine-benzos-mechanism-of-action)), I took them conservatively.
-
-I had to stay in the University of Rochester's Strong Hospital for a month and take $48\text{x}$ that dosage, of the comparatively strong-per-duration-per-milligram Ativan, reduced later to $10\text{x}$ that dosage, over the course of $3$ times per day, every day, for that month and more than $5$ months after due to doctor-induced dependence and doctor-dependent tapering scheduling, the details of the psychosis still un-inquired about, incommunicable, and unbeknownst to them (see ["My trauma"](#my-trauma) for elaboration on all of this). Think about that. $\text{1/4}$ to $\text{1/2}$ of a milligram, once every two weeks at most (and usually much more rarely), had side effects. $48\text{x}$ $-$ $10\text{x}$ that dosage, but every day.
-
-Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $70\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $140\text{x}$ increase.
-
-Just prior to this, the I Ching had answered to me about the reason for the less-than-ideal consciousness that rules humanity: "Difficulty at the beginning" $\rightarrow$ "Increase." My interpretation: Struggle among people from infancy or childhood, or at the outset of a crisis ("Difficulty at the beginning") $\rightarrow$ (changes to) Perpetual acceleration of interventions, or, more specifically, dependence of an individual, collective, or collective standards and systems on more mechanisms of intervention, rather than pause, substitution, rememberance, reconsideration, or decrease of all of what preceded ("Increase"). Yes, all the I Ching answers specified in this book were/are real.
-
-For the first three or so weeks, I was really, really drunk/high. Then the fog rolled in. The chemical waterboarding was taking effect.
-
-[This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-)
-
-I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
-
-### Benzodiazepine ("benzos") mechanism of action
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-<picture>
-  <source width="90%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-  <img width="90%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-</picture></a><br><i></i>
-</p>
-
-This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
-
-Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.
-<!-- <sup>$^\text{\color{green}1.}$</sup>
-
-$^\text{\small\color{green}1.:}$ <sup>Time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier.</sup> -->
-
-#
-
-Let's begin a simplified explanation of the brain's neuron. Neurons are cells that are connected to one another by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory," that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks.
-
-Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally, from the parts that are understood to the parts that almost entirely aren't, including some of the most important regions of intelligence whose healthy metric level of functioning is extremely hard to measure behaviorally, clinically, and longitudinally across variants of factors, and necessary for quality living, e.g., the hippocampus responsible for long-term memory. Alcohol does this too, but humans have provably evolved natural mechanisms of recovering from small doses of alcohol thanks to fermented fruit existing in nature. Benzos seem like a Godsend, a Panacea, especially since you're less likely to feel a headache the next day from them for the same effect, but the evidence isn't strong enough to support they're better than alcohol. From what I've gathered, benzos are worse. Since it's somewhat relevant, [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) is a video I made on evolutionary algorithms in deep learning.
-
-Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. Benzos are a floodbath of GABA, and your brain responds to those GABA bursts by "downregulation," even long, long after cessation.
 
 ### My trauma
 
