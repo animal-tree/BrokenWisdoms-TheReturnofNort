@@ -83,6 +83,9 @@ After that house, I moved in with my mom to our apartment, where I came up with 
 
 ### Crisis
 
+> [!NOTE]
+> No prior history of psychosis (not even of mania).
+
 <!--
 I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial." I got a clamp iron, and — how to describe the other tool I used? — "saw knife" might not be what it’s called, a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by; I think "God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor; I cleaned up the blood with paper towels. "Grace" had threatened to kill my mom if I didn't circumcise myself. 
 -->
@@ -127,9 +130,6 @@ I lay in the ground, hearing the train rumble. A part of me thinks it's going to
 My legs were immobile when I crawled out of the brook, me then screaming for the ambulance to a nearly full moon in the woods, shouting "Help! Call the ambulance! Really, I need help!" my voice randomly and suddenly sounding insincere, like my voice was a different person's, not mine or Volyoda's, but somebody’s named Tayler, who I hadn’t heard of or met yet. My pants had fallen partially down my legs when I had crawled out of the brook and "God" told me not to adjust them on faith.
 
 -->
-
-> [!NOTE]
-> No prior history of psychosis (not even of mania).
 
 An ambulance found me, wet with brook water, nearly hypothermic. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
 
