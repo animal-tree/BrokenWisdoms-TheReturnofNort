@@ -194,11 +194,9 @@ By chance, my psychosis happened from the morning of Christmas Eve to the mornin
 
 My interest in the I Ching began in the House on May St., when I heard of it by chance through hearing again a lecture from [Terence McKenna](https://youtu.be/9E5eBqG0cds?si=AZVe2xQMEci2s7Rr), who I used to enjoy in college. It resonated because of the randomness-dependent theory I had, and I ordered a Richard Wilhelm translation and copy as well as some Feng Shui coins. 
 
-- **More than two weeks since the first hospitalization**, I end up not sleeping all night; 
-- my sister happened to visit the next day;
-- due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital;**
-- **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
-- **I was there because my sister was worried.**
+**More than two weeks since the first hospitalization**, I end up not sleeping all night; my sister happened to visit the next day; due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital.**
+
+**The doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it; I was there because my sister was worried.**
 
 ### The unsampled world at Clover St.
 
