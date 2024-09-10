@@ -351,7 +351,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 ### Hospitalization at the University of Rochester's Strong Hospital
 
-#### The University of Rochester's Strong Hospital
+#### Psychiatric unit
 
 In my second hospitalization, at this particular psychiatric unit of the University of Rochester's Strong Hospital, the environment was much better than future hospitalizations. I made friends with Sarah and Hudson and others. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, some of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was by far the best care unit I was gated by armored vault into.
 
