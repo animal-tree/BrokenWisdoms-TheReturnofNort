@@ -480,7 +480,8 @@ What I suffered was physiologically brain damage. My cognition and perception de
 
 I was in severe pain and agony. He responded with only authority, no reasoning, and no sensitivity. He made no consideration to the possibility that I was right or he was wrong. After I told him my symptoms, and doubts, his clinical authority meant more to him than my agony. His disbelief towards my suffering, and perpetuation and amplification of my suffering was afforded to him only by my drug-induced insecurity about weaning off by myself, is indescribably evil.
 
-From the first psychiatrist, my memory was flyingly colorful, but a blur, like the most effective binge-drinking session that had no end, until it did. With the second psychiatrist, the memory is fuzzy, for both the daze of that hangover, and the increasing anxiety of my brain's dysregulated GABA. The third psychiatrist, is like Schindler's List-grey, like not even a little girl carrying an umbrella. I saw him for about 5 months and don't remember his name, which is too bad, or I would write it here in capital letters.
+<!-- From the first psychiatrist, my memory was flyingly colorful, but a blur, like the most effective binge-drinking session that had no end, until it did. With the second psychiatrist, the memory is fuzzy, for both the daze of that hangover, and the increasing anxiety of my brain's dysregulated GABA. -->
+The third psychiatrist, is like Schindler's List-grey, like not even a little girl carrying an umbrella. I saw him for about 5 months and don't remember his name, which is too bad, or I would write it here in capital letters.
 
 #### The wizard
 
