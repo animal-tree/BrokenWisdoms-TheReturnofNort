@@ -456,9 +456,9 @@ In psychiatric medicine, the DSM-5 is the standard dictionary of categorical lab
 
 The DSM-5 is the yellow brick manual by which a patient's brain is stereotyped for the sake of recommending treatments to the conditions that seem to be debilitating or causing harm. Those conditions are often attributed to the patient's brain, e.g. a chemical imbalance, in addition to or sometimes altogether instead of the systems they are trapped in, relationships that they have or don't have, prior medical interventions, living and work environments, injustices they went through, eating patterns, other physical illnesses not "mental," economic and social mobility resources available to them, or spiritual phenomena that might not be understood yet by the existing schools.
 
-#### The third click
-
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive decline and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year.
+
+#### The third click
 
 The "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third click of the third "healer," the tornado had begun.
 
