@@ -212,7 +212,7 @@ Then my sister arrived to the room I was in next, and she saw me, and touched my
 
 I felt like a buzzing spark when Marina touched my arm; she said she thinks I'm conscious, that she saw me smile; and the doctor reassured her that I wasn’t (as I watched all this, consciously).
 
-In the psychiatric unit, I sensed that I was raising chickens in my stomach, who the nurses were all attending, devotedly, to the labor of, as I sensed different energies throughout my digestive system. A delusion told me to wait like for some number of days, with jaw clenched. 
+In the psychiatric unit, I sensed that I was raising chickens in my stomach, who the nurses were all attending, devotedly, to the labor of, as I sensed different energies throughout my digestive system. A delusion told me to wait like that for some number of days, with jaw clenched. 
 
 A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it (three days), as I became carefree to the earlier perceived responsibility. 
 
