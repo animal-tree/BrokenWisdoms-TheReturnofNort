@@ -503,6 +503,8 @@ The benzo drug market is a $3 billion industry.
 
 <!-- , but glorified in fancy lab coats and pedigree.-->
 
+Most of the modern medical system is a drug empire, with doctors taking the role of drug dealers.
+
 > [!TIP]
 > ### And Erowid wasn't there, and "swim" wasn't there, and Badpill wasn't there…
 > 
@@ -511,8 +513,6 @@ The benzo drug market is a $3 billion industry.
 > There was a time when responsible drug users could read reports from other users on a website called Erowid and informed themselves through reading the experiences of others, as well as looking at the rankings, and different metrics that people voted on. There was, and still wouldn’t be a better research methodology, if Erowid still served that democratic function, for discovering the dangers of psychiatric (or recreational) drugs, reading such anecdotal reports (often really thorough), which professional psychiatrists don’t place much weight in. Such a website is threatening to big pharma companies, for marketing reasons, if their drugs are [publicly ranked, or fall below](https://www.reddit.com/r/spirituality/comments/1c5jwbl/why_am_i_disconnected_from_your_social_realms/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), for example the endangerment rankings of really-bad-for-branding drugs like heroin or, as I suggested seriously earlier, tequila.
 >
 > Is anybody old enough to remember "swim" and those anonymizing user handles? People had to anonymize themselves to safely tell each other about their bad experiences. I was in a subreddit called r/Badpill during the benzo nightmare, a forum for pharmaceutical trauma and addiction recovery, and I’d written the most detailed description of my trauma with benzos there, my post was the top ranked for years, and had dozens of comments from different people that they suffered similar horrible tortures from benzos, and I found earlier in 2024 that, in that year, the entire subreddit was deleted. I had no more-detailed description anywhere. It was lost, forever, not even in any archives I tried to search for. I was so devastated that I wanted to commit suicide, because it was my last **good** expression of these traumas, that the prescribed benzos, coerced onto me in the hospital and extended against my will, did to me. I was going to kill myself, and that's when I started writing this book, the first terrible words that still expressed nothing, knowing [no words could ever](https://github.com/user-attachments/assets/7039b8f6-e822-4f65-8721-afe691e206ad).
-
-Most of the modern medical system is a drug empire, with doctors taking the role of drug dealers.
 
 #### International date, suicide attempt, and literally-self-bootstrapped recovery
 
