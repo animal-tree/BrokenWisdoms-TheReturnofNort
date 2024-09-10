@@ -499,7 +499,7 @@ Suspiciously, there are contradictions in recent studies from previous decades, 
 
 The benzo drug market is a $3 billion industry. 
 
-#### The wickedness of Kansas
+#### Kansas
 
 <!-- , but glorified in fancy lab coats and pedigree.-->
 
