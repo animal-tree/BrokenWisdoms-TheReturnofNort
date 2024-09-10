@@ -89,7 +89,7 @@ I was Googling how to do it properly in the dark early morning, but the urgency 
 
 It was literally a wind that pushed me into the woods. 
 
-I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were [yogic grace guidances](#sarah), to make a distance from her. Then I reached a road near the commercial district, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
+I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were [yogic grace guidances](#sarah), to make a distance from her. Then I reached a road near the more commercial district, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
 
 Then, still not knowing I was going into the woods, a wind pushed me. A wind blew and I walked into those woods where I sat, in meditative silence, and peace, near a prettier part of the brook, thinking I had to stay there for a week, and if I did, my mom wouldn’t die. 
 
