@@ -88,13 +88,13 @@ It was literally a wind that pushed me into the woods.
 About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a "manic episode" (but in my "opinion," by an ordinary psychiatric definition, was "psychotic" since the two days of it prior to the hospitalization involved: 
 
 - God telling me "He" was going to kill my mom if I didn’t circumcise myself;
+  - I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial";
 - circumcising myself;
   - I got a clamp iron, and — how to describe the other tool I used? —
   - "saw knife" might not be what it’s called,
   - a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by;
   - I think "God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor;
   - I cleaned up the blood with paper towels;
-  - I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial";
 - then God telling me "He" was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, schizophrenic — state I was in;
 
 I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were [yogic grace guidances](#sarah), to make a distance from her. Then I reached a road near Target, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
@@ -121,7 +121,7 @@ It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to hor
 - "God" telling me my mom was drowning in the freezing brook, perhaps me hearing splashes or a scream;
 - me jumping in the freezing brook to save my mom who I was contradictorily told was dead, or dying, or might die, and now thought was drowning in the brook;
   - I believed that my mom had come to find me and had fallen in the brook drowning;
-  - I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the freezing water where the water might've not been clean since that was where I thought the (maybe unused) sewage pipe maybe was;
+  - I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the freezing water where the water might've not been clean since that was where I thought the maybe-unused sewage pipe maybe was;
   - I jumped in, and flailed my arms around, going underwater trying to find my mom;
 
 > [!NOTE]
@@ -130,6 +130,9 @@ It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to hor
 > I wasn't home when she woke up, had been doing yoga a lot, it was a cold day, a cold winter day, freezing day, my car was parked there, and my mom was waiting and by 2 PM thought, "No, something's wrong. It's not possible he's wandering this long." So she thought I was walking near the brook, that maybe I fell in there, and she walked through the snow to look for me in that woods area, she searched and was looking for tracks, she thought maybe she even found tracks, and she followed them through snow, near houses, all the way to a road, different than the one I reached, was cold, realized something was wrong, went home, called the police that I was missing, and they came over, tried to unlock my phone which I’d left at home, my mom showed them pictures of me, they went to search the university, my cousin Lena and her husband David were driving around Penfield looking for me, and my sister was calling the police to get updates and bother them about the search.
 
 - me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, looking at me with pity and remorse, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me —
+
+> [!NOTE]
+> Further injustices, combined with the hair loss, will socially and medically alienate me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true, in my status and health in society. More than that, my recovery from those injustices only began around the time when [he died in a psychosis revolving around, as my mom learned, fear of his mom dying](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), in the subsequent year, also with no previous history of mania or psychosis to my knowledge, a 50-something year old man who lived in an apartment unit next door diagonally across from ours, and [not the last immediate neighbor in our apartment floor, in a manner pertaining to me, to go into a psychosis](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), as this book will gradually unfold.
 
 My legs were immobile when I crawled out of the brook.
 
@@ -152,10 +155,10 @@ There was a Santa Claus who showed up. He wanted to say hi. It was odd. (The amb
   - that nurse was just there to help thaw my legs to prevent hypothermia and frostbite;
   - she wasn't a psychiatric care unit nurse;
 - the foreskin eventually healed, as I found out sometime after this hospitalization, and that is a miracle;
-- I kind of intimately, silently, slowly-and-aware-of-their-power shaken hands with the police officers;
 
 [Add details about frostbite/hypothermia situation from MyChart, hemoglobin, white blood cells, extremely strange and presumed-dangerous numbers].
 
+- I kind of intimately, silently, slowly-and-aware-of-their-power shaken hands with the police officers;
 - then, we moved to another room;
   - I danced with my mom in the hall while we were waiting since I'd been taking lessons with her those months, poorly, tango lessons that I started with professional teachers in a class she brought me to, including a friend my age, and never got good at, unlike my mom who learned from my grandma, while in the House on May St.;
 - then in a bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it, my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen";
@@ -201,9 +204,6 @@ I kept choosing "down," so much so that I tried to keep my chakras open by force
 > As this was happening, somebody named Tayler was being sexually assaulted by her bald Jewish husband who had kidnapped her to New Orleans. 
 
 The "circumcision" and brook-jumping "baptism" could all be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening" and often warned as [characteristic in potential symptoms to psychosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/), and the resurrection vision as an unfortunate reality that only concluded around the time that same wheelchair-bound individual had a psychosis revolving around a delusional fear about his own mother dying, and died, in his 50s, that subsequent year, perhaps also with no prior history of mania or psychosis. The Tayler connection will be pertinent for the major purpose of this book.
-
-> [!NOTE]
-> Further injustices, combined with the hair loss, will socially and medically alienate me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true, in my status and health in society. More than that, my recovery from those injustices only began around the time when [he died in a psychosis revolving around, as my mom learned, fear of his mom dying](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), in the subsequent year, also with no previous history of mania or psychosis to my knowledge, a 50-something year old man who lived in an apartment unit next door diagonally across from ours, and [not the last immediate neighbor in our apartment floor, in a manner pertaining to me, to go into a psychosis](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), as this book will gradually unfold.
 
 By chance, my psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular.
 
