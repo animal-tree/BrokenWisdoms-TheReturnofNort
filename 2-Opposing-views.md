@@ -154,6 +154,8 @@ My legs were immobile when I crawled out of the brook.
 > ### Loony tailored voice
 > 
 > I screamed to the houses perhaps not far off, to the left of a nearly full moon that was visible above where I was in the woods facing the direction of the brook, shouting for help, my voice sounding insincere and casually unafraid, like a different person's, out of tune from what I was thinking and feeling, not mine, like somebody’s who I hadn’t heard of or met yet, like somebody who was just born in me, who didn't trust my attempted plea, who trusted even the hypothetical people in the neighborhood nearby more than the innocence of the bearer of her voice.
+>
+> There was someone else who I was thinking about, but it wasn't his voice.
 
 <!-- I screamed to a nearly full moon, my voice randomly and suddenly sounding insincere, like my voice was a different person's, not mine or Volyoda's. -->
 
