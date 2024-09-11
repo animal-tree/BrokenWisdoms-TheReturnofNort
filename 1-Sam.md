@@ -30,6 +30,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
     - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers)
       - House on May St.
       - Crisis
+        - Looney tailored scream 
       - Psychosis, and Rochester General Hospital (RGH)
         - Christmas, 2018
         - Swallowing my tongue
@@ -45,7 +46,12 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - My trauma
         - Israel birthright trip, and Jeremiah
         - Clicking their healing pens three times
+        - In black and white
+        - The machinery behind the curtain
+        - Who was the Wonderful Malpractice of Oz?
+        - Wicked "which study?" of the West
         - International date, suicide attempt, and literally-self-bootstrapped recovery
+          - And Erowid wasn't there, and "swim" wasn't there, and Badpill wasn't there…
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
