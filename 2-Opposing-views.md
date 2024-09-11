@@ -546,7 +546,7 @@ What could've caused three psychiatrists, with zero consensus between each other
 
 And lastly, coercion.
 
-In the last century (or even today), [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, despite the ubiquitous complacency that seems to characterize the standard system, especially long-term, especially of benzos will be recognized by history as barbaric.
+In the last century (or even today), [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, despite a ubiquitous complacency in the standard system, especially long-term, especially of benzos will be recognized by history as barbaric.
 
 #### Wicked "which study?" of the West
 
