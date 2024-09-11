@@ -503,7 +503,7 @@ In the second month with him, 3 months into the benzos, my cognition was not jus
 
 The psychiatrist wanted to increase the dose, not realizing that that would start a perpetual race against the brain's downregulation mechanisms. 
 
-In case you're wondering, he was an idiot. The brain damage, and literally — when memory, speech, and imagination are all impaired, and the patient's in pain, *the brain is damaged* — risked being permanent and irreversible, according to (many) [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/) I found and the fact that nobody understands neurodegeneration.
+In case you're wondering, he was an idiot. The brain damage, and literally — when memory, speech, and imagination are all impaired, and the patient's in pain, *the brain is damaged* — risked being permanent and irreversible, according to (many) [studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I found and the fact that nobody understands neurodegeneration.
 
 I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then, or better yet, immediately, as soon as I could've started weaning. 
 
