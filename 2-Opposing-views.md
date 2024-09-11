@@ -95,8 +95,10 @@ Then, still not knowing I was going into the woods, a wind pushed me. A wind ble
 
 And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
 
+<!--
 > [!WARNING]
 > As I was doing this, somebody named Tayler, who formerly lived in Texas, was being kidnapped by her bald Jewish husband to New Orleans. 
+-->
 
 <!--
 > [!NOTE]
