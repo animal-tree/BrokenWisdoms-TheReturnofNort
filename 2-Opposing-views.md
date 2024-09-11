@@ -147,7 +147,7 @@ My legs were immobile when I crawled out of the brook.
 > [!WARNING]
 > ### Loony tailored voice
 > 
-> I screamed to the houses nearby, below a nearly full moon in the woods, shouting "Help! Call the ambulance! Really, I need help! Someone call an ambulance!" my voice randomly and suddenly sounding insincere, like a different person's, not mine, somebody’s who I hadn’t heard of or met yet, somebody who was just born in me and didn't trust me and my attempted plea, trusted even the hypothetical people in the neighborhood nearby more than the bearer of the voice.
+> I screamed to the houses nearby, below a nearly full moon, shouting "Help! Call the ambulance! Really, I need help! Someone call an ambulance!" my voice randomly and suddenly sounding insincere, like a different person's, not mine, somebody’s who I hadn’t heard of or met yet, somebody who was just born in me and didn't trust me and my attempted plea, trusted even the hypothetical people in the neighborhood nearby more than the bearer of the voice trying to reach them for help.
 
 <!-- I screamed to a nearly full moon, my voice randomly and suddenly sounding insincere, like my voice was a different person's, not mine or Volyoda's. -->
 
