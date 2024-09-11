@@ -153,7 +153,7 @@ My legs were immobile when I crawled out of the brook.
 > [!WARNING]
 > ### Loony tailored scream
 > 
-> I screamed to the houses perhaps not far off, to the left of a nearly full moon that was visible beyond the direction of the brook, above the rest of the woods. To the left, there was an area that I thought perhaps belonged to a neighborhood. I shouted for help. My voice sounded insincere and casually unafraid, like a different person's, out of tune from what I was thinking and feeling, like somebody’s who I hadn’t heard of yet, like somebody who was just born in me, who didn't trust my attempted plea, who trusted even the hypothetical people in the neighborhood nearby more than the innocence of the bearer of her voice.
+> I was facing a nearly full moon that was visible beyond the direction of the brook, above the rest of the woods. To the left, there was an area that I thought perhaps belonged to a neighborhood. I screamed for help. My voice sounded insincere and casually unafraid, like a different person's, out of tune from what I was thinking and feeling, like somebody who was just born in me, who didn't trust my attempted plea, who trusted even the hypothetical people in the neighborhood nearby more than the innocence of the bearer of her voice.
 
 <!--
 > [!WARNING]
