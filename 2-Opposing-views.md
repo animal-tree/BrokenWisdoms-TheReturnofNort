@@ -83,9 +83,9 @@ After that house, I moved in with my mom to our apartment, where I came up with 
 
 ### Crisis
 
-<!--
+
 I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial." I got a clamp iron, and — how to describe the other tool I used? — "saw knife" might not be what it’s called, a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by; I think "God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor; I cleaned up the blood with paper towels. "Grace" had threatened to kill my mom if I didn't circumcise myself. 
--->
+
 
 It was literally a wind that pushed me into the woods. 
 
@@ -95,10 +95,8 @@ Then, still not knowing I was going into the woods, a wind pushed me. A wind ble
 
 And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
 
-<!--
 > [!WARNING]
 > As I was doing this, somebody named Tayler, who formerly lived in Texas, was being kidnapped by her bald Jewish husband to New Orleans. 
--->
 
 <!--
 > [!NOTE]
@@ -113,7 +111,7 @@ Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoda
 
 It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
 
-<!--
+
 
 I lay in the ground, hearing the train rumble. A part of me thinks it's going to swoop through where I am and run over me. It chugged and whistled. The geese, who'd been taunting me, had flown away. The night rumbled, dark and unloving. I sensed/feared my mom was dead, or dying, or might die, and had done everything possible to evacuate/abort my energy, sitting upright, maneuvering those Kundalini senses by force rather than deep connection, and then: a sudden shock. I believed that my mom had come to find me and had fallen in the brook drowning, perhaps hearing a splash or a scream. I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the freezing water where the water might've not been clean since that was where I thought the maybe-unused sewage pipe maybe was. I jumped in, and flailed my arms around, going underwater trying to find my mom —
 
@@ -131,7 +129,7 @@ I lay in the ground, hearing the train rumble. A part of me thinks it's going to
 
 My legs were immobile when I crawled out of the brook, me then screaming for the ambulance to a nearly full moon in the woods, shouting "Help! Call the ambulance! Really, I need help!" my voice randomly and suddenly sounding insincere, like my voice was a different person's, not mine or Volyoda's, but somebody’s named Tayler, who I hadn’t heard of or met yet. My pants had fallen partially down my legs when I had crawled out of the brook and "God" told me not to adjust them on faith.
 
--->
+
 
 An ambulance found me, wet with brook water, nearly hypothermic. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
 
@@ -173,7 +171,9 @@ My interest in the I Ching began in the House on May St., when I heard of it by 
 
 A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My legs were thawed in some machine and my mom arrived. I was still afraid her life was in danger, but I didn’t say anything. I didn't talk much.
 
-The nurse remarked on some damages I had. 
+<!-- The nurse remarked on some damages I had. -->
+
+The nurse saw and remarked on the slice/gash on my foreskin. There was a lot of confusion about what happened happened next. She wasn't a psychiatric care unit nurse, the information didn't make it into the medical record, and, eventually, my wounds healed.
 
 #### Swallowing my tongue
 
@@ -270,7 +270,7 @@ The I Ching had called those disruptions, the guidances that were navigating me,
 Perhaps this is what I was supposed to learn from the betrayal in my mind’s newly activated much-deeper-more-acute-intense intuitions. However, I suspect maybe something else as the mechanism, something in the collective consciousness, something that brought "Grace," as my work actualized into a paper and my body came to look ever more like Gollum’s — from extreme intelligence to extreme stupidity. 
 
 > [!NOTE]
-> The brook-jumping "baptism" could be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening." Others describe similar phenomena independently, in particular in Hindu tradition, where [psychosis-type symptoms are indeed a well known epiphenomenon of Kundalini awakening.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/)
+> The "circumcision" and brook-jumping "baptism" could be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening." Others describe similar phenomena independently, in particular in Hindu tradition, where [psychosis-type symptoms are indeed a well known epiphenomenon of Kundalini awakening.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/) The resurrection vision symbolically came true and that period concluded around the time when that wheelchair-bound individual had a psychosis revolving around a delusional fear about his own mother dying, and died, in his 50s, that subsequent year, perhaps also with no prior history of mania or psychosis.
 
 #### Discharge from RGH
 
