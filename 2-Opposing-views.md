@@ -493,6 +493,8 @@ In the first month with him, I told him my symptoms. He was cold, authoritative,
 
 At no point did he specify a tapering schedule, and I was begging him.
 
+I should've weaned myself off, without his support, but I didn't have the conviction due to the impairment induced by the drug (as well as the guilt about the earlier psychosis, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood) to go against his recommendation and instruction — and I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then, immediately, as soon as I could've.
+
 In the first session, he asked about my hair loss. He wouldn't believe me the first couple times I answered. He interrogated, rather repeatedly, disbelieving and unconvinced, whether I had pulled the hair out myself. Not only didn't I pull it out myself, but the medical system, the looney system that did, was now making me answer, repeatedly, for whether I was responsible for the literal-crimes they committed.
 
 #### In black and white
@@ -501,7 +503,7 @@ In the second month with him, 3 months into the benzos, my cognition was not jus
 
 The psychiatrist wanted to increase the dose, not realizing that that would start a perpetual race against the brain's downregulation mechanisms. 
 
-In case you're wondering, he was an idiot. I should've weaned myself off, without his support, but I didn't have the conviction due to the impairment induced by the drug (as well as the guilt about the earlier psychosis, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood) to go against his recommendation and instruction — and I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then, or better yet, immediately, as soon as I could've started weaning. The brain damage, and literally — when memory, speech, and imagination are all impaired, and the patient's in pain, *the brain is damaged* — risked being permanent and irreversible, according to studies I found and the fact that nobody understands neurodegeneration.
+In case you're wondering, he was an idiot. The brain damage, and literally — when memory, speech, and imagination are all impaired, and the patient's in pain, *the brain is damaged* — risked being permanent and irreversible, according to studies I found and the fact that nobody understands neurodegeneration.
 
 The brain's GABA being downregulated is like living in an active war zone. Coercively induced, it is, without exaggeration, a legalized form of torture, neurochemical waterboarding, except the effect persists beyond each cranium drowning, without a moment's break for air. Former addicts of heroin or cocaine who were on benzos have reported, in anecdotes I've [seen in pharmaceutical recovery forums](https://www.reddit.com/r/BadPill/), that those side effects and withdrawals of benzo-induced GABA downregulation were worse than the side effects and withdrawals that they had suffered from heroin or cocaine. Not long ago, lobotomies and conversion therapies were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by history as barbaric.
 
