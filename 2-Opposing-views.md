@@ -153,7 +153,14 @@ My legs were immobile when I crawled out of the brook.
 > [!WARNING]
 > ### Loony tailored scream
 > 
-> I screamed to the houses perhaps not far off, to the left of a nearly full moon that was visible beyond the direction of the brook, above the rest of the woods, shouting for help, my voice sounding insincere and casually unafraid, like a different person's, out of tune from what I was thinking and feeling, not mine, like somebody’s who I hadn’t heard of or met yet, like somebody who was just born in me, who didn't trust my attempted plea, who trusted even the hypothetical people in the neighborhood nearby more than the innocence of the bearer of her voice.
+> I screamed to the houses perhaps not far off, to the left of a nearly full moon that was visible beyond the direction of the brook, above the rest of the woods. To the left, there was an area that I thought perhaps belonged to a neighborhood. I shouted for help. My voice sounded insincere and casually unafraid, like a different person's, out of tune from what I was thinking and feeling, like somebody’s who I hadn’t heard of yet, like somebody who was just born in me, who didn't trust my attempted plea, who trusted even the hypothetical people in the neighborhood nearby more than the innocence of the bearer of her voice.
+
+<!--
+> [!WARNING]
+> ### Loony tailored scream
+> 
+> I screamed to the houses perhaps not far off, to the left of a nearly full moon that was visible beyond the direction of the brook, above the rest of the woods. To the left, there was an area that I thought perhaps belonged to a neighborhood. I shouted for help. My voice sounded insincere and casually unafraid, like a different person's, out of tune from what I was thinking and feeling, like somebody’s who I hadn’t heard of or met yet, like somebody who was just born in me, who didn't trust my attempted plea, who trusted even the hypothetical people in the neighborhood nearby more than the innocence of the bearer of her voice, not my mom's, not Volyoda's, a wheelchair-bound man who'd horrifyingly appeared in my mind as I perched with my frozen legs extended in front of me in the dark, before I screamed for help, and not mine.
+-->
 
 <!-- I screamed to a nearly full moon, my voice randomly and suddenly sounding insincere, like my voice was a different person's, not mine or Volyoda's. -->
 
