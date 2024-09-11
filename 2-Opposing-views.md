@@ -173,7 +173,7 @@ A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My
 
 <!-- The nurse remarked on some damages I had. -->
 
-The nurse saw and remarked on the slice/gash on my foreskin. There was a lot of confusion about what happened happened next. She wasn't a psychiatric care unit nurse, the information didn't make it into the medical record, and, eventually, my wounds healed.
+The nurse saw and remarked on the slice/gash on my foreskin. There was a lot of confusion about what happened next. She wasn't a psychiatric care unit nurse, the information didn't make it into the medical record, and, eventually, my wounds healed, no evidence to my knowledge to confirm I did that.
 
 #### Swallowing my tongue
 
