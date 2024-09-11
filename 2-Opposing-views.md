@@ -891,7 +891,7 @@ My grandma taught my mom dancing when they were younger, in Uzbekistan. Seeing m
 I really think had the hospital recommended my grandpa an organic steak/salmon-only diet, and nothing more, they possibly could’ve saved his main artery from being blocked, without a surgery. Then no stents would be put into his healthier narrow arteries, no damaged kidneys, no grueling transit to heart doctor. Just physical therapy and rehabilitation. And maybe many more years, living beyond my grandma.
 
 > [!TIP]
-> ### Steak/salmon-only diet arguments:
+> ### Medical system diet arguments
 >
 > - The idea that red meat causes anything, has never been investigated in the context of organic, grass fed, grass-finished, and wild-caught meat, exclusive. High quality medicine that 2.4 million years in the Ice Age should give nutritionists some hint to. <!-- , and cheaper than the entire benzo industry (["The cost for Xanax 0.25 mg oral tablet is around $583 for a supply of 100 tablets, depending on the pharmacy you visit."](https://www.drugs.com/price-guide/xanax). -->
 > - Inorganic factory-sourced industries, whose practices treat animals inhumanely, in compartments in a factory where they never see the light of day and bloat fat with antibiotics, grains, corn, and soy, can be out-competed by their organic sources where the cows can graze and live with other cows on pastures, under the sun, ethically, if medical institutions specifically sourced only and more, as part of their patient care, from the latter. Living on a grassy pasture with other cows is a good life and not inhumane, in fact better than most hospital environments.
