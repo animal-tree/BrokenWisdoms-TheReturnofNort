@@ -981,8 +981,8 @@ Those environments are where we learn that some people are inferior to others, n
 #### Hair regrowth
 
 > This chapter would need editing
->
-> Full trauma description in bullets:
+
+> Full trauma description:
 
 About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a "manic episode" (but in my "opinion," by an ordinary psychiatric definition, was "psychotic" since the two days of it prior to the hospitalization involved: 
 
