@@ -1037,6 +1037,70 @@ Those environments are where we learn that some people are inferior to others, n
 #### Hair regrowth
 
 > This chapter would need editing
+>
+> Full trauma description in bullets:
+
+About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a "manic episode" (but in my "opinion," by an ordinary psychiatric definition, was "psychotic" since the two days of it prior to the hospitalization involved: 
+
+- God telling me "He" was going to kill my mom if I didn’t circumcise myself;
+- circumcising myself;
+  - I got a clamp iron, and — how to describe the other tool I used? —
+  - "saw knife" might not be what it’s called,
+  - a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by;
+  - I think "God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor;
+  - I cleaned up the blood with paper towels;
+- then God telling me "He" was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, schizophrenic — state I was in;
+- staying in the woods in the freezing snow all day and night;
+- "God" telling me I had to stay there for a week;
+- "God" telling me to choose — "up" or "down" — with a throat movement situation that I sensed — where "up" meant "power" and "siding with men" and "down" meant siding with my mom, and I chose down and kept choosing down;
+- "God" commanding me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there;
+  - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish and we don't celebrate;
+- "God" telling me my mom was drowning in the freezing brook;
+- me jumping in the freezing brook to save my mom who the whole time I thought was dying, and now thought was drowning in the brook;
+- me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, smiling at me with deep defeat from beyond the realms of consciousness, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me — 
+- me then screaming for the ambulance to a full moon in the woods, my voice randomly and suddenly sounding insincere;
+- my pants had fallen partially down my legs when I had crawled out of the brook and God "told me" not to adjust them on faith;
+- the ambulance then finding me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, and bringing me to the hospital;
+- however, I didn’t share any of those details;
+- "God told me" to tell the ambulance responders that I was in there "for pleasure" on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did;
+- and that was all I told the ambulance responders or the first nurses about what happened — "for pleasure";
+- my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
+- a nurse, and I think no one else, saw and remarked on the slice/gash on my foreskin;
+- the foreskin eventually healed, and that is a miracle;
+- [add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of the details of the psychosis, including circumcision]).
+
+There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
+
+- Then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
+- I went into a conscious catatonia and stayed still due to a "command from God" to do so, even as the doctors, who thought I was unconscious, chatted about me being "Jesus" bullying/sarcastically while they dragged my body to the MRI machine;
+- I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
+- there was a lot of confusion after the catatonia, so the information about my foreskin didn’t pass from nurse 1 to people N, or else "mania" wouldn’t have been the diagnosis, and more questions would’ve been asked;
+- that nurse was just there to help thaw my legs to prevent hypothermia and frostbite;
+- then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile in my eyes when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
+  - I felt like a buzzing spark when Marina touched my arm;
+- and the doctor reassured her that I wasn’t (conscious);
+- the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obeying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
+- "God" telling me to wait like that for three days, with my jaw clenched;
+  - this detail also doesn't get shared with anyone;
+- a couple days later, benzos brought me out of the pseudo-catatonia;
+- I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
+- the nurses there were delicate and gentle;
+- then RGH discharged me one week later.
+
+> [!NOTE]
+> I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
+
+I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([this might be esoteric, but that song's lyrics John Lennon had written about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
+
+- **More than two weeks since the first hospitalization**, I end up not sleeping all night; 
+- my sister happened to visit the next day;
+- due to having not slept all night, she was worried I might be going through another manic episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital;**
+- **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
+- **I was there because my sister was worried.**
+
+#
+
+> End description. To do: elaborate how that ties into hair regrowth
 
 I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmon as well). That regrowth started during Tayler, and before the Bar Mitzvah hospitalization. In the Bar Mitzvah hospitalization, it was already regrown in parts and regrowing in others. When my self consciousness returned and I started periodically wearing a hat, the older Sarah woman copied the look and started also wearing a hat when I did. Mobi remarked on my hair  when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). And I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. But the point is, my hair was already growing back, and was already in patches everywhere (on my head), when I was on the steak/salmon-only diet and before the Bar Mitzvah hospitalization. Specifically, at that time (before the Bar Mitzvah hospitalization), I was eating one wild caught salmon every morning and about 5 organic, grassfed, grass-finished steaks per day, and water. In other words, most of my income was going towards recovering from the benzo brain damage, and — while it was working for mood and energy and cognition — I had no idea it would help with hair regrowth.
 
