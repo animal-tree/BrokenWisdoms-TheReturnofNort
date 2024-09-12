@@ -563,7 +563,7 @@ Adding to the suspicion, there were even contradictions in recent studies from p
 >
 > I saw anecdotes in that forum from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals of benzo-induced GABA downregulation were worse than the side effects and withdrawals that they had suffered from heroin or cocaine.
 
-#### International date, suicide attempt, and literally-self-bootstrapped recovery
+#### Scarecrow was actually missing his brain
 
 <p align="center">
 <picture>
@@ -575,7 +575,23 @@ Adding to the suspicion, there were even contradictions in recent studies from p
 
 At after the 6 month point, I gradually reduced the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
 
-Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture. The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. These symptoms started around maybe the 4 month mark while I was still on the benzos and [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year. "This is a very common thing" ([even at lower doses](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). I've read former cocaine and heroin addicts say long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). 
+Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture. The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
+
+#### Meanwhile, Tin Man was actually missing his heart
+
+I remember trying CBD oil or L-theanine  to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different chemicals they had, the woman at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording, due to literal brain damage, was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)).
+
+> [!WARNING]
+> 
+> ### My herbal apothecary
+>
+> [...]
+>
+> Get high my pretties, get high!
+
+#### International date, suicide attempt, and literally-self-bootstrapped recovery
+
+These symptoms started around maybe the 4 month mark while I was still on the benzos and [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year. "This is a very common thing" ([even at lower doses](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). I've read former cocaine and heroin addicts say long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). 
 
 The nightmare I mentioned earlier was a waking one for a year.
 
@@ -586,15 +602,6 @@ The steak-diet saved my ass.
 <!-- If not for that, maybe the scarecrow really would've, forever, lost his brain. -->
 
 Until then, the scarecrow, believe it or not, really didn't have his brain.
-
-> [!WARNING]
-> ### Meanwhile, Tin Man was actually missing his heart
-> 
-> I remember trying CBD oil or L-theanine  to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different chemicals they had, the woman at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording, due to literal brain damage, was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)).
-> 
-> ### Get high my pretties, get high!
->
-> [...]
 
 TO DO: Mention I tried to kill myself, seriously, how my family took the helium tank away
 
