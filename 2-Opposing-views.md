@@ -592,7 +592,7 @@ Until then, the scarecrow, believe it or not, really didn't have his brain.
 > 
 > I remember trying CBD oil or L-theanine  to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different chemicals they had, the woman at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording, due to literal brain damage, was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)).
 > 
-> ### "Get high my pretties, get high!"
+> ### Get high my pretties, get high!
 >
 > [...]
 
