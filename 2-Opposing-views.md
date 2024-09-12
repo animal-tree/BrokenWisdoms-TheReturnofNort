@@ -1039,9 +1039,9 @@ Then:
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
 - **I was there because my sister was worried.**
 
-#
+> End description. To do: elaborate, even a little, how that ties into hair regrowth
 
-> End description. To do: elaborate how that ties into hair regrowth
+#
 
 I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmon as well). That regrowth started during Tayler, and before the Bar Mitzvah hospitalization. In the Bar Mitzvah hospitalization, it was already regrown in parts and regrowing in others. When my self consciousness returned and I started periodically wearing a hat, the older Sarah woman copied the look and started also wearing a hat when I did. Mobi remarked on my hair  when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). And I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. But the point is, my hair was already growing back, and was already in patches everywhere (on my head), when I was on the steak/salmon-only diet and before the Bar Mitzvah hospitalization. Specifically, at that time (before the Bar Mitzvah hospitalization), I was eating one wild caught salmon every morning and about 5 organic, grassfed, grass-finished steaks per day, and water. In other words, most of my income was going towards recovering from the benzo brain damage, and — while it was working for mood and energy and cognition — I had no idea it would help with hair regrowth.
 
