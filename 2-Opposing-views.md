@@ -1031,6 +1031,8 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - the nurses there were delicate and gentle;
 - then RGH discharged me one week later.
 
+Then:
+
 - **More than two weeks since the first hospitalization**, I end up not sleeping all night; 
 - my sister happened to visit the next day;
 - due to having not slept all night, she was worried I might be going through another manic episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital;**
