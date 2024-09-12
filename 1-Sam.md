@@ -59,23 +59,23 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Comedic Aside: Sexier moments during Chenliang tenure:
         - Tayler
       - More Seriously
-        - Rituals, Religion, & Hell
-        - Mobi
+        - Rituals, Religion, & HellMobi
         - I didn't mention fingernails (fingernails regrowth)
         - How my grandma got dementia
         - How my grandpa died
         - When my grandma died
+          - Medical system diet arguments
         - Ascent of a Jewish old grandpa
         - Geriatric unit hospitalization
-        - Warmth, nature, and organic-type foods
-        - Schools
+        - Kids
+          - Mobi
         - Hair regrowth
-        - Future hair losses
         - Intimacy healing
         - The artificial and synthetic
         - AI
       - Niaz Abdolrahim (okay, some more not-tragedy)
       - Chris Kanan
+      - Future hair losses
       - Tom Howard
       - Charles Venuto
       - Recap
