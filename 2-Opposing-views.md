@@ -342,8 +342,9 @@ The steak-diet saved my ass.
 
 <!-- If not for that, maybe the scarecrow really would've, forever, lost his brain. -->
 
-- TO DO: Mention/describe that I tried to kill myself, my family took the helium tank away.
-- TO DO: Mention/describe that I had to buy waist straps to get myself off of the couch.
+TO DO: Mention/describe that I tried to kill myself, my family took the helium tank away.
+
+TO DO: Mention/describe that I had to buy waist straps to stay upright as I was recovering.
 
 And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), and I still had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense.
 
