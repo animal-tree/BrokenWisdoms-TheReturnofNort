@@ -616,6 +616,32 @@ It's the delusion that doctors and hospitals are trying to heal. However, in tha
 
 Later, my best friend returned, literally. We were texting and he remarked, without prompt, saying if he were a Devil, he'd be a "snarky Devil." He texted me that of his own accord, knowing nothing about the hospitalization, no context, no prompt.
 
+#### Hair regrowth
+
+Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare/unprecedented. 
+
+I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmon as well).
+
+I was eating one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, organic black pepper and salt, and water. Most of my income was going towards recovering from the benzo brain damage — and it caused hair regrowth. 
+
+See [here](4-Faith.md#mikhaila-peterson) for what inspired that diet.
+
+In the hospitalization after the Sarah-one, [Mobi](#mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
+
+I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
+
+When my self consciousness returned and I started periodically wearing a hat, the older-Sarah woman copied the look and started also wearing a hat when I did.
+
+As if the Tayler time period wasn’t synchronistic enough, it coincided with this miraculous hair regrowth.
+
+[In the next hospitalization, in the geriatric unit](#geriatric-unit-hospitalization), there was another guy my age. I sat with him every day towards my last days there at the window. He and I talked. I described Tayler to him in vague terms. We were talking about deep things, really deep things. I told him about my self consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me.
+
+But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
+
+My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization).
+
+That sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Even more medically rare/unprecedented: the full head hair regrowth in alopecia universalis was with comorbid eczema.
+
 #### I didn't mention fingernails (fingernails regrowth)
 
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].
@@ -869,25 +895,6 @@ Nobody, not even my mom, was aware of the "circumcision" and "stick" details unt
 > Yes, I know much of this is unbelievable. Here are the parts that can (not necessarily will) be verified: my preexisting social anxiety and unlikelihood to make all of this up, house on May St., lack of prior mania/psychosis history, Christmas, 2018 brook-jumping "mania," ambulance driver, that nurse who saw my foreskin gash, the police officers I shook hands with, hospitalization "catatonia," the conversation I overheard when the people wheeling me thought I was unconscious, my sister's touch and conversation, Sarah,  me telling my mom about the Volyoda delusion/association I had in the woods before his death, Volyoda's sex-offender registration and death, my Taylor-CAM paper archival date, the digital private interactions with Tayler in summer, 2020, my full-head hair regrowth, and all of the details of my next hospitalization in Fall, 2020.
 >
 > Also, [here is a more believable summary of this psychosis from an earlier commit](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/57fde86227cbc35a4d7e8aa3e02f199038f6663c/2-Opposing-views.md#psychosis-and-rochester-general-hospital-rgh), and here is a separate summary of these [synchroncities](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md).
-
-<!--
-> [!NOTE]
-> 
-> The "circumcision" and brook-jumping "baptism" could be interpreted as spiritual birth/rebirth, in contrast to the Bar Mitzvah hospitalization that happened 2 years later, coinciding again with Kundalini (a Hindu concept) physical sensations ([known to coincide with psychosis-type symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/)). The yogic grace guidances, I'd interpreted since the house on May St., as Tao. The Christmas timing was purely coincidence. The resurrection vision came true and only concluded around the time that same envisioned wheelchair-bound individual had a psychosis revolving around a delusional fear about his own mother dying, and died, in his 50s, that subsequent year (2019), perhaps also with no prior history of mania or psychosis. Yet the subsequent year (2020), when I was feeling like I might've as well had the romantic/societal status of that wheelchair-bound individual due to the medically-induced alopecia universalis and benzo trauma, who was a sex-offender, Tayler appeared, beginning interaction with me, exactly a week after my Taylor-CAM paper, a cam-girl ("Taylor-CAM"). Within the next 3 - 5 months, my head hair fully grew back. Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare/unprecedented. 
--->
-
-I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmon as well). That regrowth started during Tayler, and before the Bar Mitzvah hospitalization. In the Bar Mitzvah hospitalization, it was already regrown in parts and regrowing in others. When my self consciousness returned and I started periodically wearing a hat, the older Sarah woman copied the look and started also wearing a hat when I did. Mobi remarked on my hair  when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). And I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. But the point is, my hair was already growing back, and was already in patches everywhere (on my head), when I was on the steak/salmon-only diet and before the Bar Mitzvah hospitalization. Specifically, at that time (before the Bar Mitzvah hospitalization), I was eating one wild caught salmon every morning and about 5 organic, grassfed, grass-finished steaks per day, and water. In other words, most of my income was going towards recovering from the benzo brain damage, and — while it was working for mood and energy and cognition — I had no idea it would help with hair regrowth.
-
-And, by the way, that sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Full head hair regrowth in alopecia universalis is nearly unprecedented. Actually, even more medically rare/unprecedented: full head hair regrowth in alopecia universalis with comorbid eczema.
-
-In the next hospitalization, in the geriatric unit, there was another guy my age. I sat with him every day towards my last days there at the window. He and I talked. I described Tayler to him in vague terms. We were talking about deep things, really deep things. I told him about my self consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me.
-
-But, in case the detail was missed ("since chunks of it were falling out again in that geriatric unit"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
-
-- I even fasted during Tayler, before the Bar Mitzvah hospitalization, before my hair grew back, so strict discipline wasn't what caused it to fall out in December. It was a prolonged fast, about 7 days. I did 3 prolonged fasts in my life. Only that one corresponded (later) with hair regrowth. During that period, before my hair regrowth and during Tayler and before the Bar Mitzvah hospitalization, I was only doing steak/salmon-only diet, strictly. That was the recurrence where my head fully grew back hair completely (TO DO: link to photo of me).
-- The Bar Mitzvah hospitalization had given me a lot of junk food and I was eating lots of sweets after, as well, still on the dietary momentum from that hospitalization, even chocolate-chip cookies and cakes and things like that, somewhat addictively. But then I resumed strict discipline and a steak-primarily diet maybe a month or so after. I think steak/salmon-only. Amazingly, my eczema didn't return during the Bar Mitzvah hospitalization or after. Eczema was teh reason I couldn't visit Tayler, though I wnated to, but at that point Tayler was seeing other guys, not to mention still living, as I'd learned, with her ex-boyfriend, not the bald Jewish husband.
-- Besides the geriatric unit hospitalization, the period of eating sweets starting from the Bar Mitzvah hospitalization might've caused the hair loss. Other than those two hospitalizations, the social pain of losing Tayler might've contributed as well. The other two times my hair would grow back happened during an isolated period and a more-social period, respectively, both when I was strictly doing steak/salmon-only diet with some Paleo leniency. The isolated period was also a work-intensive period, but there was less pressure on me at that time from Chenliang than during the December, 2020 when my hair started falling out, since in December, 2020 I was under strict deadlines and in a new group, whereas later I earned credibility in Chenliang's group and was more permitted to manage my own labor (more so anyway, and in addition to the Mechanical Engineering lab I was assigned to). However, the late-Summer, 2020 hair regrowth also happened while Chenliang was already my advisor. Those isolated-period hair regrowth and more-social period hair regrowith are discussed more below in [Future hair losses](#future-hair-losses).
-- My hair was falling into my hands first in the geriatric unit in December, 2020.
 
 #### Future hair losses
 
