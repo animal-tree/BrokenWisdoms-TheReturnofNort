@@ -280,7 +280,7 @@ In the first month with him, I told him my symptoms. He was cold, authoritative,
 
 At no point did he specify a tapering schedule, and I was begging him.
 
-I should've weaned myself off, without his support, but I didn't have the conviction due to the impairment induced by the drug (as well as the guilt about the earlier psychosis, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood) to go against his recommendation and instruction.
+I should've weaned myself off, without his support, but I didn't have the conviction due to the impairment induced by the drug (as well as the guilt about the earlier psychosis, and me questioning even the most basic logic and instincts I perceived, while noticeably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood) to go against his recommendation and instruction.
 
 In the first session, he asked about my hair loss. He wouldn't believe me the first couple times I answered. He interrogated, rather repeatedly, disbelieving and unconvinced, whether I had pulled the hair out myself. Not only didn't I pull it out myself, but the medical system, the looney system that did, was now making me answer, repeatedly, for whether I was responsible for the literal-crimes they committed.
 
