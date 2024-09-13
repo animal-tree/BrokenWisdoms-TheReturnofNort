@@ -854,7 +854,7 @@ I went into a conscious yogic surrender of all muscle due to a command from thos
 
 Incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish.
 
-Nobody, not even my mom, was aware of the "circumcision" detail until at least 2022.
+Nobody, not even my mom, was aware of the "circumcision" and "stick" details until at least 2022.
 
 > [!NOTE]
 > 
