@@ -814,7 +814,7 @@ I didn’t eat steak, because of course they couldn’t afford it. Could you ima
 
 #### Kids
 
-These traumas are inflicted on kids, in hospitals and schools alike. School, today, is where kids give the best hours of their day. It's where, today, kids obey authority and follow merciless programs. It's where, amid concentration camp standards, kids bully and/or suffer bullying. Hospitals and schools should take spiritual inspiration from: summer camps (no coercion, social), monasteries (connection to wisdoms), and the fact that YouTubers make better educational content through their channels than what most schools offer, except way faster and (often) more truthfully/deeper/intelligently/respectfully-to-audience/entertainingly.
+These traumas are inflicted on kids, in hospitals and schools alike. School, today, is where kids give the best hours of their day. It's where, today, kids obey authority and follow merciless programs. It's where, amid concentration camp standards, kids bully and/or suffer bullying. Hospitals and schools should take spiritual inspiration from: summer camps (no coercion, social), monasteries (connection to wisdoms), and the fact that YouTubers make better educational content through their channels than what most schools offer, except way faster and (often) more truthfully/deeper/intelligently/respectfully-to-audience/entertainingly when it comes to learning the "smart" stuff.
 
 <!--
 Let's now regress back to childhood.
