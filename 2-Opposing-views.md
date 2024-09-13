@@ -671,8 +671,6 @@ She told me when we were sitting in the backseat of the car, perhaps when we wer
 
 Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
-Without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads.
-
 #### How my grandma got dementia
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
