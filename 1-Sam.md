@@ -71,6 +71,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Kids
           - Mobi
         - Christmas, 2018 trauma, Volyoda, and hair regrowth
+          - Hospital logistics
+          - Resisting Kundalini "rising"
         - Intimacy healing
         - The artificial and synthetic
         - AI
