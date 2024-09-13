@@ -190,8 +190,6 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 Sarah was 24 when we met, a year older than me.
 
-In my second hospitalization, the environment was better than RGH's. I made friends with Sarah and Hudson and others. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, one of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was by far the best care unit I was gated by armored vault into.
-
 We played Guitar Hero, I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
 
 So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
