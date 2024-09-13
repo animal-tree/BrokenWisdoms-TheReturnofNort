@@ -797,6 +797,8 @@ Those environments are where we learn that some people are inferior to others, n
 
 #### Christmas, 2018 trauma, Volyoda, and hair regrowth
 
+> Chapter is in progress
+
 I got a clamp iron, and — how to describe the other tool I used? — "saw knife" might not be what it’s called, a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by; I think "Tao"/"God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor; I cleaned up the blood with paper towels. "Tao"/"God" had threatened to kill my mom if I didn't circumcise myself. I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial." 
 
 Then "Tao"/"God" told me it/He was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, schizophrenic — state I was in.
