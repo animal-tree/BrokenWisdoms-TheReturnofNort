@@ -220,10 +220,8 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 When I first arrived, as I first left my psychiatric unit room, and turned right, I followed the music, as it followed in pace with me. The music was playing exactly in tune with my steps. From the open-area lounge area far ahead to the left, with big doors, honestly beautifully, he was there playing the piano.
 -->
 
-### My trauma
-
 > [!NOTE]
-> ### Israel birthright trip, and Jeremiah
+> ### Jeremiah
 >
 > Fun story, I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
 >
@@ -235,6 +233,8 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 >
 > He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
 >
+> <!--
+> 
 > Jeremiah looks exactly like the lion from Wizard of Oz.
 >
 > He told me, I'm remembering now, as I figure out how to structure this story, in a diner while we were eating, that his spirit animal — I think he said "spirit animal," or the animal he would be anyway, if he were an animal other than a human — is a lion.
@@ -247,9 +247,14 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 >
 > Jeremiah is brave.
 >
-> Jeremiah had the bravery to go places others wouldn’t. <!-- True bravery is needed in medicine, including psychiatric. For example, on the question of whether benzos are sufficiently more "medical" than alcohol, psychiatrists would need a lot of bravery to do a proper control study on, for example, whether "shots" of organic 100% agave blue reposado tequila, such as those in a really high-end margarita (not the pizza), might actually be safer and just as useful/helpful for patients as benzos in the same diagnostic contexts. Most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. -->
+> Jeremiah had the bravery to go places others wouldn’t. True bravery is needed in medicine, including psychiatric. For example, on the question of whether benzos are sufficiently more "medical" than alcohol, psychiatrists would need a lot of bravery to do a proper control study on, for example, whether "shots" of organic 100% agave blue reposado tequila, such as those in a really high-end margarita (not the pizza), might actually be safer and just as useful/helpful for patients as benzos in the same diagnostic contexts. Most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. -->
 >
-> And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
+> Jeremiah is a hobbit, a fellow hobbit.
+>
+> <!-- And he has a good Jewish sense of humor sometimes. -->
+> I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
+
+### My trauma
 
 #### Clicking their healing pens three times
 
