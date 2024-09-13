@@ -60,6 +60,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Tayler
       - More Seriously
         - Rituals, Religion, & HellMobi
+        - Hair regrowth
         - I didn't mention fingernails (fingernails regrowth)
         - How my grandma got dementia
         - How my grandpa died
@@ -69,7 +70,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Geriatric unit hospitalization
         - Kids
           - Mobi
-        - Hair regrowth
+        - Christmas, 2018 trauma, Volyoda, and hair regrowth
         - Intimacy healing
         - The artificial and synthetic
         - AI
