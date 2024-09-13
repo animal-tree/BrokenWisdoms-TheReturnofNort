@@ -258,7 +258,7 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 
 #### Clicking their healing pens three times
 
-My trauma revolves around three psychiatrists, whose pens most certainly are the sage mechanism of healing professed across all the lands, wisdoms of mankind's tomes, and depths of humanity's instincts, perhaps by which the scripts of the world's stage themselves are written, on and via psychiatric script-pads, with powers of God over consciousness.
+My trauma revolves around three psychiatrists. <!-- whose pens most certainly are the sage mechanism of healing professed across all the lands, wisdoms of mankind's tomes, and depths of humanity's instincts, perhaps by which the scripts of the world's stage themselves are written, on and via psychiatric script-pads, with powers of God over consciousness. -->
 
 The first psychiatrist wasn't bad, a young guy who understood my hesitation about taking benzos, knew I was arguing against using them to the nurses and to him, and reassured me I'd be off them before discharge. We walked together in the hall and he sensed that I was bright. The social lubricant of benzos gave me "flying colors" that I think he sensed were authoritative, about my knowledge of benzos and intelligence. He said I'd be weaned off before the discharge, and that was the schedule. I felt pretty at ease, in the sense that I had the energy to communicate colorfully to him. I was under the impression for a while I would be weaned off from the drugs before discharge. He reassured, I would be weaned off *before* discharge.
 
