@@ -948,7 +948,7 @@ I lay in the ground, hearing the train rumble. A part of me thinks it's going to
 > [!NOTE]
 > The benzo debilitation, combined with the hair loss, will socially and medically alienate me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true, in my status and health in society. More than that, my recovery from those injustices, in the subsequent year, only began around the time when [he died in a psychosis revolving around, as my mom learned, fear of his mom dying](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), also with no previous history of mania or psychosis to my knowledge, a 50-something year old man.
 
-My legs were immobile when I crawled out of the brook, me then screaming for the ambulance to a nearly full moon in the woods. My pants had fallen partially down my legs when I had crawled out of the brook and "Tao"/"God" told me not to adjust them on faith.
+I thought my legs were immobile when I crawled out of the brook, me then screaming for the ambulance to a nearly full moon in the woods. My pants had fallen partially down my legs when I had crawled out of the brook and "Tao"/"God" told me not to adjust them on faith.
 
 > [!WARNING]
 > ### [Looney tailored scream](https://github.com/user-attachments/assets/b7233aed-b39a-42ef-9d98-b0a2ebce7d19)
