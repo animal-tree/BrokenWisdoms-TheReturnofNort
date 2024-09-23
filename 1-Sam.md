@@ -37,7 +37,6 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - Charles Venuto
       - Henry Kautz
         - Fall, 2018 semester, and the Dead Marshes
-          - Buffy
         - Psychosis crisis
         - Rochester General Hospital (RGH)
           - Christmas Eve/Day, 2018
