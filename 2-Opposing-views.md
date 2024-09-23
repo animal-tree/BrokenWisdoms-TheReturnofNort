@@ -699,7 +699,7 @@ The House on May St., in retrospect was one big synchronicity. I got the Faceboo
 
 So the word "synchronicity" was already familiar, as was Jung, as was Kundalini, as was Grace, by the time Sarah and I met in the hospital. 
 
-We played Guitar Hero, I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah, another inpatient, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
+We played Guitar Hero, I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
 
 So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
 
