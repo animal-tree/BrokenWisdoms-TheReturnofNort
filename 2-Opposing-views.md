@@ -227,7 +227,7 @@ My trauma revolves around three psychiatrists.
 > 
 > ``I kept begging him to taper in later sessions as well, and he said if I was having all those negative symptoms, that we should increase the dose. That would've started a perpetual race against the brain's downregulation mechanisms. Psychiatrist 3 wanted to increase the dose.``
 
-I argued against the benzos with all 3 psychiatrists. [TO DO: Specify in "Flying colors" what I argued, and that I argued articulately with them, sufficiently so, e.g., "I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering."]
+I argued against the benzos with all 3 psychiatrists. <!-- [TO DO: Specify in "Flying colors" what I argued, and that I argued articulately with them, sufficiently so, e.g., "I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering."] -->
 
 With Psychiatrists 1 and 2, I only took them due to the threat of court order. [TO DO: "I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics." is better phrasing. State in "Flying colors" chapter]
 
