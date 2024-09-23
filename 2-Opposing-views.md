@@ -1,3 +1,5 @@
+<!-- # <p align='center'> Book 1, "Opposing views" </p> -->
+
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
 <picture>
@@ -7,7 +9,9 @@
 </a>
 </p>
 
-## Part 1 
+# Part 1 
+
+<!-- ``2017 - 2018`` -->
 
 - **University-provided health insurance (Aetna)**
 - **University-hospital doctor**
@@ -47,7 +51,9 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 </a>
 </p>
 
-## Part 2
+# Part 2
+
+<!-- ``2018 - 2020`` -->
 
 - **University-hospital psychiatrists**
 - **University outpatient doctor**
@@ -57,9 +63,9 @@ This is going to be hard. What the fuck can I say? I was going to exclude this w
 
 Eczema leads to hair loss leads to depression and worsening psychiatric state…
 
-### House on May St.
+## House on May St.
 
-My hair fell out while I rented a room in a *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
+My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
 
 It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. Of some of the PhD students who visited me, some needed housing, and later the landlord and I showed them around the rooms (maybe not even prior to me furnishing any of the other bedrooms, which the landlord didn't mind that I'd done, seeing as my best friend and I also beautifully furnished that whole house together during one of my best friend's visits early when I moved in, really beautifully, and that increased the value of the house more, in addition to the sofa and tables and furnishings and beds and desks that the landlord provided — did I mention the word "miraculous" yet?), and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. I did end up renting out the attic (which was like a studio apartment, well, a giant room) to one of my friends from high school for the landlord after maybe 4 months of having the place to myself, and even then it was pretty much entirely my house, though he also set up a DJ station for himself in the basement since he threw raves (not in the house), and had his girlfriend over, but he kept quiet, and he wasn't a grad student, but the landlord had a strong belief in my judgement — again, a miraculous thing.
 
@@ -67,17 +73,23 @@ Pets weren't allowed, but that's okay, because there was a [semi-adopted stray w
 
 Months before I moved out, I became the admin/moderator of the [university Facebook housing page](https://www.facebook.com/groups/1112684565415024/) by chance, because the actual admin posted he was looking for a student to moderate the page for him, and I responded that I could do it. My landlord didn't know (and probably still doesn't) that I'm the effective-admin/moderator of that page. Also, since then, I've messaged the manager/admin of that group multiple times to give the moderation to someone else or moderate it himself and he hasn’t replied, and doesn't appear to use Facebook, so hereforth I'm permitting myself to call myself the admin. I’m glad to moderate, but not super good at keeping up to date with it. So, after there was no chance left of getting to keep the place to just myself and friend longer, I ended up finding University of Rochester grad students to fill all 4 bedrooms of the house, and all 4 bedrooms of the neighboring house, also belonging to the landlord — I think "semi-detached home" is what it's called — and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to my landlord's email and my landlord's email flooded with other PhD students looking to fill that house, including one of the ones who’d originally wanted and planned to who I'd notified (he moved into the attached one). I ended up adding my landlord to that page, where, technically I'm not supposed to allow landlords, only students. Sorry for this phrasing, but the landlord’s house is now "never lacking" in interested grad students looking to rent from him. In fact, lucky for him, the neighboring commercial building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in).
 
-I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many aesceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
+I also grew out a full beard and full mustache mostly in those first months I lived in that May St. house, based on some intuition. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) on December 15th, 2017 at that house and encouraged me to shave it (just before we went to a rave that day, the other friend's who would later move in with me, coincidentally), some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
 
-I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight standard deviations by an intelligence — like the biological kind (or modeled by the artificial kind) — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
+<!--
+full beard (except a really small patch probably from a lifetime of topical eczema creams, as my pediatrician told me was happening in high school or college) and full mustache
+
+The beard had a really small bald patch, [not very unnoticable](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), prior to cessation from Dupilumab, the entire time it was growing out. My arms and legs were always very smooth, and my pediatrician, back when I was still seeing him in my Freshman year of college, diagnosed that lack of hair growth at parts of my body as being probably due to the use of prescribed topical creams for eczema on those parts of my body. The very corner of my eyebrow was also very slightly receding in college. My chin and forehead were two areas where I got eczema and had applied those creams sometimes in high school and college. The entirety of my head, central eyebrows, eyelashes, armpits, and pubic hair weren't.
+-->
+
+I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many asceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
+
+I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight divergences by an intelligence — like the biological kind (or modeled by the artificial kind) — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions. <!--, e.g., the possibility of *discriminatory*, subtle interventions, e.g., the I Ching, wasn’t entirely impossible, though I hadn’t heard of the I Ching yet, not until shortly after, largely by chance. -->
 
 In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The instructor I learned from through the TM program was trained directly by the creator/translator of the technique, Maharishi Mahesh Yogi, the guru/yogi the Beatles infamously learned their meditation practice from. I experienced the subtle sinking/melting of my state of consciousness, including visceral physiological sensations, perhaps what some people have observed/called as "Kundalini," that I hadn't heard of yet and came to from Googling my physical sensations, that felt as though they were a movement in my esophagus, trachea, or into my third eye, incredibly visceral and physical. The meditation brought my consciousness to a sublime state and alleviated my social anxiety.
 
-Later, after some time without that "Kundalini" sensation, I described how I theorized TM might work to another skeptical PhD student, my friend Mohsen, who'd actually visited me in that house and met "Batman" once, but on a hiking/camping/kayacking/hotel trip much later in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory — one that I would say is more accurate.
-
-I also grew out a full beard and full mustache in those first months I lived in that May St. house, based on some intuition. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) on December 15th, 2017 at that house and encouraged me to shave it (just before we went to a rave that day, the other friend's who would later move in with me rave, coincidentally), some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
-
-The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyebrows, eyelashes, armpits, and pubic hair weren't.
+<!--
+Later, after some time without that "Kundalini" sensation, I described how I theorized TM might work to another skeptical PhD student, my friend Mohsen, who'd actually visited me in that house and met "Batman" once, but on a hiking/camping/kayacking/hotel trip much later in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory —  but I can't remember what it was. I have notes in a small red journal (not a reference to Jung's "Red Book," but I was reading Jung at the time) [here](). To do: find journal and link photos
+-->
 
 It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
 
@@ -125,8 +137,6 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
   - I felt like a buzzing spark when Marina touched my arm;
 - and the doctor reassured her that I wasn’t (conscious);
 - the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obeying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
-- "God" telling me to wait like that for three days, with my jaw clenched;
-  - this detail also doesn't get shared with anyone;
 - a couple days later, benzos brought me out of the pseudo-catatonia;
 - I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
 - the nurses there were delicate and gentle;
@@ -143,7 +153,7 @@ I felt, ever since that sensation that my tongue was going back into my throat, 
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
 - **I was there because my sister was worried.**
 
-### Psychiatry at the University of Rochester's Strong Hospital
+## Psychiatry at the University of Rochester's Strong Hospital
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$.
 
@@ -161,7 +171,7 @@ For the first three or so weeks, I was really, really drunk/high. Then the fog r
 
 I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
-### Benzodiazepine ("benzos") mechanism of action
+## Benzodiazepine ("benzos") mechanism of action
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
@@ -173,308 +183,85 @@ I was also on antipsychotics, but these next chapters will not be about antipsyc
 
 This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
 
-Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic. 
-<!-- 
-<sup>$^\text{\color{green}1.}$</sup>
+Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.<sup>$^\text{\color{green}1.}$</sup>
 
-$^\text{\small\color{green}1.:}$ <sup>Time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier.</sup> 
--->
+$^\text{\small\color{green}1.:}$ <sup>Time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier.</sup>
 
 #
 
 Let's begin a simplified explanation of the brain's neuron. Neurons are cells that are connected to one another by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory," that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks.
 
-Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally, from the parts that are understood to the parts that almost entirely aren't, including some of the most important regions of intelligence whose healthy metric level of functioning is extremely hard to measure behaviorally, clinically, and longitudinally across variants of factors, and necessary for quality living, e.g., the hippocampus responsible for long-term memory. Alcohol does this too, but humans have provably evolved natural mechanisms of recovering from small doses of alcohol thanks to fermented fruit existing in nature. Benzos seem like a Godsend, a Panacea, especially since you're less likely to feel a headache the next day from them for the same effect, but the evidence isn't strong enough to support they're better than alcohol. From what I've gathered, benzos are worse. Since it's somewhat relevant, [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) is a video I made on evolutionary algorithms in deep learning.
+Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally, from the parts that are understood to the parts that almost entirely aren't, including some of the most important regions of intelligence whose healthy metric level of functioning is extremely hard to measure behaviorally, clinically, and longitudinally across variants of factors, and necessary for quality living, e.g., the hippocampus responsible for long-term memory. Alcohol does this too, but humans have provably evolved natural mechanisms of recovering from small doses of alcohol thanks to fermented fruit existing in nature. Benzos seem like a Godsend, a Panacea, especially since you're less likely to feel a headache the next day from them for the same effect, but the evidence isn't strong enough to support they're better on the brain in the long-term than alcohol. From what I've gathered, benzos are worse. Since it's somewhat relevant, [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) is a video I made on evolutionary algorithms in deep learning.
 
 Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. Benzos are a floodbath of GABA, and your brain responds to those GABA bursts by "downregulation," even long, long after cessation.
 
-### The unsampled world at Clover St.
-
-My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car the hypothetical Devil would drive. Compared to the cars my mom and I drove, it was much newer, much nicer. She was working as a nurse at the time and making a middle class income. My mom was working two jobs, and I was a doctoral student.
-
-When we were driving, I remember we stopped at Clover St., due to a red light, and some instinct told me to jump out. The feeling was ominous. But together with that ominous feeling, as the drive progressed, I sensed that a million worlds existed, and that all of them had evolved to converge to this one. So I sat somewhat reassured, in an uneasy anxiety, that what was happening will be okay. 
-
-Except, the sense/vision/idea was wrong, this time. Instead of my fanciful ideas about quantum stochasticity in a single universe, I had this bizarre idea, specifically on this transit, about "Many worlds" — I know, how original. "Many worlds" is a standard interpretation in quantum physics, often an alternative to Copenhagen which also, like me, both usually and I guess in my version here, tends to assume a single universe.
-
-In “Many worlds," or at least my version that I was conjuring up in my mind in the car, or I should say was pouring into my mind through just sheer awareness, everything that happened in the universe was evolved, through countless cycles of different trajectories, over cosmogenesis origins upon cosmogenesis origins, into the perfect exact happenings that were happening then. Now that's not really “Many worlds." That's one world, where it just cycles many times, and we just happen to be in the version that cycled in this way.
-
-"Many worlds" is more nuanced. It says: there's a LOT of worlds — like at least 6. No, maybe a million. No, googolplex. Infinity! Undefined! And we're in this one, because "reasons."
-
-Both of these theories/interpretations are wrong. But neglecting to explain why for now, I think either of these serve as an accessible way to quickly show that, even under a pretty standard physics interpretation, the possibility of "God" is not... I think the word I want to use is "not necessarily stupid."
-
-I mentioned stochasticity in the universe's quantum mechanics. That means randomness. The universe, as it's theorized today, is fundamentally probabilistic. And physics does a great job of telling us that those probabilities are probabilities. No no, just look at Schrödinger’s quantum wave function. See, it's a bunch of probability densities that splash around like a kiddie pool. And when those waves are especially high, that's where the particle is more likely to get sampled, or that's the more likely velocity of the particle, or that's the more likely "World" that gets sampled, or in my especially terrible vision, that's the "Cycle" that the universe just permanently converges to forever. 
-
-So where can "God" fit into any of those interpretations, besides the last one being just "Godawful," no-pun-unintended (my puns are deterministic)? Well, ultimately, something has to select which world gets chosen. One way that could happen is through just the magic power of randomness. Another way, is that some *will* known as "standard deviation" is able to allocate the probable from the improbable, and, within its holy bounds, tilt the scales a bit. The "Sampler" — who is the "Sampler"?
-
-I sensed an ominous feeling as we were driving, and that same inner sense that gave me that kind-of vision about the many cycling-evolving worlds converging to this moment’s exact perfection, told me to make a run for it when we stopped at Clover St., at a red light. My doctoral advisor, Henry, actually lived on Clover St.
-
-My sister’s car was big and red, like a giant Dirt Devil, and before we got into it, I immediately had the "Devil" association, appear like a fear in my mind, the first omen (ominous sense) of that drive. Well, the "Sampler" that was about to sample my fate could only have been a little red vacuum cleaner, because, this transit, not specifically just this transit but this transit as well, was taking me to Hell, and the Devil drive did not end on Clover St., nor on the hospital grounds. No, each ticking moment from the drive to the psychiatric unit, even back to home, was a cruise controlled, speed-limit-obeying, insidious, maybe even pleasant drive, deeper, into Hell, to a Hell of mind that only one door leaves.
-
-But at this time, we were stopped on Clover St. And there was my doctoral advisor’s big house, on this street, that I could’ve, hypothetically, run to, in one of the many other worlds. 
-
-My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
-
-As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
-
-### Hospitalization at the University of Rochester's Strong Hospital
-
-#### Sarah
-
-After the Christmas, 2018 trauma, I wasn’t able to access my meditation anymore. The mystical phenomenon I physically sensed was stunted. Those Kundalini sensations, and the complete transcendence of my psyche, stopped. 
-
-It was like the breath that had been passing through my system had gotten locked into some bigger entity, that was asymmetrical, overly strong, and just leaning to one side. 
-
-The meditation still relaxed me. I still felt less social anxiety afterwards. It still gave my thoughts more peace. But physically, it felt neither like bliss nor like a body part that I directly controlled. I couldn’t maneuver the breath, kundalini, blood circulation, whatever it was, through the different areas of my physical psyche, and my given mantra, that I repeated silently in my mind as part of the meditation, didn’t carry itself to the same places of silent acuity that it naturally and effortlessly did before, where rather than the hard sensation of speaking my inner voice that now characterizes my mantra’s audition, the mantra had before "melted," "sunk," become so soft until it literally couldn’t be heard and all of my thoughts were then fully adherent to both my will and my natural rhythm, yet silently, and no energy was lost no matter how verbosely or viscerally I thought then, and each one came like ["endless rain into a paper cup,"](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v) where just the right word, or visual or association, corresponded to both my will and my rhythm, beautifully, sometimes blissfully, sometimes catastrophically, maybe even orgasmically, quite organically. It was on that plane of consciousness that I'm trying to describe [that I wrote this paper.](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) 
-
-[People mention the "inner monologue" vs. other types of thinking debate](https://www.iflscience.com/people-with-no-internal-monologue-explain-what-its-like-in-their-head-57739). That is a good analogy to the kind of consciousness transition I did while meditating, where my thoughts had become increasingly more acute, and were at the end, both. Both an awareness independent of words and words that perfectly matched that awareness, no matter how deep or intricate, then. And the awareness itself could carry far more information, and with each word (like ["endless rain into a paper cup"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl)) less energy was used and no exhaustion would arise.
-
-Now, some big lump pushed to the right of my throat and perhaps into my head, that same moving fist that was once an acute breath which circulated my chest, back, and head (or heart, back of throat, trachea/third-eye region/beyond).
- 
-The change began in RGH, not during the yogic state. The change began after they injected me with something, rapidly changed the fine balance of my body’s energies, and overwhelmed the sensitivity of a delicate state of consciousness with a much harder, much stronger, much less acute hospital one. The sudden change, including environmental and neurological, as they also "snapped me out" of that state rapidly with the injection of benzos, perhaps broke some endocrine or vestibular system of chakras and Kundalini that is unknown to (modern) science and medicine, locking my throat (maybe third eye or crown) "chakra" in some way that I since haven’t been able to unlock, again, in the same way. An Adam’s Apple, now lodged in my throat (and upper head, *maybe* nose/lobe region), like I choked on the wisdom that the higher nature forces gave me, from the House on May St., up to the inexplicable rapid psychosis when I was finishing up my [MHDPA paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) in 2018.
- 
-Part of what makes thoughts expressive through words is the intuitive feeling of some words as capturing the meaning and evoking some sense of the meaning. The brain makes those associations, and the faster it does so in line with our own will and rhythm, the more harmonious the mental state feels. But its suggestions can also take a life of their own, and after the House on May St., I found I was listening to intuitions that pointed to less rationalizable actions, with the awareness of their physical, visceral appearance in my consciousness and psyche; and so, in tandem with the profoundness of my research and research realizations, about long-term memory, relational reasoning and MHDPA, stochasticity in physics, there was no rational doubt that some profound consciousness phenomenon was being unlocked in tune with the context of what I was studying, and that gave that phenomenon — those intuitions and physical observations — unusual, perhaps even unprecedented, credibility. And I increasingly obeyed the guidance of them, less with my own intent, and more with the adherence to their "grace," their "wind," their threat. 
- 
-Additionally, I was using the I Ching, and the I Ching gave extraordinarily precise answers, answers that were too specific and relevant to be accident. In Rorschach tests, a person looks at ink blots and tells the psychoanalyst their associations. Dream interpretations are similar. But the answers I was getting from the I Ching weren’t just associatively relevant. They were specific, consistent, and profound. 
-
-So besides a consciousness component, I interpreted physical phenomena to be happening in the universe’s physics, as I’d theorized earlier about the intelligence of quantum sampling. So not only did I have the visceral phenomena, and the intelligence research studies, but also direct answers from a randomness-dependent query book, and a rational mechanism for how such discriminatory actual interventions in the universe — while still respecting the predictable laws of physics currently known to science — could be possible. 
- 
-That made the threats infinitely times more convincing, and as I transitioned from the House on May St., where I had independence and self respect, to my apartment without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads, including auxiliary ones that my advisor made me do like applying to the NSF GRFP (for which I got a "honorable mention," all excellent reviews, later after all this, one of them even writing, ["This is exactly the type of high-risk, high-reward research that the NSF is looking for to support,"](https://github.com/user-attachments/assets/87ef2c97-c1d5-4333-9247-a0d28a689efb) except one that gave me a "good" instead of "excellent" because I didn’t have any publications to back up the peer-reviewed credibility of the research I was proposing, research that was about long-term memory primarily, but also relational reasoning and persistent memory), the "vibe" of my status as a person was marginalizing and "Gollum-esque," as I hid in a cave essentially, my last hairs dropping from my head, and worked. 
- 
-That "vibe" then commanded me in different ways. Rather than a social energy (or, I should write, "self respecting energy," since I wasn't too social in the House on May St. either, and was also working really hard, but in a wealthier surroundings, with park and nearby nature and magical-cat-visitor and antiqueness in the aesthetic, to boot), the creativity of the energy went towards work, and the rest of it gradually became something else. I don’t want to describe it as anxiety. The anxiety appeared later, on that Christmas, 2018 day when I thought my mom was going to die, but until then it was beautiful, scary, but beautiful. 
-
-> [!NOTE]
->
-> I lived with guilt for this psychosis for a long time, for years, and now I'm actually proud, because it proved my bravery when my mom's life is at threat, or when a responsibility — in particular, from whatever probable forces somehow, and not trivially, convinced me — is perceived.
-
-It was literally a wind that pushed me into the woods. 
-
-I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were [yogic grace guidances](#sarah), to make a distance from her. Then I reached a road near the more commercial district, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
-
-Then, still not knowing I was going into the woods, a wind pushed me. A wind blew and I walked into those woods where I sat, in meditative silence, and peace, near a prettier part of the brook, thinking I had to stay there for a week, and if I did, my mom wouldn’t die. 
-
-And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
-
-Somehow, from the moment I'd left my apartment door, to the rest of this venture, except for a health concern, the cold didn’t feel too cold. My body, in this energy state, adapted so well. Humans have evolved mostly in the Ice Age. I cannot tell you the medical implications of how much power the body has. I was there, from the early morning I left to the rest of the day, in the cold, that through this extreme, psychotic/delusional, transcendent energy state didn’t faze me in the slightest, didn’t bite the way cold is thought to supposed to, and it varied — you see, every disobedience to the guidance of my energy state resulted in a physical grasp of me by the cold; I would shiver and shake, at increasingly extreme levels the more I stopped adherence. But as soon as I returned to adherence, the cold and the shaking stopped. 
-
-This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
-
-Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the Buddha had said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
-
-It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
-
-> [!NOTE]
->
-> By chance, my psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular.
-> 
-> My interest in the I Ching began in the House on May St., when I heard of it by chance through hearing again a lecture from [Terence McKenna](https://youtu.be/9E5eBqG0cds?si=AZVe2xQMEci2s7Rr), who I used to enjoy in college. It resonated because of the randomness-dependent theory I had, and I ordered a Richard Wilhelm translation and copy as well as some Feng Shui coins.
-> 
-> The "circumcision" and brook-jumping "baptism" could be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening." Others describe similar phenomena independently, in particular in Hindu tradition, where [psychosis-type symptoms are indeed a well known epiphenomenon of Kundalini awakening.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/) The "yogic grace guidances," I'd interpreted, since the House on May St., as Tao. The Volyoda-resurrection vision symbolically came true by my social and health status during the benzo trauma, and concluded with his death that subsequent year in parallel with my recovery, in a symmetrical psychosis revolving around a fear of his mom dying, a man in his 50s.
- 
-The I Ching had called those disruptions, the guidances that were navigating me, "Grace." And in Taoist philosophy, "Grace" isn’t necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm’s words, "beauty in form," and in the I Ching’s taxonomy, such a state to a person’s psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way."
-
-Perhaps this is what I was supposed to learn from the betrayal in my mind’s newly activated much-deeper-more-acute-intense intuitions. However, I suspect maybe something else as the mechanism, something in the collective consciousness, something that brought "Grace," as my work actualized into a paper and my body came to look ever more like Gollum’s — from extreme intelligence to extreme stupidity. 
-
-In my second hospitalization, the environment was much better than RGH's. I made friends with Sarah and Hudson and others. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, one of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was perhaps the best care unit I was gated by armored vault into.
-
-Sarah’s sister’s name is "Kundalini Grace." I hadn’t heard of "Kundalini" until after I had those visceral, physical sensations in the House on May St. Then I looked up those sensations I was experiencing and found, for the first time, not having heard the word or of those movements and sensations before, the term "Kundalini," made more credible to me by the philosophy’s appreciation by the depth psychologist Carl Jung, who I was reading at the time, and whose views, very distinct from Freud's, on the existence of a subconscious, and its mystical-transcendent connection, helped explain some of what I was witnessing. 
-
-Sarah Young’s last name is "Jung," she hadn't heard of Carl Jung, she and I kept observing synchronicities while we were there, and she kept a synchronicity list. To me, no synchronicities happened yet that were bigger than just the uncanny precision and specificity of the I Ching’s answers. However, I was still seeing some unambiguous synchronicities, as well as not seeing many others, including that the word "synchronicity" was actually coined by Jung, and now I was remarking on them  together with one Sarah "Jung." But there were more I hadn't seen, and more, much bigger, that would come.
-
-The House on May St., in retrospect was one big synchronicity. I got the Facebook student housing page moderatorship just before I had to move out, and was able to deliver on my promise to fill my landlord’s house (and houses) with grad students. Not to mention, the house itself. Having that whole house, pretty much to myself, a beautiful antique house, for relatively pennies, the same house I had my AI and physics revelations — "luck" seems to forget a lot of context.
-
-So the word "synchronicity" was already familiar, as was Jung, as was Kundalini, as was Grace, by the time Sarah and I met in the hospital. 
-
-We played Guitar Hero, I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah, another inpatient, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
-
-So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
-
-My brother-in-law came in with my sister and I explained to him relational reasoning and the paper I submitted, the method of MHDPA. I explained to him the method underlying ChatGPT from my hospital ward 5 years before ChatGPT. And at the time, he thought my explanation was cool, but it’d’ve been hard to predict would be such a big thing, one that others in my field and the world would have heard of or have anywhere to as much belief in the utility in AI of, in the near-term or in the years to come. It was hard to predict for my professors and faculty, too. At the time, 2018/early-2019, most at the University of Rochester still thought deep learning was a fad. None of the professors or other PhD students were doing research on MHDPA, let alone had heard of MHDPA. [They might claim otherwise](4-Faith.md#academia--medicine). Besides the paper that proposed MHDPA itself, my innovation to MHDPA, was the first innovation to MHDPA ever, in the world/history. A small handful of others applied it, from research groups in DeepMind, none literally innovated *on* the method.
-
-I showed my MHDPA innovation paper to Sarah. She was amazed that she could read it since usually, she said, that kind of stuff isn't readable, and brought up one more synchronicity. Her mom was a writer who had a published short story in a Stephen King anthology, a writer of horror. I was indeed in a hospitalization that was like a pretty good short story in an otherwise Stephen King anthology/horror. 
-
-Not that my lucidity needed evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
-
-#### Hudson
-
-Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
-
-<p align="center">
-<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
-</p>
-
-I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, lightning bolts of happiness, for depression. I guess if the core of a patient’s depression isn’t "lack of pills," the evidence-backed next step is to get some jumper cables to their ears.
-
-Meanwhile, now checking my phone to make sure we are indeed in the 21st century, I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, long-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering. 
-
-I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
-
-### My trauma
-
-> [!NOTE]
-> ### Israel birthright trip, and Jeremiah
->
-> Fun story, I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza.
->
-> That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
->
-> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
->
-> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely and standardly known side effect of benzos. Those were almost definitely the medication of his responsible.
->
-> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
->
-> Jeremiah looks exactly like the lion from Wizard of Oz.
->
-> He told me, I'm remembering now, as I figure out how to structure this story, in a diner while we were eating, that his spirit animal — I think he said "spirit animal," or the animal he would be anyway, if he were an animal other than a human — is a lion.
->
-> What I appreciate about Jeremiah, besides his synchronistic value, unconditional kindness, telepathic connection, romance-luck synchronicities, and archetypal-symbiosis symmetries — all not elaborated on in this relatively more grounded chapter — is his kindness and innocence generally; he wants to be the good guy. He's a hobbit, a fellow hobbit. He's capable of not following the patterns I’ve seen established with everybody else, especially in relation to me, and not falling from loyalty, or forgetting who I am, amid my more extreme (read: highly anxious, or as he would call it, partially incoherent) states.
->
-> Perhaps that’s why he enters psychosis. 
->
-> His state of consciousness is loyal to the point that it does not raise the red flag until nearly all life is lost, if then.
->
-> Jeremiah is brave.
->
-> Jeremiah had the bravery to go places others wouldn’t. True bravery is needed in medicine, including psychiatric. For example, on the question of whether benzos are sufficiently more "medical" than alcohol, psychiatrists would need a lot of bravery to do a proper control study on, for example, whether "shots" of organic 100% agave blue reposado tequila, such as those in a really high-end margarita (not the pizza), might actually be safer and just as useful/helpful for patients as benzos in the same diagnostic contexts. For multiple reasons. Most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. ["The man who passes the sentence should swing the sword"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) (or perhaps "swig"). The characterization difference between alcohol and benzos is not proportional to their actual health-endangerment difference, and their utility/short-term psychoactive effects aren't as different as the standard characterization suggests. Either one needs to be characterized as more medically-applicable or the other should be recognized as less. Opioids, like OxyContin, are extremely similar to heroin, [negligibly distinct as chemicals](https://ohdetox.com/detox-blog/oxycodone-vs-heroin-which-is-worse/), just packaged into manufactured powder disks that, unlike heroin, can be branded with good marketing and a lot of lobbying by the pharma industry as being more medical. But 100% agave tequlia, is made from a plant (emphasis on plant) that humans may have evolved more immediate and long-term adaptability to than benzos, with built-in defense mechanisms in the form of hangover and other signs that the body is fighting and aware of a physiological disruption. If such signs don't present themselves, as they don't as often in benzos, then either the synthetic drug miraculously achieves much the same effect for free, or the brain and body pay an insidious price, as they struggle to identify, catch, and defeat the synthetic intruder. Of course, comparative studies that disentangle sufficiently many neurological factors over a sufficient longevity may be both impossible and unethical. Even if benzos are a greater fundamental health risk with respect to permanent insidious changes in the mind and body and addiction, they still may be preferable when one wants to hide how "spirited" their spirits are. Actual spirits (not alcohol, or pizza, but people) are the most preferable route to that and to psychological healing (as will be elaborated on in [Intimacy healing](#intimacy-healing), speaking of bravery). [Both](https://www.reddit.com/r/spirituality/comments/1c5jwbl/why_am_i_disconnected_from_your_social_realms/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), may be useful. And in the more mystical context of this book, a shaman, perhaps an inspiration for future wise psychiatrists millenia from now, might even use consciousness altering drugs *on themselves*, to facilitate healing. 
-> <!-- Jeremiah had the bravery to go places others wouldn’t. True bravery is needed in medicine, including psychiatric. For example, on the question of whether benzos are sufficiently more "medical" than alcohol, psychiatrists would need a lot of bravery to do a proper control study on, for example, whether "shots" of organic 100% agave blue reposado tequila, such as those in a really high-end margarita (not the pizza), might actually be safer and just as useful/helpful for patients as benzos in the same diagnostic contexts. For multiple reasons. Most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. ["The man who passes the sentence should swing the sword"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) (or perhaps "swig"). The characterization difference between alcohol and benzos is not proportional to their actual health-endangerment difference, and their utility/short-term psychoactive effects aren't as different as the standard characterization suggests. Opioids, like OxyContin, are extremely similar to heroin, [negligibly distinct as chemicals](https://ohdetox.com/detox-blog/oxycodone-vs-heroin-which-is-worse/), just packaged into manufactured powder disks that, unlike heroin, can be branded with good marketing and a lot of lobbying by the pharma industry as being more medical. But the "heroin" metaphor isn't accurate to this context. It would be more accurate if I'd written, "organic concentrated poppy seed," since unlike benzos, 100% agave tequlia, is made from a plant that is sometimes considered Paleo, meaning a plant (emphasis again on plant) that humans may have evolved more immediate and long-term adaptability to, and that I would bet is safer, in actuality, than benzos. Queeziness, hangover, etc., are all signs that the brain and body are aware of a foreign invader, not omens of a less medical drug. Of course, comparative studies are needed, and neither should (generally) be used daily. However, benzos are preferable when one wants to hide how "spirited" their spirits are. Actual spirits, not liquor or drugs but the spirits that people bring to each other (as will be elaborated on in [Intimacy healing](#initimacy-healing), speaking of bravery), do far more psycho-spiritual healing than drugs, and when using the latter psychiatrically, the former — healing, especially in social dynamics — should be the first [goal](https://www.reddit.com/r/spirituality/comments/1c5jwbl/why_am_i_disconnected_from_your_social_realms/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), with a long-term context and respect for the unknown (see [below]() for how future wise psychiatrists might even use drugs *on themselves*, specifically to facilitate healing). -->
->
-> And he has a good Jewish sense of humor sometimes. I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
-
-#### Clicking their healing pens three times
-
-My trauma revolves around three psychiatrists, whose pens most certainly are the sage mechanism of healing professed across all the lands, wisdoms of mankind's tomes, and depths of humanity's instincts, perhaps by which the scripts of the world's stage themselves are written, on and via psychiatric script-pads, with powers of God over consciousness.
-
-The first psychiatrist wasn't bad, a young guy who understood my hesitation about taking benzos, knew I was arguing against using them to the nurses and to him, and reassured me I'd be off them before discharge. We walked together in the hall and he sensed that I was bright. The social lubricant of benzos gave me "flying colors" that I think he sensed were authoritative, about my knowledge of benzos and intelligence. He said I'd be weaned off before the discharge, and that was the schedule. I felt pretty at ease, in the sense that I had the energy to communicate colorfully to him. I was under the impression for a while I would be weaned off from the drugs before discharge. He reassured, I would be weaned off *before* discharge.
-
-The second psychiatrist, an Asian woman, looked stern and astute, came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive, about the original plan and our preferances. She said the tapering schedule was too fast and the outpatient doctor, the psychiatrist after the hospitalization, would wean me off. Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat, but this time, she gave the reassurance, that I'd be tapered *right after* discharge.
-
-The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive impairment and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year.
-
-The "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third click of the third "healer," the tornado had begun.
-
-The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 yellow-brick-manual definition for bad, it should just be a picture of him. 
-
-In the first month with him, I told him my symptoms. He was cold, authoritative, and disbelieving. He didn't believe me or show even the slightest emotion of warmth. If he cared about me in the slightest, he did everything possible to show otherwise. He only believed the benzos were needed. He left no room for argument. He argued down my arguments, argued that benzos could be safely taken for years.
-
-At no point did he specify a tapering schedule, and I was begging him.
-
-I should've weaned myself off, without his support, but I didn't have the conviction due to the impairment induced by the drug (as well as the guilt about the earlier psychosis, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood) to go against his recommendation and instruction.
-
-In the first session, he asked about my hair loss. He wouldn't believe me the first couple times I answered. He interrogated, rather repeatedly, disbelieving and unconvinced, whether I had pulled the hair out myself. Not only didn't I pull it out myself, but the medical system, the looney system that did, was now making me answer, repeatedly, for whether I was responsible for the literal-crimes they committed.
-
-#### In black and white
-
-In the second month with him, 3 months into the benzos, my cognition was not just grey but Requiem For A Dream-grey, anxiety constant. [My memory, speech, and imagination were gone](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d). From his disbelieving clinical authority, all of my symptoms were, wrongly, dismissed as characteristic of some disorder I had. I told him I thought I was brain damaged, and that I was in physical pain, that I had [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/). He wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose, as if that would reduce my brain's increasing system-wide downregulation of GABA, rather than worsen its effort to fight the dysregulation.
-
-The psychiatrist wanted to increase the dose, not realizing that that would start a perpetual race against the brain's downregulation mechanisms. 
-
-In case you're wondering, he was an idiot. The brain damage, and literally — when memory, speech, and imagination are all impaired, and the patient's in pain, *the brain is damaged* — risked being permanent and irreversible, according to (many) [studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I found and the fact that nobody understands neurodegeneration.
-
-I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then, or better yet, immediately, as soon as I could've started weaning. 
-
-The brain's GABA being downregulated is like living in an active war zone. Coercively induced, it is, without exaggeration, a legalized form of torture, neurochemical waterboarding, except the effect persists beyond each cranium drowning, without a moment's break for air. 
-
-By the next month with that doctor, around month 4 of the benzos, I wasn't able to recall well even important personal memories or easily do basic math, grey cognition, non-stop anxiety, non-stop torture. My writing quality went extremely down on anything that was social or creative or new. 
-
-What I suffered was physiologically brain damage. My cognition and perception deteriorated severely, and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/), [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), mouth dryness, and [wrinkles](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) added to the mounting evidence of damages happening not just to my psyche, but to my brain and body. 
-
-I was in severe pain and agony. He responded with only authority, no reasoning, and no sensitivity. He didn't believe any of my arguments. He made no consideration to the possibility that I was right or he was wrong. His clinical authority meant more to him than my agony. His perpetuation and amplification of my suffering, attributed reasons (which included arguments that were fine, but too agitated for an arrogant foolish authority's persuasion, because of that very drug's induced state on my brain), and fears was afforded to him only by his disbelief and my drug-induced insecurity about weaning off by myself.
-
-As these months progressed, my [facial structure changed, wrinkled and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), so much so as even my advisor remarked, empathetically, "You look terrible." Measuring damages to an intelligent person's intelligence fully is impossible. I was able to get straight A’s in my grad level classes, TA a class, and pass an area exam in the time that I was brain damaged, even worse than I'm describing now. And that took a lot of resourcefulness, will, and spirit, like Matt-Damon-potatoes-on-Mars kind of human spirit, that can't be underestimated. But if *those* grad-level metrics can’t measure the damage to my cognitive functioning, how could the tests that psychiatric researchers who believe benzos "can be safely taken for years" have? My grandma, in her early and later dementia, passed every test, like picking between two index cards about a color previously shown or reciting numbers that the doctor had just cited, and unambiguously to both family *and doctors* had dementia, dementia, the worst possible case scenario of this, and one that [studies have also shown benzos contribute to the likelihood of in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/) — and for that matter, how have any psychiatric research protocols evaluated whether somebody taking benzos in their 20s doesn't contribute to the likelihood of their dementia in their 80s? My family is intelligent, and we have a lot of will to work really hard. My friend, who was triple-majoring at the University of Rochester, told me she was driving once on acid. I was like, "Really, how?" and she said, "It's mostly muscle memory..." In other words, even under an extraordinarily altered state of consciousness, like the kind induced by acid, she would still plausibly be able to pass a driving test, and the same is true for drugs that alter one's consciousness, body, and neurology harmfully. No existing set of tests can measure how much an intelligent person's life, personality, cognition, and everything by which they live by, can be destroyed by the damages that psychiatric drugs cause which are hard to articulate and express in the midst of subjectively, even when those damages are extremely overt, and are incredibly insidious to the "more objective" tests that psychiatric researchers have, tests that try to come up with a metric for intelligence, the solution to which (used as a label source for a differentiable discriminator) would literally solve all of AI. 
-
-ChatGPT, perhaps itself a wizard behind the curtain — an artificial program — could pass their human cognition or psychiatric tests with flying colors, probably better than a human in good health.
-
-<!-- From the first psychiatrist, my memory was flyingly colorful, but a blur, like the most effective binge-drinking session that had no end, until it did. With the second psychiatrist, the memory is fuzzy, for both the daze of that hangover, and the increasing anxiety of my brain's dysregulated GABA. -->
-The third psychiatrist, is like Schindler's List-grey, like not even a little girl carrying an umbrella. I saw him for about 5 months and don't remember his name, which is too bad, or I would write it here in capital letters.
 
 <!--
-Adding to the suspicion, there were even contradictions in recent studies from previous decades, on the same drugs: ["the Medical Research Council (MRC) in Britain agreed in 1982 that there should be large-scale studies to examine the long-term impact of benzodiazepines after research by a leading psychiatrist showed brain shrinkage in some patients similar to the effects of long-term alcohol abuse."](https://www.psychologytoday.com/intl/blog/side-effects/201011/pharmaceutical-scandal-in-britain-sheds-disturbing-new-light) The study, having shown the risk of brain damage by benzos, was buried: ["The only problem with the MRC's response to such warnings about benzos? It appears to have sat for thirty years on the very documents that warned about the risks of brain shrinkage in patients taking them. Moreover, the MRC appears to have marked the documents 'closed until 2014,' despite their obvious importance to public health. [...] 'Members of Parliament and lawyers,' she continues, 'described the recently revealed documents as a scandal, and predicted they could lead the way to a class action costing millions.'"](https://www.psychologytoday.com/intl/blog/side-effects/201011/pharmaceutical-scandal-in-britain-sheds-disturbing-new-light)
+### Dangers of alcohol
+
+True bravery is needed in medicine, including psychiatric. For example, on the question of whether benzos are sufficiently more "medical" than alcohol, psychiatrists would need a lot of bravery to do a proper control study on, for example, whether "shots" of organic 100% agave blue reposado tequila, such as those in a really high-end margarita (not the pizza), might actually be safer and just as useful/helpful for patients as benzos in the same diagnostic contexts. For multiple reasons. Most psychiatrists have enough experience and familiarity with alcohol to have the wisdom not to prescribe it beyond the basic use cases where it might enrich a person’s life more than hurt it. ["The man who passes the sentence should swing the sword"](https://youtu.be/_lSjlt59yjw?si=1sboUg9FBLXlMm1Q) (or perhaps "swig"). The characterization difference between alcohol and benzos is not proportional to their actual health-endangerment difference, and their utility/short-term psychoactive effects aren't as different as the standard characterization suggests. Either one needs to be characterized as more medically-applicable or the other should be recognized as less. Opioids, like OxyContin, are extremely similar to heroin, [negligibly distinct as chemicals](https://ohdetox.com/detox-blog/oxycodone-vs-heroin-which-is-worse/), just packaged into manufactured powder disks that, unlike heroin, can be branded with good marketing and a lot of lobbying by the pharma industry as being more medical.
 -->
 
-#### The machinery behind the curtain
+## My trauma
 
-- The drug empire was disguised as the University of Rochester.
-- The drug dealers were disguised as the University of Rochester's psychiatrists.
-- The benzo drug market is a $3 billion industry disguised as the University of Rochester's medicine. 
+My trauma revolves around three psychiatrists.
 
-#### Who was the Wonderful Malpractice of Oz?
+**PSYCHIATRIST 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
 
-They didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos.
+> ``Psychiatrist 1 reassured, I'll be weaned off from the benzos,`` *before* ``discharge from the hospital.``
 
-I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania" were the only description needed, indubitably exhaustive. Were I asked, I'm not sure I'd have been able to explain it to them, necessarily. The Christmas, 2018 trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure, and the pressure was higher with each subsequent psychiatrist because my "flying colors" were increasingly faded.
+**PSYCHIATRIST 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 
-None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester’s psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about.
+> ``Psychiatrist 2  came in on the momentum of her previous post (to replace Psychiatrist 1), and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.``
+>
+> ``Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.``
+>
+> ``But she reassured, I'll be weaned off from the benzos,`` *right after* ``discharge from the hospital.``
 
-As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself.
+**PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
-What could've caused three psychiatrists, with zero consensus between each other, and zero consent from the patient, to cause so much damage? I suspect the >6 months of inconsistent psychiatrist and doctor plans were due to the self-reinforcing biases clinicians (in the general sense) can create in themselves as they change a patient's personality through chemical interventions. My personality started very charming and cheerful due to the benzos, at which point they still planned to wean me off within the hospital. Then fear and anxiety rose due to increasing downregulation. As those induced neurological changes "doctored" my perception and psyche, my believability lessened (due solely to reduced neurological function, not any fundamental behavioral change aside from mental impairment, and no catatonia, or mania, or delusion), and each changing shift of psychiatrists extended the asserted duration of the coerced prescription of the previous, changing the plans of the previous psychiatrists, culminating with the outpatient doctor only willing to increase, with no taper schedule on the planned horizon. Doctors are aggressively playing Gods, and have no understanding of the severe bias that their own interventions produce in their own or each other's clinical decision-making. Measurement-bias is a known problem in science. Detection can result in a change in the state of the physical system (or organism or body) being detected. In medicine, this problem is less widely understood since the subjects being observed, detected, analyzed, judged, and changed are people.
-
-And lastly, coercion.
-
-In the last century (or even today), [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, despite a ubiquitous complacency in the standard system, especially long-term, especially of benzos will be recognized by history as barbaric.
-
-#### Wicked "which study?" of the West
-
-Adding to the suspicion, there were even contradictions in recent studies from previous decades, on the same drugs: ["the Medical Research Council (MRC) in Britain agreed in 1982 that there should be large-scale studies to examine the long-term impact of benzodiazepines after research by a leading psychiatrist showed brain shrinkage in some patients similar to the effects of long-term alcohol abuse."](https://www.psychologytoday.com/intl/blog/side-effects/201011/pharmaceutical-scandal-in-britain-sheds-disturbing-new-light) The study was buried: ["The only problem with the MRC's response to such warnings about benzos? It appears to have sat for thirty years on the very documents that warned about the risks of brain shrinkage in patients taking them. Moreover, the MRC appears to have marked the documents 'closed until 2014,' despite their obvious importance to public health. [...] 'Members of Parliament and lawyers,' she continues, 'described the recently revealed documents as a scandal, and predicted they could lead the way to a class action costing millions.'"](https://www.psychologytoday.com/intl/blog/side-effects/201011/pharmaceutical-scandal-in-britain-sheds-disturbing-new-light)
-
-> [!TIP]
-> ### And Erowid wasn't there, and "swim" wasn't there, and Badpill wasn't there…
+> ``I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He only believed the benzos were needed. He argued that benzos could be safely taken for years. At no point for the next 5 months would he specify a tapering schedule, and I was begging him.``
 > 
-> There needs to be a tasteful place where these issues can be posted about, independently run and strictly unaffiliated with big pharma lobbying forces, where experiences can be aggregated, and people can democratically vote, without pharma company bias, Rotten-Tomatoes-like metrics about different drugs, with thorough reports that users add, that psychiatric researchers, if not psychiatrists themselves, should take just as seriously, if not more seriously, than the standard consensuses.
->
-> There was a time when responsible drug users could read reports from other users on a website called Erowid and informed themselves through reading the experiences of others, as well as looking at the rankings, and different metrics that people voted on. There was, and still wouldn’t be a better research methodology, if Erowid still served that democratic function, for discovering the dangers of psychiatric (or recreational) drugs, reading such anecdotal reports (often really thorough), which professional psychiatrists [usually](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285584) don’t place much weight in. Such a website is threatening to big pharma companies, for marketing reasons, if their drugs are [publicly ranked, or fall below](https://www.reddit.com/r/spirituality/comments/1c5jwbl/why_am_i_disconnected_from_your_social_realms/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), for example the endangerment rankings of really-bad-for-branding drugs like heroin or, as I suggested seriously earlier, tequila.
->
-> Is anybody old enough to remember "swim" and those anonymizing user handles? People had to anonymize themselves to safely tell each other about their bad experiences. I was in a subreddit called r/Badpill during the benzo nightmare, a forum for pharmaceutical trauma and addiction recovery, and I’d written the most detailed description of my trauma with benzos there, my post was the top ranked for years, and had dozens of comments from different people that they suffered similar horrible tortures from benzos, and I found earlier in 2024 that, in that year, the entire subreddit was deleted. I had no more-detailed description anywhere. It was lost, forever, [not even in any archives](https://github.com/user-attachments/assets/7039b8f6-e822-4f65-8721-afe691e206ad) I tried to search for. I was so devastated that I wanted to commit suicide, because it was my last **good** expression of these traumas, that the prescribed benzos, coerced onto me in the hospital and extended against my will, did to me. I was going to kill myself, and that's when I started writing this book, the first terrible words that still expressed nothing, knowing no words could ever.
->
-> I saw anecdotes in that forum from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals of benzo-induced GABA downregulation were worse than the side effects and withdrawals that they had suffered from heroin or cocaine.
-
-#### Scarecrow was actually missing his brain
-
-<p align="center">
-<picture>
-  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
-  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
-</picture><br><i>Modified AI-generated image via Adobe Express. 
-<br>To do: Find a better image that does me more justice.</i>
-</p>
-
-At after the 6 month point, I gradually reduced the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
-
-Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture ([even at lower doses](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
-
-#### Tin Man was actually missing his heart
-
-I remember trying CBD oil or L-theanine  to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different chemicals they had, the woman at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording, due to literal brain damage, was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)).
-
-> [!WARNING]
+> ``He asked about my hair loss, whether I had pulled the hair out myself. He wouldn't believe me the first couple times I answered. Not only didn't I pull it out myself, but the medical system did, the one that was now making me answer repeatedly whether I did.``
 > 
-> ### My herbal apothecary
->
-> [...]
->
-> Get high my pretties, get high!
+> ``I kept begging him to taper in later sessions as well, and he said if I was having all those negative symptoms, that we should increase the dose. That would've started a perpetual race against the brain's downregulation mechanisms. Psychiatrist 3 wanted to increase the dose.``
 
-#### International date, suicide attempt, and literally-self-bootstrapped recovery
+I argued against the benzos with all 3 psychiatrists. [TO DO: Specify in "Flying colors" what I argued, and that I argued articulately with them, sufficiently so, e.g., "I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering."]
 
-<!-- These symptoms started around maybe the 4 month mark while I was still on the benzos and [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year. "This is a very common thing" ([even at lower doses](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). I've read former cocaine and heroin addicts say long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). -->
+With Psychiatrists 1 and 2, I only took them due to the threat of court order. [TO DO: "I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics." is better phrasing. State in "Flying colors" chapter]
 
-My symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year. I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire).
+With Psychiatrist 3, I only took them due to (a) his recommendation and instruction, (b) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticeably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, (c) the mental impairment induced by the drug, and (d) insecurity about tapering off by myself, amid the severe physiological dependence.
 
-The nightmare I mentioned earlier was a waking one for a year.
+Furthermore, they were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize. 
+> ``In RGH, they were prescribed due to that false diagnosis of "catatonia." The University of Rochester's Strong Hospital wanted to prevent a recurrence — that is, "preventatively" — threatened a court order if I didn't take them, and 3 psychiatrists changed, contradicted, and perpetually extended each other's scheduling for the taper.``
 
-You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos.
+Additionally, maybe the most unbelievable part: they didn't ask about what I went through. They treated "catatonia" and "bipolar mania" as the indubitably exhaustive description. "Catatonia," which is what the benzos were meant to treat, was fully a misdiagnosis. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos. None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester’s psychiatrists.
 
-The steak-diet saved my ass.
+Due to their practices, I was on benzos for >6 months. 
 
-<!-- If not for that, maybe the scarecrow really would've, forever, lost his brain. -->
+Symptoms from taking the benzos as prescribed included: 
+- [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
+- [Constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/)
+- [Tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/)
+- Mouth dryness, and tooth calcification, as diagnosed as being due to benzos by dental hygienist
+  - Chunks that looked like tooth were falling out after the benzos that she diagnosed as decalcification
+- Severe generalized anxiety, previously undiagnosed
+- [Severe social anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)
+- Inability to sleep due to anxiety
+-  [Memory loss, and "greyness" of imaginative and creative ability](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+- [Severe loss of speech and writing quality](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+- [Severe pain](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/)
+- [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+- Severe physiological dependence, which benzos cause more so, at least neurologically, than Dupilumab, which also causes/caused a physiological dependence
+- PTSD from all of these symptoms and the recurrence of a malpractice-induced perhaps-permanent trauma
+- [Scientifically-backed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/) fear of damages being permanent
+- [More than a year of all of this, no sleep, non-stop persisting neurochemical torture](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
 
-Until then, the scarecrow, believe it or not, really didn't have his brain.
+Almost nearing Fall, 2019, I tried to kill myself. The helium tank connected to tubing was found by my mom, and my family hid it from me.
 
-TO DO: Mention I tried to kill myself, seriously, how my family took the helium tank away
+A deeper summary of my benzo trauma can be found [here](#flying-colors) (and different ones in earlier versions of this book, [here](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/4317b9b01e82516046315d69efd83705f2584d1f/2-Opposing-views.md#clicking-their-healing-pens-three-times) and [here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma)).
 
-Mention that I had to buy waist straps to get myself off of the couch
-
-And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), and I still had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense.
+<!-- The nightmare I mentioned earlier was a waking one for a year. -->
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the year of benzo neurochemical torture.
 
@@ -489,7 +276,9 @@ The experience of losing my hair has cost me relationships and worsened my socia
 </a>
 </p>
 
-## Part 3
+# Part 3
+
+<!-- ``1941 - 2023`` -->
 
 - **University PhD advisors**
 - **University hospital janitor**
@@ -501,9 +290,9 @@ Many Jews, were executed or tortured, or piled in bodies, when the Nazis occupie
 
 My uncle Slava was the first one born, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America. I was "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
 
-I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, baby’s cloths to cover my hands, so I don’t scratch to blood. 
+I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, baby’s cloths to cover my hands, so I don't scratch to blood. 
 
-When I was 2, about 3, a family friend, Shafkad, said there is some man in some village, some far away village, who can treat people, a healer, a shaman, not a traditional healer, and he said he can take us there to see what this person can say or do; maybe he can heal me from eczema. He drove us there, we went to some village, not looking "civilized" village. A man (different man, not the healer) came, somebody Shafkad knew, and this man said, "I’ll take him to that healer, no you stay here," my mom wanted to go; "no you not allowed"; they didn’t let her go there, maybe because she was a woman and it was Muslim. She was worried; Shafkad assured that everything is alright either way. He knows these people. "No no, they good people, they heal." 
+When I was 2, about 3, a family friend, Shafkad, said there is some man in some village, some far away village, who can treat people, a healer, a shaman, not a traditional healer, and he said he can take us there to see what this person can say or do; maybe he can heal me from eczema. He drove us there, we went to some village, looking separate-from-civilization village. A man (different man, not the healer) came, somebody Shafkad knew, and this man said, "I’ll take him to that healer, no you stay here," my mom wanted to go; "no you not allowed"; they didn’t let her go there, maybe because she was a woman and it was Muslim. She was worried; Shafkad assured that everything is alright either way. He knows these people. "No no, they good people, they heal." 
 
 They were waiting and after some time, maybe 20 minutes, they brought me back, two people, the guy who took me and another, the shaman, healer, a short man, Uzbek or Tajik maybe, native Uzbek looking, middle age, maybe 40 something, 50. He said he couldn’t heal me, that he got rid of all demons from me and couldn’t heal it.  "Sorry, I couldn’t, I don’t know how to, I couldn’t help your son, I don’t know how to fix it." And he said, "Are you going to America? Maybe they can heal him. They have better doctors there." 
 
@@ -511,7 +300,7 @@ He didn’t take money. He just said, "I couldn’t heal him. I can’t."
 
 The shaman somehow knew that we were immigrating, maybe Shafkad told him, somehow he knew, my mom didn’t know how.
 
-My grandma's sister, "Tsotya" Tsilia, and her son, my uncle Sasha, were the first to immigrate to America. My grandma, uncle, and mom applied for refugee status to immigrate as well. My grandparents and uncle’s family were approved, whereas my mom, sister, and I, weren’t. So my grandparents immigrated, and sent an invitation to my mom through the embassy. My mom had to fly with us to Moscow, in January, to do an interview at the American Embassy in Moscow to convince them that she was subjugated. 
+My grandma's sister, "Tsotya" Tsilia, and her son, my uncle Sasha, a mathematics professor at the Rochester Institute of Technology (RIT), were the first to immigrate to America. My grandma, uncle, and mom applied for refugee status to immigrate as well. My grandparents and uncle’s family were approved, whereas my mom, sister, and I, weren’t. So my grandparents immigrated, and sent an invitation to my mom through the embassy. My mom had to fly with us to Moscow, in January, to do an interview at the American Embassy in Moscow to convince them that she was subjugated. 
 
 "Your form said you have kids. Where are they?"
 
@@ -543,7 +332,7 @@ The interview ended.
 
 We flew to Rochester, New York, immigrating officially as Jewish refugees, half a year since the embassy interview. I was 3 and two thirds, and had cried, perhaps foretellingly, on the plane. My name, was legally mistranslated to "Semen." My mom (whose name was translated "Nellya") found a low-paying piano teaching job, and hoped to earn more money, so she got another degree, an associate's degree, at Monroe Community College, in Computer Information Systems, again [graduating with distinction](https://github.com/user-attachments/assets/f6183641-3c06-4c82-ba4d-662d0be0dbba). Later, she worked an additional job, one as a piano teacher giving individual lessons for a piano studio, and another as a part-time computer tutor in two different labs at the community college where she received her associate’s degree. My mom's students loved her in America, too. My mom taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java. 
 
-7 semesters later, I [graduated](https://github.com/user-attachments/assets/2ea5fb2f-7c92-48e0-87aa-4df7d7eb168c) with [dual bachelors degrees, one in Computer Science and one in Mathematics](https://github.com/user-attachments/assets/1fe07066-f9ee-4e49-9016-60481d0d5e07). Thanks to work ethic and intelligence, that I inherited from my mom, and some luck, I got into a doctoral program.
+7 semesters later, I [graduated](https://github.com/user-attachments/assets/2ea5fb2f-7c92-48e0-87aa-4df7d7eb168c) with dual bachelors degrees, [one in Computer Science and one in Mathematics](https://github.com/user-attachments/assets/1fe07066-f9ee-4e49-9016-60481d0d5e07). Thanks to work ethic and intelligence, that I inherited from my mom, and some luck, I got into a doctoral program.
 
 Well, thanks also to my doctoral advisor, Henry.
 
@@ -553,7 +342,7 @@ Unlike my mom not being able to in Uzbekistan, I got into the PhD program. I was
 
 Before accepting me into his doctoral candidacy, Henry connected me to Charles Venuto at the Center for Health and Technology a year into their efforts to model Parkinson’s disease (PD) progression. Charles hired me as an undergrad researcher to work with another student, a friend of mine from an on-campus living community, in the UR Medicine Saunders Research Building, where I took on the responsibility of modeling Parkinson's disease for the next several years, including having co-led with that friend the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?"
 
-### Charles Venuto
+## Charles Venuto
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
@@ -570,11 +359,56 @@ Henry recommended me to the position to do disease modeling, while I was still a
 
 While I was working and researching under Charles, I had come up with, programmed, run the experiments for, and done most of the writing for the paper/contest-submission for a [disease prognostication machine learning model](https://github.com/slerman12/DiseaseModeling) that won top-three in the Michael J. Fox Foundation for Parkinson's Research PPMI  contest, and came up with the idea of building a web app for the prognostication to give clinicians a clean, elegant interface. I had to argue a bit, and convince them, and then they let me, and, as a PhD student (in the early Fall of my third year, already in post-benzo withdrawal), [I even presented it at a conference in DC](https://github.com/user-attachments/assets/b77731f5-c99a-42f3-a3c2-811cadeb38a2) in front of reknowned researchers in the Parkinson's research field. Despite that being my idea and my [prototype](https://github.com/slerman12/DiseaseModelingWebApp), that I had to argue for, build, and present to make credible, all by myself, they liked it so much that they hired a web development team to build one, didn't put me on that team, and since have never given me credit. Charles also said they were going to patent it having even contacted a patent lawyer, and since have given me no information or updates about that either, or attributions or royalties.
 
-I hope Charles and his colleagues may find the above diagram (["5 Computational Neurons"](#benzodiazepine-benzos-mechanism-of-action)) valuable in their work, ideally attributing credit. It ilucidates mechanisms of neurodegeneration biologically, computationally, and in psychiatric practice. 
+I hope Charles and his colleagues may find the above diagram (["5 Computational Neurons"](#benzodiazepine-benzos-mechanism-of-action)) valuable in their work, ideally attributing credit. It ilucidates original mechanisms of neurodegeneration biologically, computationally, and in psychiatric practice. 
 
 But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.
 
-### Henry Kautz
+<!--
+### Uncanny beard premonitions
+
+My grandpa actually gave me his razor, an electric razor. It was the first razor I ever had, that I used to shave in high school and all through college. I was right-handed; I'm sure my grandpa used his left hand; I'm sure Charles was startled when I started coming into the office at the Center for Health and Technology with the early traces of a beard, in the late summer of 2017.
+
+It was the first time I grew out my beard and I did so out of a delightful intuition I had during an acid trip while still in college, looking at myself in the mirror, seeing myself as a caveman, with a big natural smile shining on my face, and the apparent glow of long hair imagined around my face.
+-->
+
+<!--
+I didn't risk to grow it out in college, but was toying with the idea. Independent to that, the first day I injected Dupilumab, before any beard, that night, as described at the end of [Part 1](#part-1), I recurrently had the scariest (sleeping-)nightmare of my life, that night. 
+-->
+
+<!--
+I didn't risk to grow it out in college, but was toying with the idea. Independent to that, the first day I injected Dupilumab, before any beard, that night, I had the scariest (sleeping-)nightmare of my life, as described in [Part 1](#part-1).
+-->
+
+<!--
+I didn't risk to grow it out in college, but was toying with the idea. Independent to that, the first day I injected Dupilumab, before any beard, that night, I recurrently had the scariest sleeping-nightmare of my life, as described in [Part 1](#part-1). That was uncanny omen 3, as well as the two weeks [complaining in Israel](#jeremiah). 
+
+Never had a nightmare like that, all night, before or after.
+
+Just happened to grow out my facial hair right before all my hair was purged.
+-->
+
+<!--
+Just before that, yet another premonition: the first day I injected Dupilumab, that night I had the scariest nightmare of my life. 
+
+Even before then, in the birthright Israel trip, I had notably complained through the whole trip that my hair was too long. 
+-->
+
+<!--
+The first day I injected Dupilumab, that night I had the scariest nightmare of my life. 
+
+Even before then, in the birthright Israel trip, I had notably complained through the whole trip that my hair was too long. 
+
+The beard I grew out for the first time just months before I lost my hair, based on an intense intuition to do so, was yet one more premonition of the hair loss.
+-->
+
+<!-- 
+It was in that house when Aetna cut me off from Dupilumab and my hair pretty rapidly fell out.
+-->
+<!--
+### 2016 - 2017
+-->
+
+## Henry Kautz
 
 <p align="center">
 <a href="https://github.com/user-attachments/assets/b828d43e-ba12-4f4f-b130-fa3acbac8009">
@@ -585,32 +419,441 @@ But before we come to the conclusion that Charles is caught "red-handed," he was
 </a>
 </p>
 
-The Parkinson's disease progression models I built at the Med Center as an undergrad earned me a recommendation back to Henry Kautz, [as well as a news article](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, combined with my eclectic interests, he accepted me into his PhD group as a doctoral student.
+The contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as a news article](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, combined with my eclectic interests<!-- in a theater group-->, Henry accepted me into his PhD group as a doctoral student. 
 
-It was from my mom's apartment (in 2018) during a video call with my advisor that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
+### Fall, 2018 semester, and the Dead Marshes
 
-It was from my office, I remember, during benzo withdrawal, that I taught him "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
+- I first injected Dupilumab summer, 2017
+- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
+- I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
 
-I passed my area exam, in my second PhD year, "with flying colors" according to Henry.
+After the house on May St., it was from my mom's apartment (in 2018) during a video call with my advisor that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
 
-My advisor, Henry, didn't think deep learning was a fad, and had a sense of intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action) though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor, my machine vision professor from my first year Chenliang Xu, technically wasn't in the room during the area exam, because he was answering the Skype call from China. He's the only person in the meeting who asked elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor, who also did and oversaw work in deep learning, from the semester just before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is meaningful since he became my later advisor.  
+I also presented a description of the LSTM cell, then layer, then network, then bidirectional layers with attention, to my Semantic Parsing class from the ground up using that [biological formulation](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link). My fellow PhD student told me in our office that it was really original, and she liked how I didn't use the usual LSTM diagram. The class was impressed with me.
 
-The other faculty were mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take that day to function, but that’s not how Henry thought he meant it.
+Also in that 2018 Fall semester, Henry made me apply for the NSF GRFP, one of the most competetive fellowships in the world. I submitted a personal background and research plan that got [excellent reviews](https://github.com/user-attachments/assets/87ef2c97-c1d5-4333-9247-a0d28a689efb), with one of the reviewers writing, "This is exactly the type of high-risk, high-reward research that the NSF is looking for to support." I proposed my long-term episodic memory model, biological neuron, and relational reasoning via MHDPA to feed "relational concepts" into a long-term memory.
+
+As I worked on the NSF GRFP submission, I kept asking the I Ching for advice, in addition to Henry, Sri Pai, and Charles Venuto. The former tended to give the most consistent, helpful answers, and for most of the writing process, very positive and encouraging. By the "former," I mean the I Ching, but the three professors also were encouraging, read my submissions, looked at different drafts, and helped. Their opinions contradicted each other, especially on the choice between two versions of the research plan I wrote, where Henry and Sri, both Computer Science, preferred one, and Charles and someone my age I liked, and I, preferred the other. I ended up going with the one the CS professors preferred. It was more structured and rigorous-looking, but less natural, profound, and lacked as much of a deeper philosophical meaning.
+
+Towards the end of the submission, just when I was ready to submit my final versions, including that structured research plan that the CS professors liked, the I Ching's tone had gotten far more ominous in its answers, consistently, suddenly, no matter what I asked it, whether it was the choice between those versions of the research plan, or different edits I considered or came up with. Its predictions were all negative. I submitted what I had, since the deadline was that day, and the result ended up being a very unfortunate "honorable mention," wherein all of the reviews were excellent, except one "Good" that tilted the scale. The last's reasoning? I didn't have enough paper publications, as he'd "have expected" from someone with such an interesting submission. Otherwise, it was a good submission, but [without paper publications, he couldn't give me an "Excellent."](https://github.com/user-attachments/assets/87ef2c97-c1d5-4333-9247-a0d28a689efb)
+
+It was a lot of work, but concurrently, amid yet-other grad-level courses, I worked on my MHDPA innovation paper, as the semester project for the Semantic Parsing class. Neither Henry nor the professor had heard of MHDPA back then. Henry critiqued my use of the term "relational reasoning" to describe it, now the convention. Dan wrote that I wasn't clear on the math, and needed more equations. The amount of math I used fully described the method and was/is the convention.
+
+But a strong interest or fascination with MHDPA, in 2018, didn't come by accident. Today, people who've heard of MHDPA have heard of it because of transformers, like the kind that underpins ChatGPT. In 2018, even an NLP professor whose students worked with deep learning models, including sequence-to-sequence attention models, as Dan was, was unlikely to have heard of transformers, let alone MHDPA, and of course Henry for that matter, since his background was in symbolic AI, and included little, if any, deep learning experience.
+<!-- , and it was notable enough that he was one of the tenured professors in the CS department who believed deep learning wasn't a fad. -->
+
+After the house on May St., I was coming up with and seeking a method that could do relational reasoning in deep learning. That is how I found MHDPA so early, before it had much recognition or almost any application (besides some groups at DeepMind) in the field. I was coming up with my own concept of relationally-attending-to image-features, and researching to find if anything existed in line with those principles, and (after [Relation Networks](https://arxiv.org/abs/1706.01427)) I found the other DeepMind applications in [reinforcement learning](https://arxiv.org/abs/1806.01830) and [RNN memory](https://arxiv.org/abs/1806.01822), respectively. I was coming up with those methods for use as "relational representations" in a long-term episodic memory, and later how to innovate MHDPA for that purpose, a consideration that led to the innovation I evaluated on a question-answering dataset for my Semantic Parsing semester project, which outperformed the baseline MHDPA. I submitted my [paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) to the next year's ICML conference. The reviewers hadn't heard of MHDPA, compared it to other preexisting attention mechanisms, and critiqued that I didn't have enough experiments. Of course, adding more experiments wouldn't have been too hard if the next tailwinds didn't happen.  
+
+<!--
+> [!NOTE]
+> ### Buffy
+>
+> In high school, I loved Lost, and Community, and Better Off Ted, and at some point Reaper, a show no one's heard of. But my favorite-favorite was Buffy the Vampire Slayer, which was available for streaming on Netflix. I was obsessed (as well as with ["Dr. Horrible's Sing-Along Blog"](https://youtu.be/Of9kHpCv1ts?si=FPBQagGV-MX0BOK4)).
+>
+> Almost nobody heard of Buffy at my high school. 
+>
+> The first person who took my recommendation got through multiple seasons, on my repeated insistence, and still didn't like it.
+>
+> Those were the earliest days of Golden Age Peak TV. 2011 - 2013, just when the shows were at their best, and yet no one had quite yet noticed... but I was rabid. Buffy started in the 90s, and my rabid-ness went into the Peak TV past as well.
+>
+> Back then, all the best *shows* got cancelled, for which Joss Whedon was notorious, because of Firefly.
+>
+> It wasn't until my senior year, that I met anybody who liked Buffy the Vampire Slayer, these two kids who went to a private school, who I met because I saw one of them had a totally different shared interest from a comment he made on Facebook, and I messaged him, he wanted to hang out to my surprise, and then he invited me to his birthday party where I met other kids who went to his school, including the other one, one of his friends who walked right up to me with a big smile and was so enthusiastic that I shared her love of Buffy. We loved it — an unusual amount — the meeting was "serendipitious." But at that school, a private wealthier school, those tastes seemed surprisingly more appreciated, and I found in college, while still usually rare to meet other fans, the taste was more commonly appreciated, too, and the two best friends I made after befriending these-two-who-I-wish-there-was-time-to-have-been-my-best-friends were also remarkably serendipitous (is that sentence coherent?).
+>
+> Two of the first friends I made in college, by extreme coincidence, loved nerdy shows, especially Joss Whedon shows and Buffy, and were the girls in my neighboring dorm, one of whom had messaged me about Joss Whedon specifically, whose girlfriend was even maybe a bigger fan of Buffy than me, all of us (except the girlfriend) assigned to those rooms entirely by the university's random selection. We'd become best friends. I pretty much lived in their dorm. It was extremely coincidental. The other dorm near ours also housed a girl who liked Buffy a lot, by chance. There were more people neighboring me in that Freshman hall who liked Buffy a lot, than perhaps all the people I'd meet in college thereafter who did so too, and all those I met previous up to then.
+>
+> I didn't meet too many Buffy fans thereafter, actually, for the remainder of my undergrad years.
+>
+> I didn't know Henry was one of them.
+>
+> Buffy appreciation, quite honestly, was how I measured intelligence, a pretty high standard.
+>
+> It was a huge coincidence that his favorite show was Buffy. I joined his PhD program not knowing that. I found out 1 year in, and re-gifted him my "Philosophy of Buffy" book that my best friend gave me. I had no idea he liked it (Buffy, I mean; I still don't know if he liked the book). Apparently, he was "obsessed with it," which he added, is "kind of weird."
+>
+> But it wasn't.
+> 
+> Buffy was my favorite show all through high school and college, and probably still is today.
+>
+> Henry was a youthful elderly man with a lot of wisdom, very-much a Giles figure. Actually, he resembled Joss Whedon, the way he quipped, but acted to me like Giles, Buffy's "Watcher" (advisor), in his manner and support.
+>
+> And, like my early intuition of MHDPA (the method that would become ChatGPT), he had a rare taste for something others in his cohort didn't (the show helmed by the guy who would go on to... also helm something that was probably [the beginning of the breakdown of civilization](https://deadline.com/2010/04/marvel-close-to-whedon-hire-on-the-avengers-31658/), that I don't even want to name here because of the perception — er, The Avengers — no more than I wanted to name "ChatGPT" — ahhh!).
+-->
+
+Henry and I both didn't have experience with deep learning prior to when I entered the PhD program. Up until that summer before my first year as a PhD student, I had been working with random forest models. I had to teach myself — really quickly —  and through hard-to-believe intuition, the full state of the art and then some as I started the program, as I took grad-level depth and "breadth" courses, none of which at the University of Rochester were especially helpful, and my professors and students around me had very little to offer.
+
+That being said, and most CS students can relate to this: in college, most of what I learned was self-taught. That of course didn't change in the PhD program, as the professors were still bad teachers, except also didn't know anything about the material that would need to be taught, the state of the art of their own fields, yet. 
+
+I'm not trying to be mean to anybody. This is the truth. It's hard to express, because it implies that the world is bad, that people with authority are stupider than they're credited and esteem themselves, that they're not just stupid, but actually really, really, like really stupid, and in vast majority. THAT might make writing and reading this hard. It might make it hard to believe, if you haven't seen this for yourself, as a student. I'd say the same about the other PhD students though. I'd say this about every professor and PhD student who was in the CS department. Not personally, not that they're always stupid, but that, in general, they were. Undergrads maybe see grad students as knowing so much more, but those grad positions, and professorial, don't require intelligence to earn, usually. In most cases, actual intelligence, or anything actually novel, would get in the way.
+
+Most people get into those positions through natural memorization ability, or obsessive memorization, and then make some minor deviations from what was taught to them that they call research, and that combination of memorization and very-linear tinkering gets esteemed if they're able to write it up in the standard academic jargon. That last part — jargon — is most of what academia beyond the memorization-stage requires. Even those professors who make a dent, often get there by luck, usually around a really simple idea well executed.
+
+In med school, the ability to memorize which prescriptions correspond to which diagnoses, and which diagnoses correspond to which symptoms, and which anatomical events correspond to which symptoms, is something ChatGPT-like AIs can pass [exceptionally](https://arxiv.org/abs/2404.18416), with [even better bedside manner](https://www.nature.com/articles/d41586-024-00099-4).
+
+I went to a conference that year, NeurIPS, 2018, in Montreal. At the time it was called "NIPS, 2018." I met the DeepMind researcher Ryan Faulkner, who co-authored the [RNN memory](https://arxiv.org/abs/1806.01822) paper, that innovated on the RNN cell by applying internally the MHDPA method, who was so impressed with me that he invited me to lunch, and during lunch, as we were talking, he said he would recommend me to a position at DeepMind if I applied, back in 2018. 
+
+I was walking around Montreal with headphones in my ears, listening to Of Montreal by momentum from listening to it by coincidence before the conference, and working, working really hard, in my hotel there. There was a group chat for people visiting for the conference, and lots of social events that I missed. I wanted to go to a hot tub party, but ended up working. I wanted to go to "strip karaoke," but was practicing strict ascetic disciplines, and asked the I Ching. The I Ching gave a resounding no. On the floor of my hotel, I cast the Feng Shui coins, and got the ominous hexagram "Decrease," and to my regret, I listened, stayed in isolation, and worked. The snow outside was beautiful, and at least I walked from time to time to explore and to get groceries. "Organic" food is apparently called "biologique" in French.
+
+I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in line, had to wait longer than everybody, then talked to him a bit, he was friendly, and he shook my hand. I sent him a followup email, he replied, and it meant a lot to me.
+
+I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, weeks before my psychosis.
+
+The hair loss had driven me to a place of yet more dependence, at least for what I perceived as my social future, on the energy-consciousness fates, since my physical appearance [couldn't be relied on](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/) to those social futures whatsoever.
+
+When I returned, my work-based <!--/ desperation-based--> isolation deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
+
+I was also doing yoga every day, intensely and in deep trance through each session, by myself on a yoga mat or the floor, a yoga taught to me through the advanced technique of TM, that was being taught in tandem with a meditation retreat at a zen center I went on, earlier on my birthday, on November 18, 2018., where one of the instructors actually learned that it was my birthday and brought me cake and got everybody to sing happy birthday for me. It turned out, rather ironically, it was somebody else's birthday that day, too, who was in the large dining area where the instructor brought em a cake, announced to everybody (against my will) that it was my birthday, and they all sang to me.
+
+This period was an extremely isolated time of work and esoteric in-the-weeds revelation. Besides stacks of printed academic papers, I was reading The Lord of the Rings, and there was one chapter that I read precisely in this narrow time span after I returned from Montreal, "The Passage of the Marshes," that resonated for its eerie imagery. 
+
+Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie chapter, as Gollum's world seems to be the ruling one now, and Frodo and Sam are navigating at his back through the boggy peril.
+
+I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
+
+<!-- One day, that state found me literally in the bogs. -->
+<!--
+### Crisis, and Rochester General Hospital (RGH)
+
+#### Crisis, and ambulance
+
+It was literally a wind that pushed me into the woods. 
+
+I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were [yogic grace guidances](#sarah), to make a distance from her. Then I reached a road near the more commercial district, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
+
+Then, still not knowing I was going into the woods, a wind pushed me. A wind blew and I walked into those woods where I sat, in meditative silence, and peace, near a prettier part of the brook, thinking I had to stay there for a week, and if I did, my mom wouldn’t die. 
+
+And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
+
+Somehow, from the moment I'd left my apartment door, to the rest of this venture, except for a health concern, the cold didn’t feel too cold. My body, in this energy state, adapted so well. Humans have evolved mostly in the Ice Age. I cannot tell you the medical implications of how much power the body has. I was there, from the early morning I left to the rest of the day, in the cold, that through this extreme, psychotic/delusional, transcendent energy state didn’t faze me in the slightest, didn’t bite the way cold is thought to supposed to, and it varied — you see, every disobedience to the guidance of my energy state resulted in a physical grasp of me by the cold; I would shiver and shake, at increasingly extreme levels the more I stopped adherence. But as soon as I returned to adherence, the cold and the shaking stopped. 
+
+This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
+
+Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the Buddha had said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
+
+It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
+-->
+### Psychosis crisis
+
+> [!NOTE]
+> This was about 5 - 8 months after the hair loss. No prior history of psychosis or mania.
+
+An ambulance found me, wet with brook water, nearly hypothermic. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
+
+<!--
+> [!NOTE]
+> This was about 5 - 8 months after the hair loss. No prior history of psychosis (not even of mania).
+-->
+### <!-- Christmas, 2018, and --> Rochester General Hospital (RGH)
+
+#### Christmas Eve/Day, 2018
+
+By chance, my psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular. 
+
+My interest in the I Ching began in the House on May St., when I heard of it by chance through hearing again a lecture from [Terence McKenna](https://youtu.be/9E5eBqG0cds?si=AZVe2xQMEci2s7Rr), who I used to enjoy in college. It resonated because of the randomness-dependent theory I had, and I ordered a Richard Wilhelm translation and copy as well as some Feng Shui coins. 
+
+A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My legs were thawed in some machine and my mom arrived. I was still afraid her life was in danger, but I didn’t say anything. I didn't talk much.
+
+The nurse remarked on some damages I had. 
+
+#### Catatonia, or "swallowing my tongue"
+
+Then in a bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it, my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen."
+
+I went into a conscious yogic surrender of all muscle due to a command from those [yogic grace guidances](#sarah) to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine.
+
+Then my sister arrived to the room I was in next, and she saw me, and touched my arm, aware I wasn't unconscious, in contrast to the doctor's or attendant's reassurance.
+
+A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it, as I became carefree to the earlier perceived responsibility. 
+
+<!--
+#### Swallowing my tongue, and Rochester General Hospital (RGH)
+
+Then in a bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it, my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen."
+
+I went into a conscious yogic surrender of all muscle due to a command from those yogic grace guidances to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine, thinking I was unconscious.
+
+Then my sister arrived to the room I was in next, and she saw me, and touched my arm, briefly, and she saw in my eyes and maybe the corners of my mouth a small, smile, sincere as I was afraid and her coming here and touching my arm was a major relief. 
+
+I felt like a buzzing spark when Marina touched my arm; she said she thinks I'm conscious, that she saw me smile; and the doctor reassured her that I wasn’t (as I watched all this, consciously).
+
+In the psychiatric unit, I sensed that I was raising chickens in my stomach, who the nurses were all attending, devotedly, to the labor of, as I sensed different energies throughout my digestive system. A delusion told me to wait like that for some number of days, with jaw clenched. 
+
+A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it, as I became carefree to the earlier perceived responsibility. 
+
+I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([that song's lyrics were about TM](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v)) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck/head, with a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in RGH.
+-->
+
+#### Discharge from RGH
+
+I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia.
+
+> [!NOTE]
+> 
+> "Bipolar mania" could perhaps be clinically regarded as accurate. "Catatonia" was a misdiagnosis, due to me not knowing the definition of "catatonia," the fear for my mom if I elaborated on what actually happened, the physical ability to have exited it, the yogic trance/grace/guidance that I was adhering to only due to fear of my mom dying which is not the same as "catatonia," and the difficulty of articulating what happened so soon after/amid the psychosis in the first place.
+
+I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) within just days of that, fully out of that altered state of consciousness now, in the hospital since the hospital staff allowed my mom to bring my laptop in.
+
+Then RGH discharged me not much more than one week after admission.
+
+More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital.
+
+### The unsampled world at Clover St.
+
+My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car the hypothetical Devil would drive. Compared to the cars my mom and I drove, it was much newer, much nicer. She was working as a nurse at the time and making a middle class income. My mom was working two jobs, and I was a doctoral student.
+
+When we were driving, I remember we stopped at Clover St., due to a red light, and some instinct told me to jump out. The feeling was ominous. But together with that ominous feeling, as the drive progressed, I sensed that a million worlds existed, and that all of them had evolved to converge to this one. So I sat somewhat reassured, in an uneasy anxiety, that what was happening will be okay. 
+
+Except, the sense/vision/idea was wrong, this time. Instead of my fanciful ideas about quantum stochasticity in a single universe, I had this bizarre idea, specifically on this transit, about "Many worlds" — I know, how original. "Many worlds" is a standard interpretation in quantum physics, often an alternative to Copenhagen which also, like me, both usually and I guess in my version here, tends to assume a single universe.
+
+In “Many worlds," or at least my version that I was conjuring up in my mind in the car, or I should say was pouring into my mind through just sheer awareness, everything that happened in the universe was evolved, through countless cycles of different trajectories, over cosmogenesis origins upon cosmogenesis origins, into the perfect exact happenings that were happening then. Now that's not really “Many worlds." That's one world, where it just cycles many times, and we just happen to be in the version that cycled in this way.
+
+"Many worlds" is more nuanced. It says: there's a LOT of worlds — like at least 6. No, maybe a million. No, googolplex. Infinity! Undefined! And we're in this one, because "reasons."
+
+Both of these theories/interpretations are wrong. But neglecting to explain why for now, I think either of these serve as an accessible way to quickly show that, even under a pretty standard physics interpretation, the possibility of "God" is not... I think the word I want to use is "not necessarily stupid."
+
+I mentioned stochasticity in the universe's quantum mechanics. That means randomness. The universe, as it's theorized today, is fundamentally probabilistic. And physics does a great job of telling us that those probabilities are probabilities. No no, just look at Schrödinger’s quantum wave function. See, it's a bunch of probability densities that splash around like a kiddie pool. And when those waves are especially high, that's where the particle is more likely to get sampled, or that's the more likely velocity of the particle, or that's the more likely "World" that gets sampled, or in my especially terrible vision, that's the "Cycle" that the universe just permanently converges to forever. 
+
+So where can "God" fit into any of those interpretations, besides the last one being just "Godawful," no-pun-unintended (my puns are deterministic)? Well, ultimately, something has to select which world gets chosen. One way that could happen is through just the magic power of randomness. Another way, is that some *will* known as "statistical divergence" is able to allocate the probable from the improbable, and, within its holy bounds, tilt the scales a bit. The "Sampler" — who is the "Sampler"?
+
+I sensed an ominous feeling as we were driving, and that same inner sense that gave me that kind-of vision about the many cycling-evolving worlds converging to this moment’s exact perfection, told me to make a run for it when we stopped at Clover St., at a red light. My doctoral advisor, Henry, actually lived on Clover St.
+
+My sister’s car was big and red, like a giant Dirt Devil, and before we got into it, I immediately had the "Devil" association, appear like a fear in my mind, the first omen (ominous sense) of that drive. Well, the "Sampler" that was about to sample my fate could only have been a little red vacuum cleaner, because, this transit, not specifically just this transit but this transit as well, was taking me to Hell, and the Devil drive did not end on Clover St., nor on the hospital grounds. No, each ticking moment from the drive to the psychiatric unit, even back to home, was a cruise controlled, speed-limit-obeying, insidious, maybe even pleasant drive, deeper, into Hell, to a Hell of mind that only one door leaves.
+
+But at this time, we were stopped on Clover St. And there was my doctoral advisor’s big house, on this street, that I could’ve, hypothetically, run to, in one of the many other worlds. 
+
+My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
+
+As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
+
+### University of Rochester's Strong Hospital
+
+#### Sarah
+
+After the Christmas, 2018 trauma, I wasn’t able to access my meditation anymore. The mystical phenomenon I physically sensed was stunted. Those Kundalini sensations, and the complete transcendence of my psyche, stopped. 
+
+It was like the breath that had been passing through my system had gotten locked into some bigger entity, that was asymmetrical, overly strong, and just leaning to one side. 
+
+The meditation still relaxed me. I still felt less social anxiety afterwards. It still gave my thoughts more peace. But physically, it felt neither like bliss nor like a body part that I directly controlled. I couldn’t maneuver the breath, kundalini, blood circulation, whatever it was, through the different areas of my physical psyche, and my given mantra, that I repeated silently in my mind as part of the meditation, didn’t carry itself to the same places of silent acuity that it naturally and effortlessly did before, where rather than the hard sensation of speaking my inner voice that now characterizes my mantra’s audition, the mantra had before "melted," "sunk," become so soft until it literally couldn’t be heard and all of my thoughts were then fully adherent to both my will and my natural rhythm, yet silently, and no energy was lost no matter how verbosely or viscerally I thought then, and each one came like ["endless rain into a paper cup,"](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v) where just the right word, or visual or association, corresponded to both my will and my rhythm, beautifully, sometimes blissfully, sometimes catastrophically, maybe even orgasmically, quite organically. It was on that plane of consciousness that I'm trying to describe [that I wrote this paper.](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) 
+
+[People mention the "inner monologue" vs. other types of thinking debate](https://www.iflscience.com/people-with-no-internal-monologue-explain-what-its-like-in-their-head-57739). That is a good analogy to the kind of consciousness transition I did while meditating, where my thoughts had become increasingly more acute, and were at the end, both. Both an awareness independent of words and words that perfectly matched that awareness, no matter how deep or intricate, then. And the awareness itself could carry far more information, and with each word (like ["endless rain into a paper cup"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl)) less energy was used and no exhaustion would arise.
+
+Now, some big lump pushed to the right of my throat and perhaps into my head, that same moving fist that was once an acute breath which circulated my chest, back, and head (or heart, back of throat, trachea/third-eye region/head).
+ 
+The change began in RGH, not during the yogic state. The change began after they injected me with something, rapidly changed the fine balance of my body’s energies, and overwhelmed the sensitivity of a delicate state of consciousness with a much harder, much stronger, much less acute hospital one. The sudden change, including environmental and neurological, as they also "snapped me out" of that state rapidly with the injection of benzos, perhaps broke some endocrine or vestibular system of chakras and Kundalini that is unknown to (modern) science and medicine, locking my throat (maybe third eye or crown) "chakra" in some way that I since haven’t been able to unlock, again, in the same way. An Adam’s Apple, now lodged in my throat (and upper head, *maybe* nose/lobe region), like I choked on the wisdom that the higher nature forces gave me, from the House on May St., up to the inexplicable rapid psychosis when I was finishing up my [MHDPA paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) in 2018.
+ 
+Part of what makes thoughts expressive through words is the intuitive feeling of some words as capturing the meaning and evoking some sense of the meaning. The brain makes those associations, and the faster it does so in line with our own will and rhythm, the more harmonious the mental state feels. But its suggestions can also take a life of their own, and after the House on May St., I found I was listening to intuitions that pointed to less rationalizable actions, with the awareness of their physical, visceral appearance in my consciousness and psyche; and so, in tandem with the profoundness of my research and research realizations, about long-term memory, relational reasoning and MHDPA, stochasticity in physics, there was no rational doubt that some profound consciousness phenomenon was being unlocked in tune with the context of what I was studying, and that gave that phenomenon — those intuitions and physical observations — unusual, perhaps even unprecedented, credibility. And I increasingly obeyed the guidance of them, less with my own intent, and more with the adherence to their "grace," their "wind," their threat. 
+ 
+Additionally, I was using the I Ching, and the I Ching gave extraordinarily precise answers, answers that were too specific and relevant to be accident. In Rorschach tests, a person looks at ink blots and tells the psychoanalyst their associations. Dream interpretations are similar. But the answers I was getting from the I Ching weren’t just associatively relevant. They were specific, consistent, and profound. 
+
+So besides a consciousness component, I interpreted physical phenomena to be happening in the universe’s physics, as I’d theorized earlier about the intelligence of quantum sampling. So not only did I have the visceral phenomena, and the intelligence research studies, but also direct answers from a randomness-dependent query book, and a rational mechanism for how such discriminatory actual interventions in the universe — while still respecting the predictable laws of physics currently known to science — could be possible. 
+ 
+That made the threats infinitely times more convincing, and as I transitioned from the House on May St., where I had independence and self respect, to my apartment without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads, including auxiliary ones that my advisor made me do like applying to the NSF GRFP (for which I got a "honorable mention," all excellent reviews, later after all this, one of them even writing, ["This is exactly the type of high-risk, high-reward research that the NSF is looking for to support,"](https://github.com/user-attachments/assets/87ef2c97-c1d5-4333-9247-a0d28a689efb) except one that gave me a "good" instead of "excellent" because I didn’t have any publications to back up the peer-reviewed credibility of the research I was proposing, research that was about long-term memory primarily, but also relational reasoning and persistent memory), the "vibe" of my status as a person was marginalizing and "Gollum-esque," as I hid in a cave essentially, my last hairs dropping from my head, and worked. 
+ 
+That "vibe" then commanded me in different ways. Rather than a social energy (or, I should write, "self respecting energy," since I wasn't too social in the House on May St. either, and was also working really hard, but in a wealthier surroundings, with park and nearby nature and magical-cat-visitor and antiqueness in the aesthetic, to boot), the creativity of the energy went towards work, and the rest of it gradually became something else. I don’t want to describe it as anxiety. The anxiety appeared later, on that Christmas, 2018 day when I thought my mom was going to die, but until then it was beautiful, scary, but beautiful. 
+
+> [!NOTE]
+>
+> I lived with guilt for this psychosis for a long time, for years, and now I'm actually proud, because it proved my bravery when my mom's life is at threat, or when a responsibility — in particular, from whatever probable forces somehow, and not trivially, convinced me — is perceived.
+
+It was literally a wind that pushed me into the woods. 
+
+I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were yogic grace guidances, to make a distance from her. Then I reached a road near the more commercial district, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
+
+Then, still not knowing I was going into the woods, a wind pushed me. A wind blew and I walked into those woods where I sat, in meditative silence, and peace, near a prettier part of the brook, thinking I had to stay there for a week, and if I did, my mom wouldn’t die. 
+
+And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
+
+Somehow, from the moment I'd left my apartment door, to the rest of this venture, except for a health concern, the cold didn’t feel too cold. My body, in this energy state, adapted so well. Humans have evolved mostly in the Ice Age. I cannot tell you the medical implications of how much power the body has. I was there, from the early morning I left to the rest of the day, in the cold, that through this extreme, psychotic/delusional, transcendent energy state didn’t faze me in the slightest, didn’t bite the way cold is thought to supposed to, and it varied — you see, every disobedience to the guidance of my energy state resulted in a physical grasp of me by the cold; I would shiver and shake, at increasingly extreme levels the more I stopped adherence. But as soon as I returned to adherence, the cold and the shaking stopped. 
+
+This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
+
+Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the Buddha had said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
+
+It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
+
+> [!NOTE]
+> The "circumcision" and brook-jumping "baptism" could be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening." Others describe similar phenomena independently, in particular in Hindu tradition, where [psychosis-type symptoms are indeed a well known epiphenomenon of Kundalini awakening.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/) The "yogic grace guidances," I'd interpreted, since the House on May St., as Tao. The Volyoda-resurrection vision symbolically came true by my social and health status during the benzo trauma, and concluded with his death that subsequent year in parallel with my recovery, in a symmetrical psychosis revolving around a fear of his mom dying, a man in his 50s.
+
+The I Ching had called those disruptions, the guidances that were navigating me, "Grace." And in Taoist philosophy, "Grace" isn’t necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm’s words, "beauty in form," and in the I Ching’s taxonomy, such a state to a person’s psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way."
+
+> [!NOTE]
+> The I Ching gave this answer exactly the morning of the day before the Christmas Eve one that I left my apartment.
+
+Perhaps this is what I was supposed to learn from the betrayal in my mind’s newly activated much-deeper-more-acute-intense intuitions. However, I suspect maybe something else as the mechanism, something in the collective consciousness, something that brought "Grace," as my work actualized into a paper and my body came to look ever more like Gollum’s — from extreme intelligence to extreme stupidity. 
+
+In my second hospitalization, the environment was much better than RGH's. I made friends with Sarah and Hudson and others. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, one of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was perhaps the best care unit I was gated by armored vault into. [TO DO: Mention somewhere that Sarah was a year older than me, all of us in our early 20s, e.g., the note below]
+
+> [!NOTE]
+> Sarah was in her early 20s, by chance hospitalized at the same time as me, also early 20s. She was a year older.
+
+Sarah’s sister’s name is "Kundalini Grace." I hadn’t heard of "Kundalini" until after I had those visceral, physical sensations in the House on May St. Then I looked up those sensations I was experiencing and found, for the first time, not having heard the word or of those movements and sensations before, the term "Kundalini," made more credible to me by the philosophy’s appreciation by the depth psychologist Carl Jung, who I was reading at the time, and whose views, very distinct from Freud's, on the existence of a subconscious, and its mystical-transcendent connection, helped explain some of what I was witnessing. 
+
+Sarah Young’s last name is "Jung," she hadn't heard of Carl Jung, she and I kept observing synchronicities while we were there, and she kept a synchronicity list. To me, no synchronicities happened yet that were bigger than just the uncanny precision and specificity of the I Ching’s answers. However, I was still seeing some unambiguous synchronicities, as well as not seeing many others, including that the word "synchronicity" was actually coined by Jung, and now I was remarking on them  together with one Sarah "Jung." But there were more I hadn't seen, and more, much bigger, that would come.
+
+The House on May St., in retrospect was one big synchronicity. I got the Facebook student housing page moderatorship just before I had to move out, and was able to deliver on my promise to fill my landlord’s house (and houses) with grad students. Not to mention, the house itself. Having that whole house, pretty much to myself, a beautiful antique house, for relatively pennies, the same house I had my AI and physics revelations — "luck" seems to forget a lot of context.
+
+So the word "synchronicity" was already familiar, as was Jung, as was Kundalini, as was Grace, by the time Sarah and I met in the hospital. 
+
+We played Guitar Hero, I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah, another inpatient, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
+
+So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
+
+My brother-in-law came in with my sister and I explained to him relational reasoning and the paper I submitted, the method of MHDPA. I explained to him the method underlying ChatGPT from my hospital ward 5 years before ChatGPT. And at the time, he thought my explanation was cool, but it’d’ve been hard to predict would be such a big thing, one that others in my field and the world would have heard of or have anywhere to as much belief in the utility in AI of, in the near-term or in the years to come. It was hard to predict for my professors and faculty, too. At the time, 2018/early-2019, most at the University of Rochester still thought deep learning was a fad. None of the professors or other PhD students were doing research on MHDPA, let alone had heard of MHDPA. [They might claim otherwise](4-Faith.md#academia--medicine). Besides the paper that proposed MHDPA itself, my innovation to MHDPA, was the first innovation to MHDPA ever, in the world/history. A small handful of others applied it, from research groups in DeepMind, none literally innovated *on* the method.
+
+I showed my MHDPA innovation paper to Sarah. She was amazed that she could read it since usually, she said, that kind of stuff isn't readable, and brought up one more synchronicity. Her mom was a writer who had a published short story in a Stephen King anthology, a writer of horror. I was indeed in a hospitalization that was like a pretty good short story in an otherwise Stephen King anthology/horror. 
+
+Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
+
+#### Hudson
+
+Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
+
+<p align="center">
+<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
+</p>
+
+I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. 
+
+Meanwhile, I was being brain damaged by benzos, but who could’ve known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
+
+I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
+
+> [!NOTE]
+> ### Jeremiah
+>
+> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. Combined with benzos, I suppose the effect would've been much the same.
+>
+> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/), perhaps another omen that preceded the [very vivid nightmare that I had](#part-1).
+>
+> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
+>
+> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only possible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication of his he was referring to.
+>
+> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for no more having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
+>
+> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit. 
+
+### Flying colors
+
+The first psychiatrist and I walked together in the hall and he thought I was bright. The social lubricant of benzos gave me a visibly colorful brilliance that I think he reacted to as authoritative, about my knowledge of benzos and intelligence. Let's call this luminescence "flying colors," a term I'm borrowing from my advisor, Henry. The first psychiatrist said I'd be weaned off before the discharge, and that was the schedule. I was able to articulate colorfully to him and the nurses that I wanted to be weaned off from the drugs before discharge. He reassured, I would be weaned off before discharge.
+
+The second psychiatrist, an Asian woman, looked stern and astute, came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive, about the original plan and our preferances. She said the tapering schedule was too fast and the outpatient doctor, the psychiatrist after the hospitalization, would wean me off, but this time, she gave the reassurance, that I'd be tapered right after discharge.
+
+They didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos.
+
+I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania" were the only description needed, indubitably exhaustive. Were I asked, I'm not sure I'd have been able to explain it to them, necessarily. The Christmas, 2018 trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure, and the pressure was higher with each subsequent psychiatrist because my "flying colors" were increasingly faded.
+
+None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester’s psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about.
+
+The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive impairment and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year. The color film had faded, the "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third click of the third "healer," the tornado had begun. The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 yellow-brick-manual definition for bad, it should just be a picture of him. In the second month with him, 3 months into the benzos, my cognition was not just grey but Requiem For A Dream-grey, anxiety constant. [My memory, speech, and imagination were gone](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d). From his disbelieving clinical authority, all of my symptoms were, wrongly, dismissed as characteristic of some disorder I had. I told him I thought I was brain damaged, and that I was in physical pain, that I had [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/). He wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. 
+
+He wanted to increase the dose, as if that would reduce my brain's increasing system-wide downregulation of GABA, rather than worsen its effort to fight the dysregulation. In case you're wondering, he was an idiot. The brain damage, and literally — when memory, speech, and imagination are all impaired, and the patient's in pain, *the brain is damaged* — risked being permanent and irreversible, according to (many) [studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I found and the fact that nobody understands neurodegeneration. I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then, or better yet, immediately, as soon as I could've started weaning. The brain's GABA being downregulated is like living in an active war zone. Coercively induced, it is, without exaggeration, a legalized form of torture, neurochemical waterboarding, except the effect persists beyond each cranium drowning, without a moment's break for air. By the next month with that doctor, around month 4 of the benzos, I wasn't able to recall well even important personal memories or easily do basic math, grey cognition, non-stop anxiety, non-stop torture. My writing quality went extremely down on anything that was social or creative or new. What I suffered was physiologically brain damage. 
+
+My cognition and perception deteriorated severely, and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/), [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), mouth dryness, and [wrinkles](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) added to the mounting evidence of damages happening not just to my psyche, but to my brain and body. I was in severe pain and agony. He responded with only authority, no reasoning, and no sensitivity. He didn't believe any of my arguments. He made no consideration to the possibility that I was right or he was wrong. His clinical authority meant more to him than my agony. His perpetuation and amplification of my suffering, attributed reasons (despite good arguments that I made, but which were too agitated for the arrogant foolish authority's persuasion, because of that very drug's induced state on my brain), and fears was afforded to him only by his disbelief and my drug-induced insecurity about weaning off by myself. The third psychiatrist, is like Schindler's List-grey, like not even a little girl carrying an umbrella. I saw him for about 5 months and don't remember his name, which is too bad, or I would write it here in capital letters.
+
+- The drug empire was disguised as the University of Rochester.
+- The drug dealers were disguised as the University of Rochester's psychiatrists.
+- The benzo drug market is a $3 billion industry disguised as the University of Rochester's medicine. 
+
+Suspiciously, there were even contradictions in recent studies from previous decades, on the same drugs: ["the Medical Research Council (MRC) in Britain agreed in 1982 that there should be large-scale studies to examine the long-term impact of benzodiazepines after research by a leading psychiatrist showed brain shrinkage in some patients similar to the effects of long-term alcohol abuse."](https://www.psychologytoday.com/intl/blog/side-effects/201011/pharmaceutical-scandal-in-britain-sheds-disturbing-new-light) The study was buried: ["The only problem with the MRC's response to such warnings about benzos? It appears to have sat for thirty years on the very documents that warned about the risks of brain shrinkage in patients taking them. Moreover, the MRC appears to have marked the documents 'closed until 2014,' despite their obvious importance to public health. [...] 'Members of Parliament and lawyers,' she continues, 'described the recently revealed documents as a scandal, and predicted they could lead the way to a class action costing millions.'"](https://www.psychologytoday.com/intl/blog/side-effects/201011/pharmaceutical-scandal-in-britain-sheds-disturbing-new-light)
+
+What could've caused three psychiatrists, with zero consensus between each other, and zero consent from the patient, to cause so much damage? I suspect the >6 months of inconsistent psychiatrist and doctor plans were due to the self-reinforcing biases clinicians (in the general sense) can create in themselves as they change a patient's personality through chemical interventions. My personality started very charming and cheerful due to the benzos, at which point they still planned to wean me off within the hospital. Then fear and anxiety rose due to increasing downregulation. As those induced neurological changes "doctored" my perception and psyche, my believability lessened (due solely to reduced neurological function, not any fundamental behavioral change aside from mental impairment, and no catatonia, or mania, or delusion), and each changing shift of psychiatrists extended the asserted duration of the coerced prescription of the previous, changing the plans of the previous psychiatrists, culminating with the outpatient doctor only willing to increase, with no taper schedule on the planned horizon. Doctors are aggressively playing Gods, and have no understanding of the severe bias that their own interventions produce in their own or each other's clinical decision-making. Measurement-bias is a known problem in science. Detection can result in a change in the state of the physical system (or organism or body) being detected. In medicine, this problem is less widely understood since the subjects being observed, detected, analyzed, judged, and changed are people.
+
+As these months progressed, my [facial structure changed, wrinkled and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), so much so as even my advisor remarked, empathetically, "You look terrible." Measuring damages to an intelligent person's intelligence fully is impossible. I was able to get straight A’s in my grad level classes, TA a class, and pass an area exam in the time that I was brain damaged, even worse than I'm describing now. And that took a lot of resourcefulness, will, and spirit, like Matt-Damon-potatoes-on-Mars kind of human spirit, that can't be underestimated. But if *those* grad-level metrics can’t measure the damage to my cognitive functioning, how could the tests that psychiatric researchers who believe benzos "can be safely taken for years" have? My grandma, in her early and later dementia, passed every test, like picking between two index cards about a color previously shown or reciting numbers that the doctor had just cited, and unambiguously to both family *and doctors* had dementia, dementia, the worst possible case scenario of this, and one that [studies have also shown benzos contribute to the likelihood of in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/) — and for that matter, how have any psychiatric research protocols evaluated whether somebody taking benzos in their 20s doesn't contribute to the likelihood of their dementia in their 80s? My family is intelligent, and we have a lot of will to work really hard. My friend, who was triple-majoring at the University of Rochester, told me she was driving once on acid. I was like, "Really, how?" and she said, "It's mostly muscle memory..." In other words, even under an extraordinarily altered state of consciousness, like the kind induced by acid, she would still plausibly be able to pass a driving test, and the same is true for drugs that alter one's consciousness, body, and neurology harmfully. No existing set of tests can measure how much an intelligent person's life, personality, cognition, and everything by which they live by, can be destroyed by the damages that psychiatric drugs cause which are hard to articulate and express in the midst of subjectively, even when those damages are extremely overt, and are incredibly insidious to the "more objective" tests that psychiatric researchers have, tests that try to come up with a metric for intelligence, the solution to which (used as a label source for a differentiable discriminator) would literally solve all of AI. 
+
+ChatGPT, perhaps itself a wizard behind the curtain — an artificial program — could pass their human cognition or psychiatric tests with all 5s, probably better than a human in good health.
+
+Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by history as barbaric.
+
+As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma crack. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic connections, there's a disorder in the system, and it's not one that's classified in the DSM-5.
+
+<p align="center">
+<picture>
+  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
+  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
+</picture><br><i>Modified AI-generated image via Adobe Express. 
+<br>To do: Find a better image that does me more justice.</i>
+</p>
+
+At after the 6 month point, I gradually reduced the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
+
+Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture ([even at lower doses](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
+
+I remember trying CBD oil or L-theanine to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different chemicals they had with probably way more knowledge than they expected, the person at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then she stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), due to literal brain damage from the benzos. The personality consequences of the extreme [anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [brain fog](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), and [impaired speech](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d), harmed my social life more than can be stated, in addition already to losing all of my hair, and the repeated traumas have not allowed me to recover from the mass socialization damage.
+
+These symptoms started around maybe the 4 month mark while I was still on the benzos and [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year. "This is a very common thing" ([even at lower doses](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). I've read former cocaine and heroin addicts say long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. I saw anecdotes in [this forum](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who [reported that those side effects and withdrawals of benzo-induced GABA downregulation were worse than the side effects and withdrawals that they had suffered from heroin or cocaine](https://qr.ae/p2Phzv). I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). 
+
+The nightmare I mentioned earlier was a waking one for a year.
+
+You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
+
+I tried to kill myself, and my family took the helium tank away.
+
+I had to buy waist straps to finally start to recover because I couldn't sit up from the debilitated position I shook with anxiety in on the couch.
+
+The steak diet, which I began after all of these symptoms and withdrawing from benzos, helped my cognitive/energy/mood recovery.
+
+And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), and I still had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense.
+
+The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture.
+
+### Spring, 2019 semester
+
+#### Matt-Damon-potatoes-on-Mars
+
+It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
+
+I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material in one class due to missing the good early chunk of that semester, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/porn), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
+
+Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least, and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
+
+#### Area exam
+
+I passed my area exam, within a few weeks of the close of this Spring 2019 semester, "with flying colors" according to Henry.
+
+Henry, compared to other professors of similar rank and background, deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is a synchronicitiy, because he became my later advisor.  
+
+The other faculty were mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take at a higher dose that day to function, but that’s not how Henry meant it.
 
 [My slides for that area exam were quite colorful](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing), but that's also not how Henry meant it (see slide 11 for the description of MHDPA).
 
-I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take a high dose of benzos that day. That was the plan. I even rehearsed one day in front of them at a smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo withdrawal that I had to take a dose of benzos again to do something, 
+I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take benzos that day at a higher dose. That was the plan. I even rehearsed one day in front of them at an irregular but smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo grey-out that I had to take an irregular dose of benzos to do something, 
 
 > [!NOTE]
-> the other being the poster presentation for the Med Center, since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it.  Backtracking to main timeline...
+> the other being the poster presentation for the Med Center, since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it. Backtracking to main timeline...
 
-My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through impossible circumstances of brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos. 
+My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through impossible circumstances of brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the early summer of 2019. 
 
-My family besides me also had higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
+My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
 
-Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, after some time had to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining. I worked under Chenliang for 3 years, at which time he deserted.
+<!--
+> [!NOTE]
+> ### Giles
+>
+> In season 6 of Buffy, her Watcher Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I..."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) A demon had possessed Sunnydale into a musical, my favorite episode of the show, "Once More, with Feeling."
+-->
+<!--
+> [!NOTE]
+> ### Giles
+>
+> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) 
+-->
 
-### Chenliang Xu
+> [!NOTE]
+> ### Giles
+>
+> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) 
+
+Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, initially advised me while directing there, after some time had to start planning to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
+
+Henry thought Chenliang would be better due to his having more experience in deep learning, but may have overestimated how much any professor at our CS department could offer me in terms of anything related to research and methods. Chenliang, for example, who was working on state of the art Computer Vision, had about as much familiarity with MHDPA in 2020 as Dan Gildea had in 2018, perhaps a little more. Before I was his student, in 2020, I presented using MHDPA on image features as an encoder architecture for Semantic Segmentation to him, on his whiteboard, with an explanatory diagram in my journal for what MHDPA was that I showed him, and a diagram on the whiteboard for my proposed Semantic Segmentation method. In 2020, one of Chenliang's students, I remember, was applying a transformer to a sequence-to-sequence problem (not as an encoder architecture), but Chenliang, a Computer Vision professor, didn't know much what MHDPA and transformers were until Vision Transformers came out in 2021.
+
+I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice.
+
+For context, Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
+
+Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to fund me himself if all else failed.
+
+## Chenliang Xu
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cf7098eb-dc3a-4220-bb65-9c7aaded7036">
@@ -621,11 +864,13 @@ Henry got an offer to direct the AI division at the National Science Foundation 
 </a>
 </p>
 
-I started losing my hair in my 1st year, I started taking benzos in my 2nd year, and I started working in Chenliang Xu’s lab nearing the end of my 3rd year.
+- I started losing my hair in my 1st year
+- I started taking benzos in my 2nd year
+- I started working in Chenliang Xu’s lab nearing the end of my 3rd year
 
-For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
+At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
-Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, without pay, or no acceptance. Had I failed to do that, I wouldn't have an advisor or pay, and most likely, would've been terminated.
+Chenliang gave me an ultimatum: Submit a top-venue *Computer Vision* paper by end of summer, without pay, or no acceptance. Had I failed to do that, I wouldn't have an advisor or pay, and most likely, would've been terminated.
 
 I presented Semantic Segmentation with MHDPA applied to image features. That, applied to a Computer Vision domain specifically, would've been the first Vision Transformer, but there wasn't enough time to build and benchmark that with the pressure and deadline from Chenliang.
 
@@ -637,7 +882,7 @@ He accepted me into his lab when I succesfully delivered that [paper](https://ar
 
 It's ironic also that when he announced his desertion (due to not having published enough papers in that time frame), on ****07/24/2023****, 3 years later, I was in the middle of a paper review with positive reviews, [that got accepted](https://www.nature.com/articles/s41524-023-01164-8), another published paper.
 
-During those 3 years, for the most part, Chenliang didn't directly fund me. At first I worked at the Medical Center. Then, he put me on a Mechanical Engineering lab, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the 3 committee members who the deciding Judge, and CS department Chair Michael Scott, attributed to my termination in my 6th year, addressed or acknowledged that I was working for and receiving funding for my work from the Mechanical Engineering department at the time, not from CS (meaning, the people who'll later terminate me, weren't the people giving me my paid work, technically at nearly any point; even prior to Chenliang was Med Center and an NSF grant that I applied for).
+During those 3 years, for the most part, Chenliang didn't directly fund me. At first I worked at the Medical Center. Then, he put me on a Mechanical Engineering lab, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the 3 committee members who the deciding Judge, and CS department Chair Michael Scott, attributed to my termination in my 6th year, addressed or acknowledged that I was working for and receiving funding for my work from the Mechanical Engineering department at the time, not from CS (meaning, the people who'll later terminate me, weren't the people giving me my paid work, technically at nearly any point; even prior to Chenliang was Med Center and a NSF NRT grant that I applied for).
 
 Meanwhile, under Niaz, in the Mechanical Engineering department, specifically Materials Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all really high quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
@@ -653,7 +898,7 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 > [!WARNING]
 > ### Tayler
 >  
-> I felt something drained out of the purest part of my soul. I was so devastated. After a period of observing Kundalini type movements, I got hospitalized again in October. That was the hospitalization that I resisted with combative attempts by fighting the police while I was in the grass where I was having a kind of spiritually-guided breakdown, following Tayler’s loss of interest in me. In the beginning journey of that hospitalization, I observed myself seeming convinced by the possibility that I was going through different dimensions, but I believed that they were all one dimension, one consistent reality, that I held faith to, the same rational one that I always knew, literally. But the meaning of that, interpreting years later like a kind of dream interpretation, could be varied. One is that I was losing my world because I was losing Tayler. My psychology was somehow intrinsically linked to that relationship, through our conversations and linguistics. Another, more Hallmark-card one (that is perhaps a bad-taste Christmas pun), is that I had gone "crazy for her," but literally. And that's true also. Another is about the nature of flirting and communication. The many dimensions and ambiguities of flirting, linguistics, phonetics and other symbolism. Yet another is that Tayler sent me a lot of messages, and now the universe was about to do the same.
+> I felt something drained out of my soul. I was so devastated. After a period of observing Kundalini physical sensations again, I got hospitalized again in October. That was the hospitalization that I resisted with combative attempts by fighting the police while I was in the grass where I was having a kind of spiritually-guided breakdown, following Tayler’s loss of interest in me. In the beginning journey of that hospitalization, I observed myself seeming convinced by the possibility that I was going through different dimensions, but I believed that they were all one dimension, one consistent reality, that I held faith to, the same rational one that I always knew, literally. But the meaning of that, interpreting years later like a kind of dream interpretation, could be varied. One is that I was losing my world because I was losing Tayler. My psychology was somehow intrinsically linked to that relationship, through our conversations and linguistics. Another, more Hallmark-card one (that is perhaps a bad-taste Christmas pun), is that I had gone "crazy for her," but literally. And that's true also. Another is about the nature of flirting and communication. The many dimensions and ambiguities of flirting, linguistics, phonetics and other symbolism. Yet another is that Tayler sent me a lot of messages, and now the universe was about to do the same.
 >
 > One of the dimensions was a lizard-person dimension, where some nurses were subjugated to others. Nurses to clinicians, rather, whose stature next to their clinical authorities was small and diminished, like they were being oppressed by a lizard race of people, in the future. Perhaps the meaning of that can be interpreted as the hierarchy relationships that our employment systems create, that on some deep subconscious level, mythologically, they are like a lizard-people relationship of rulers who've conquered the Earth, and humans with no agency under their tyranny.
 >
@@ -688,7 +933,6 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 >
 > The [next one was in a geriatric unit (a facility for the elderly)](#geriatric-unit-hospitalization), so consider me reprimanded.
 
-<!--
 On the note of synchronicities:
 
 - Waxed wise with a close friend ([Jeremiah](#hospitalization)) who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally, Josiah) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
@@ -698,19 +942,18 @@ On the note of synchronicities:
 Well, I suppose there was the thanksgiving with Sarah (see [in next chapter](#intimacy-healing)), which I also appreciated and appreciate and give thanks to.
 
 That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang (or mostly [Henry](https://github.com/user-attachments/assets/e2e55660-57be-415b-9371-7918e93add5a) for that matter). Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
--->
 
 ### More seriously
 
 #### Rituals, Religion, & Hell
 
-One of the most powerful rituals was during the Bar Mitzvah hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally sat on the floor when I told him to and followed my every instruction. I was playful and had unambiguous humor and self awareness in my voice. I understood the nurse wasn't literally him, my best friend who I projected not-fully-intentionally.
+One of the most powerful rituals was during the Bar Mitzvah hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor and listeing to every instruction I gave him, since I was playful and had unambiguous humor and self awareness in my voice. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
 
 Later, as I walked along that hallway — I don't know if it was a psychiatric unit or what — I was the only patient and there were many nurses — I kind of led the female nurses in a ritual, too. Each one I saw, I looked into her eyes and said the name of the family member or friend who I saw in them, as if literally my family was appearing in them in spirit. I was seeing beyond them individually, and they sensed it. At one point, I even put my hand slowly to one female nurse's rib, intimately and non-sexually. She stood still. All of the nurses stood still. There was even a big male nurse. 
 
 A ritual was happening that couldn't be desecrated or remarked upon. No clinical logic could destroy it.
 
-The theme of my best friend returned in the next hospitalization, in the geriatric unit (elderly facility) one, where I imagined him as the Devil, but that schizophrenic-like delusion was the least Hellish thing about that hospitalization (described later [below](#geriatric-unit-hospitalization), after five short detours), and I thought I was literally condemned in Hell, literally in Hell and I would never see humanity or good again. Having somebody I can trust — despite being imagined — play the role of the most fearful part of that trauma, made the actual Hellishness of that hospitalization less Hellish. The delusion, in spite of the environment, was good.
+The theme of my best friend returned in the next hospitalization, in the geriatric unit (elderly facility) one, where I imagined him as the Devil, but that schizophrenic-like delusion was the least Hellish thing about that hospitalization (described later [below](#geriatric-unit-hospitalization), after six short detours), and I thought I was literally condemned in Hell, literally in Hell and I would never see humanity or good again. Having somebody I can trust — despite being imagined — play the role of the most fearful part of that trauma, made the actual Hellishness of that hospitalization less Hellish. The delusion, in spite of the environment, was good.
 
 It's the delusion that doctors and hospitals are trying to heal. However, in that example, it was the doctors and hospital who were creating a Hell, and the delusion was the only healing part of it. In that delusion, he was quite snarky.
 
@@ -734,10 +977,12 @@ When my self consciousness returned and I started periodically wearing a hat, th
 
 As if the Tayler time period wasn’t synchronistic enough, it coincided with this miraculous hair regrowth.
 
+<!-- - The causal mechanisms of all of these independent, non-local phenomena don't erase the divergent statistical odds of their synchronous timings. -->
+  
 - The Bar Mitzvah hospitalization had given me a lot of junk food and I was eating lots of sweets after, as well, still on the dietary momentum from that hospitalization, even chocolate-chip cookies and cakes and things like that, somewhat addictively. But then I resumed strict discipline and a steak-primarily diet maybe a month or so after. I think steak/salmon-only. Amazingly, my eczema didn't return during the Bar Mitzvah hospitalization or after. Eczema was teh reason I couldn't visit Tayler, though I wnated to, but at that point Tayler was seeing other guys, not to mention still living, as I'd learned, with her ex-boyfriend, not the bald Jewish husband.
 - I even fasted during Tayler, before the Bar Mitzvah hospitalization, before my hair grew back, so strict discipline wasn't what caused it to fall out in December. It was a prolonged fast, about 7 days. I did 3 prolonged fasts in my life. Only that one corresponded (later) with hair regrowth. During that period, before my hair regrowth and during Tayler and before the Bar Mitzvah hospitalization, I was only doing steak/salmon-only diet, strictly. That was the recurrence where my head fully grew back hair completely (TO DO: link to photo of me).
 
-[In the next hospitalization, in the geriatric unit](#geriatric-unit-hospitalization), there was another guy my age. I sat with him every day towards my last days there at the window. He and I talked. I described Tayler to him in vague terms. We were talking about deep things, really deep things. I told him about my self consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me.
+[In the next hospitalization, in the geriatric unit](#geriatric-unit-hospitalization), there was another guy my age. I sat with him every day towards my last days there at the window. He and I talked. We were talking about deep things, really deep things. I told him about my self consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me.
 
 But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
 
@@ -762,6 +1007,8 @@ She told me when we were sitting in the backseat of the car, perhaps when we wer
 
 Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
+Without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads.
+
 #### How my grandma got dementia
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
@@ -770,7 +1017,7 @@ My grandma was prescribed a cocktail of neuroactive drugs before she had dementi
 
 When I was a kid, I listed off my favorite family members once, in my order of favorite, in front of all of them who were in our apartment living room, either standing or eating at the table. Maybe I was 5 or so. I remember they all looked big and I was standing. Grandpa was sitting in his bigger chair at the table and I started, "Babula" ("Grandma"), "Máma," "Marina," ... and then after all the others who I listed, I listed my grandpa. I still remember that. He wasn’t offended, and I love and loved my grandpa a lot. In maybe 16 years, I would be standing by his bedside in the hospital, after a heart surgery he had, when he'd tell me: "Ti moy lyubimey v'nuk" ("You are my favorite grandson."). He has 4 grandkids: Irina, Lena, Marina, and me. I'm his only grandson... 
 
-I remember sitting by my grandpa's bedside, alternating days and nights. My mom or I were needed there at all times. He was almost 88, and the languages he spoke were Russian, Ukrainian, and Yiddish, and he was legally blind. He and I couldn’t watch the same TV when he lived with us, because he neither spoke English nor could see, but sometimes when I visited my grandma's and his apartment unit immediately across from ours (after they’d moved, since originally we lived together), we watched Russian Television Network together, and they actually got some Cable channels from the government program, as well. In my apartment, we only had ABC, FOX, NBC, CBS, and PBS. With high school and college, I had, uh, resourcefulness, and Netflix. During those days and nights at his bedside in the hospital, in the hospital recline chair next to him, I watched a lot of Doctor Who on Netflix on my laptop, a show about an alien with two hearts called The Doctor that resurrects after each death, the previous generation surviving in the next, and the next, and the next. It’s the [longest running science fiction show in the world](https://en.wikipedia.org/wiki/Doctor_Who#:~:text=The%20series%20has%20been%20listed,ratings%2C%20DVD%20and%20book%20sales.), a show that originally started with an old grandpa.
+I remember sitting by my grandpa's bedside, alternating days and nights. My mom or I were needed there at all times. He was almost 88, and the languages he spoke were Russian, Ukrainian, and Yiddish, and he was legally blind. He and I couldn’t watch the same TV when he lived with us, because he neither spoke English nor could see, but sometimes when I visited my grandma's and his apartment unit immediately across from ours (after they’d moved, since originally we lived together), we watched Russian Television Network together, and they actually got some Cable channels from the government program, as well. In my apartment, we only had ABC, FOX, NBC, CBS, and PBS. With high school and college, I had, uh, resourcefulness, and Netflix. We also got an additional channel, the CW. During those days and nights at his bedside in the hospital, in the hospital recline chair next to him, I watched a lot of Doctor Who on Netflix on my laptop, a show about an alien with two hearts called The Doctor that resurrects after each death, the previous generation surviving in the next, and the next, and the next. It’s the [longest running science fiction show in the world](https://en.wikipedia.org/wiki/Doctor_Who#:~:text=The%20series%20has%20been%20listed,ratings%2C%20DVD%20and%20book%20sales.), a show that originally started with an old grandpa.
 
 My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. 
 
@@ -807,9 +1054,9 @@ I really think had the hospital recommended my grandpa an organic steak/salmon-o
 >
 > - Inorganic factory-sourced industries, whose practices treat animals inhumanely, in compartments in a factory where they never see the light of day and bloat fat with antibiotics, grains, corn, and soy, can be out-competed by organic sources where the cows can graze and live with other cows on pastures, under the sun, ethically, if medical institutions specifically sourced only and more, as part of their patient care, from the latter and generally organic highest-end sources. Living on a grassy pasture with other cows is a good life and not inhumane, in fact better than most hospital environments.
 > - Currently, hospitals provide 4 - 5 types of services: tests, drugs, surgeries, personal care (e.g., helping with walking to the bathroom), therapies. High quality food, is not an insignificant omission. Hospitals and health insurances should pay for high quality food. Doctors should gear more towards making high quality food prescriptions (and anti-prescriptions), which should be covered by health insurance.
-> - 2.4 million years of human evolution in the Ice Age, wherein even Africa had winters and some glacial ice, were followed by the last 11,500 years of the modern epoch. I know nutritionists aren't mathematicians, but 2.4 million is a slightly bigger number than 11,500. <!-- to what kinds of foods the human body has most evolved a symbiotic relationship with, including the ability to digest and derive the most from, and the plausible proportions, if the evolution history of humankind is to be unhypocritically believed, and those evolution principles are unhypocritically understood. NPR writes: ["The researchers found that as prehistoric humans transitioned from hunting and gathering to farming, certain types of disease-causing bacteria [...] using carbohydrates [...] win out [...] in human mouths. [...] Industrial Revolution only made matters worse."](https://www.npr.org/sections/health-shots/2013/02/24/172688806/ancient-chompers-were-healthier-than-ours/) --> <!-- We have made a habit of removing too much [wisdom](https://www.paradigmdental.com/blog/wisdom-teeth-removal/) from our prehistoric roots. --> On principle, if not by standard consensus, the evolution history that produced our biological consciousness and cognition deserves our reverance. My grandma, my grandma's grandma, her grandma's grandma and so on — yes, back into the Ice Age — are all ancestral roots of wisdom. <!-- My grandma had to wear dentures at old age , for its products are far beyond any machinery or medicine that mankind has ever synthesized. My grandma, my grandma's grandma, her grandma's grandma and so on — yes, back into the Ice Age — are all ancestral roots of wisdom that shouldn't be extracted through our surgical agriculture and industry, like trading wisdom teeth for dentures and diabetes. -->
+> - 2.4 million years of human evolution in the Ice Age, wherein even Africa had winters and some glacial ice, were followed by the last 11,500 years of the modern epoch. I know nutritionists aren't mathematicians, but 2.4 million is a slightly bigger number than 11,500. On principle, if not by standard consensus, the evolution history that produced our biological consciousness and cognition deserves our reverance. My grandma, my grandma's grandma, her grandma's grandma and so on — yes, back into the Ice Age — are all ancestral roots of wisdom.
 > - I haven't found any hypothetical risks of my trialled diet to be an issue, but that's why latitudinal studies are needed. I ate fresh rather than frozen, grass fed grass-finished organic, almost always wild-caught rather than farmed, with no other interacting chemicals, besides allowing myself salt and black pepper, and water. The idea that red meat causes anything, has not yet had a standard scientific investigation in the context of organic, grass fed, grass-finished, and wild-caught meat, and controlled for for other interactions, e.g., sauces, sugars, and so on.
-> - A proper nutrition study that investigates interacting chemicals<!--(and perhaps even psychological/emotional/social factors)-->, requires a combinatorially intractable number of control variables (and in this case, a lot of money, not so much that the medical system can't afford it, and not so much that humanity's health should have to be sacrificed to scrounge on, but more than usual nutrition studies are funded and invest), rarely accounted for in nutrition studies. This inadvertent study, on a population of me (low-socioeconomic family background, limited to a PhD student income of less-than-official-New-York-State-living-wage), longitudinally, resulted in at least 3 measured breakthrough results, across a span of 6 years, and other breakthrough-type results harder to measure around energy, mood, cognition, and neurological functioning, besides hair.
+> - A proper nutrition study that investigates interacting chemicals, requires a combinatorially intractable number of control variables (and in this case, a lot of money, not so much that the medical system can't afford it, and not so much that humanity's health should have to be sacrificed to scrounge on, but more than usual nutrition studies are funded and invest), rarely accounted for in nutrition studies. This inadvertent study, on a population of me (low-socioeconomic family background, limited to a PhD student income of less-than-official-New-York-State-living-wage), longitudinally, resulted in at least 3 measured breakthrough results, across a span of 6 years, and other breakthrough-type results harder to measure around energy, mood, cognition, and neurological functioning, besides hair.
 
 She shortly outlived my grandpa, and died the same year as him **three days before** his April 16 birthday, on April 13, 2016.
 
@@ -843,7 +1090,7 @@ I wanted to donate to his campaign [early](https://www.facebook.com/share/p/bu8N
 The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma’s perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were finally relinquished to the world, joining his up in the Health Care Financing Administration (pronounced "HeCk-FAn").
 -->
 
-But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out. My bleeding-heart is gushing to the floor, with an ancestral main artery that has proved itself if anything too strong or capable of translating that heart into a universal language. How to transition into this? Well...
+But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out. My bleeding-heart is gushing to the floor, with an ancestral main artery that has proved itself if anything too strong or capable of translating that heart into a universal language (okay, there might be one extremely difficult detour). How to transition into this? Well...
 
 Speaking of the elderly...
 
@@ -913,7 +1160,7 @@ I didn’t eat steak, because of course they couldn’t afford it. Could you ima
 
 #### Kids
 
-These traumas are inflicted on kids, in hospitals and schools alike. School, today, is where kids give the best hours of their day. It's where, today, kids obey authority and follow merciless programs. It's where, amid concentration camp standards, kids bully and/or suffer bullying. Hospitals and schools should take spiritual inspiration from: summer camps (no coercion, social), monasteries (connection to wisdoms), and the fact that YouTubers make better educational content through their channels than what most schools offer, except way faster and (often) more truthfully/deeper/intelligently/respectfully-to-audience/entertainingly when it comes to learning the "smart" stuff.
+These traumas are inflicted on kids, in hospitals and schools alike. Schools, today, are where kids give the best hours of their day. It's where, today, kids obey authority and follow merciless programs. It's where, amid concentration camp standards, kids bully and/or suffer bullying. Hospitals and schools should take spiritual inspiration from: summer camps (no coercion, social, nature), monasteries (connection to wisdoms, nature), and the fact that YouTubers make better educational content through their channels than what most schools offer, except way faster and (often) more truthfully/deeper/intelligently/respectfully-to-audience/entertainingly when it comes to the learning curriculum, from the intuitions to the in-the-weeds material specifics.
 
 <!--
 Let's now regress back to childhood.
@@ -926,100 +1173,13 @@ Those environments are where we learn that some people are inferior to others, n
 > [!NOTE]
 > ### Mobi
 >
-> 5 years since the Christmas, 2018 psychosis, my instincts still have not ceased, and I still interpret them as Tao, except with more experience, and the "threats" have evolved into helpful or slightly sabotaging suggestions, what others with frontal lobes might just observe in themselves, less acutely, as "social energies, social sense, social skill, maybe emotional intelligence, or emotion," and frontal lobes should, as a general rule of thumb, be handled delicately when just growing in, by the way, as they tend to in a person's early 20s, when by totally-random-amazing-coincidence, schizophrenic episodes are most likely to occur in a person whose relationships with those energies of their intelligence might not be as integrated as with other impressive energies of their intelligence, and that integration can be initially exactly as intense as it's supposed to be minus the external orders that make it quite paranoid and scary — did I just explain schizophrenia in one sentence? Anyway, that truth about not intervening while parts are still growing in, is quintuply true about people under 20.
+> My instincts still haven't ceased, and I still interpret them as Tao, except with more experience, and the "threats" have evolved into helpful or sabotaging suggestions, what others with frontal lobes might just observe in themselves, less acutely perhaps than somebody mid-psychotic-trance, as "social energies, social sense, social skill, maybe emotional intelligence, or emotion," and frontal lobes should, as a general rule of thumb, be handled delicately when just growing in, by the way, as they tend to in a person's early 20s, when by totally-random-amazing-coincidence, schizophrenic episodes are most likely to occur in a person whose relationships with those energies of their intelligence might not be as integrated as with other impressive energies of their intelligence, and that integration can be initially exactly as intense as it's supposed to be minus the external orders that make it quite paranoid and scary — did I just explain schizophrenia in one sentence? Anyway, that truth about not intervening while parts are still growing in, is quintuply true about people under 20.
 >
 > I met Mobi in the October, 2020 "Bar Mitzvah hospitalization." A couple years later, I learned that Sarah had met Mobi in one of their hospitalizations, too, that he'd even braided Sarah's hair. Mobi was a recurrent inpatient care unit psychiatric recipient. He was 16, clearly intelligent, had a "sober" intelligence and humor, was respectful, kind, and chill. They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of about 14, and he was in there mainly, or perhaps only, for drug problems and addiction. Acclimating to benzos, one's brain becomes deprived of GABA and will crave something, usually drugs, to take the literal neural edge off, to silence those disproportionate Glutamates and other action potentials whose balancing complement, GABA, is downregulated, throughout the brain. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos. 
 
-#### Christmas, 2018 trauma, Volyoda, and hair regrowth
-
-> Chapter is in progress
-
-"Tao"/"God" told me it/He was going to kill my mom if I didn’t circumcise myself; I circumcising myself.
-
-I got a clamp iron, and — how to describe the other tool I used? — "saw knife" might not be what it’s called, a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by; I think "Tao"/"God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor; I cleaned up the blood with paper towels. "Tao"/"God" had threatened to kill my mom if I didn't circumcise myself. I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial." 
-
-Then "Tao"/"God" told me it/He was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, schizophrenic — state I was in.
-
-So I stayed in the woods in the freezing snow all day and night; "Tao"/"God" told me I had to stay there for a week; "Tao"/"God" contradictorily told me that my mom was dead, or dying, or might die.
-
-I lay in the ground, hearing the train rumble. A part of me thinks it's going to swoop through where I am and run over me. It chugged and whistled. The geese, who'd been taunting me, had flown away. The night rumbled, dark. I sensed/feared my mom was dead, or dying, or might die, and had done everything possible to evacuate/abort my energy, sitting upright, maneuvering those Kundalini senses by force rather than deep connection, and then: a sudden shock. I believed that my mom had come to find me and had fallen in the brook drowning, perhaps hearing a splash or a scream. I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the freezing water where the water might've not been clean since that was where I thought the maybe-unused sewage pipe maybe was. I jumped in, and flailed my arms around, going underwater trying to find my mom —
-
-> [!NOTE]
-> My mom actually had been nearby, during the day, I learned. By some intuition, she went near those woods, to search for me earlier in the day.
->
-> By 2 PM, she thought, "No, something's wrong. It's not possible he's wandering this long."
->
-> I wasn't home when she woke up, had been doing lots of yoga every day, it was a freezing cold winter day, my car was parked there, and my mom was waiting. So she walked through the snow to look for me in that woods area, she thought I was walking near the brook, that maybe I fell in there, she searched and was looking for tracks, she thought maybe she even found tracks, and she followed them through snow, near houses, all the way to a road, different than the one I reached, was cold, realized something was wrong, went home, called the police that I was missing, and they came over, tried to unlock my phone which I’d left at home, my mom showed them pictures of me, they went to search the university, my cousin Lena and her husband David were driving around looking for me, and my sister was calling the police to get updates.
-
-— me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, looking at me with pity and remorse, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying.
-
-> [!NOTE]
-> The benzo debilitation, combined with the hair loss, will socially and medically alienate me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true, in my status and health in society. More than that, my recovery from those injustices, in the subsequent year, only began around the time when [he died in a psychosis revolving around, as my mom learned, fear of his mom dying](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), also with no previous history of mania or psychosis to my knowledge, a 50-something year old man.
-
-I thought my legs were immobile when I crawled out of the brook, me then screaming for the ambulance to a nearly full moon in the woods. My pants had fallen partially down my legs when I had crawled out of the brook and "Tao"/"God" told me not to adjust them on faith.
-
-> [!WARNING]
-> ### [Looney tailored scream](https://github.com/user-attachments/assets/b7233aed-b39a-42ef-9d98-b0a2ebce7d19)
-> 
-> I was facing a nearly full moon that was visible beyond the direction of the brook, above the rest of the woods. To the left, there was an area that I thought perhaps belonged to a neighborhood. I screamed for help. My voice sounded insincere and casually unafraid, like a different person's, [out of tune](https://youtu.be/Lae1WM6bMJY?si=7-isCvjIwJX9zLyK) from what I was thinking and feeling, like somebody's who was just born in me, who didn't trust my attempted plea, who trusted even the hypothetical people in the neighborhood nearby more than the innocence/lack-of-knowledge/simplicity of the bearer, spelling me a liar.  <!-- of her voice. Only in retrospect can I perhaps attribute a character/gender/name to that voice. At the time,  It just sounded idiosyncratic to how afraid and serious I thought I was feeling. -->
->
-> Note: When the ambulance arrived, this insincerity-tone disappeared and my tone and consciousness resumed in tune.
-
-The ambulance found me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, for transport to the hospital; "Tao"/"God" told me to tell the ambulance responders that I was in there "for pleasure" on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did; and that was all I told the ambulance responders or the first nurses at RGH about what happened — "for pleasure."
-
-A nurse, and I think no one else, saw and remarked on the slice/gash on my foreskin. There was a lot of confusion about the next situation ("swallowed my tongue"), so the information about my foreskin didn’t pass from nurse 1 to people N, or else more questions would’ve been asked. That nurse was just there to help thaw my legs to prevent hypothermia and frostbite. She wasn't a psychiatric care unit nurse. The foreskin eventually healed, as I found out sometime after this hospitalization. My legs were thawed in some machine and my mom arrived. The heart rate pacing machine beeped really fast and showed large numbers that seemed to sporadically change by the yogic energies in my body I was tuned into acutely again.
-
-I kind of intimately, silently, slowly-and-aware-of-their-power had shaken hands with the police officers. Police officers came in for questioning. I didn't say a word, looked them intensely in the eyes, and slowly made it clear that I was aware of them. I shook hands with each one, slowly and with a slow intimate intensity.
-
-I was still afraid my mom was going to die. We were moved to a different room and I danced with my mom in the hall out of an effort to reduce her fear, or my fear, or bring humor to the situation, while we were waiting, still mostly silently. I'd been taking lessons with her those months, poorly, tango lessons that I started with professional teachers in a class she brought me to, where a friend my age taught, while in the House on May St. I never got good at it, unlike my mom, who'd been dancing since childhood and was originally taught by my grandma.
-
-I went into a conscious yogic surrender of all muscle due to a command from those yogic grace guidances to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine, thinking I was unconscious, because I was perfectly surrendering in those yogic grace guidances. They joked about me being "Jesus" bullying/sarcastically while they wheeled my body forward to the MRI machine. I think either the intense silence with them earlier or the shaking hands with the police officers is what might've triggered their bullying.
-
-After that, my Kundalini sensations seemed jammed, like I was metaphorically an airbender trapped in ice. 1.5 years later, the first thing Tayler would message me, in a comment of an ironic Facebook group that my college theater director recommended, was about cosplaying together as Katara and Aang.
-
-> [!WARNING]
-> ### Resisting Kundalini rising
->
-> I think, despite the delusions/psychosis, all of this, including the tongue-swallowing, had something to do with "Kundalini rising."
-> 
-> There is also some evidence that I was trying to "abort" the Kundalini "rising":
->
-> Back to the woods, daytime:
->
-> There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I felt pushing forward and moving, behind my eyes and above the bridge of my nose.
->
-> I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
->
-> Then, back again to the dead of night:
->
-> "Tao"/"God" telling me to choose — "up" or "down" — with a throat movement situation that I sensed — where "up" meant "power" and "siding with men" and "down" meant siding with my mom, and I chose down and kept choosing down. More specifically, up meant to "Heaven, Tao/God, creation, masculinity, power," and down meant to "Earth, nature, receptivity, femininity, my mom." This was probably nonsense. I kept trying to bring it down.
-> 
-> I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body, with the control that one has over one's tongue and with the lightness of air, adaptive, not "up or down," but a living organ; and that was not the sense in this dead of night, where I was trying to brute force something out of fear and, most plausibly, delusion/misconstruction of a phenomena that was actually happening.
->
-> I believed the spider from earlier in the day was crawling up my intestines to retrieve the energy, to help bring it down.
->
-> "Tao"/"God" commanded me to put a stick in my butt while threatening to kill my mom, so I tried to do that as well in the woods, uncomfortably, partially, barely qualifying the obedience, since I can’t even tolerate my own finger.
-
-Incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish.
-
-Nobody, not even my mom, was aware of the "circumcision" and "stick" details until at least 2022.
-
-> [!NOTE]
-> 
-> The "circumcision" and brook-jumping "baptism" could be interpreted as spiritual birth/rebirth; the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening" and [known to present psychosis-type symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/), sensations that resurfaced before my Bar Mitzvah hospitalization again; and the Volyoda sex-offender resurrection vision as a precognition of the trauma that followed, that only concluded around the time that same wheelchair-bound individual had a psychosis revolving around a delusional fear about his own mother dying, and died, in his 50s, that subsequent year (2019), perhaps also with no prior history of mania or psychosis. Yet the subsequent year (2020), when I was feeling like I might've as well had the romantic/societal status of that wheelchair-bound individual due to the medically-induced alopecia universalis and benzo trauma, who was a sex-offender, Tayler appeared, beginning interaction with me, exactly a week after my Taylor-CAM paper, a cam-girl ("Taylor-CAM"). Within the next 3 - 5 months, my head hair fully grew back. Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare/unprecedented. 
->
-> By chance, my psychosis happened from the morning of Christmas Eve, 2018 to the morning/night of Christmas day, 2018 when the ambulance found me. That, together with the aforementioned physical sensations and apparent rituals, was a lot of synchronicities around this one two-day psychosis that were unintended, accidental, and at-least-post-hoc suggestive of pattern, as well as the House on May St., research studies, and meditation, aescetic, and spiritual disciplines; as well as that others described similar phenomena independently, in particular in Hindu tradition, where [psychosis-type symptoms are indeed a well known epiphenomenon of "Kundalini rising"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/); as well as the Volyoda vision that preceded his symmetrical death the subsequent year; as well as the connection to Tayler that makes this even more implausible, yet still true, and the Kundalini sensations that recurred immediately before my Tayler-centric ["Bar Mitzvah hospitalization"](#comedic-aside-sexier-moments-during-chenliang-tenure). And, regarding the day/night, as I wrote, "By chance," since my only reason for doing this was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular.
->
-> Yes, I know much of this is unbelievable. Here are the parts that can (not necessarily will) be verified: my preexisting social anxiety and unlikelihood to make all of this up, house on May St., lack of prior mania/psychosis history, Christmas, 2018 brook-jumping "mania," ambulance driver, that nurse who saw my foreskin gash, the police officers I shook hands with, hospitalization "catatonia," the conversation I overheard when the people wheeling me thought I was unconscious, my sister's touch and conversation, Sarah,  me telling my mom about the Volyoda delusion/association I had in the woods before his death, Volyoda's sex-offender registration and death, my Taylor-CAM paper archival date, the digital private interactions with Tayler in summer, 2020, my full-head hair regrowth, and all of the details of my next hospitalization in Fall, 2020.
->
-> Also, [here is a more believable summary of this psychosis from an earlier version/draft/"commit"](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/57fde86227cbc35a4d7e8aa3e02f199038f6663c/2-Opposing-views.md#psychosis-and-rochester-general-hospital-rgh), and here is a separate summary of these [synchroncities](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md).
-
-#### Future hair losses
+#### Future hair regrowths
 
 My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
-<!--
-- That hair grew back already in the period when Chenliang’s group was reasonably impressed with me (which never concluded, I don't think), though I was working too hard and exercising too many disciplines (which also never concluded, for the remainder of my employment) that alienated me from people socially. I imposed those disciplines on myself for multiple reasons, but mood, cognition, and willpower were the main benefits besides hair regrowth at that point, and I believed they were helping my social life, not hurting it, since that was my primary purpose for them, as I concurrently had to do an enormous amount of work for Chenliang, and two separate labs, and the hair growth from the previous time I did those diets was still pretty abundantly on my head, and looked good enough [as long as I wore hats](https://youtu.be/VKoSfmECpx0?si=iqPaLB1gmGQnd3xb). So the appreciation from his group (and him, actually), and the other group, probably is what helped that pubes regrowth (congrats), combined with the diet, but it’s not surprising that that hair gradually fell out, as almost all of my efforts were targeted towards connecting with people, socially, as, despite my serious efforts, through everything humanly possible that could've been advised or asked of me (everything, no matter what "more" or "less" idea popped into your head), I was becoming increasingly more alienated, connected to a yogic trance in nature at that point everyday that I didn't allow to get me hospitalized or disturb my work (I had to work 70 hour weeks pretty regularly), and my isolation (which is probably what caused the pubic hair to gradually fall out) would remain to be the case until my best friend returned in 2023, who amazingly did not reject my "insanity," whatsoever. Hence eyelashes.
--->
 
 My eyelashes started growing back for the first time in summer, 2023, when I'd started doing the steak/salmon-only diet again, and my best friend returned into my life, and fell out shortly after I was terminated, at which time I also had gone more lenient on my steak/salmon-only diet, due to the combination of more stress (from that termination) and lacking an income. Those three eyelashes that had grown back one by one gradually up to that point, that summer, starting that summer, grew back for the first time ever in the 5 full years since losing all of my hair. Then each fell out, but I attribute them to my best friend, who returned that summer, and probably also the correlating steak/salmon-only diet that I'd resumed before his return, earlier in 2023, after the weather had already gotten warm. Though, besides steak/salmon during that period when my eyelashes started to grow back for the first time, I allowed myself organic tea on that one, as well. Then, when I was terminated by this wonderful university of mine that had cost me my hair in the first place, my newly miracle'd eyelashes fell out suddenly.
 
@@ -1078,7 +1238,7 @@ Intimacy healing is a step towards that, starting with medical institutions.
   
 AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
-### Niaz Abdolrahim (okay, some not-tragedy)
+## Niaz Abdolrahim (okay, some not-tragedy)
 
 <p align="center">
 <a href="https://github.com/user-attachments/assets/e4288579-4f0b-4ac3-a8f2-ddbbf728128d">
@@ -1109,7 +1269,250 @@ Makes me want to go #NotEnoughPapers, for the many thousands of dollars reverse-
 
 However, that lab is the least of the work I did ([here](5-Early-work-in-program.md)/[here](6-Indebted.md)/[here](https://github.com/AGI-init/UnifiedML-legacy)/[here](https://github.com/AGI-init/XRDs)/[here](https://github.com/slerman12/Builder)/[here](https://github.com/AGI-init/Tributaries)/[here](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing)), at sometimes slave wage by force, with PhD requirements that were usually uniquely put on me, from the same institution that mutilated the hair and youth from my body and face, and neurochemically gassed my brain, then terminated me and scapegoated me for their 6 years of atrocities, negligences, and greed.
 
-### Chris Kanan
+### Uncle Slava
+
+My uncle came over, quickly. I interviewed him a bit about his physics method. A company here in America hired him, because he was the only one who knew how to do something, something specific to lens-manufacturing. He was/is an optics physicist. One part of what he did, besides dunking a lens into some liquid to create a gradient, or something like that, was, before he retired in... I think 2022... identifying a certain part of the lens or stage in the process manually.
+
+I told him a neural network could probably do it, with enough training data. So I inquired. He didn't want to share, thought I would find it boring, but I told him "For my PhD." 
+
+Did I intend to do it for my PhD, identity patterns for his physics work with neural networks? No. But I was curious and thought maybe I could.
+
+So he described his method to me in detail, and left.
+
+It was cool.
+
+That same work week, Chenliang notifies me by Zoom that he wants me to join Niaz's lab, a Materials Science group that is trying to identify diffraction patterns using neural networks. Diffraction is a standard optics process, whereby light spreads due to obstacles or gaps in surfaces.
+
+It was quite the synchronous timing, but at that point, I was used to synchronous timing, and just believed that the synchonicities must've had a point, especially since I had been developing my own AI/physics-hybrid concept for the last few years. So I gratefully joined Niaz's group for funding, in addition to the Computer Vision lab, thinking it was purposed, even though it wasn't technically my choice.
+
+### Christmas, 2018 crisis revisited, Volyoda, and hair regrowth
+
+> [!WARNING]
+> The below has implications on the universe's physics. Read at your own peril, but read in full if you do.
+
+#### Circumcision
+
+> [!NOTE]
+> On Christmas, 2018, the crisis I went through included many more details than the ones I specified at the start of this book.
+
+I had good evidence that what was happening to me in meditation and yogic states wasn't delusion. On top of that, I had a rational understanding of how a possible physics-based universe-intelligence like Tao could be involved in those senses. I'll refer to those yogic "grace" guidances as "Tao"/"God."  The I Ching's answers, among other synchronicities, made the plausibility even higher, and given a sufficiently unwanted threat from those forces, the probability would be high enough to terrify me.
+
+Was there a high probability that you would die from Covid? Most likely, no. Maybe 2%, depending who you are. And yet, the risk was high enough for an entire global lockdown. If your mom's life was at threat, would a 2% chance of that threat being realized be enough to get you to... social distance? What about, to wear a mask? How far would you go with a 2% chance of your mom's life being at threat?
+
+<!-- In the dark early morning before I left my apartment, "Tao"/"God" told me it/He was going to kill my mom if I didn’t circumcise myself. I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the "YouTube tutorial. Fearing the chance of the threat's being true, I proceeded based on the glimpse of information I peered in that second I researched how to do it. -->
+
+About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychotic episode that was diagnosed as a "manic episode" that involved: 
+
+- "Tao"/"God" telling me it/He was going to kill my mom if I didn’t circumcise myself;
+- circumcising myself;
+  - I got a clamp iron, and — how to describe the other tool I used? —
+  - "saw knife" might not be what it’s called,
+  - a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by;
+  - I think "Tao"/"God" figured "good enough" after that, seeing as all my strength was used, and blood was over the kitchen floor;
+  - I cleaned up the blood with paper towels.
+
+"Tao"/"God" had threatened to kill my mom if I didn't circumcise myself. I was Googling how to do it properly in the dark early morning, but the urgency of the threat kind of compelled me to skip the ["YouTube tutorial."](https://youtu.be/PvgLlilnHKc?si=bBi7m-RUpFW_6LSi)
+
+Then "Tao"/"God" told me it/He was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, schizophrenic — state I was in. 
+<!-- (note: "bipolar mania" was probably a misdiagnosis, and [long-term benzo use is especially not recommended for schizophrenia](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/)). -->
+
+So I stayed in the woods in the freezing snow all day and night; "Tao"/"God" told me I had to stay there for a week; "Tao"/"God" contradictorily told me that my mom was dead, or dying, or might die.
+
+> [!WARNING]
+> As I was doing this, somebody named Tayler, who formerly lived in Texas, was being kidnapped by her bald Jewish husband of one year to New Orleans. 
+
+#### Baptism
+
+I lay in the ground, hearing the train rumble. A part of me thinks it's going to swoop through where I am and run over me. It chugged and whistled. The geese, who'd been taunting me, had flown away. The night rumbled, dark. I sensed/feared my mom was dead, or dying, or might die, and had done everything possible to evacuate/abort my energy, sitting upright, maneuvering those Kundalini senses by force rather than deep connection, and then: a sudden shock. I believed that my mom had come to find me and had fallen in the brook drowning, perhaps hearing a splash or a scream. I scrambled through the woods, pushing branches out of the way, getting cut through my arms as I ran to where I thought, or maybe heard, my mom was drowning, in the darkness, in the freezing water where the water might've not been clean since that was where I thought the maybe-unused sewage pipe maybe was. I jumped in, and flailed my arms around, going underwater trying to find my mom — 
+
+> [!NOTE]
+> ### Mom alive
+> 
+> My mom actually had been nearby, during the day, I learned. By some intuition, she went near those woods, to search for me earlier in the day.
+>
+> By 2 PM, she thought, "No, something's wrong. It's not possible he's wandering this long."
+>
+> I wasn't home when she woke up, had been doing lots of yoga every day, it was a freezing cold winter day, my car was parked there, and my mom was waiting. So she walked through the snow to look for me in that woods area, she thought I was walking near the brook, that maybe I fell in there, she searched and was looking for tracks, she thought maybe she even found tracks, and she followed them through snow, near houses, all the way to a road, different than the one I reached, was cold, realized something was wrong, went home, called the police that I was missing, and they came over, tried to unlock my phone which I’d left at home, my mom showed them pictures of me, they went to search the university, my cousin Lena and her husband David were driving around looking for me, and my sister was calling the police to get updates.
+
+— me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, looking at me with pity and remorse, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying.
+
+#### Precognition
+
+<!--
+Legs extended in front of me, I had the sudden sense that I was going to resurrect as my paralyzed wheelchair-bound neighbor, a Ukranian man in his 50s named Volyoda. The vision was pretty horrifying, that for the next [some number of years] I would live in the black-and-white horror world of Volyoda.
+
+Volyoda
+- depended on his 80-something year-old mom to take care of him to function,
+- was an alcoholic,
+- got registered as a sex-offender because of internet child porn,
+- constantly made our whole apartment hallway reek of pee and cigarettes,
+- and smelled like pee and cigarettes, who, interestingly,
+
+ended up dying later that subsequent year in a psychosis revolving around his mom dying.
+-->
+
+> [!NOTE]
+> ### Volyoda vision, precogniton, mom-psychosis, death
+> 
+> The benzo debilitation, combined with the hair loss, will socially and medically alienate me worse than had I myself assumed his handicaps, hygiene, and alcoholism, and committed his crimes. In other words, the resurrection vision came true, in my status and health in society. More than that, my recovery from those injustices, in the subsequent year, only began around the time when [he died in a symmetrical/delusional psychosis revolving around *fear of his mom dying*](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md), also with no previous history of mania or psychosis to my knowledge, a 50-something year old man.
+
+I thought/felt my legs might've been immobile when I crawled out of the brook, me then screaming for the ambulance to a nearly full moon in the woods. My pants had fallen partially down my legs when I had crawled out of the brook and "Tao"/"God" told me not to adjust them on faith.
+
+> [!WARNING]
+> ### [Looney tailored scream](https://github.com/user-attachments/assets/b7233aed-b39a-42ef-9d98-b0a2ebce7d19)
+> 
+> I was facing a nearly full moon that was visible beyond the direction of the brook, above the rest of the woods. To the left, there was an area that I thought perhaps belonged to a neighborhood. I screamed for help. My voice sounded insincere and casually unafraid, like a different person's, [out of tune](https://youtu.be/Lae1WM6bMJY?si=7-isCvjIwJX9zLyK) from what I was thinking and feeling, like somebody's who was just born in me, who didn't trust my attempted plea, who trusted even the hypothetical people in the neighborhood nearby more than the innocence/lack-of-knowledge/simplicity of the bearer, spelling me a liar.  <!-- of her voice. Only in retrospect can I perhaps attribute a character/gender/name to that voice. At the time,  It just sounded idiosyncratic to how afraid and serious I thought I was feeling. -->
+>
+> Note: When the ambulance arrived, this insincerity-tone disappeared and my tone and consciousness resumed in tune.
+
+The ambulance found me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, for transport to the hospital; "Tao"/"God" told me to tell the ambulance responders that I was in there "for pleasure" on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did; and that was all I told the ambulance responders or the first nurses at RGH about what happened — "for pleasure."
+
+#### Hospital
+
+My legs weren't immobile anymore. That was perhaps projected earlier. I felt physically healthy, despite the mental state. They did some measurements and found my WBC and CK levels were high and, according to my sister, said that I almost had frostbite.
+
+A nurse, and I think no one else, saw and remarked on the slice/gash on my foreskin. There was a lot of confusion about the next situation ("swallowed my tongue"), so the information about my foreskin didn’t pass from nurse 1 to people N, or else more questions would’ve been asked. That nurse was there to help thaw my legs to prevent hypothermia and frostbite. She wasn't a psychiatric care unit nurse. The foreskin eventually healed. My legs were thawed in some machine and my mom arrived. The heart rate pacing machine beeped really fast and showed large numbers that seemed to sporadically change by the yogic energies in my body I was tuned into acutely.
+
+Police officers came in. I didn't say a word. I looked them in the eyes, us very aware of me. I reached out my hand to each one, with eyes connected to them, one by one, slowly and naturally, with a yogic sincerity. It was intense for me, and I felt the danger of the situation, but it wasn't intense for them so much as aware, intimate, and with no lies in my eyes. <!--, or so I made it as best I could. --> I don't recall being asked any questions or saying anything more. If I said anything, it was with my eyes. It was an intimate, silent progression, before they left. The communication was meant to get them to see that we are human and their interventions weren’t needed, here, and one by one, I communicated that to all of them. They were quiet, too, and, like the later moment in the Tayler hospitalization (also amid psychosis) with my hand on the nurse's rib, no more needed to be said.
+
+I was still afraid my mom was going to die. We were moved to a different room and I danced with my mom in the hall out of an effort to reduce her fear, or my fear, or bring humor to the situation, while we were waiting, still mostly silently. I'd been taking lessons with her those months, poorly, tango lessons that I started with professional teachers in a class she brought me to, where a friend my age taught, while in the House on May St. I never got good at it, unlike my mom, who'd been dancing since childhood and was originally taught by my grandma.
+
+#### Swallowing my tongue
+
+I went into a conscious yogic surrender of all muscle due to a command from those yogic grace guidances to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine, thinking I was unconscious, as I was following those yogic grace guidances. One of them joked about me being "Jesus" bullying/sarcastically while they wheeled my body forward to the MRI machine. I think either the intense silence with them earlier or the shaking hands with the police officers even earlier (not sure they were there to see that) is what might've triggered their bullying. It's amazing that the police officers had done no such thing, but the medical staff (or at least one man, pushing directly behind me) were the ones throwing snide, immature projections of what and why I was doing what I was doing.
+
+The MRI machine was like a shock that I thought "Tao"/"God" used the EM beams of to snap something in my brain, and that all would be exactly the right effect as long as I stayed perfectly in tune with that yogic grace. The machine pulled me back under that light, it was bright I recall for a second like a flash, perhaps my eyes were closed, and I imagined something in my neurology clicked, split, or like I'd been subjected to a surgical operation.
+
+After that (almost definitely independent to the MRI), my Kundalini sensations seemed jammed, like I was metaphorically an airbender trapped in ice, no longer circulating like a thin tongue as light as air through three axes of my body (heart, back of neck, and third eye region), but rather stuck "up." 1.5 years later, the first thing Tayler would message me, in a comment of my post in an ironic Facebook group that my college theater director recommended, was about cosplaying together as Katara and Aang. Katara was a waterbender who, in that canon, brought Aang out of ice.
+
+> [!WARNING]
+> ### Resisting Kundalini rising
+>
+> I think, despite the delusions/psychosis, all of this, including the tongue-swallowing, had something to do with Kundalini rising, you know, on account of the many months of physical sensations that weren't delusional amid many disciplines.
+> 
+> There is also some interpretation that I was trying to "abort" the Kundalini "rising":
+>
+> Back to the woods, daytime:
+>
+> There was a spider, a small spider, that seemed friendly at first, not as though it was going to change my energy state. As it moved its fingers from its stance on the leaf or branch or ground, I felt the energy/pressure of my third eye tangling up with its movements. I felt "third eye" energy/pressure for maybe the past month, a physical, literal pressure, that I felt pushing forward and moving, behind my eyes and above the bridge of my nose.
+>
+> I had a few orange slices that I brought with me. I tried to give a piece of one to the spider. 
+>
+> Then, back again to the dead of night:
+>
+> "Tao"/"God" telling me to choose — "up" or "down" — with a throat movement situation that I sensed — where "up" meant "power" and "siding with men" and "down" meant siding with my mom, and I chose down and kept choosing down. More specifically, up meant to "Heaven, God, creation, masculinity, power," and down meant to "Earth, nature, receptivity, femininity, my mom." This was probably nonsense.
+> 
+> I kept choosing "down," so much so that I tried to keep my chakras open by force to evacuate/abort(?) every last energy left, by every means I could, that was in line with what the threats against my mom, in my fear and intuition, were commanding me. But these commands were a delusion. What wasn't a delusion was my ability, since starting meditating, to bend those energies, acutely, from the alignment of my body with the weather so that it didn't shiver, to the Kundalini that moved in three directions, three axes (not just up and down, but between heart, back of neck, and forehead) across my body, with the control that one has over one's tongue and with the lightness of air, adaptive, not "up or down," but a physical body part. That was *not* the sense I had in this dead of night, where I was trying to force a continued pressure downwards out of the sense that I had to.
+>
+> I believed the spider from earlier in the day was crawling up my intestines to retrieve the energy, to help bring it down.
+>
+> "Tao"/"God" commanded me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, partially, in the threat of my mom, barely qualifying the obedience ("good enough"), since I can’t even tolerate my own finger.
+
+Incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but I had nothing to do with that, barely knew it was Christmas Eve/Christmas.
+<!-- , and though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish. -->
+
+Nobody, not even my mom, was aware of the "circumcision" and "stick" details until at least 2022.
+
+> [!NOTE]
+> ### Interpretation
+>
+> The "circumcision" and brook-jumping "baptism" could be interpreted as spiritual birth/rebirth; the throat sensations and tongue swallowing perhaps as Kundalini "rising," [known to present psychosis-type symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/), sensations that resurfaced before my Tayler hospitalization; and the Volyoda sex-offender resurrection vision as a precognition of my social and health status during the benzo trauma that followed, that only concluded around the time that that same individual had a psychosis revolving around a symmetrical fear about his own mother dying, and he died during that psychosis, in his 50s, perhaps also with no prior history of mania or psychosis, that subsequent year (2019) in parallel with the beginning of my benzo recovery.
+>
+> Yet the subsequent year (2020), when I was feeling like I might've as well had the romantic/societal status of that wheelchair-bound sex-offender due to the medically-induced alopecia universalis and benzo trauma, Tayler appeared, in an ironic Facebook "group you can only join if you're ugly (Global Pandemic Edition)," beginning interaction with me, exactly a week after my Taylor-CAM paper, a cam-girl ("Taylor-CAM"), my first published paper, who'd suffered an analogous trauma that same Christmas, 2018 as I had the Volyoda vision, together with her bald Jewish (not me) husband. Within the next 3 - 5 months, my head hair fully grew back. Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare, and even with the steak-only diet, didn't repeat again for my head since as of 4 years later. 
+>
+> By chance, my psychosis happened from the morning of Christmas Eve, 2018 to the morning/night of Christmas day, 2018 when the ambulance found me. "By chance," since my only reason for doing this was fear that my mom's life was in danger. That, together with the aforementioned physical sensations and apparent rituals, was a lot of synchronicities around this one two-day psychosis that were unintended, accidental, and at-least-post-hoc suggestive of pattern, as well as the House on May St., research studies, and meditation, ascetic, and spiritual disciplines; as well as that others described similar phenomena independently, in particular in Hindu tradition, where [psychosis-type symptoms are indeed a well known epiphenomenon of "Kundalini rising"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/); as well as the Volyoda vision that preceded his symmetrical death the subsequent year; as well as the connection to Tayler that makes this even more implausible, yet still true, and the Kundalini sensations that recurred immediately before my Tayler hospitalization.
+>
+> Yes, I know much of this is unbelievable. Here are the parts that can (not necessarily will) be verified: my preexisting social anxiety and unlikelihood to make all of this up, house on May St., lack of prior mania/psychosis history, Christmas, 2018 brook-jumping "mania," ambulance driver, that nurse who saw my foreskin gash, the police officers I shook hands with, hospitalization "catatonia," the conversation I overheard when the people wheeling me thought I was unconscious, my sister's touch and conversation, Sarah Kundalini-Grace-Jung synchronicities, me telling my mom before Volyoda's death about the Volyoda vision I had in the woods, Volyoda's sex-offender registration and death, my Taylor-CAM paper archival date, Tayler cam-girling, the digital private interactions with Tayler, my full-head hair regrowth, all of the details of my more-intimately-charged Tayler hospitalization in Fall, 2020, and the Hell of the next one (geriatric unit).
+>
+> Also, [here was an older effort to summarize this psychosis from an earlier version/draft/"commit"](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/57fde86227cbc35a4d7e8aa3e02f199038f6663c/2-Opposing-views.md#psychosis-and-rochester-general-hospital-rgh), before any rationalizing interpretations, and here is a separate summary of these [synchroncities](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md) that I wrote sometime originally in 2023 while I was still a PhD student.
+
+<!-- RGH discharged me not much more than one week after admission, with diagnoses "bipolar mania," "catatonia." -->
+
+> [!WARNING]
+> As this was happening, on the same Christmas, 2018 day, somebody named Tayler was being sexually assaulted by her bald Jewish husband of one year who had kidnapped her to New Orleans. 
+
+### Resurrection 
+
+In the resulting hospitalization I was coerced against my will to take high doses of benzos, a drug whose long-term application [doesn't help the underlying issues of schizophrenia](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/) or whatever I had, by clinicians that contradicted themselves and each other about the duration of the prescription, and before month 4, I was brain damaged by the drug, and in excruciating agony due to the GABA downregulation induced by that drug.
+
+At that point, I was pretty much as debilitated and dependent on my mom as my next door neighbor Volyoda (on his) who I'd envisioned myself resurrecting as. Within a year, just before I started recovering, he had a sudden psychosis, thought his mother was dying, which is what I'd thought when I jumped into the brook to save mine, and died. In other words, he had a psychosis revolving around thinking his mother was dying, much like I did many months back, and died. He, the handicapped man I envisioned in the woods resurrecting as when I'd crawled out of the freezing brook, died in that psychosis, just as my recovery from the benzo traumas began.
+
+I'm gonna go over the similarities between Volyoda and me:
+- Neither of us had prior histories of psychosis to my knowledge.
+- He was an alcoholic, and benzos, which were coerced on me, are like alcohol.
+- He was a sex offender, and after losing all of my hair and being brain damaged, combined with pre-existing social anxiety, I was a complete sexual/romantic exile. I wasn't a sex offender, but that's how rejected I felt. I felt as though that might've as well been my status in society.
+- He was the neighbor who lived in the apartment unit diagonally across the hallway from mine. Meaning, not the one across. If he had moved into the one across, that would've been far worse, since that was the one where my grandparents had lived in. When my mom, sister, and I moved to America when I was 3ish/4, we moved in with my grandparents into our apartment. Then later, around when I was in middle or high school, my grandparents moved to the unit right across the hallway from ours, with the doors facing each other and just a few steps away. Volyoda hadn't lived in this apartment building yet. Volyoda's apartment was inhabitted by a Rabbi. And there is a different Armenian man, much older, named Georgen, who lives upstairs from where my grandma's unit was, who is not Volyoda. 
+
+After that, after Volyoda died,  almost as if it was the universe symbolizing, I finally started to recover from the benzo traumas and regain independence. Really eerie/fucked up, that the "resurrection" vision I had came true somewhat symbolically/synchronistically, and that I started recovering after he died, and he died in that manner in a psychosis centered around thinking his mom was dying, but so far could be just a disturbing coincidence, in all likelihood. However, take note of the fact that I felt like a total reject, and believed that nobody would ever be interested in me again, after losing all of my hair and the benzo traumas. Take note, because that turns out to be a much bigger coincidence/synchronicity.
+
+During this recovery, I derived, programmed, wrote, archived, and submitted to a top-venue conference my ["Taylor-CAM"](https://arxiv.org/abs/2006.08601) paper. The brain damage really fucked me up — this was a huge feat. It turned out to be my first published paper. One week later, somebody began interacting with me through Facebook. Her name was Tayler.
+
+Some more relationship background. I saw a few people for 2-3 months in college, and had a good social life in college, but I have little relationship experience actually, and the likelihood of finding a girlfriend empirically didn't measure high for me, especially after having lost my hair (including eyebrows and eyelashes) and the wrinkles that the benzo trauma caused on my face, as well as the effect of the neurological damage on my cognition, and the effect of the medically-induced trauma on my trust in people. On top of losing all my hair and being brain damaged and traumatized, I felt hopeless. I joined an ironic Facebook body image group that my college theater director posted about, about people who feel they're ugly. If it weren't for the earlier traumas, I would've never written in it (and, as it'll turn out [at least at time of original writing], that would've been a good thing, because more unbelievability is yet to follow). If I didn't lose my hair and go through what I did — multiple repeated unlikely tragedies, I wouldn't have joined that Facebook group to post once about my body image issues, shortly after my Taylor-CAM paper. But that one post is also how I met Tayler, in that group of "ugly people", and she was sooo not ugly.
+
+Shortly after archiving my Taylor-CAM paper, she commented on my post in that Facebook group joking about cosplaying together as Katara and Aang. After I responded, and after inviting me to message her and us getting along really well, she tells me she used to be a cam-girl. Okay, "Taylor-CAM," her name's "Tayler," she was a cam-girl, beautiful, 2 years younger, starts interacting with me of her own accord exactly a week after my paper, no big deal. 
+
+I thought I was perhaps the world's only bald Jewish guy. However, apparently, her ex-husband (she was in her early 20s but literally insane) (I mean that kindly) was a bald Jewish guy. And she actually suffered a severe life-destroying tragedy that Christmas night, 2018 I did, involving him. The night of my psychosis that paralleled Volyoda's, was also the night of her own life-destroying trauma, with her bald Jewish husband, that led to their divorce. Yeah, that's a big coincidence. She and I suffered major traumas on the same already-synchronistic night, mine involving a child-porn-addicted sex-offender, and hers involving a bald Jewish guy sex-offender (whose karma, though not actions/morality/faults, I had fall on me).
+
+My [psychosis](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/main/2-Opposing-views.md#psychosis-and-rochester-general-hospital-rgh) included God threatening to kill my mom if I didn’t circumcise myself, and I tried to, undergoing a ritual usually forced onto newborns, perhaps symbolizing a spiritual birth or rebirth (as if I was a newborn child), making me a "child" in that metaphor, not a sex-offender, with parallels to Tayler in suffering and parallels to Volyoda in longer-term consequences.
+
+Similarities between Volyoda and Tayler:
+- One of my friends when I was a little boy, an even younger boy named Kolya, once walked into Volyoda watching porn at Volyoda’s apartment window, just walking past, seeing him inside. Volyoda lived in the same apartment complex as us, but in different apartment buildings. It’s one of the only precise memories involving Kolya I have.   Later, in middle school, some friends of mine and some bullies (without me), my best friend at the time Dima and Misha and some others, were watching porn on Dima’s TV in his apartment, together. Perhaps that’s normal among male boys, but I left pretty much as soon as I walked into that (he lived an apartment building away from mine and I came over a lot) because I wanted to make movies and fight with wooden swords made from carved branches. Tayler’s content could've been accessed by little boys, too. Is that a problem? No more so than Kolya, a boy under the age of 10, peaking into Volyoda’s window. Kolya wasn’t at fault, but he also shouldn’t have been walking so close to and looking into someone’s window. This is so bizarre though that this is true. I didn’t make this up. It’s actually a seminal childhood memory, and I’m realizing the connection to the Tayler-Volyoda synchronicity with some humor, because for years I was haunted by the connection of thinking myself as Volyoda, and now I’m realizing maybe the universe meant Tayler as Volyoda, a re-association that is somewhat psychologically healing for me and that it was no more true for me than it is on her, if that makes sense.
+- Less comedic: Tayler was barren, meaning, much like Volyoda, she was also not allowed to have kids. 
+
+Tayler and I had more in common with kids than Volyoda.
+
+She's fascinated/obsessed with Disney, pathologically. Meanwhile, my romantic/sexual inexperience and naivete was pretty extreme compared to hers. 
+
+Despite receiving the content that I got, I was practicing strict asceticisms for my health, including strict diet, daily meditation, cold showers, and a rule for myself: no porn, movies, or TV shows. I think the social factor with Tayler seriously helped my hair regrowth, since other times those disciplines helped was under better social conditions. This has implications on physics, medicine, my entire life, all of theology, and perhaps everybody's lives for all of history.
+
+She was kidnapped and raped. Volyoda was a kid-porn sex-offender. 
+
+I'm supposed to be the resurrection of my grandpa, [the next Doctor](#how-my-grandpa-died). Instead, I got mistaken by societal placement forces as Volyoda, who most-certainly is not my grandpa.
+
+> [!WARNING]
+> Legs extended in front of me, pants dragged below my boxers, I had the sudden sense, in a vivid vision that was like a black-and-white world, that I was going to resurrect [as if undercover regarding the transcendence] for the next [some number of years, possibly 6, 10, or 20] as my wheelchair-bound neighbor, a Ukranian man in his 50s named Volyoda, who
+> - was a paraplegic,
+> - got registered as a sex-offender because of internet child porn, 
+> - used to live in a different apartment building,
+> - used to nod/wave at me in our apartment complex where he sat outside to smoke when I was a kid walking with the other kids back from the bus,
+> - was at my grandpa's funeral, respectfully, perhaps at a distance,
+> - depended on his 80-something year-old mom to take care of him to function,
+> - was an alcoholic and chain-smoker,
+> - later moved into a different apartment unit diagonally across from ours and next to the one that my grandma and grandpa had lived in,
+> - constantly made our whole apartment hallway reek of pee and cigarettes,
+> - smelled like pee and cigarettes, and, interestingly,
+>
+> ended up dying later that subsequent year in a psychosis revolving around his mom dying.
+
+My life from 2018 onwards, to time of writing (2024), has been worse than his.
+
+### Jealousy
+
+She left her bald Jewish husband after that sex-offense, and saw at least one other guy after, then we began messaging. I had such a severe eczema outbreak after we started interacting that I wasn't able to take her up on her offers to meet. She'd even offered to pay for my plane tickets one night, pulling up the billing on her phone and sending me a photo, to New Orleans, a trip she and her friend were drinking in a hotel in, and also the same city where her trauma with the bald Jewish guy happened, also far away from where they live(d), that she associates with that trauma. She trusted me, a lot, is the point, and not out of stupidity — we connected so well. I trusted her too. I should've gone, but she gave me one night's notice and I still had eczema. The new connection with her was a bigger deal to me than she understood and realized, including later learning of and finding the content she had on the internet. I wanted to see what kind of content she did, so she sent me a blowjob video she'd done with her roommate. She accidently sent me her porn name in one of the things she sent, and I last-minute stupidly looked up her other stuff, which I regret, including learning that that guy she was rooming with and did that blowjob video with was her ex-boyfriend, who she started seeing quickly after leaving the bald Jewish guy after her trauma. She also sent me a photo that I thought was personally for me, that meant a lot to me, and then she made it her profile picture. Other things she sent me were also on different accounts on the internet. I got emotionally weird, awkward, and never ended up getting to meet her. She lost interest in me, and I wanted her to visit rather than me visiting. I was so devastated that I was hospitalized. After I got out, I learned she was going on dates (but in person) with other guys, and I even saw photos of it on social media. She and I stopped chatting around the time of our shared birthdays, days apart in November (and she blocked me). Then I was hospitalized again. More synchronicities followed after that, and some preceded.
+
+Yes, birthdays in the same week. 
+
+A year later, while I'm still in severe grief, genuinely traumatized about missing that chance (she gave me so many chances; offered to pay for my plane tickets; offered to drive all the way to New York), my paper gets its first citation. This happens a week after my mom kills a hornet in front of me. We're immigrants and my mom doesn't always know English really well. I didn't like that she did that because of the uncertainty of the nature of consciousness and whether bugs can feel the pain that we do. I still have the text that I sent her about killing the hornet, and she asked me what a "hornet" is, and I replied via text "A type of bee." The paper that cited me a week later was called "HORNET" and it cited Taylor-CAM. Er, "swarm of bees" is actually something Tayler used to monicker herself. But the killing a hornet thing — viscerally, like in one of those moments you know are vivid, as my mom did against the pane of our outer apartment door — sending that text explanation of what a "hornet" is, and then being independently cited by some research group for their HORNET model — a week later — was the last coincidence I needed around this single thread of events to infer some causality (though it still wasn't the last, and more synchronicities followed, as recently as this last year). It's also possible the HORNET synchronicity was meant to call me a "whore" and a bug, since towards the latter interactions with Tayler, I was still [emotionally] whoring myself out trying to regain her affection, even from the first hospitalization where I left an embarrassing set of voicemails, apologizing to her and literally crying, and she was, kind of, treating me like a bug.
+    
+However, those calls actually worked, temporarily. We did talk after that and text more for some time, even restart flirting again for a moment. 
+
+The aftermath of Tayler for me was a lot of heartbreak, and hospitalization(s), and buried fear and trauma, as well as later confusion over all of these synchronicities which seemed like either missed rewards or punishments, or gaslighting manipulations by potentially-occult physical non-local planning mechanisms of the universe, that some people probably wouldn't have interpreted preemptively as proof of God.
+
+My Facebook bio (where I met Tayler) was "trying to understand consciousness mathematically, spiritually, and pretentiously" at the time we started interacting via Facebook. 
+
+### Coping with jealousy
+
+While Tayler and I were still messaging, before the Kundalini physical sensations and hospitalization, and after some time without the Kundalini physical sensations, I described how I theorized TM might work to a also-skeptical PhD student, my friend Mohsen, who'd actually visited me in the house on May St. previously and met "Batman" once, but on a hiking/camping/kayacking/hotel trip much later, late-Tayler summer, in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory —  but I can't remember what it was. I have notes in a small red journal (not a reference to Jung's "Red Book," but I was reading Jung at the time) [here](). To do: find journal and link photos
+
+The camping and kayacking trip didn't work. Tayler didn't want to talk about my feelings. She got extremely offended really quickly whenever I tried to broach my emotions at my own pace in my slow, analytical way. Finding the way to express those things under pressure and risk of her sudden-180 rejections/bullying ("Alright lol") was impossible. 
+
+Note: I wasn't jealous. I just wanted to talk about how intensely uncomfortable I felt after finding her content, and she gave me no safe way to, except to try and process it with my friend Mohsen on a camping trip, and hope she'd let me without treating me like a bug, with her. 
+
+In the hospital, over the phone, I was able to just confront her (like, "Why'd you fuck him??" about her roommate), and that turned out to be fine. Note to self, easier said than done, and usually full of its own pitfalls: "release emotions right away," I would say, but that also doesn't work in the general case.
+
+If people just knew how to feel happy, they would. And the way to do that is always through all of us being really good people to each other. So if people could, they would. It’s not a question of whether they would; it’s a question of whether either (a) they can, or (b) know that if they did, if we all did, they’d be happier. Point (b) is a prisoner’s dilemma for some people, as they avoid doing so themselves out of the excuse that others won’t.  Point (a) is my problem. I try my damn best and people don’t like me, I keep getting tortured, and I keep suffering inhumane conditions without dignity and without the energy, strength, and morale to be what others want. 
+
+## Chris Kanan
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c2d781ac-90e2-4f78-9b12-655fec5c1acb">
@@ -1148,7 +1551,7 @@ Coincidentally, they all had evidence that this is something I was trying to do 
 
 It is the first rewritable DataLoader that serves as a Replay for supervised, generative, and reinforcement learning as well as the novel algorithm for sampling without replacement, something that is standardly done in the former two but had never been done for priority experience replays in the latter, especially not in combination with lifelong storage capacity via [dynamic device allocation](https://github.com/slerman12/Builder/blob/64c92d7bf5c09642e161548c36625739884b01f7/UnifiedML/src/ML/World/Memory.py#L103-L107), [hard disk memory mapping](https://github.com/slerman12/Builder/blob/64c92d7bf5c09642e161548c36625739884b01f7/UnifiedML/src/ML/World/Memory.py#L524-L543), and [truly-shared in-RAM adaptive memory](https://github.com/slerman12/Builder/blob/64c92d7bf5c09642e161548c36625739884b01f7/UnifiedML/src/ML/World/Memory.py#L59-L150), in other words though extremely reductive: an accelerated parallelized DataLoader whose contents can be changed by the agent, and which include generalized sampling methods even when the dataset size is growing such as in a priority experience replay for DataLoader, and all of this added with a truly state of the art reinforcement learning algorithm/system DrQV2 as well as others with support for continuous and discrete domains, online or offline learning, and on-policy or off-policy, all of which — yes, all of which — I generalized into a unified API and framework to fully support supervised, generative, and reinforcement learning, the most general DataLoader/Experience Replay/Memory ever built, capable also of storing and updating parameters, not just data, meaning all of this with support for deep neural Memory, not just dataset-centric. Nothing like it exists — I’m afraid PyTorch or somebody will try to copy it upon reading this. The value of it was so immense and this brand new interim committee — all except Chris Kanan — had not the faintest scent of that — well, that's not true, Chenliang thought I could start a business and just cared about papers, but note, I needed his GPUs to finish. By the way, pretty much fully implemented, [and elegantly so](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Memory.py) (but with no GPUs to finalize the small amount of work left on the library/framework as a whole, nor funding or undestroyed-human-spirit left to write the immense amount of documentation still needed, and personally, I think this book takes priority, not to mention, I've released all the code open-source under the MIT license, so traditional funding routes aren't an option anyway, plus I have other interconnected plans for my research, if given the reigns/money-rains to make it happen). Since I started building it for my PhD (from about 2021, in Chenliang's lab, onwards), some similar works have come out, like PyTorch’s entire reinforcement learning library, but none compare (the system was being built within a GATO/JEPA-type framework before either of those were published/announced). And has an [interface that plug-and-play substitutes the normal PyTorch DataLoader](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Replay.py). It’s also accelerated and faster in every substantive way for supervised, too, at least Pytorch's default DataLoader, but possibly the more intricate accelerators, and was the first infrastructure in Chenliang Xu’s Computer Vision lab [capable of training ImageNet efficiently from scratch](https://github.com/slerman12/Builder/blob/main/tributaries-ml/src/tributaries/Examples/Sweeps/ImageNet.py), something not one other student in his Computer Vision lab — even with the most published papers — had (and probably "has" as of time of writing) ever done. To be clear, I was the first student in his PhD lab’s history — officially ranked one of the [top in the world in Computer Vision](https://csrankings.org/#/fromyear/2020/toyear/2024/index?vision&us) — to use any infrastructure (his or otherwise) for training ImageNet from scratch (meaning, not via fine-tuning an ImageNet-pre-trained model, nor just using a subset of the ImageNet dataset), the gold standard of his field, all within a GATO/JEPA type generalized (and more general than either of them) framework (whose construction also preceded both of those, by the way). That being said, his students, perhaps more so than Chenliang, appreciated what I was doing, though Chenliang knew it could've been valuable, and was good enough for a PhD. Both him and Niaz said I was ready to defend. Chenliag wanted me to write my thesis before he cut his funding, yet again on an impossible deadline. But a thesis is more important than a conference paper, and I couldn't have.
 
-### Tom Howard
+## Tom Howard
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85a04ddb-b8f6-4d0c-abac-3e407d34b7a0">
@@ -1189,9 +1592,9 @@ These are enormous requirements that I met on their behalf.
 
 Tom Howard didn't make any tangible, explicit, or otherwise suggestions, nor did my advisor or Charles. (The committee consisted of 4 people, my advisor Chenliang, Chris Kanan, Tom Howard, and Charles).
 
-The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, a day after I finished implementing the [novel reinforcement learning systems-based algorithm](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) (and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the specific commit), and Chenliang confirmed by email the desertion for the rest of the committee and Michael Scott on **August 10th, 2024**, the same day as my [early in-advance-of notice](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) to the committee and Michael Scott that I wouldn't attend the requirement (2), prior to the **August 30, 2023** date of requirement (2).
+The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, a day after I finished implementing the [novel reinforcement learning systems-based algorithm](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) (and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the specific commit), and Chenliang confirmed by email the desertion for the rest of the committee and Michael Scott on **August 10th, 2024**, the same day as my [early in-advance-of notice](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) to the committee and Michael Scott that, on account of that, I wouldn't attend the requirement (2), notified to them without their "no" prior to the **August 30, 2023** date, with Chenliang even specifying that I was ready to defend a thesis within the next few months.
 
-### Charles Venuto
+## Charles Venuto
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/88057836-9605-4d4a-86b1-00e8bcc86148">
@@ -1214,7 +1617,7 @@ I haven't spoken to Charles since we added that biomedical component to my [Tayl
 
 So in other words: Chris Kanan (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and Tom Howard fully determined my termination, besides Michael L. Scott. 
 
-### Recap
+## Recap
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5290be0b-5b0b-4d26-a0ed-bc6d1f7e1abd">
@@ -1225,7 +1628,7 @@ So in other words: Chris Kanan (who [didn't remember the meeting](https://github
 </a>
 </p>
 
-### Michael L. Scott
+## Michael L. Scott
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e4938352-3a54-450f-9fc7-0a58c3530b34">
@@ -1316,7 +1719,7 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 
 These are just words. He didn't acknowledge anything I said, separately or together. He occasionally wrote that he disagreed with the characterization, and made no argument as to why.
 
-### Summary of why interim
+## Summary of why interim
 
 The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
 
