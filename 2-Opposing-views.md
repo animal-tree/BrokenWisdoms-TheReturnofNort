@@ -126,7 +126,7 @@ About 5 - 8 months after the hair loss, on Christmas Eve, 2018, I had a psychoti
 - the foreskin eventually healed, and that is a miracle.
 <!-- - they did some measurements and found my WBC and CK levels were high and, according to my sister, said that I almost had frostbite. -->
 
-There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
+There was a Santa Claus who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
 
 - Then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
 - I went into a conscious catatonia and stayed still due to a "command from God" to do so, even as the doctors, who thought I was unconscious, chatted about me being "Jesus" bullying/sarcastically while they dragged my body to the MRI machine;
