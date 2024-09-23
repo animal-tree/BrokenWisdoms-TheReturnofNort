@@ -261,7 +261,7 @@ Symptoms from taking the benzos as prescribed included:
 
 Almost nearing Fall, 2019, I tried to kill myself. The helium tank connected to tubing was found by my mom, and my family hid it from me.
 
-A deeper summary of my benzo trauma can be found [here](#flying-colors) (and different ones in earlier versions of this book, [here](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/4317b9b01e82516046315d69efd83705f2584d1f/2-Opposing-views.md#clicking-their-healing-pens-three-times), [here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma), and [here](https://github.com/slerman12/BrokenWisdoms/blob/4a17db624e47e688e320de6b5bdfe8241d89550a/2-Opposing-views.md#my-trauma)).
+A deeper summary of my benzo trauma can be found [here](#flying-colors) (and different ones in earlier versions of this book, [here](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/4317b9b01e82516046315d69efd83705f2584d1f/2-Opposing-views.md#clicking-their-healing-pens-three-times) and [here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma) and [here](https://github.com/slerman12/BrokenWisdoms/blob/4a17db624e47e688e320de6b5bdfe8241d89550a/2-Opposing-views.md#my-trauma)).
 
 <!-- The nightmare I mentioned earlier was a waking one for a year. -->
 
