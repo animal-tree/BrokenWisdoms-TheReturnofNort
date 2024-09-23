@@ -229,7 +229,7 @@ My trauma revolves around three psychiatrists.
 
 I argued against the benzos with all 3 psychiatrists. <!-- [TO DO: Specify in "Flying colors" what I argued, and that I argued articulately with them, sufficiently so, e.g., "I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering."] -->
 
-With Psychiatrists 1 and 2, I only took them due to the threat of court order. [TO DO: "I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics." is better phrasing. State in "Flying colors" chapter]
+With Psychiatrists 1 and 2, I only took them due to the threat of court order. <!-- [TO DO: "I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics." is better phrasing. State in "Flying colors" chapter] -->
 
 With Psychiatrist 3, I only took them due to (a) his recommendation and instruction, (b) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticeably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, (c) the mental impairment induced by the drug, and (d) insecurity about tapering off by myself, amid the severe physiological dependence.
 
