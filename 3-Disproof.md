@@ -63,7 +63,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
 
 - Daily yoga in the morning.
 - Daily pranayama in the morning.
-- Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon.
+- Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon, seated comfortably sometimes in lotus pose.
 - Daily early morning jogs.
 - Daily calisthenics, morning and afternoon.
 - Daily Wim Hof method and freezing cold baths in the morning.
