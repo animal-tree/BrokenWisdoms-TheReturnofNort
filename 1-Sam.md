@@ -29,37 +29,35 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
     - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers)
       - House on May St.
-      - Crisis
-        - Looney tailored scream 
       - Psychosis, and Rochester General Hospital (RGH)
-        - Christmas, 2018
-        - Swallowing my tongue
-        - Kundalini risen, perhaps jammed, and how I was convinced
-        - Discharge from RGH
-      - The unsampled world at Clover St.
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
-      - Hospitalization
-        - Psychiatric unit
-        - Sarah
-        - Hudson
       - My trauma
-        - Israel birthright trip, and Jeremiah
-        - Clicking their healing pens three times
-        - In black and white
-        - The machinery behind the curtain
-        - Who was the Wonderful Malpractice of Oz?
-        - Wicked "which study?" of the West
-        - International date, suicide attempt, and literally-self-bootstrapped recovery
-          - And Erowid wasn't there, and "swim" wasn't there, and Badpill wasn't there…
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
+        - Fall, 2018 semester, and the Dead Marshes
+          - Buffy
+        - Psychosis crisis
+        - Rochester General Hospital (RGH)
+          - Christmas Eve/Day, 2018
+          - Catatonia, or "swallowing my tongue"
+          - Discharge from RGH
+        - The unsampled world at Clover St.
+        - University of Rochester's Strong Hospital
+          - Sarah
+          - Hudson
+          - Jeremiah
+          - Flying colors
+        - Spring, 2019 semester
+          - Matt-Damon-potatoes-on-Mars
+          - Area exam
+            - Giles
       - Chenliang Xu
       - Comedic Aside: Sexier moments during Chenliang tenure:
         - Tayler
       - More Seriously
-        - Rituals, Religion, & HellMobi
+        - Rituals, Religion, & Hell
         - Hair regrowth
         - I didn't mention fingernails (fingernails regrowth)
         - How my grandma got dementia
@@ -70,13 +68,26 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Geriatric unit hospitalization
         - Kids
           - Mobi
-        - Christmas, 2018 trauma, Volyoda, and hair regrowth
-          - Resisting Kundalini "rising"
-        - Future hair losses
+        - Future hair regrowths
         - Intimacy healing
         - The artificial and synthetic
         - AI
       - Niaz Abdolrahim (okay, some more not-tragedy)
+        - Uncle Slava
+        - Christmas, 2018 crisis revisited, Volyoda, and hair regrowth
+          - Circumcision
+          - Baptism
+            - Mom alive
+          - Precognition
+            - Volyoda vision, precogniton, mom-psychosis, death
+            - Looney tailored scream
+          - Hospital
+          - Swallowing my tongue
+            - Resisting Kundalini rising
+            - Interpretation
+          - Resurrection
+          - Jealousy
+          - Coping with jealousy
       - Chris Kanan
       - Future hair losses
       - Tom Howard
