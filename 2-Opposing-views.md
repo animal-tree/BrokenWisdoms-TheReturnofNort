@@ -421,7 +421,7 @@ It was in that house when Aetna cut me off from Dupilumab and my hair pretty rap
 </a>
 </p>
 
-The contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as a news article](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, combined with my eclectic interests<!-- in a theater group-->, Henry accepted me into his PhD group as a doctoral student. 
+The contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as a news article](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/) interview I did around my 21st birthday. On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, combined with my eclectic interests<!-- in a theater group-->, Henry accepted me into his PhD group as a doctoral student. 
 
 ### Fall, 2018 semester, and the Dead Marshes
 
@@ -685,7 +685,7 @@ Perhaps this is what I was supposed to learn from the betrayal in my mind’s ne
 In my second hospitalization, the environment was much better than RGH's. I made friends with Sarah and Hudson and others. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, one of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was perhaps the best care unit I was gated by armored vault into. <!-- [TO DO: Mention somewhere that Sarah was a year older than me, all of us in our early 20s, e.g., the note below] -->
 
 > [!NOTE]
-> Sarah was in her early 20s, by chance hospitalized at the same time as me, also early 20s. She was a year older, blonde. Hudson also early 20s, brown hair.
+> Sarah was in her early 20s, by chance hospitalized at the same time as me, also early 20s. She was a year older, blond. Hudson also early 20s, brown hair.
 
 Sarah’s sister’s name is "Kundalini Grace." I hadn’t heard of "Kundalini" until after I had those visceral, physical sensations in the House on May St. Then I looked up those sensations I was experiencing and found, for the first time, not having heard the word or of those movements and sensations before, the term "Kundalini," made more credible to me by the philosophy’s appreciation by the depth psychologist Carl Jung, who I was reading at the time, and whose views, very distinct from Freud's, on the existence of a subconscious, and its mystical-transcendent connection, helped explain some of what I was witnessing. 
 
