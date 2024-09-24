@@ -33,7 +33,6 @@ To help me weigh the difficult decision — and it was difficult because that me
 
 The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair’d grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair could "sprout" out of the earth, my head, like blades of grass, again… which it did, temporarily but covering my entire head except for an unnoticeable patch at the top of my scalp.
 
-
 Not per everybody's tastes, but mysticism is an interesting context to read and write in.
 
 Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
@@ -42,7 +41,7 @@ Another time I did the steak-only diet, my pubic hair fully grew back — tempor
 
 Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
 
-That can’t be a coincidence<!--<sup>$^\text{\color{green}1.}$</sup>-->, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
+That, unlike uncontextualized mysticism, really probably isn't a coincidence<!--<sup>$^\text{\color{green}1.}$</sup>-->, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
