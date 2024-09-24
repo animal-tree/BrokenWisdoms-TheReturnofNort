@@ -615,7 +615,7 @@ I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf
 
 Then RGH discharged me not much more than one week after admission.
 
-More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital.
+More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. The doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it.
 
 ### The unsampled world at Clover St.
 
