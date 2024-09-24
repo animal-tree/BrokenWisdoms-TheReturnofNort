@@ -857,7 +857,9 @@ Henry thought Chenliang would be better due to his having more experience in dee
 <!--
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab.]() -->
 
+<!--
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure [yet.](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8)
+-->
 
 I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict my more philosophical interests.
 <!-- , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
@@ -882,6 +884,8 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 - I started taking benzos in my 2nd year
 - I started working in Chenliang Xu’s lab nearing the end of my 3rd year
 
+Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, but would obtain tenure in 2022.
+
 At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
 Chenliang gave me an ultimatum: Submit a top-venue *Computer Vision* paper by end of summer, without pay, or no acceptance. Had I failed to do that, I wouldn't have an advisor or pay, and most likely, would've been terminated.
@@ -904,7 +908,7 @@ Last-minute, and with almost no notice, and without Niaz's approval, Chenliang w
 
 As Niaz said, "I don't know what he was thinking."
 
-### Comedic Aside: Sexier moments during Chenliang tenure:
+### Comedic Aside: Sexier moments during Chenliang advising:
 
 Got to message someone named Tayler a week after my Taylor-CAM paper who reached out to me on Facebook who turned out to be a cam-girl (["Taylor-CAM"](https://arxiv.org/abs/2006.08601))… 
 - She was quite a synchronicity because she went through a similar thing that I did on the same Christmas, 2018 night, except together with a bald Jewish guy (who she was married to at the time), and our interaction began exactly one week after I first archived my ["Taylor-CAM"](https://arxiv.org/abs/2006.08601) paper, my first-ever published paper. After intense flirting and telling me she loved me, including at one point offering to pay for my plane tickets to fly to her (which I couldn't do because of an eczema outbreak that coincided during the late summer, 2020), she lost interest in me and was hinting that she was seeing other guys.
