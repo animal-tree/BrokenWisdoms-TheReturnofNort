@@ -791,7 +791,7 @@ As these months progressed, my [facial structure changed, wrinkled and my face r
 
 ChatGPT, perhaps itself a wizard behind the curtain — an artificial program — could pass their human cognition or psychiatric tests with flying pixels, probably better than a human in good health.
 
-Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by history as barbaric.
+Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by medicine as barbaric.
 
 As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma crack. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic connections, there's a disorder in the system, and it's not one that's classified in the DSM-5.
 
