@@ -21,6 +21,8 @@ In the summer prior to my first year as a PhD student, my university-hospital do
 
 Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring, a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. She and her nurse took pictures and stored them in the university-hospital computers. 
 
+Yes, I'm still telling the truth. I know this is dark.
+
 Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
 
 We finally got a delivery of the drug. I wasn’t sure whether it’d be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
