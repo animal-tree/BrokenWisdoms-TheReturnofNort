@@ -830,7 +830,9 @@ And after all of this, [literally nothing was cured](https://www.reddit.com/r/ku
 <!--
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture. -->
 
-### Area exam
+### Spring, 2019 semester
+
+#### Area exam
 
 I passed my area exam, within a few weeks of the close of this Spring 2019 semester, "with flying colors" according to Henry.
 
@@ -849,7 +851,7 @@ My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did.
 
 My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
 
-### Spring, 2019 semester, and "the Martian"
+#### The Martian
 
 [TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"]
 
@@ -859,7 +861,7 @@ I spent every day of that semester writing a little bit towards my area exam pap
 
 Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
 
-### Giles 
+#### Giles 
 
 <!--
 > [!NOTE]
