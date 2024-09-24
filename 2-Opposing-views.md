@@ -853,7 +853,7 @@ My family besides me also have higher-level degrees. My mom, a master's degree i
 
 #### The Martian
 
-[TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"]
+[TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"] <!-- I'm the martian, perhaps who will undergo a hard "execution"] -->
 
 It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
 
