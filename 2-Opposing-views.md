@@ -793,7 +793,7 @@ ChatGPT, perhaps itself a wizard behind the curtain â€” an artificial program â€
 
 Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by medicine as barbaric.
 
-As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn), there's a disorder in the system, and it's not one that's classified in the DSM-5.
+As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
 
 <p align="center">
 <picture>
