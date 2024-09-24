@@ -10,7 +10,9 @@
 
 # 𖥸 Broken Wisdoms
 
-$$\mathcal{\text{a} \ \ Sam \ \ Lerman \ \ hobbit\text{'s} \ \ tale} \ \ \text{𖥸}$$
+$$\mathcal{a \ Sam \ Lerman \ hobbit\text{'}s \ tale} \ \text{𖥸}$$
+
+<!-- $$\mathcal{\text{a} \ \ Sam \ \ Lerman \ \ hobbit\text{'s} \ \ tale} \ \ \text{𖥸}$$ -->
 
 </br>
 
