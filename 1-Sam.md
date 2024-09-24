@@ -47,11 +47,11 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
           - Sarah
           - Hudson
           - Jeremiah
-          - Flying colors
+        - Flying colors
         - Spring, 2019 semester
-          - Matt-Damon-potatoes-on-Mars
           - Area exam
-            - Giles
+          - The Martian
+          - Giles
       - Chenliang Xu
       - Comedic Aside: Sexier moments during Chenliang advising:
         - Tayler
