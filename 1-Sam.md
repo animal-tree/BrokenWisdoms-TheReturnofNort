@@ -53,7 +53,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
           - Area exam
             - Giles
       - Chenliang Xu
-      - Comedic Aside: Sexier moments during Chenliang tenure:
+      - Comedic Aside: Sexier moments during Chenliang advising:
         - Tayler
       - More Seriously
         - Rituals, Religion, & Hell
