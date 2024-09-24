@@ -830,17 +830,7 @@ And after all of this, [literally nothing was cured](https://www.reddit.com/r/ku
 <!--
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture. -->
 
-### Spring, 2019 semester
-
-#### Matt-Damon-potatoes-on-Mars
-
-It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
-
-I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material in one class due to missing the good early chunk of that semester, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/porn), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
-
-Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
-
-#### Area exam
+### Area exam
 
 I passed my area exam, within a few weeks of the close of this Spring 2019 semester, "with flying colors" according to Henry.
 
@@ -858,6 +848,16 @@ I rehearsed that area exam in front of my mom and uncle for a week every day bef
 My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through impossible circumstances of brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the early summer of 2019. 
 
 My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
+
+### The Martian
+
+[TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"]
+
+It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
+
+I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material in one class due to missing the good early chunk of that semester, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/porn), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
+
+Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
 
 <!--
 > [!NOTE]
