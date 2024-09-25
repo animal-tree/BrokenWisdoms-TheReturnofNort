@@ -68,7 +68,6 @@ $^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things
 
 - **University-hospital psychiatrists**
 - **University outpatient doctor**
-- **University-hospital police officers**
 
 <!--
 This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
@@ -294,6 +293,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 <!-- ``1941 - 2023`` -->
 
 - **University PhD advisors**
+- **University-hospital police officers**
 - **University hospital janitor**
 - **University PhD committee members**
 - **University CS department Chair**
