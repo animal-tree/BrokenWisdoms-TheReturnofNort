@@ -66,7 +66,7 @@ $^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things
 
 <!-- ``2018 - 2020`` -->
 
-- **University-hospital psychiatrists**
+- **University-hospital psychiatrists (two)**
 - **University outpatient doctor**
 
 <!--
