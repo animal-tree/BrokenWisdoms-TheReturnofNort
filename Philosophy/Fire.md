@@ -28,7 +28,7 @@ So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water
 
 If water with a neutron added is called ["heavy water,"](https://en.wikipedia.org/wiki/Heavy_water) why isn't gaseous water with some reconfiguring electrons (the excess energy of which causes light to be emitted) a kind of water, with [or without](https://www.osha.gov/green-jobs/hydrogen/fire-explosion#:~:text=Hydrogen%20used%20in%20the%20fuel,a%20leak%20can%20be%20detected.) CO2 in the mix?<!--[^5]-->
 
-Unlike fission, fusion<!-- (the sun's fire, undergoing fusion rather than combustion, is quite often heavy water)-->, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe. 
+Unlike fission, fusion<!-- (the sun's fire, undergoing fusion rather than combustion, is quite often heavy water)-->, and unrenewable energy sources, **"fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.**
 
 That's, often, fire!
 
@@ -46,13 +46,13 @@ If the fire is hot enough, as in magnesium fires, then you need something really
 
 Those work by igniting the magnesium with some other heat source, and the magnesium molecules breaking apart the way hydrocarbon molecules would, bonding with oxygen, and releasing a hailstorm of energy in the same way as that primal fire would.
 
-Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all of the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom e.g. uranium or plutonium as in the controlled atomic bomb power of nuclear fission, combined sometimes with fusion as in the hydrogen bomb, or man-induced fusion: via the use of deuterium ("heavy water"). That is, water with one extra neutron, whose, and I say this with caution, knife-cut can act a bit like electron energy in causing some disarray, if misused — that, a far deviation from the innocent days of nature.[^3]
+Though in fires so hot like that, water doesn't come into the picture and we're just dealing with magnesium and all of the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom e.g. uranium or plutonium as in the controlled atomic bomb power of nuclear fission, combined sometimes with fusion as in the hydrogen bomb, or man-induced fusion: via the use of deuterium-oxide ("heavy water"). That is, water with one extra neutron, whose, and I say this with caution, knife-cut can act a bit like electron energy in causing some disarray, if misused — that, a far deviation from the innocent days of nature.[^3]
 
 > "Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all."<!--[^6]-->
 
 <!--"Fire is usually water." Especially in the majority of human existence and in particular on Earth.-->
 
-But here's an argument for why the definition of fire should be narrowed down to the primal one and those other fires should be called combustion: The definition is already narrowed down from fission, which like the shooting knives of fire, breaks apart neighbors through chain reactions facilitated by neutrons rather than photons, and from the acceleration of nuclei rather than electrons. If modifying water with a neutron doesn't change the "heavy water" from being water, then modifying photons with neutrons, and electrons with nuclei might not change "fission" from being fire. But it does. So we can narrow down that definition further in such a way as to respect primal ancestors, while still appreciating magnesium combustion, manufactured combustion, industrial combustion as combustion, to remember the sacredness of our roots as a species, and the first technology we ever invented and evolved with. Millions of years with one type of fire, and you want to equate it to magnesium? [Even candle wax is a hydrocarbon](https://candles.org/candle-science/#:~:text=All%20waxes%20are%20essentially%20hydrocarbons,the%20wick%20by%20capillary%20action.).
+But here's an argument for why the definition of fire should be narrowed down to the primal one and those other fires should be called combustion: The definition is already narrowed down from fission, which like the shooting knives of fire, breaks apart neighbors through chain reactions facilitated by neutrons rather than photons, and from the acceleration of nuclei rather than electrons. If modifying water with a neutron doesn't change the "heavy water" from being water, then modifying photons with neutrons, and electrons with nuclei might not change "fission" from being fire. But it does. So we can narrow down that definition further in such a way as to respect primal ancestors, while still appreciating magnesium combustion, manufactured combustion, industrial combustion as combustion, **to remember the sacredness of our roots as a species, and the first technology we ever invented and evolved with**. Millions of years with one type of fire, and you want to equate it to magnesium? [Even candle wax is a hydrocarbon](https://candles.org/candle-science/#:~:text=All%20waxes%20are%20essentially%20hydrocarbons,the%20wick%20by%20capillary%20action.).
 
 > "Note: This is already independent from the conclusion that 'Fire is usually water, especially in the majority of human existence and in particular on Earth.'"
 
@@ -70,15 +70,17 @@ Yes, but the Garden of Eden wants its fire back.
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
 -->
 
-And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon, which, besides its energy absorbed in the human body, composes [flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
+And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even on just one ubiquitous one, e.g., photon, which, besides its energy absorbed in the human body, is what composes [flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
 
-Different adjectives on the same source.
+**Different adjectives on the same source**.
 
-Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_reactor)! The extra neutron of deuterium flies out pretty easily, and is a bit unfriendly with uranium, like how the energy from the electrons do to hydrocarbons, pierces, and starts a hailstorm of other neutrons like it flying out of uraniums and doing the same.
+That [heavy water cares](https://en.wikipedia.org/wiki/CANDU_reactor)! Smashing together some uranium, as how a primer in a gun strikes (and thereby ignites) gunpowder, expels neutrons that are a bit too unfriendly with other uranium, like how the energy from the electrons do to hydrocarbons, pierces, and starts a hailstorm of other neutrons <!--like it--> flying out of uranium and doing the same, but, alone, too fast for the energy to be captured in the rods of nuclear engines. Heavy water, already full of neutrons, absorbs the impact of that calamity and makes it slow down, while still supplying its own neutron occasionally to sustain the chain reaction, enough that the power can be harnessed.
 
-Though in the creation of helium-4, it comes in handy as the [reconfiguration engine for our sun](https://energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun#:~:text=This%20resulting%20proton%2Dneutron%20pair,and%20are%20released%20as%20sunlight.), where instead of hydrocarbons splitting to produce water, hydrogen conjoin to produce helium and heavy water!
+Though in the creation of helium-4, it (<!--the neutron / stabilization-->caring hydrogen with its extra neutron stabilizing and participating in the reaction of reconfigured electrons, and maybe protons, that emit sunlight, photons, like flame) comes in handy in the [reconfiguration engine for our sun](https://energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun#:~:text=This%20resulting%20proton%2Dneutron%20pair,and%20are%20released%20as%20sunlight.), where instead of hydrocarbons splitting to produce water, hydrogen conjoin to produce helium and heavy hydrogen!
 
-The sun is water!
+Short of some oxygen, the sun is almost water!
+
+combo-reconfiguration-of-bonding<sup>TM</sup>
 
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
