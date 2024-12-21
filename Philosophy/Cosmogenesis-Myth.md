@@ -1,6 +1,6 @@
 # Archetypal Madness
 
-I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
+We shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
 
 Alright. Given $A$ $=$ $B$, we know $A$ $\rightarrow$ $B$ and $B$ $\rightarrow$ $A$. We don't know *when* $A$ $\rightarrow$ $B$. Is it in $1$ deductive step $A$ $\rightarrow_1$ $B$? Is it in $n$ deductive steps $A$ $\rightarrow_n$ $B$. From this, we get a cheap hacky way to derive something out of literally nothing.
 
@@ -119,7 +119,7 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
+> &#9432; See [here](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* flipbook argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
 ## Something from Nothing
 
@@ -206,6 +206,8 @@ That being said, there is now the critique of how I obtain the subscripts of the
 
 Though "something" is derived from "nothing", how can that "something" be said to have "time" instead of just representing everything possible all at once? The infinitum limit with respect to the time dimension $n$ in the proof of Theorem 4 means that for any implication step, there is always one more "yet to be implied next". This creates a concept of an unconverging "now". $N$ may also be taken to the limit of infinity to create a concept of an unconverging, expanding space.
 
+What if my definition of deduction is wrong? Well, it's the most minimal, and generalizes to all uses, and contradicts none of them, so the burden of finding a better is on the critic.
+
 Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true. This allows equivalents to be distinguished and not swappably interchangeable within a single deduction graph such as $\Omega$ due to the constraint on their possible positions in $\Omega$. That means their implied existence is shared between all of them, but their representational meaning depends on the deduction graph that they're in, or for that matter, different deduction graphs cannot be inter-exchanged with one another. Thus unique data structures may be created from equivalents. They can even grow and expand over time, or have implications that step between deduction graphs dynamically to, for example, reuse nothing-subscripts to represent 0s and 1s with the same nothings rather than all with different nothings (Theorem 5 kind of simplifies this by using different nothings).</br>
 &ensp;&ensp;&bull;&nbsp; Heck, if I really wanted to construct a specific "Cosmogenesis Myth", I could define a [stochastic recursive function](#alternative-set-of-definitions-of-math-and-philosophy) through this mechanism, via a deduction graph that points stochastically from the original nothing to a binary bit (or some other encoding), that infinitely points to the original nothing of a next deduction graph which does the same thing, inductively bootstrapping a universe, one whose deduction is guided by the deducer's purpose and sensibilities regarding the feeling of the representations, with the deducer being an unstated self-proving axiom of any/the deduction.
 
@@ -227,9 +229,9 @@ Either:
    - In which case, I have done the monumental work of deriving cosmogenesis.
 2. Deduction (math and/or information patterns) is not the sole fundamental property of the universe.
     - In which case, I have done the monumental work of showing there must exist at least another possibility to the fundamental properties of the universe besides math and information pattern.
-    - One might think to propose simply "matter" as the other possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/main/Philosophy/Consciousness.md) is the only concrete alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
+    - One might think to propose simply "matter" as the other possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md) is the only concrete alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
-— "at minimum wage", Josh chimes in.
+> To do: Make this Conclusion more about *I defined deduction.*
 
 # Afterward
 
